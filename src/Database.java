@@ -9,7 +9,7 @@ import java.util.Map;
 public class Database {
     private static HashMap<String, String> accountList = new HashMap<>();
     
-    public static void main(String[] args){
+    public static void loadFromFile(){
         Path accountPath = Paths.get("C:\\Users\\user\\OneDrive\\Desktop\\Computer Programming 2\\askNCR\\database\\nurse\\nurseAccount.txt");
         try (BufferedReader reader = new BufferedReader(new FileReader(accountPath.toString()))) {
             String delimiter = ",";
