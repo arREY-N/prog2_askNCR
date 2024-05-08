@@ -10,8 +10,8 @@ public class Database {
     private static HashMap<String, String> accountList = new HashMap<>();
     
     public static void loadFromFile(){
-        Path accountPath = Paths.get("C:\\Users\\user\\OneDrive\\Desktop\\Computer Programming 2\\askNCR\\database\\nurse\\nurseAccount.txt");
-        try (BufferedReader reader = new BufferedReader(new FileReader(accountPath.toString()))) {
+        Path accountPath = Paths.get("database\\nurse\\nurseAccount.txt");
+        try (BufferedReader reader = new BufferedReader(new FileReader(accountPath.toAbsolutePath().toString()))) {
             String delimiter = ",";
             String line;
             String[] credentials = null;
