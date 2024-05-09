@@ -1,12 +1,14 @@
-askNCR, 2024
-    Penus, Reyn
+askNCR (2024)
+
+    Penus, Reynal
     Caraig, Emmanuel Joseph
     Ortega, Zam
-    Tagura, Donna
+    Tagura, Donna Charisse
     Tan, Chloie
+    CS202
+    Computer Programming 2
 
-[Program Description]
-
+askNCR is a system made to allow nurses to digitally navigate through resources to look for the appropriate care instructions for each symptoms that a patient has. It also serves as a database for nurses to easily monitor and save pertinent information regarding each patient.
 
 Menu.java
     Contain the methods used in displaying menus/options
@@ -64,4 +66,6 @@ Database.java
     showAccounts()
         Displays all the nurse accounts in the database
         Only accessible in the admin account
-        
+
+Nurse.java
+    Class used to create new Nurse objects, holding vital information and functions to allow nurses to navigate through the system.
