@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Menu {
     public static void main(String[] args) {
-        Database.loadFromFile();    // loads txt files into the program
+        AccountsDatabase.loadFromFile();    // loads txt files into the program
         Scanner scan = new Scanner(System.in);
         Boolean run = true;
         
@@ -24,7 +24,7 @@ public class Menu {
                         break;
                     case 'C':
                         run = false;
-                        Database.loadToFile();
+                        AccountsDatabase.loadToFile();
                         System.out.println("See you soon, our nurse!\n");
                         break;
                     default:

@@ -6,10 +6,10 @@ public class Validation {
     }
     
     public static void login(String username, String password) {
-        if (Database.getAccounts().containsKey(username)) {
-            if (Database.getAccounts().get(username).equals(password)) {
+        if (AccountsDatabase.getAccounts().containsKey(username)) {
+            if (AccountsDatabase.getAccounts().get(username).equals(password)) {
                 System.out.println("\nLog-in Successful!\n");
-                if(username.equals(Database.getAdminName()) && password.equals(Database.getAdminPassword())){
+                if(username.equals(AccountsDatabase.getAdminName()) && password.equals(AccountsDatabase.getAdminPassword())){
                     System.out.println("Welcome to Admin Page");
                     // Menu.adminHome(username, password);
                 } else {
@@ -25,8 +25,8 @@ public class Validation {
     }
 
     public static void signup(String username, String password) {
-        if (!Database.getAccounts().containsKey(username)) {
-            Database.addAccount(username, password);
+        if (!AccountsDatabase.getAccounts().containsKey(username)) {
+            AccountsDatabase.addAccount(username, password);
             System.out.println("\nSign-up successful!\n");
         } else {
             System.out.println("\nUser already exists!\n");

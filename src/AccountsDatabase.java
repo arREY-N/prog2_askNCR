@@ -9,7 +9,7 @@ import java.nio.file.StandardOpenOption;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Database {
+public class AccountsDatabase {
     private static HashMap<String, String> accountList = new HashMap<>();
     
     private static Path accountPath = Paths.get("database\\nurse\\nurseAccount.txt");
