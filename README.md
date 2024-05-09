@@ -67,5 +67,32 @@ Database.java
         Displays all the nurse accounts in the database
         Only accessible in the admin account
 
+Retrieve.java
+    Contain methods to retrieve queried data from the program's database
+
 Nurse.java
     Class used to create new Nurse objects, holding vital information and functions to allow nurses to navigate through the system.
+
+
+database
+    nurse
+        nurseAccount.txt
+            Contains the login credentials of users
+
+        nurseInformation.txt
+            Contains nurse's information
+    
+    patient
+        [patient folder]
+            patientInformation.txt
+            patientCareRecommendation.txt
+    
+    symptom
+        [Group]
+            [symptom].txt
+                Includes definition and care instructions    
+    
+    diagnosis
+        [Group]
+            [diagnosis].txt
+                Includes definition and symptoms list
