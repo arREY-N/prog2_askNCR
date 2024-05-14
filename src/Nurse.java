@@ -6,11 +6,16 @@ public class Nurse {
     private String position;
     private String shiftSchedule;
     private String areaAssignment;
+    private String patientFolder;
     
-    public Nurse(String username, String nurseName, int age){
+    public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment, String patientFolder){
         this.username = username;
         this.nurseName = nurseName;
         this.age = age;
+        this.position = position;
+        this.shiftSchedule = shiftSchedule;
+        this.areaAssignment = areaAssignment;
+        this.patientFolder = patientFolder;
     }
 
     public void setPosition(String position){
@@ -23,6 +28,10 @@ public class Nurse {
 
     public void setAreaAssignment(String areaAssignment){
         this.areaAssignment = areaAssignment;
+    }
+
+    public void setPatientFolder(String patientFolder){
+        this.patientFolder = patientFolder;
     }
 
     public String getUsername(){
@@ -51,5 +60,9 @@ public class Nurse {
 
     public String getAreaAssignment(){
         return areaAssignment;
+    }
+
+    public String getPatientFolder(){
+        return patientFolder;
     }
 }

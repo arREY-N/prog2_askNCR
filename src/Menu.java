@@ -75,6 +75,6 @@ public class Menu {
     }
 
     public static void nurseHome(Scanner scan, String username, String password){
-
+        
     }
 }
