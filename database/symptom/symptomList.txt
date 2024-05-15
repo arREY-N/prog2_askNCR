@@ -1,0 +1,19 @@
+A: Activity/Rest 
+Activity Intolerance/risk for Activity Intolerance [activityIntolereance_riskForActivityIntolerance.txt]
+Activity Planning, ineffective/risk for ineffective Activity Planning [insert filename]
+Disuse Syndrome, risk for [insert filename]
+Diversional Activity Engagement, decreased [] 
+Fatigue []
+Insomnia []
+Lifestyle, sedentary []
+Sleep, readiness for enhanced []
+Sleep deprivation []
+Sleep Pattern, disturbed [] 
+Transfer Ability, impaired []
+Walking, impaired []
+
+B: Circulation
+
+C: Ego Integrity
+
+=====
