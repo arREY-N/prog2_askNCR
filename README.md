@@ -96,3 +96,8 @@ database
         [Group]
             [diagnosis].txt
                 Includes definition and symptoms list
+
+Refer to page 2 for all the symptom names
+Refer to page 996 for all the diagnoses
+
+add "======" to mark the end of the file
