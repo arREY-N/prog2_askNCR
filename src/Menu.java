@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Menu {
     public static void main(String[] args) {
         AccountsDatabase.loadFromFile();    // loads txt files into the program
+        DiagnosesDatabase.loadFromFile();
         Scanner scan = new Scanner(System.in);
         Boolean run = true;
         
@@ -10,7 +11,8 @@ public class Menu {
             System.out.println("What are you here for?");
             System.out.println("A. Login");
             System.out.println("B. Sign Up");
-            System.out.println("C. Exit");
+            System.out.println("C. Diagnoses Database");
+            System.out.println("D. Exit");
             String input = scan.nextLine().trim().toUpperCase();
 
             if(!input.isEmpty()){
@@ -23,6 +25,9 @@ public class Menu {
                         signupMenu(scan);
                         break;
                     case 'C':
+                        chooseDiagnosis(scan);
+                        break;    
+                    case 'D':
                         run = false;
                         AccountsDatabase.loadToFile();
                         System.out.println("See you soon, our nurse!\n");
@@ -68,6 +73,12 @@ public class Menu {
         } else {
             System.out.println("Input must be alphanumeric only");
         }
+    }
+
+    public static void chooseDiagnosis(Scanner scan){
+        DiagnosesDatabase.showDiagnoses();
+        System.out.print("Read: ");
+        DiagnosesDatabase.getDiagnosis(Integer.parseInt(scan.nextLine()));        
     }
 
     public static void adminHome(Scanner scan){
