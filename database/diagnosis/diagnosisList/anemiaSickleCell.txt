@@ -1,0 +1,11 @@
+::Anemia, Sickle Cell::
+
+impaired Gas Exchange>impairedGasExchange.txt
+ineffective Tissue Perfusion>ineffectiveTissuePerfusion.txt
+acute Pain / chronic Pain>acutePain/ChronicPain.txt
+deficient Knowledge regarding disease process, genetic factors, prognosis, self-care, and treatment needs>deficientKnowledgeregardingDiseaseProcessGeneticFactorsPrognosisSelfCareandTreatmentNeeds.txt
+risk for sedentary Lifestyle>riskforsedentaryLifestyle.txt
+risk for disproportionate Growth and / or delayed Development>riskfordisproportionateGrowthand/orDelayedDevelopment.txt
+compromised family Coping>compromisedfamilyCoping.txt
+
+=====

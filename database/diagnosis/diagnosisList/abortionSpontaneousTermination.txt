@@ -1,0 +1,9 @@
+::Abortion, Spontaneous Termination ::
+
+risk for Bleeding>riskforBleeding.txt
+risk for Spiritual Distress>riskforSpiritualDistress.txt
+deficient Knowledge regarding cause of abortion, self-care, contraception, future pregnancy>deficientKnowledgeRegardingCauseofAbortionSelfcareContraceptionFuturepregnancy.txt
+grieving>grieving.txt
+risk for Sexual Dysfunction>riskforSexualDysfunction.txt
+
+=====
