@@ -11,8 +11,7 @@ public class Menu {
             System.out.println("What are you here for?");
             System.out.println("A. Login");
             System.out.println("B. Sign Up");
-            System.out.println("C. Diagnoses Database");
-            System.out.println("D. Exit");
+            System.out.println("C. Exit");
             String input = scan.nextLine().trim().toUpperCase();
 
             if(!input.isEmpty()){
@@ -25,9 +24,6 @@ public class Menu {
                         signupMenu(scan);
                         break;
                     case 'C':
-                        chooseDiagnosis(scan);
-                        break;    
-                    case 'D':
                         run = false;
                         AccountsDatabase.loadToFile();
                         System.out.println("See you soon, our nurse!\n");
