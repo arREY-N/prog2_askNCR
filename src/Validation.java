@@ -14,7 +14,7 @@ public class Validation {
                     // Menu.adminHome(username, password);
                 } else {
                     System.out.println("Welcome!");
-                    // Menu.nurseHome(username, password);
+                    Menu.nurseHome(username);
                 }
             } else {
                 System.out.println("\nIncorrect password!\n");
@@ -27,7 +27,7 @@ public class Validation {
     public static void signup(String username, String password) {
         if (!AccountsDatabase.getAccounts().containsKey(username)) {
             AccountsDatabase.addAccount(username, password);
-            System.out.println("\nSign-up successful!\n");
+            Nurse.createNurseObject(username);
         } else {
             System.out.println("\nUser already exists!\n");
         } 

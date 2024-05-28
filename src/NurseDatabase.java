@@ -72,11 +72,17 @@ public class NurseDatabase{
         }
     }
 
-    public static HashMap<String, Nurse> getNurseAccounts(){
+    public static HashMap<String, Nurse> getNurseList(){
         return nurseList;
     }
 
-    public static void addNurseAccount(String username, Nurse nurse){
-        nurseList.put(username, nurse);
+    public static Nurse getNurse(String username){
+        return nurseList.get(username);
     }
+    
+    // public static void addNurseAccount(String username, Nurse nurse){
+    //     nurseList.put(username, nurse);
+    // }
+
+    
 }
