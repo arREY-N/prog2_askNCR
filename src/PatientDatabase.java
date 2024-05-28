@@ -6,7 +6,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.HashMap;
+import java.util.TreeMap;
 import java.util.Map;
 
 public class PatientDatabase {
@@ -15,7 +15,7 @@ public class PatientDatabase {
         PATIENTID, NAME, AGE, SEX, DIAGNOSIS, CARERECOMMENDATION;
     }
 
-    private static Map<String, Patient> patientList = new HashMap<>();
+    private static Map<String, Patient> patientList = new TreeMap<>();
     private static Path patientPath = Paths.get("database\\patient\\patientInformation.txt");
 
     public static void loadFromFile() {
@@ -72,20 +72,44 @@ public class PatientDatabase {
         patientList.put(patientId, patient);
     }
     
-    // public static void showPatients() {
-    //     System.out.println("\nPatient Database\n");
-    //     for (Map.Entry<String, Patient> patient : patientList.entrySet()) {
-    //         System.out.println("Patient ID: " + patient.getKey());
-    //         System.out.println("Name: " + patient.getValue().getName());
-    //         System.out.println("Age: " + patient.getValue().getAge());
-    //         System.out.println("Sex: " + patient.getValue().getSex());
-    //         System.out.println("Diagnosis: " + patient.getValue().getDiagnosis());
-    //         System.out.println("Care Recommendation: " + patient.getValue().getCareRecommendation());
-    //         System.out.println();
-    //     }
-    // }
-    // 
-    // public static Patient getPatient(String patientId) {
-    //     return patientList.get(patientId);
-    // }
+    public static void removePatient(String patientid){
+        patientList.remove(patientid);
+    }
+
+    public static void viewPatientList() {
+        System.out.println("\nPatient List:");
+        for (Map.Entry<String, Patient> entry : patientList.entrySet()) {
+            Patient patient = entry.getValue();
+            System.out.println("- " + patient.getName());
+        }
+    }
+
+    public static void showPatientsDetails(String name) {
+        for (Patient patient : patientList.values()) {
+            if (patient.getName().equalsIgnoreCase(name)) {
+                System.out.println("\nPatient Details: ");
+                System.out.println("Name: " + patient.getName());
+                System.out.println("Age: " + patient.getAge());
+                System.out.println("Sex: " + patient.getSex());
+                System.out.println("Diagnosis: " + patient.getDiagnosis());
+                System.out.println("Care Recommendation: " + patient.getCareRecommendation());
+                System.out.println();
+                return;
+            }
+        
+        }
+        System.out.println("Patient not found.");
+    }
+    
+    public static Patient getPatient(String patientId) {
+        return patientList.get(patientId);
+    }
+
+    public static void addPatient(Nurse nurse, String patientId) {
+        System.out.println("Patient added to nurse's list.");
+    }
+
+    public static void removePatient(Nurse nurse, String patientId) {
+        System.out.println("Patient added to nurse's list.");
+    }
 }
