@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Nurse {
     private String username;
     private String nurseName;
@@ -64,5 +66,23 @@ public class Nurse {
 
     public String getPatientFolder(){
         return patientFolder;
+    }
+
+    public static void createNurseObject(String username){
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Name: ");
+        String nurseName = scan.nextLine();
+        System.out.print("Age: ");
+        int age = Integer.parseInt(scan.nextLine());
+        System.out.print("Sex: ");
+        String sex = scan.nextLine();
+        System.out.print("Position: ");
+        String position = scan.nextLine();
+        System.out.print("Shift Schedule: ");
+        String shiftSchedule = scan.nextLine();
+        System.out.print("Area Assignment: ");
+        String areaAssignment = scan.nextLine();
+
+        new Nurse(username, nurseName, age, sex, position, shiftSchedule, areaAssignment, "Patient Folder");
     }
 }

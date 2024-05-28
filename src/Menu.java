@@ -1,8 +1,11 @@
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Menu {
     public static void main(String[] args) {
         AccountsDatabase.loadFromFile();    // loads txt files into the program
+        DiagnosesDatabase.loadFromFile();
+        NurseDatabase.loadFromFile();
         Scanner scan = new Scanner(System.in);
         Boolean run = true;
         
@@ -10,7 +13,8 @@ public class Menu {
             System.out.println("What are you here for?");
             System.out.println("A. Login");
             System.out.println("B. Sign Up");
-            System.out.println("C. Exit");
+            System.out.println("C. Diagnoses Database");
+            System.out.println("D. Exit");
             String input = scan.nextLine().trim().toUpperCase();
 
             if(!input.isEmpty()){
@@ -23,6 +27,9 @@ public class Menu {
                         signupMenu(scan);
                         break;
                     case 'C':
+                        chooseDiagnosis(scan);
+                        break;    
+                    case 'D':
                         run = false;
                         AccountsDatabase.loadToFile();
                         System.out.println("See you soon, our nurse!\n");
@@ -70,11 +77,28 @@ public class Menu {
         }
     }
 
+    public static void chooseDiagnosis(Scanner scan){
+        Boolean errorCatcher = true;
+        do{
+            DiagnosesDatabase.showDiagnoses();
+            System.out.print("Read: ");
+            try{
+                DiagnosesDatabase.getDiagnosis(Integer.parseInt(scan.nextLine()));
+                errorCatcher = false;
+            } catch (NumberFormatException nfe){
+                System.out.println("Invalid input!");
+            } catch (FileNotFoundException fne){
+                chooseDiagnosis(scan);
+            }
+        } while (errorCatcher);
+       
+    }
+
     public static void adminHome(Scanner scan){
 
     }
 
-    public static void nurseHome(Scanner scan, String username, String password){
-        
+    public static void nurseHome(String username){
+       NurseDatabase.getNurse(username);
     }
 }
