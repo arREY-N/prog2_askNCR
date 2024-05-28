@@ -1,0 +1,10 @@
+::Abortion, Elective Termination ::
+
+risk for Decisional Conflict>riskforDecisionalConflict.txt
+deficient Knowledge Regarding Reproduction, Contraception, Self-care, RH factor>deficientKnowledgeRegardingReproductionContraceptionSelf-careRHfactor.txt
+risk for Moral Distress>riskforMoralDistress.txt
+anxiety Specify Level>anxietySpecificLevel.txt
+impaired Comfort>impairedComfort.txt
+risk for maternal Injury>riskforMaternalInjury.txt
+
+=====

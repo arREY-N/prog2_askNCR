@@ -1,0 +1,6 @@
+::Abscess, Skin/Tissue::
+
+impaired Skin Integrity / impaired Tissue Integrity>impairedSkinIntegrity/impairedTissueIntegrity.txt
+risk for Infection>riskforInfection.txt
+
+=====

@@ -1,0 +1,8 @@
+::Amputation::
+
+risk for ineffective peripheral Tissue Perfusion>riskforineffectiveperipheralTissuePerfusion.txt
+acute Pain>acutePain.txt
+impaired physical Mobility>impairedphysicalMobility.txt
+situational low Self-Esteem>situationallowSelf-Esteem.txt
+
+=====
