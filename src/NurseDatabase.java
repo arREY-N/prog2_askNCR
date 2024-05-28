@@ -79,4 +79,6 @@ public class NurseDatabase{
     public static void addNurseAccount(String username, Nurse nurse){
         nurseList.put(username, nurse);
     }
+
+
 }

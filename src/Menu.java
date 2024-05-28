@@ -54,6 +54,7 @@ public class Menu {
         if(Validation.isAlphanumeric(username, password) == true){
             // if true, calls the login() method in the Validation class
             Validation.login(username, password);
+            homePage(scan, username);
         } else {
             System.out.println("Input must be alphanumeric only");
         }
@@ -69,7 +70,7 @@ public class Menu {
         // first checks if the input is a valid input (alphanumeric only)
         if(Validation.isAlphanumeric(username, password) == true){
             // if true, calls the login() method in the Validation class
-            Validation.signup(username, password);
+          Validation.signup(username, password);
         } else {
             System.out.println("Input must be alphanumeric only");
         }
@@ -81,11 +82,31 @@ public class Menu {
         DiagnosesDatabase.getDiagnosis(Integer.parseInt(scan.nextLine()));        
     }
 
-    public static void adminHome(Scanner scan){
-
-    }
-
-    public static void nurseHome(Scanner scan, String username, String password){
-        
+    public static void homePage(Scanner scan, String username){
+        System.out.println("What do you like to see?");
+        System.out.println("A. Nurse's Information");
+        System.out.println("B. Patient's Information Management");
+        System.out.println("C. Symptoms' Page");
+        System.out.println("D. Log out");
+        String pageNumber = scan.nextLine().trim().toUpperCase();
+        char numberValue = pageNumber.charAt(0); 
+        switch (numberValue) {
+            
+            case 'A':    
+            /*NursePage(scan, username); */
+                break;
+            case 'B':
+                break;
+            case 'C':
+                break;
+            case 'D':
+                break;
+            default:
+                System.out.println("Invalid input. Please try again.");
+                System.out.println();
+                homePage(scan, username);
+                break;
+            
+        }
     }
 }

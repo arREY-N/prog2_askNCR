@@ -65,4 +65,22 @@ public class Nurse {
     public String getPatientFolder(){
         return patientFolder;
     }
+
+    /* public static void NursePage(Scanner scan, String username){
+        Nurse nurse = NurseDatabase.getNurse(username);
+
+        System.out.println(getNurseName);
+        System.out.println(getAge);
+        System.out.println(getSex);
+        System.out.println(getPosition);
+        System.out.println(getShiftSchedule);
+        System.out.println(getAreaAssignment);
+        System.out.println(getPatientFolder);
+        
+    } 
+    
+    
+    
+    */
+
 }
