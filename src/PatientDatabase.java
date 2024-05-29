@@ -11,7 +11,7 @@ import java.util.Map;
 
 public class PatientDatabase {
 
-    enum nurseInformationList{
+    enum patientInformationList{
         PATIENTID, NAME, AGE, SEX, DIAGNOSIS, CARERECOMMENDATION;
     }
 
@@ -29,12 +29,12 @@ public class PatientDatabase {
                 patientList.put(
                     information[0],
                     new Patient(
-                        information[nurseInformationList.valueOf("PATIENTID").ordinal()], 
-                        information[nurseInformationList.valueOf("NAME").ordinal()], 
-                        Integer.parseInt(information[nurseInformationList.valueOf("AGE").ordinal()]),
-                        information[nurseInformationList.valueOf("SEX").ordinal()],
-                        information[nurseInformationList.valueOf("DIAGNOSIS").ordinal()], 
-                        information[nurseInformationList.valueOf("CARERECOMMENDATION").ordinal()] 
+                        information[patientInformationList.valueOf("PATIENTID").ordinal()], 
+                        information[patientInformationList.valueOf("NAME").ordinal()], 
+                        Integer.parseInt(information[patientInformationList.valueOf("AGE").ordinal()]),
+                        information[patientInformationList.valueOf("SEX").ordinal()],
+                        information[patientInformationList.valueOf("DIAGNOSIS").ordinal()], 
+                        information[patientInformationList.valueOf("CARERECOMMENDATION").ordinal()] 
                     )
                 );
             }
@@ -76,7 +76,7 @@ public class PatientDatabase {
         patientList.remove(patientid);
     }
 
-    public static void viewPatientList() {
+    public static void showPatientList() {
         System.out.println("\nPatient List:");
         for (Map.Entry<String, Patient> entry : patientList.entrySet()) {
             Patient patient = entry.getValue();

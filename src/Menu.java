@@ -123,7 +123,7 @@ public class Menu {
         }
     }
 
-    private static void nursePage() {
+    private static void nursePage(Scanner scan, String username) {
         System.out.println("\nNurse Information");
         System.out.println("Name: " + Nurse.getNurseName());
         System.out.println("Age: " + Nurse.getAge());
@@ -134,7 +134,7 @@ public class Menu {
         System.out.println();
     }
 
-    private static void patientInformationManagement(Scanner scan, Nurse nurse) {
+    private static void patientInformationManagement(Scanner scan, String username) {
         boolean run = true;
         while (run) {
             System.out.println("\nPatient Information Management");
@@ -147,13 +147,13 @@ public class Menu {
 
             switch (choice) {
                 case "1":
-                    viewPatientList(scan, nurse);
+                    showPatientList(scan, username);
                     break;
                 case "2":
-                    addPatient(scan, nurse);
+                    addPatient(scan, username);
                     break;
                 case "3":
-                    removePatient(scan, nurse);
+                    removePatient(scan, username);
                     break;
                 case "4":
                     run = false;
@@ -164,8 +164,8 @@ public class Menu {
         }
     }
 
-    private static void viewPatientList(Scanner scan, Nurse nurse) {
-        PatientDatabase.showPatientsDetails(nurse);
+    private static void showPatientList(Scanner scan, String username) {
+        PatientDatabase.showPatientList();
 
         System.out.println("Enter patient name to view details or 'back' to return: ");
         String input = scan.nextLine().trim();
@@ -174,7 +174,7 @@ public class Menu {
         }
     }
 
-    private static void addPatient(Scanner scan, Nurse nurse) {
+    private static void addPatient(Scanner scan, String username) {
         System.out.print("Enter patient ID: ");
         String patientId = scan.nextLine().trim();
         System.out.print("Enter patient name: ");
@@ -193,7 +193,7 @@ public class Menu {
         System.out.println("Patient added successfully.");
     }
 
-    private static void removePatient(Scanner scan, Nurse nurse) {
+    private static void removePatient(Scanner scan, String username) {
         System.out.println("Enter patient ID to remove: ");
         String patientId = scan.nextLine().trim();
         PatientDatabase.removePatient(patientId);
