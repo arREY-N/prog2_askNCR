@@ -68,7 +68,6 @@ public class Nurse {
         return patientsFolder;
     }
 
-<<<<<<< HEAD
     public static void createNurseObject(String username){
         Scanner scan = new Scanner(System.in);
         System.out.print("Name: ");
@@ -86,7 +85,7 @@ public class Nurse {
 
         new Nurse(username, nurseName, age, sex, position, shiftSchedule, areaAssignment, "Patient Folder");
     }
-=======
+
     /* public static void NursePage(Scanner scan, String username){
         Nurse nurse = NurseDatabase.getNurse(username);
 
@@ -104,5 +103,4 @@ public class Nurse {
     
     */
 
->>>>>>> function
 }
