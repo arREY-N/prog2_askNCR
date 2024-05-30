@@ -138,24 +138,24 @@ public class Menu {
         boolean run = true;
         while (run) {
             System.out.println("\nPatient Information Management");
-            System.out.println("1. View Patient List");
-            System.out.println("2. Add Patient");
-            System.out.println("3. Remove Patient");
-            System.out.println("4. Back");
+            System.out.println("A. View Patient List");
+            System.out.println("B. Add Patient");
+            System.out.println("C. Remove Patient");
+            System.out.println("D. Back");
             System.out.println("Enter your choice: ");
             String choice = scan.nextLine().trim();
 
             switch (choice) {
-                case "1":
+                case "A":
                     showPatientList(scan, username);
                     break;
-                case "2":
+                case "B":
                     addPatient(scan, username);
                     break;
-                case "3":
+                case "C":
                     removePatient(scan, username);
                     break;
-                case "4":
+                case "D":
                     run = false;
                     break;
                 default:
@@ -202,5 +202,42 @@ public class Menu {
 
     private static void symptomsPage(Scanner scan) {
         System.out.println("Symptoms' Page - Not Implemented Yet");
+    }
+
+    public static void adminHome(Scanner scan){
+        while (true) {
+            System.out.println("Admin Home");
+            System.out.println("1. Show Accounts");
+            System.out.println("2. Show Diagnoses");
+            System.out.println("3. Show Patients");
+            System.out.println("4. Show Symptoms");
+            System.out.println("5. Show Nurses");
+            System.out.println("6. Logout");
+            System.out.print("Enter your choice: ");
+            int choice = scan.nextInt();
+            scan.nextLine(); 
+            switch (choice) {
+                case 1:
+                    AccountsDatabase.showAccounts();
+                    break;
+                case 2:
+                    Retrieve.showAllDiagnose();
+                    break;
+                case 3:
+                    PatientDatabase.showPatientList();
+                    break;
+                case 4:
+                    Retrieve.showAllSymptoms();
+                    break;
+                case 5:
+                    NurseDatabase.showNurses();
+                    break;
+                case 6:
+                    System.out.println("Logging out...");
+                    return;
+                default:
+                    System.out.println("Invalid choice!");
+            }
+        }
     }
 }

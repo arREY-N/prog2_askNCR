@@ -80,4 +80,8 @@ public class NurseDatabase{
         nurseList.put(username, nurse);
     }
 
+    public static void showNurses() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'showNurses'");
+    }
 }
