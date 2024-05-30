@@ -1,21 +1,21 @@
 public class Nurse {
-    private static String username;
-    private static String nurseName;
-    private static String sex;
-    private static int age;
-    private static String position;
-    private static String shiftSchedule;
-    private static String areaAssignment;
-    private String patientFolder;
+    private String username;
+    private String nurseName;
+    private String sex;
+    private int age;
+    private String position;
+    private String shiftSchedule;
+    private String areaAssignment;
+    private String patientsFolder;
     
-    public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment, String patientFolder){
+    public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment, String patientsFolder){
         this.username = username;
         this.nurseName = nurseName;
         this.age = age;
         this.position = position;
         this.shiftSchedule = shiftSchedule;
         this.areaAssignment = areaAssignment;
-        this.patientFolder = patientFolder;
+        this.patientsFolder = patientsFolder;
     }
 
     public void setPosition(String position){
@@ -30,40 +30,40 @@ public class Nurse {
         this.areaAssignment = areaAssignment;
     }
 
-    public void setPatientFolder(String patientFolder){
-        this.patientFolder = patientFolder;
+    public void setPatientFolder(String patientsFolder){
+        this.patientsFolder = patientsFolder;
     }
 
-    public static String getUsername(){
+    public String getUsername(){
         return username;
     }
 
-    public static String getNurseName(){
+    public String getNurseName(){
         return nurseName;
     }
 
-    public static int getAge(){
+    public int getAge(){
         return age;
     }
 
-    public static String getSex(){
+    public String getSex(){
         return sex;
     }
 
-    public static String getPosition(){
+    public String getPosition(){
         return position;
     }
 
-    public static String getShiftSchedule(){
+    public String getShiftSchedule(){
         return shiftSchedule;
     }
 
-    public static String getAreaAssignment(){
+    public String getAreaAssignment(){
         return areaAssignment;
     }
 
-    public String getPatientFolder(){
-        return patientFolder;
+    public String getPatientsFolder(){
+        return patientsFolder;
     }
 
     /* public static void NursePage(Scanner scan, String username){
