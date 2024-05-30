@@ -1,10 +1,10 @@
 public class Patient {
-    private String patientId;
-    private String name;
-    private int age;
-    private String sex;
-    private String diagnosis;
-    private String careRecommendation;
+    private static String patientId;
+    private static String name;
+    private static int age;
+    private static String sex;
+    private static String diagnosis;
+    private static String careRecommendation;
 
     public Patient(String patientId, String name, int age, String sex, String diagnosis, String careRecommendation) {
         this.patientId = patientId;
@@ -15,27 +15,27 @@ public class Patient {
         this.careRecommendation = careRecommendation;
     }
 
-    public String getPatientId() {
+    public static String getPatientId() {
         return patientId;
     }
 
-    public String getName() {
+    public static String getName() {
         return name;
     }
 
-    public int getAge() {
+    public static int getAge() {
         return age;
     }
 
-    public String getSex() {
+    public static String getSex() {
         return sex;
     }
 
-    public String getDiagnosis() {
+    public static String getDiagnosis() {
         return diagnosis;
     }
 
-    public String getCareRecommendation() {
+    public static String getCareRecommendation() {
         return careRecommendation;
     }
 }

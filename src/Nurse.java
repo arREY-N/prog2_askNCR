@@ -1,11 +1,11 @@
 public class Nurse {
-    private String username;
-    private String nurseName;
-    private String sex;
-    private int age;
-    private String position;
-    private String shiftSchedule;
-    private String areaAssignment;
+    private static String username;
+    private static String nurseName;
+    private static String sex;
+    private static int age;
+    private static String position;
+    private static String shiftSchedule;
+    private static String areaAssignment;
     private String patientFolder;
     
     public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment, String patientFolder){
@@ -34,35 +34,53 @@ public class Nurse {
         this.patientFolder = patientFolder;
     }
 
-    public String getUsername(){
+    public static String getUsername(){
         return username;
     }
 
-    public String getNurseName(){
+    public static String getNurseName(){
         return nurseName;
     }
 
-    public int getAge(){
+    public static int getAge(){
         return age;
     }
 
-    public String getSex(){
+    public static String getSex(){
         return sex;
     }
 
-    public String getPosition(){
+    public static String getPosition(){
         return position;
     }
 
-    public String getShiftSchedule(){
+    public static String getShiftSchedule(){
         return shiftSchedule;
     }
 
-    public String getAreaAssignment(){
+    public static String getAreaAssignment(){
         return areaAssignment;
     }
 
     public String getPatientFolder(){
         return patientFolder;
     }
+
+    /* public static void NursePage(Scanner scan, String username){
+        Nurse nurse = NurseDatabase.getNurse(username);
+
+        System.out.println(getNurseName);
+        System.out.println(getAge);
+        System.out.println(getSex);
+        System.out.println(getPosition);
+        System.out.println(getShiftSchedule);
+        System.out.println(getAreaAssignment);
+        System.out.println(getPatientFolder);
+        
+    } 
+    
+    
+    
+    */
+
 }
