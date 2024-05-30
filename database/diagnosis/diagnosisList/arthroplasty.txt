@@ -1,8 +1,6 @@
 ::Arthroplasty::
-
 risk for Surgical Site Infection>riskforSurgicalSiteInfection.txt
 risk for Bleeding>riskforBleeding.txt
 impaired Physical Mobility>impairedPhysicalMobility.txt
 acute Pain>acutePain.txt
-
 =====

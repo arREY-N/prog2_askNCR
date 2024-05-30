@@ -1,9 +1,7 @@
 ::Anxiety Disorders::
-
 anxiety>anxiety.txt
 ineffective Coping>ineffectiveCoping.txt
 impaired Social Interaction>impairedSocialInteraction.txt
-risk for Self-directed Violence / risk for Self-Mutilation>riskforSelf-directedViolence/riskforSelf-Multilation.txt
-compromised family Coping / disabled family Coping>compromisedfamilyCoping/disabledfamilyCoping.txt
-
+risk for Self-directed Violence/risk for Self-Mutilation>riskforSelf-directedViolence_riskforSelf-Multilation.txt
+compromised family Coping/disabled family Coping>compromisedfamilyCoping_disabledfamilyCoping.txt
 =====

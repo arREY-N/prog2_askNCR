@@ -1,9 +1,7 @@
 ::Abuse, Physical::
-
 risk for Physical Trauma>riskforPhysicalTrauma.txt
 powerlessness>powerlessness.txt
 chronic low Self-Esteem>chronicLowSelf-Esteem.txt
 ineffective Coping>ineffectiveCoping.txt
 sexual Dysfunction>sexualDysfunction.txt
-
 =====

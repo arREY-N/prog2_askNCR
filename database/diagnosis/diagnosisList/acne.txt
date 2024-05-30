@@ -1,7 +1,5 @@
 ::Acne::
-
 impaired Skin Integrity>impairedSkinIntegrity.txt
 disturbed Body Image>disturbedBodyImage.txt
 situational low Self-Esteem>situationallowSelf-Esteem.txt
-
 =====
