@@ -103,7 +103,7 @@ public class Menu {
             switch (value) {
             
             case 'A':
-                nursePage(scan, username);
+                // nurseInformationPage(scan, username);
                 break;
             case 'B':
                 patientInformationManagement(scan, username);
@@ -123,16 +123,16 @@ public class Menu {
         }
     }
 
-    private static void nursePage(Scanner scan, String username) {
-        System.out.println("\nNurse Information");
-        System.out.println("Name: " + Nurse.getNurseName());
-        System.out.println("Age: " + Nurse.getAge());
-        System.out.println("Sex: " + Nurse.getNurseName());
-        System.out.println("Position: " + Nurse.getNurseName());
-        System.out.println("Shift Schedule: " + Nurse.getNurseName());
-        System.out.println("Area Assignment: " + Nurse.getAreaAssignment());
-        System.out.println();
-    }
+    // private static void nurseInformationPage(Scanner scan, String username) {
+    //     System.out.println("\nNurse Information");
+    //     System.out.println("Name: " + Nurse.getNurseName());
+    //     System.out.println("Age: " + Nurse.getAge());
+    //     System.out.println("Sex: " + Nurse.getNurseName());
+    //     System.out.println("Position: " + Nurse.getNurseName());
+    //     System.out.println("Shift Schedule: " + Nurse.getNurseName());
+    //     System.out.println("Area Assignment: " + Nurse.getAreaAssignment());
+    //     System.out.println();
+    // }
 
     private static void patientInformationManagement(Scanner scan, String username) {
         boolean run = true;
