@@ -56,7 +56,7 @@ public class PatientDatabase {
                 writer.write(',');
                 writer.write(patient.getValue().getDiagnosis());
                 writer.write(',');
-                writer.write(patient.getValue().getCareRecommendation());
+                writer.write(patient.getValue().getPatientFolderPath());
                 writer.write('\n');
             }
         } catch (IOException e) {
@@ -92,7 +92,7 @@ public class PatientDatabase {
                 System.out.println("Age: " + patient.getAge());
                 System.out.println("Sex: " + patient.getSex());
                 System.out.println("Diagnosis: " + patient.getDiagnosis());
-                System.out.println("Care Recommendation: " + patient.getCareRecommendation());
+                System.out.println("Care Recommendation: " + patient.getPatientFolderPath());
                 System.out.println();
                 return;
             }

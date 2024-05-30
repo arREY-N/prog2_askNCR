@@ -64,7 +64,7 @@ public class NurseDatabase{
                 writer.write(',');
                 writer.write(nurse.getValue().getAreaAssignment());
                 writer.write(',');
-                writer.write(nurse.getValue().getPatientFolder());
+                writer.write(nurse.getValue().getPatientsFolder());
                 writer.write('\n');
             }
         } catch (IOException e) {
@@ -81,7 +81,6 @@ public class NurseDatabase{
     }
 
     public static void showNurses() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'showNurses'");
     }
 }
