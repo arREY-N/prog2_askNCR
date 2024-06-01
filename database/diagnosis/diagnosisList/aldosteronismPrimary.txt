@@ -1,0 +1,7 @@
+::Aldosteronism::
+
+deficient Fluid Volume>deficientFluidVolume.txt
+impaired Physical Mobility>impairedPhysicalMobility.txt
+risk for decreased Cardiac Output>riskforDecreasedCardiacOutput.txt
+
+=====

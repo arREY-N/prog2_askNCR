@@ -1,0 +1,9 @@
+::Anorexia Nervosa::
+
+imbalanced Nutrition:less than body requirements>imbalancedNutritionLessThanBodyRequirements.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+disturbed Body Image>disturbedBodyImage.txt
+chronic low Self-Esteem>chroniclowSelf-Esteem.txt
+impaired Parenting>impairedParenting.txt
+
+=====

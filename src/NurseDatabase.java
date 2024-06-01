@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.HashMap;
+import java.util.TreeMap;
 import java.util.Map;
 import java.io.FileReader;
 
@@ -15,7 +15,7 @@ public class NurseDatabase{
         USERNAME, NURSENAME, AGE, SEX, POSITION, SHIFTSCHEDULE, AREAASSIGNMENT, PATIENTFOLDER;
     }
 
-    private static HashMap<String, Nurse> nurseList = new HashMap<>();
+    private static Map<String, Nurse> nurseList = new TreeMap<>();
     private static Path nursePath = Paths.get("database\\nurse\\nurseInformation.txt");
 
     public static void loadFromFile(){
@@ -64,7 +64,7 @@ public class NurseDatabase{
                 writer.write(',');
                 writer.write(nurse.getValue().getAreaAssignment());
                 writer.write(',');
-                writer.write(nurse.getValue().getPatientFolder());
+                writer.write(nurse.getValue().getPatientsFolder());
                 writer.write('\n');
             }
         } catch (IOException e) {
@@ -72,11 +72,15 @@ public class NurseDatabase{
         }
     }
 
-    public static HashMap<String, Nurse> getNurseAccounts(){
-        return nurseList;
+    public static TreeMap<String, Nurse> getNurseAccounts(){
+        return (TreeMap<String, Nurse>) nurseList;
     }
 
     public static void addNurseAccount(String username, Nurse nurse){
         nurseList.put(username, nurse);
+    }
+
+    public static void showNurses() {
+        throw new UnsupportedOperationException("Unimplemented method 'showNurses'");
     }
 }

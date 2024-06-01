@@ -1,0 +1,5 @@
+::Acute Respiratory Distress Syndrome::
+
+refer to Respiratory Distress Syndrome, Acute>refertoRespiratoryDistressSyndrome.txt
+
+=====

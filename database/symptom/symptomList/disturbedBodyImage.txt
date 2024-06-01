@@ -1,7 +1,7 @@
 ::Disturbed Body Image::
 
 ::Definition::
-Confusion in [and/or dissatisfaction with] mental picture of one’s physical self. 
+Confusion in [and/or dissatisfaction with] mental picture of one's physical self. 
 
 ::Action/Interventions::
 [Nursing Priority No. 1]
@@ -30,7 +30,7 @@ Confusion in [and/or dissatisfaction with] mental picture of one’s physical se
 5. Identify previously used coping strategies and effectiveness. 
 6. Determine individual/family/community resources available to the client. 
 
-[Nursing Priority No. 4]
+[Nursing Priority No. 3]
 -To assist client and SO(s) to deal with/accept issues of self-concept related to body image: 
 1. Establish a therapeutic nurse-client relationship, conveying an attitude of caring and developing a sense of trust. 
 2. Visit the client frequently and acknowledge the individual as someone who is worthwhile. This provides opportunities for listening to concerns and questions.
@@ -61,6 +61,5 @@ Confusion in [and/or dissatisfaction with] mental picture of one’s physical se
 5. Identify/plan for alterations to home and work environment/activities to accommodate individual needs and support independence.
 6. Assist the client in learning strategies for dealing with feelings and venting emotions. 
 7. Offer positive reinforcement for efforts made (e.g., wearing makeup or using a prosthetic device). 
-8.  Refer to appropriate support groups. 
-
-======
+8. Refer to appropriate support groups. 
+=====
