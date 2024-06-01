@@ -1,0 +1,7 @@
+::Anemia::
+
+Activity Intolerance>activityIntolerance.txt
+imbalanced Nutrition:less than body requirements>imbalancedNutrition:LessthanBodyRequirements.txt
+deficient Knowledge regarding condition, prognosis, self-care, and treatment needs>deficientKnowledgeregardingConditionPrognosisSelfCareandTreatmentNeeds.txt
+
+=====

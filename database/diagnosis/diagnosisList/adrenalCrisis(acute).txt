@@ -1,0 +1,9 @@
+::Adrenal Crisis, Acute::
+
+deficient hyptonic Fluid Volume>deficienthyptonicDeficientVolume.txt
+acute Pain>acutePain.txt
+impaired physical Mobility>impairedphysicalMobility.txt
+risk for Hyperthermia>riskforHyperthermia.txt
+ineffective Protection>ineffectiveProtection.txt
+
+=====

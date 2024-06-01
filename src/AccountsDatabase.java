@@ -44,7 +44,7 @@ public class AccountsDatabase {
         }
     }
 
-    public static TreeMap<String, String> getAccounts(){
+    public static Map<String, String> getAccounts(){
         return accountList;
     }
 

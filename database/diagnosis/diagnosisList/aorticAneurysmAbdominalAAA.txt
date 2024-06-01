@@ -1,0 +1,5 @@
+::Aortic Aneurysm, Abdominal (AAA)::
+risk for ineffective Tissue Perfusion (Specify:cardiovascular, cerebral, peripheral)>riskforineffectiveTissuePerfusion(Specify:cardiovascularCerebralPeripheral).txt
+risk for Bleeding>riskforBleeding.txt
+acute Pain>acutePain.txt
+=====

@@ -1,0 +1,45 @@
+::Ineffective Airway Clearance::
+
+::Definition::
+Inability to clear secretions or obstructions from the respiratory tract to maintain a clear airway.
+
+::Action/Interventions::   
+[Nursing Priority No. 1]
+To maintain adequate, patent airway:
+1. Identify client populations at risk. Persons with impaired ciliary function (e.g., cystic fi brosis or lung transplant recipients); those with excessive or abnormal mucus production (e.g., asthma, emphysema, pneumonia, dehydration, bronchiectasis, or mechanical ventilation); those with impaired cough function (e.g., neuromuscular diseases, such as muscular dystrophy; multiple sclerosis neuromotor conditions, such as cerebral palsy; or spinal cord injury); those with swallowing abnormalities (e.g., poststroke, seizures, head/neck cancer, coma/sedation, tracheostomy, or facial burns/trauma/surgery); those who are immobile (e.g., sedated individual, frail elderly, developmentally delayed, institutionalized client with multiple high-risk conditions;) infant/child (e.g., feeding intolerance, abdominal distention, and emotional stressors that may compromise airway) are all at risk for problems with the maintenance of open airways.
+2. Assess level of consciousness/cognition and ability to protect own airway. This information is essential for identifying potential for airway problems, providing baseline level of care needed, and infl uencing choice of interventions.
+3. Monitor respirations and breath sounds, noting rate and sounds (e.g., tachypnea, stridor, crackles, or wheezes) indicative of respiratory distress and/or accumulation of secretions.
+4. Evaluate client’s cough/gag reflex, amount and type of secretions, and swallowing ability to determine ability to protect own airway.
+5. Position head appropriately for age and condition to open or maintain open airway in an at-rest or compromised individual.
+6. Suction nose, mouth, and trachea prn using correct-size catheter and suction timing for child or adult to clear airway when excessive or viscous secretions are blocking airway or client is unable to swallow or cough effectively.
+7. Insert oral airway (using correct size for adult or child) when needed to maintain anatomical position of tongue and natural airway, especially when tongue/laryngeal edema or thick secretions may block airway.
+8. Elevate head of bed, encourage early ambulation, or change client’s position every 2 hr to take advantage of gravity decreasing pressure on the diaphragm and enhancing drainage of/ventilation to different lung segments.
+9. Exercise diligence in providing oral hygiene and keeping oral mucosa hydrated. Airways can be obstructed by substances such as blood or thickened secretions. These can be managed by strict attention to good oral hygiene, especially in the client who is unable to provide that for self.
+10. Monitor infant/child for feeding intolerance, abdominal distention, and emotional stressors that may compromise airway.
+11, Assist with appropriate testing (e.g., pulmonary function or sleep studies) to identify causative/precipitating factors.
+12. Instruct in/review postoperative breathing exercises, effective coughing, and use of adjunct devices (e.g., intermittent positive pressure breathing or incentive spirometer) in preoperative teaching.
+13. Assist with procedures (e.g., bronchoscopy or tracheostomy) to clear/maintain open airway.
+14. Keep environment allergen free (e.g., dust, feather pillows, or smoke) according to individual situation.
+
+[Nursing Priority No. 2]
+To mobilize secretions:
+1. Mobilize the client as soon as possible. This reduces risk or effects of atelectasis, enhancing lung expansion and drainage of different lung segments.
+2. Encourage deep-breathing and coughing exercises or splint chest/incision to maximize effort.
+3. Administer analgesics to improve cough when pain is inhibiting effort. (Caution: Overmedication can depress respirations and cough effort.)
+4. Administer medications (e.g., expectorants, anti-infl ammatory agents, bronchodilators, and mucolytic agents), as indicated, to relax smooth respiratory musculature, reduce airway edema, and mobilize secretions.
+5. Increase fluid intake to at least 2,000 mL/day within cardiac tolerance (may require IV in acutely ill, hospitalized client). Encourage/provide warm versus cold liquids as appropriate. Provide supplemental humidifi cation, if needed (ultrasonic nebulizer or room humidifi er). Hydration can help prevent the accumulation of viscous secretions and improve secretion clearance. Monitor for signs/symptoms of congestive heart failure (crackles, edema, or weight gain) when the client is at risk.
+6. Perform or assist the client in learning airway clearance techniques, such as postural drainage and percussion (chest physical therapy [CPT]), flutter devices, high-frequency chest compression with an infl atable vest, intrapulmonary percussive ventilation (IPV), and active cycle breathing technique (ACBT). Various therapies/modalities may be required to acquire and maintain adequate airways and improve respiratory function and gas exchange. (Refer to NDs ineffective Breathing Pattern; impaired Gas Exchange; impaired spontaneous Ventilation.)
+7. Support reduction/cessation of smoking to improve lung function.
+8. Position appropriately (e.g., head of bed elevated, side lying) and discourage use of oil-based products around nose to prevent vomiting with aspiration into lungs. (Refer to NDs risk for Aspiration; impaired Swallowing.) 
+
+[Nursing Priority No.3]
+To assess changes, note complications:
+1. Auscultate breath sounds and assess air movement to ascertain current status and note effects of treatment in clearing airways.
+2. Monitor vital signs, noting changes in blood pressure and heart rate.
+3. Observe for signs of respiratory distress (increased rate, restlessness/anxiety, or use of accessory muscles for breathing).
+4. Evaluate changes in sleep pattern, noting insomnia or daytime somnolence, which may be evidence of nighttime airway incompetence or sleep apnea. (Refer to NDs Insomnia, Sleep Deprivation.)
+5. Document response to drug therapy and/or development of adverse side effects or interactions with antimicrobials, steroids, expectorants, and bronchodilators. Pharmacological therapy is used to prevent and control symptoms, reduce severity of exacerbations, and improve health status.
+6. Observe for signs/symptoms of infection (e.g., increased dyspnea with onset of fever or change in sputum color, amount, or character) to identify the infectious process and promote timely intervention.
+7. Obtain sputum specimen, preferably before antimicrobial therapy is initiated, to point to effective antimicrobial agent.
+8. Monitor/document serial chest x-rays, arterial blood gases, or pulse oximetry readings. 
+=====

@@ -1,12 +1,17 @@
 import java.util.TreeMap;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
+import java.util.ArrayList;
 import java.util.Map;
 
 public class DiagnosesDatabase {
@@ -15,67 +20,91 @@ public class DiagnosesDatabase {
         DIAGNOSIS_NAME, DIAGNOSIS_FILENAME;
     }
 
-    private static Map<Integer, Diagnosis> diagnosesList = new TreeMap<>();
+    private static Map<Integer, Diagnosis> diagnosisNames = new TreeMap<Integer, Diagnosis>();
 
-    private static Path diagnosisPath = Paths.get("C:\\Users\\user\\OneDrive\\Desktop\\Computer Programming 2\\askNCR\\database\\diagnosis\\diagnosisList.txt");
-    private static Path diagnosisFolderPath = Paths.get("C:\\Users\\user\\OneDrive\\Desktop\\Computer Programming 2\\askNCR\\database\\symptom\\symptomList");
+    private static Path diagnosisListPath = Paths.get("database\\diagnosis\\diagnosisList.txt");
+    private static Path diagnosisListFolderPath = Paths.get("database\\diagnosis\\diagnosisList");
 
     public static void loadFromFile(){
-        try(BufferedReader reader = new BufferedReader(new FileReader(diagnosisPath.toAbsolutePath().toString()))){
+        File diagnosisFolder = new File(diagnosisListFolderPath.toAbsolutePath().toString());
+
+        File[] diagnosisList = diagnosisFolder.listFiles();
+        int diagnosisNumber = 1;
+
+        for(File diagnosis: diagnosisList){
+            try (BufferedReader reader = new BufferedReader(new FileReader(diagnosisListFolderPath.toAbsolutePath().resolve(diagnosis.getName()).toString()))) {
+                String line;
+                Pattern pattern = Pattern.compile("::.*::");
+                diagnosisNames.put(diagnosisNumber, new Diagnosis(null, null, new ArrayList<String>()));
+
+                while((line=reader.readLine()) != null && !line.equals("=====")){
+                    Matcher nameMatcher = pattern.matcher(line);
+
+                    if(nameMatcher.find()){
+                        String diagnosisName = line.trim().substring(2, line.length()-2);
+                        diagnosisNames.get(diagnosisNumber).setDiagnosisName(diagnosisName);
+                    } else {
+                        String[] symptomInfo = line.split(">");
+                        diagnosisNames.get(diagnosisNumber).addSymptom(symptomInfo[0]);
+                    }
+                }
+                diagnosisNumber++;
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public static ArrayList<String> getDiagnosis(Integer diagnosisNumber) throws FileNotFoundException{
+        String diagnosisFilePath = diagnosisListFolderPath.resolve(diagnosisNames.get(diagnosisNumber).getFileName()).toString();
+        ArrayList<String> symptomList = new ArrayList<>();
+        
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader(diagnosisFilePath));
+            String line;
+            String[] parts = null;
             String delimiter = ">";
             String endOfDocs = "=====";
-            String line;
-            String[] diagnosisInformation = null;
-            int diagnosisNumber = 1;
+            int symptomNumber = 1;
+            
+            System.out.println();
 
-            while(!(line = reader.readLine()).equals(endOfDocs)){
-                diagnosisInformation = line.split(delimiter);
-                diagnosesList.put(
-                    diagnosisNumber, 
-                    new Diagnosis(diagnosisInformation[0], diagnosisInformation[1])
-                );
-                diagnosisNumber++;
+            while((line=reader.readLine()) != null){    
+                parts = line.split(delimiter);   
+                if(parts.length>1){
+                    System.out.println(symptomNumber + ". " + parts[0]);
+                    symptomNumber++;
+                    symptomList.add(parts[0]);
+                } else if (line.equals(endOfDocs)){
+                    System.out.println();
+                    break;
+                } else {
+                    System.out.println(parts[0] + "\n");
+                }
             }
+            reader.close();
+        } catch (FileNotFoundException e) {
+            System.out.println("\nThe system currently doesn't have any information about this symptom.\n");
+            throw new FileNotFoundException();
         } catch (IOException e){
-            System.out.println("\nDiagnoses List Not Found!\n");
+            System.out.println("Error reading diagnosis file");
         }
+
+        return symptomList;
+    }
+
+    public static Map<Integer, Diagnosis> getDiagnosisList(){
+        return diagnosisNames;
     }
 
     public static void loadToFile(){
-        try (BufferedWriter writer = Files.newBufferedWriter(Path.of(diagnosisPath.toAbsolutePath().toString()), StandardOpenOption.TRUNCATE_EXISTING)) {
-            for (Map.Entry<Integer, Diagnosis> account : diagnosesList.entrySet()) {
-                writer.write(account.getKey());
-                writer.write(',');
-                writer.write(account.getValue().getDiagnosisName());
+        try (BufferedWriter writer = Files.newBufferedWriter(Path.of(diagnosisListPath.toAbsolutePath().toString()), StandardOpenOption.TRUNCATE_EXISTING)) {
+            for (Map.Entry<Integer, Diagnosis> diagnosis : diagnosisNames.entrySet()) {
+                writer.write(diagnosis.getValue().getDiagnosisName());
+                writer.write('>');
+                writer.write(diagnosis.getValue().getFileName());
                 writer.write('\n');
             }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    public static void showDiagnoses(){
-        System.out.println("\nDiagnoses Database\n");
-        for(Map.Entry<Integer, Diagnosis> diagnosis: diagnosesList.entrySet()){
-            System.out.println(diagnosis.getKey() + ". " + diagnosis.getValue().getDiagnosisName());
-        }
-    }
-
-    public static void getDiagnosis(Integer diagnosisNumber){
-        String diagnosisFilePath = diagnosisFolderPath.resolve(diagnosesList.get(diagnosisNumber).getFileName()).toString();
-        readDiagnosis(diagnosisFilePath);
-    }
-
-    public static void readDiagnosis(String diagnosisFile){
-        try {
-            BufferedReader reader = new BufferedReader(new FileReader(diagnosisFile));
-            String line;
-
-            while((line=reader.readLine()) != null){
-                System.out.println(line);
-            }
-
-            reader.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -1,0 +1,12 @@
+::Addison's Disease::
+
+deficient hypotonic Fluid Volume>deficienthyptonicFluidVolume.txt
+risk for Electrolyte Imbalance>riskforElectrolyteImbalance.txt
+decreased Cardiac Output>decreasedCardiacOutput.txt
+fatigue>fatigue.txt
+disturbed Body Image>disturbedBodyImage.txt
+risk for Impaired Physical Mobility>riskforImpairedPhysicalMobility.txt
+imbalance Nutrition: less than body requirements>imbalanceNutrition:lessthanBodyRequirements.txt
+risk for Impaired Home Maintenance>riskforImpairedHomeMaintenance.txt
+
+=====

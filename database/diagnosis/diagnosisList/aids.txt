@@ -1,0 +1,13 @@
+::AIDS (Acquired Immunodeficiency Syndrome)::
+
+risk for Infection (onset of new opportunistic infection)>riskforInfection.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+acute Pain/chronic Pain>acutePain/ChronicPain.txt
+ineffective Breathing Pattern>ineffectiveBreathingPattern.txt
+imbalanced Nutrition:less than body requirements>imbalancedNutrition:LessthanBodyRequirements.txt
+fatigue>fatigue.txt
+ineffective Protection>ineffectiveProtection.txt
+social Isolation>socialIsolation.txt
+chronic Confusion>chronicConfusion.txt
+
+=====

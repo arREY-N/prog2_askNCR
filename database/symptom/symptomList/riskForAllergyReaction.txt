@@ -1,0 +1,36 @@
+::risk for Allergy Reaction::
+
+::Definition::
+Susceptible to an exaggerated immune response or reaction to substances, which may compromise health.
+
+::Action/Interventions:: 
+
+[Nursing Priority No. 1] 
+    To identify causative/precipitating factors related to risk:
+1. Question the client regarding known allergies upon admission to healthcare facility. Basic safety information will help healthcare providers prepare a safe environment for the client while providing care.
+2. Ascertain the type of allergy and usual symptoms if the client reports a history of allergies (e.g., seasonal rhinitis [“hay fever”], allergic dermatitis, conjunctivitis, environmental asthma, environmental substances [e.g., mold, dust, or pet dander], insect sting reactions, food intolerance, immunodeficiency such as Addison’s disease, or drug or transfusion reaction). Allergies can manifest as local reactions (as may occur in skin rashes) or may be systemic. The client/caregiver may be aware of some, but not all, allergies.
+3. Obtain a written list of drug allergies upon fi rst contact with the client. This helps prevent adverse drug events while the client is in facility care.
+4. Discuss the possibility of a latex allergy when entering facility care, especially when procedures are anticipated (e.g., laboratory, emergency department, operating room, wound care management, one-day surgery, or dental) so that proper precautions can be taken by healthcare providers. (Refer to ND Latex Allergy Reaction and risk for Latex Reaction for related interventions.)
+5. Note the client’s age. Although allergies can occur at any time in a client’s life span, there are some that can start early in life. These include food allergies (e.g., peanuts) and respiratory ailments (e.g., asthma).
+6. Perform challenge or patch test, if appropriate, to identify specific allergens in a client with known type IV hypersensitivity.
+7. Note response to allergen-specific IgE antibody tests, where available. Performed to measure the quantity of IgE antibodies in serum after exposure to specifi c antigens and have generally replaced skin tests and provocation tests. Note: These tests are useful in nonemergent evaluations.
+ 
+
+[Nursing Priority No. 2]
+    To take measures to avoid exposure and reduce/limit allergic response:
+1. Discuss the client’s current symptoms, noting reports of rash, hives, itching; teary eyes; localized swelling (e.g., of lips) or diarrhea; nausea; or a feeling of faintness. Ascertain if client/care provider associates these symptoms with certain food, substances, or environmental factors (triggers). This may help isolate the cause for a reaction.
+2. Provide an allergen-free environment (e.g., clean, dust-free room or use air fi lters to reduce mold and pollens in the air) to reduce client exposure to allergens.
+3. Collaborate with all healthcare providers to administer medications and perform procedures with client’s allergies in mind.
+4. Encourage the client to wear a medical ID bracelet/necklace to alert providers to condition if the client is unresponsive or unable to relay information for any reason.
+5. Refer to physician/allergy specialists as indicated for interventions related to specific allergy conditions.
+
+[Nursing Priority No.3]
+     To promote wellness (Teaching/Discharge Criteria):
+1. Instruct/review with client and care provider(s) ways to prevent or limit client exposures. They may need or desire information regarding ways to reduce allergens at home, school, or work; may desire information regarding potential exposures when traveling, or how to manage food allergies when eating in restaurants.
+2. Instruct in signs of reaction and emergency treatment needs. Allergic reactions range from skin irritation to anaphylaxis. Reaction may be gradual but progressive, affecting multiple body systems, or may be sudden, requiring lifesaving treatment.
+3. Emphasize the critical importance of taking immediate action for moderate to severe hypersensitivity reactions to limit lifethreatening symptoms.
+4. Demonstrate equipment and injection procedure and recommend that the client carry auto-injectable epinephrine to provide timely emergency treatment, as needed.
+5. Emphasize the necessity of informing all new care providers of allergies.
+6. Provide educational resources and assistance numbers for emergencies. When allergy is suspected or the potential for allergy exists, protection must begin with identifi cation and removal of possible sources.
+
+======

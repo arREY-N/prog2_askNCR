@@ -1,5 +1,1 @@
-chloie,123456
-emman,emman
 reyn,reyn
-user,pass
-zam,zam

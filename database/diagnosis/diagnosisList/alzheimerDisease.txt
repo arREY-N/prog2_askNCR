@@ -1,0 +1,10 @@
+::Alzheimer Disease::
+risk for Injury/Trauma>riskforInjury/Trauma.txt
+chronic Confusion>chronicConfusion.txt
+disturbed Sensory Perception>disturbedSensoryPerception.txt
+Sleep Deprivation>sleepDeprivation.txt
+ineffective Health Maintenance>ineffectiveHealthMaintenance.txt
+risk for Stress Overload>riskforStressOverload.txt
+compromised family Coping/caregiver Role Strain>compromisedfamilyCoping/caregiverRoleStrain.txt
+risk for Relocation Stress Syndrome>riskforRelocationStressSyndrome.txt
+=====

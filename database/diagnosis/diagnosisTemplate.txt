@@ -1,5 +1,4 @@
 ::Diagnosis Name::
-
 Symptom Name>insert filename
 Symptom Name>insert filename
 Symptom Name>insert filename
