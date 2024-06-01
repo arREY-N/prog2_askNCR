@@ -3,10 +3,9 @@
 ::Definition::
 Inability to clear secretions or obstructions from the respiratory tract to maintain a clear airway.
 
-::Action/Interventions::
-
+::Action/Interventions::   
 [Nursing Priority No. 1]
-    To maintain adequate, patent airway:
+To maintain adequate, patent airway:
 1. Identify client populations at risk. Persons with impaired ciliary function (e.g., cystic fi brosis or lung transplant recipients); those with excessive or abnormal mucus production (e.g., asthma, emphysema, pneumonia, dehydration, bronchiectasis, or mechanical ventilation); those with impaired cough function (e.g., neuromuscular diseases, such as muscular dystrophy; multiple sclerosis neuromotor conditions, such as cerebral palsy; or spinal cord injury); those with swallowing abnormalities (e.g., poststroke, seizures, head/neck cancer, coma/sedation, tracheostomy, or facial burns/trauma/surgery); those who are immobile (e.g., sedated individual, frail elderly, developmentally delayed, institutionalized client with multiple high-risk conditions;) infant/child (e.g., feeding intolerance, abdominal distention, and emotional stressors that may compromise airway) are all at risk for problems with the maintenance of open airways.
 2. Assess level of consciousness/cognition and ability to protect own airway. This information is essential for identifying potential for airway problems, providing baseline level of care needed, and infl uencing choice of interventions.
 3. Monitor respirations and breath sounds, noting rate and sounds (e.g., tachypnea, stridor, crackles, or wheezes) indicative of respiratory distress and/or accumulation of secretions.
@@ -23,7 +22,7 @@ Inability to clear secretions or obstructions from the respiratory tract to main
 14. Keep environment allergen free (e.g., dust, feather pillows, or smoke) according to individual situation.
 
 [Nursing Priority No. 2]
-    To mobilize secretions:
+To mobilize secretions:
 1. Mobilize the client as soon as possible. This reduces risk or effects of atelectasis, enhancing lung expansion and drainage of different lung segments.
 2. Encourage deep-breathing and coughing exercises or splint chest/incision to maximize effort.
 3. Administer analgesics to improve cough when pain is inhibiting effort. (Caution: Overmedication can depress respirations and cough effort.)
@@ -34,7 +33,7 @@ Inability to clear secretions or obstructions from the respiratory tract to main
 8. Position appropriately (e.g., head of bed elevated, side lying) and discourage use of oil-based products around nose to prevent vomiting with aspiration into lungs. (Refer to NDs risk for Aspiration; impaired Swallowing.) 
 
 [Nursing Priority No.3]
-     To assess changes, note complications:
+To assess changes, note complications:
 1. Auscultate breath sounds and assess air movement to ascertain current status and note effects of treatment in clearing airways.
 2. Monitor vital signs, noting changes in blood pressure and heart rate.
 3. Observe for signs of respiratory distress (increased rate, restlessness/anxiety, or use of accessory muscles for breathing).

@@ -22,17 +22,17 @@ public class DiagnosesDatabase {
 
     private static Map<Integer, Diagnosis> diagnosisNames = new TreeMap<Integer, Diagnosis>();
 
-    private static Path diagnosisListPath = Paths.get("C:\\Users\\user\\OneDrive\\Desktop\\Computer Programming 2\\askNCR\\database\\diagnosis\\diagnosisList.txt");
-    private static Path diagnosisListFolderPath = Paths.get("C:\\Users\\user\\OneDrive\\Desktop\\Computer Programming 2\\askNCR\\database\\diagnosis\\diagnosisList");
+    private static Path diagnosisListPath = Paths.get("database\\diagnosis\\diagnosisList.txt");
+    private static Path diagnosisListFolderPath = Paths.get("database\\diagnosis\\diagnosisList");
 
     public static void loadFromFile(){
-        File diagnosisFolder = new File(diagnosisListFolderPath.toString());
+        File diagnosisFolder = new File(diagnosisListFolderPath.toAbsolutePath().toString());
 
         File[] diagnosisList = diagnosisFolder.listFiles();
         int diagnosisNumber = 1;
 
         for(File diagnosis: diagnosisList){
-            try (BufferedReader reader = new BufferedReader(new FileReader(diagnosisListFolderPath.resolve(diagnosis.getName()).toString()))) {
+            try (BufferedReader reader = new BufferedReader(new FileReader(diagnosisListFolderPath.toAbsolutePath().resolve(diagnosis.getName()).toString()))) {
                 String line;
                 Pattern pattern = Pattern.compile("::.*::");
                 diagnosisNames.put(diagnosisNumber, new Diagnosis(null, null, new ArrayList<String>()));

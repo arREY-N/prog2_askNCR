@@ -4,15 +4,13 @@ public class Patient {
     private int age;
     private String sex;
     private String diagnosis;
-    private String patientFolderPath;
 
-    public Patient(String patientId, String name, int age, String sex, String diagnosis, String patientFolderPath) {
+    public Patient(String patientId, String name, int age, String sex, String diagnosis) {
         this.patientId = patientId;
         this.name = name;
         this.age = age;
         this.sex = sex;
         this.diagnosis = diagnosis;
-        this.patientFolderPath = patientFolderPath;
     }
 
     public String getPatientId() {
@@ -33,9 +31,5 @@ public class Patient {
 
     public String getDiagnosis() {
         return diagnosis;
-    }
-
-    public String getPatientFolderPath() {
-        return patientFolderPath;
     }
 }

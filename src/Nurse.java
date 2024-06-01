@@ -8,16 +8,15 @@ public class Nurse {
     private String position;
     private String shiftSchedule;
     private String areaAssignment;
-    private String patientsFolder;
     
-    public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment, String patientsFolder){
+    public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment){
         this.username = username;
         this.nurseName = nurseName;
         this.age = age;
+        this.sex = sex;
         this.position = position;
         this.shiftSchedule = shiftSchedule;
         this.areaAssignment = areaAssignment;
-        this.patientsFolder = patientsFolder;
     }
 
     public void setPosition(String position){
@@ -30,10 +29,6 @@ public class Nurse {
 
     public void setAreaAssignment(String areaAssignment){
         this.areaAssignment = areaAssignment;
-    }
-
-    public void setPatientFolder(String patientsFolder){
-        this.patientsFolder = patientsFolder;
     }
 
     public String getUsername(){
@@ -64,43 +59,16 @@ public class Nurse {
         return areaAssignment;
     }
 
-    public String getPatientsFolder(){
-        return patientsFolder;
+    public static void nurseInformationPage(Scanner scan, Nurse nurse) {
+        System.out.println("NURSE INFORMATION");
+        System.out.println("Name: " + nurse.getNurseName());
+        System.out.println("Age: " + nurse.getAge());
+        System.out.println("Sex: " + nurse.getSex());
+        System.out.println("Position: " + nurse.getPosition());
+        System.out.println("Shift Schedule: " + nurse.getShiftSchedule());
+        System.out.println("Area Assignment: " + nurse.getAreaAssignment());
+        System.out.print("\nEnter to continue...");
+        scan.nextLine();
+        System.out.println();
     }
-
-    public static void createNurseObject(String username){
-        Scanner scan = new Scanner(System.in);
-        System.out.print("Name: ");
-        String nurseName = scan.nextLine();
-        System.out.print("Age: ");
-        int age = Integer.parseInt(scan.nextLine());
-        System.out.print("Sex: ");
-        String sex = scan.nextLine();
-        System.out.print("Position: ");
-        String position = scan.nextLine();
-        System.out.print("Shift Schedule: ");
-        String shiftSchedule = scan.nextLine();
-        System.out.print("Area Assignment: ");
-        String areaAssignment = scan.nextLine();
-
-        new Nurse(username, nurseName, age, sex, position, shiftSchedule, areaAssignment, "Patient Folder");
-    }
-
-    /* public static void NursePage(Scanner scan, String username){
-        Nurse nurse = NurseDatabase.getNurse(username);
-
-        System.out.println(getNurseName);
-        System.out.println(getAge);
-        System.out.println(getSex);
-        System.out.println(getPosition);
-        System.out.println(getShiftSchedule);
-        System.out.println(getAreaAssignment);
-        System.out.println(getPatientFolder);
-        
-    } 
-    
-    
-    
-    */
-
 }

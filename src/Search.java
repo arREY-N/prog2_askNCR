@@ -11,6 +11,7 @@ public class Search {
         int symptomNumber;
 
         do{
+            System.out.println("DIAGNOSES LIST");
             Map<Integer, Diagnosis> diagnosisList = showDiagnosesList();
             try{
                 System.out.print("Choose Diagnosis (0 to exit): ");
@@ -22,7 +23,7 @@ public class Search {
                         try{
                             System.out.print("Choose Symptom (0 to exit): ");
                             if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
-                                SymptomDatabase.getSymptom(diagnosisSymptomList.get(symptomNumber-1));
+                                SymptomDatabase.getSymptom(scan, diagnosisSymptomList.get(symptomNumber-1));
                             } else {
                                 diagnosisSymptomLoop = false;
                             }
@@ -31,6 +32,7 @@ public class Search {
                         }
                     }while(diagnosisSymptomLoop);
                 } else {
+                    System.out.println();
                     diagnosisLoop = false;
                 }
             } catch (NumberFormatException nfe){
@@ -59,9 +61,34 @@ public class Search {
         return diagnosisSymptomList;
     }
 
-    public static void listSymptoms(ArrayList<String> symptomList){
+    public static void chooseSymptoms(Scanner scan){
+        Boolean symptomLoop = true;
+        int symptomNumber;
+
+        do{
+            System.out.println("SYMPTOM LIST");
+            ArrayList<String> symptomList = showSymptomList();
+            try{
+                System.out.print("Choose Diagnosis (0 to exit): ");
+                if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
+                    SymptomDatabase.getSymptom(scan, symptomList.get(symptomNumber-1));
+                } else {
+                    System.out.println();
+                    symptomLoop = false;
+                }
+            } catch (NumberFormatException nfe){
+                System.out.println("Invalid input!");
+            }
+        }while(symptomLoop); 
+    }
+
+    public static ArrayList<String> showSymptomList(){
+        ArrayList<String> symptomList = SymptomDatabase.getSymptomList();
+
         for(int i = 1; i<=symptomList.size(); i++){
             System.out.println(i + ". " + symptomList.get(i-1));
         }
+
+        return symptomList;
     }
 }

@@ -1,4 +1,4 @@
-::Risk for Allergy Reaction::
+::risk for Allergy Reaction::
 
 ::Definition::
 Susceptible to an exaggerated immune response or reaction to substances, which may compromise health.

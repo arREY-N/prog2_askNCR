@@ -1,4 +1,4 @@
-::Risk for Aspiration::
+::risk for Aspiration::
 
 ::Definition::
 Susceptible to entry of gastrointestinal secretions,
