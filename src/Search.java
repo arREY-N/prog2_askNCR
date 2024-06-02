@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -71,15 +72,35 @@ public class Search {
             try{
                 System.out.print("Choose Diagnosis (0 to exit): ");
                 if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
-                    SymptomDatabase.getSymptom(scan, symptomList.get(symptomNumber-1));
+                    LinkedHashMap<String, ArrayList<String>> fileContents = SymptomDatabase.getSymptom(scan, symptomList.get(symptomNumber-1));
+                    showSymptomInformation(scan, fileContents, symptomList.get(symptomNumber-1));
                 } else {
                     System.out.println();
                     symptomLoop = false;
                 }
             } catch (NumberFormatException nfe){
-                System.out.println("Invalid input!");
+                System.out.println("\nInvalid input!\n");
             }
         }while(symptomLoop); 
+    }
+
+    public static void showSymptomInformation(Scanner scan, LinkedHashMap<String, ArrayList<String>> fileContents, String symptomName){
+        for(Map.Entry<String, ArrayList<String>> content : fileContents.entrySet()){
+            if(content.getKey().equals(symptomName)){
+                System.out.println("-----" + content.getKey() + "-----\n");
+            } else {
+                System.out.println("=====" + content.getKey());
+                for(String texts: content.getValue()){
+                    if(texts != ""){
+                        System.out.println(texts);
+                        scan.nextLine();
+                    }
+                }
+            }
+        }
+
+        System.out.print("End of document. Enter to continue...\n");
+        scan.nextLine();
     }
 
     public static ArrayList<String> showSymptomList(){

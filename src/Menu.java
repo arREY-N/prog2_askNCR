@@ -1,6 +1,10 @@
+import java.io.IOException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Scanner;
 
 public class Menu {
+    private static Path nursePath = Paths.get("database\\nurse");
     public static void main(String[] args) {
         AccountsDatabase.loadFromFile();    // loads txt files into the program
         NurseDatabase.loadFromFile();
@@ -86,7 +90,8 @@ public class Menu {
             try{
                 Validation.signup(username, password);
                 NurseDatabase.createNurseObject(scan, username);
-                NurseDatabase.createNurseFolder(username);
+                fileManagement.createFolder(nursePath, username);
+                fileManagement.createFile(username + "_patients.txt", nursePath.resolve(username));
                 homepage(scan, username);
             } catch (AccountExistingException a){
                 System.out.println(a.getMessage());
@@ -94,6 +99,8 @@ public class Menu {
             } catch (FolderCreationException e){
                 System.out.println(e.getMessage());
                 System.out.println();
+            } catch (IOException e) {
+                System.out.println("Error creating file\n");
             }
         } else {
             System.out.println("Input must be alphanumeric only");
