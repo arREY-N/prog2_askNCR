@@ -2,11 +2,7 @@
 
 ::Definition::
 ineffective Activity Planning: Inability to prepare for a set of actions fixed in time and under certain conditions. 
-
 risk for ineffective Activity Planning: Vulnerable to an inability to prepare for a set of actions fixed in time and under certain conditions, which may compromise health. 
-
-
-
 
 ::Action/Interventions::
 [Nursing Priority No. 1]
@@ -25,7 +21,6 @@ risk for ineffective Activity Planning: Vulnerable to an inability to prepare fo
 12. Assess the client’s ability to process information. Low selfesteem, anxiety, and possibly difficulty with thinking may interfere with perceptions.
 13. Discuss the possibility that the client is motivated by pleasure to avoid pain (hedonism). The individual may seek activities that bring pleasure to avoid painful experiences.
 14. Note availability and use of resources. Client may have diffi culty if family and friends are not supportive and other resources are not readily available.
-
 [Nursing Priority No. 2]
      To assist client to recognize and deal with individual factors
 that do or could interfere with activities, and begin to plan
@@ -40,7 +35,6 @@ appropriate activities:
 8. Accompany the client to an activity of his or her own choosing, encouraging participation together if appropriate. Support from the caregiver may enable the client to begin participating and gain confidence.
 9. Assist the client in developing skills of relaxation, imagery/visualization, and mindfulness. Using these techniques can help the client learn to overcome stress and be able to manage life’s diffi culties more effectively.
 10. Assist the client to investigate the idea that seeking pleasure (hedonism) is interfering with the motivation to accomplish goals. Some philosophers believe that pleasure is the only good for a person and that the individual does not see other aspects of life, which interferes with accomplishments.
-
 [Nursing Priority No.3]
      To promote wellness (Teaching/Discharge Criteria): 
 1. Assist the client in identifying life goals and priorities. If the individual has never thought about setting goals, he or she may begin to think about the possibility of being successful.

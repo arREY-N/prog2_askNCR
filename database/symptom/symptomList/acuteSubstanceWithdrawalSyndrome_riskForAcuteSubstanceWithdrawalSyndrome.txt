@@ -17,7 +17,6 @@ risk for Acute Substance Withdrawal Syndrome: Susceptible to experiencing seriou
 8. Review chest x-ray, arterial blood gas (ABG), or pulse oximetry. Respiratory compromise common, e.g., right lower lobe pneumonia common in alcohol-debilitated clients and is often due to chronic aspiration.
 9. Measure weight and compare to usual weight and norms for age and body size. Note skin turgor, status of mucous membranes, muscle tone/wasting, presence of edema. Substance abuse is often associated with malnutrition.
 10. Review serum nutritional studies, e.g., albumin, transferrin, prealbumin, iron, liver function, electrolytes, hemoglobin, hematocrit. Substance users are often malnourished, impacting organ function, energy/endurance level, immune status, general well-being.
-
 [Nursing Priority No. 2]
      To facilitate safe withdrawal from substance:
 1. Consult with medical toxicologist or regional poison control center as needed. Useful resources for diagnosis and management of acute/critically ill clients, especially those with multisubstance use.
@@ -35,7 +34,6 @@ risk for Acute Substance Withdrawal Syndrome: Susceptible to experiencing seriou
 13. Provide symptom management as indicated. Medications for nausea/vomiting, anxiety, trembling/“shakes,” insomnia, seizure activity promote comfort and facilitate recovery.
 14. Administer medications treating specifi c substance(s) used. For example, beta-adrenergic blockers may speed up the alcohol withdrawal process but are not useful in preventing seizures or DTs, and methadone is used to assist opioid withdrawal. Note: There are no U.S. Food and Drug Administration–approved medications for treating cannabis, cocaine, or methamphetamine and medicationassisted treatments (MATs) are rarely used to treat adolescent alcohol use (NIDA, 2014).
 15. Administer thiamine, vitamins C and B complex as indicated. Vitamin defi ciency, especially thiamine, is associated with ataxia, loss of eye movement and pupillary response, palpitations, postural hypotension, and exertional dyspnea. 
-
 [Nursing Priority No.3]
     To promote long-term sobriety:
 1. Develop trusting relationship, project an accepting attitude about substance use. Provides client with a sense of humanness, helping to decrease paranoia and distrust. (Client will be able to detect biased or condescending attitude of caregivers, negatively impacting relationship.)
@@ -48,5 +46,5 @@ risk for Acute Substance Withdrawal Syndrome: Susceptible to experiencing seriou
 8. Facilitate visit by a group member/possible sponsor as appropriate, such as Alcoholics Anonymous (AA), Narcotics Anonymous (NA), Crystal Methamphetamine Anonymous (CMA), Smart Recovery. Puts client in direct contact with support system necessary for managing sobriety and drug-free life.
 9. Administer antipsychotic medications as necessary. May be indicated for prolonged or profound psychosis following lysergic acid diethylamide (LSD) or phencyclidine (PCP) intoxication.
 10. Engage entire family in multidimensional family therapy as indicated. Program developed for adolescents with SUDs and their families to address the various infl uences on client’s substance use by improving family functioning and collaboration with other systems such as school and juvenile justice.
-
 =====
+

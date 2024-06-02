@@ -5,7 +5,6 @@ Susceptible to entry of gastrointestinal secretions,
 oropharyngeal secretions, solids or fluids into the tracheobronchial passages, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1] 
     To assess causative/contributing factors:
 1. Identify at-risk clients according to condition or disease process, as listed in Risk Factors, to determine when observation and/or interventions may be required.
@@ -20,7 +19,6 @@ oropharyngeal secretions, solids or fluids into the tracheobronchial passages, w
 10. Note the administration of enteral feedings, which may be initiated when oral nutrition is not possible. The potential exists for regurgitation and aspiration with the use of nasogastric feeding tubes, even with proper tube placement.
 11. Ascertain lifestyle habits (e.g., chronic use of alcohol and drugs, alcohol intoxication, tobacco, and other central nervous system [CNS] suppressant drugs). These can affect awareness as well as impair gag and swallow mechanisms.
 12. Assist with/review diagnostic studies (e.g., videofluoroscopy or fiberoptic endoscopy), which may be done to assess for presence/degree of impairment.
-
 [Nursing Priority No. 2]
     To assist in correcting factors that can lead to aspiration:
 1. Elevate the client to the highest or best possible position (e.g., sitting upright in chair) for eating and drinking and during tube feedings. Adults and children should be upright for meals to decrease the likelihood of drainage into the trachea and to reduce refl ux and improve gastric emptying.
@@ -47,7 +45,6 @@ oropharyngeal secretions, solids or fluids into the tracheobronchial passages, w
 - Provide oral medications in elixir form or crush, if appropriate.
 - Minimize the use of sedatives/hypnotics whenever possible. These agents can impair coughing and swallowing.
 - Refer to physician and/or speech/language therapist for medical or surgical interventions and/or exercises to strengthen muscles and learn specifi c techniques to enhance swallowing/reduce potential aspiration.
-
 [Nursing Priority No.3]
     To promote wellness (Teaching/Discharge Considerations):
 1. Review with client/significant other individual risk or potentiating factors.
@@ -56,3 +53,4 @@ oropharyngeal secretions, solids or fluids into the tracheobronchial passages, w
 4. Train the client how to self-suction or train family members in suction techniques (especially if the client has constant or copious oral secretions) to enhance safety/self-suffi ciency.
 5. Instruct the individual/family member to avoid or limit activities after eating that increase intra-abdominal pressure (straining, strenuous exercise, or tight/constrictive clothing), which may slow digestion/increase risk of regurgitation.
 =====
+

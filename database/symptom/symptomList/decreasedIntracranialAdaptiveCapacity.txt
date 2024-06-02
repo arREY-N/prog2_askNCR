@@ -4,12 +4,10 @@
 Compromise in intracranial fluid dynamic mechanisms that normally compensate for increases in intracranial volume are resulting in repeated disproportionate increases in intracranial pressure (ICP) in response to a variety of noxious and non-noxious stimuli. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1] 
     To assess causative/contributing factors:
 1. Determine factors related to individual situation (e.g., cause of loss of consciousness or coma [such as fall, motor vehicle crash, gunshot wound], infection such as meningitis or encephalitis, brain tumor) and potential for increased ICP.
 2.  Monitor and document changes in ICP; monitor waveform and corresponding event (e.g., suctioning, position change, monitor alarms, family visit). ICP monitoring may be done in a critically ill client with a Glasgow Coma Scale (GCS) score of 8 or less. The ICP offers data that supplement the neurological examination and can be crucial in client whose examination fi ndings are affected by sedatives, paralytics, or other factors. Elevated pressure can be caused by the injury, environmental stimuli, or treatment modalities.
-
 [Nursing Priority No. 2]
      To note degree of impairment:
 1. Assess and document client’s eye opening, position, and movement; size, shape, equality, light reactivity of pupils; and consciousness and mental status via GCS to determine client’s baseline neurological status and monitor changes over time.
@@ -18,7 +16,6 @@ Compromise in intracranial fluid dynamic mechanisms that normally compensate for
 4. Monitor vital signs and cardiac rhythm before, during, after activity. Helps determine parameters for “safe” activity. Mean arterial blood pressure should be maintained above 90 mm Hg to maintain cerebral perfusion pressure
 (CPP) greater than 70 mm Hg, which reflects adequate blood supply to the brain. Fever in brain injury can be associated with injury to the hypothalamus or bleeding, systemic infection (e.g., pneumonia), or drugs. Hyperthermia exacerbates cerebral ischemia. Irregular respiration patterns can suggest location of cerebral insult. Cardiac dysrhythmias can be due to brainstem injury and stimulation of the sympathetic nervous system. Bradycardia may occur with high ICP.
 5. Review results of diagnostic imaging (e.g., computed tomography [CT] scans) to note location, type, and severity of tissue injury.
-
 [Nursing Priority No.3]
      To minimize/correct causative factors and maximize perfusion:
 1. Elevate head of bed, as individually appropriate. Studies show that, in most cases, 30 degrees elevation significantly decreases ICP while maintaining cerebral blood fl ow.
@@ -39,3 +36,4 @@ Compromise in intracranial fluid dynamic mechanisms that normally compensate for
 16. Administer enteral or parenteral nutrition to achieve positive nitrogen balance, reducing effects of post–brain injury metabolic and catabolic states, which can lead to complications.
 17. Prepare client for surgery, as indicated (e.g., evacuation of hematoma or space-occupying lesion), to reduce ICP and enhance circulation.
 =====
+

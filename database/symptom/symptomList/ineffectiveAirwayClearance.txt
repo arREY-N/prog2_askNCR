@@ -3,7 +3,7 @@
 ::Definition::
 Inability to clear secretions or obstructions from the respiratory tract to maintain a clear airway.
 
-::Action/Interventions::   
+::Action/Interventions::
 [Nursing Priority No. 1]
 To maintain adequate, patent airway:
 1. Identify client populations at risk. Persons with impaired ciliary function (e.g., cystic fi brosis or lung transplant recipients); those with excessive or abnormal mucus production (e.g., asthma, emphysema, pneumonia, dehydration, bronchiectasis, or mechanical ventilation); those with impaired cough function (e.g., neuromuscular diseases, such as muscular dystrophy; multiple sclerosis neuromotor conditions, such as cerebral palsy; or spinal cord injury); those with swallowing abnormalities (e.g., poststroke, seizures, head/neck cancer, coma/sedation, tracheostomy, or facial burns/trauma/surgery); those who are immobile (e.g., sedated individual, frail elderly, developmentally delayed, institutionalized client with multiple high-risk conditions;) infant/child (e.g., feeding intolerance, abdominal distention, and emotional stressors that may compromise airway) are all at risk for problems with the maintenance of open airways.
@@ -20,7 +20,6 @@ To maintain adequate, patent airway:
 12. Instruct in/review postoperative breathing exercises, effective coughing, and use of adjunct devices (e.g., intermittent positive pressure breathing or incentive spirometer) in preoperative teaching.
 13. Assist with procedures (e.g., bronchoscopy or tracheostomy) to clear/maintain open airway.
 14. Keep environment allergen free (e.g., dust, feather pillows, or smoke) according to individual situation.
-
 [Nursing Priority No. 2]
 To mobilize secretions:
 1. Mobilize the client as soon as possible. This reduces risk or effects of atelectasis, enhancing lung expansion and drainage of different lung segments.
@@ -31,7 +30,6 @@ To mobilize secretions:
 6. Perform or assist the client in learning airway clearance techniques, such as postural drainage and percussion (chest physical therapy [CPT]), flutter devices, high-frequency chest compression with an infl atable vest, intrapulmonary percussive ventilation (IPV), and active cycle breathing technique (ACBT). Various therapies/modalities may be required to acquire and maintain adequate airways and improve respiratory function and gas exchange. (Refer to NDs ineffective Breathing Pattern; impaired Gas Exchange; impaired spontaneous Ventilation.)
 7. Support reduction/cessation of smoking to improve lung function.
 8. Position appropriately (e.g., head of bed elevated, side lying) and discourage use of oil-based products around nose to prevent vomiting with aspiration into lungs. (Refer to NDs risk for Aspiration; impaired Swallowing.) 
-
 [Nursing Priority No.3]
 To assess changes, note complications:
 1. Auscultate breath sounds and assess air movement to ascertain current status and note effects of treatment in clearing airways.
@@ -43,3 +41,4 @@ To assess changes, note complications:
 7. Obtain sputum specimen, preferably before antimicrobial therapy is initiated, to point to effective antimicrobial agent.
 8. Monitor/document serial chest x-rays, arterial blood gases, or pulse oximetry readings. 
 =====
+
