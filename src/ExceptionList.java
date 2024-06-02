@@ -15,3 +15,9 @@ class InvalidCredentialsException extends Exception{
         super("Log in Failed");
     }
 }
+
+class FileCreationException extends Exception{
+    FileCreationException(){
+        super("Error creating file!");
+    }
+}
