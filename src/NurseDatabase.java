@@ -13,10 +13,10 @@ import java.io.FileReader;
 public class NurseDatabase{
 
     enum nurseInformationList{
-        USERNAME, NURSENAME, AGE, SEX, POSITION, SHIFTSCHEDULE, AREAASSIGNMENT;
+        USERID, NURSENAME, AGE, SEX, POSITION, SHIFTSCHEDULE, AREAASSIGNMENT;
     }
 
-    private static Map<String, Nurse> nurseList = new TreeMap<>();
+    private static Map<String, Nurse> nurseInformation = new TreeMap<>();
     private static Path nurseInformationPath = Paths.get("database\\nurse\\nurseInformation.txt");
     
     public static void loadFromFile(){
@@ -26,10 +26,10 @@ public class NurseDatabase{
             String[] information = new String[7];
             while((line = reader.readLine()) != null){
                 information = line.split(delimiter);
-                nurseList.put(
-                    information[0], 
+                nurseInformation.put(
+                    information[nurseInformationList.valueOf("USERID").ordinal()], 
                     new Nurse(
-                        information[nurseInformationList.valueOf("USERNAME").ordinal()], 
+                        information[nurseInformationList.valueOf("USERID").ordinal()], 
                         information[nurseInformationList.valueOf("NURSENAME").ordinal()], 
                         Integer.parseInt(information[nurseInformationList.valueOf("AGE").ordinal()]),
                         information[nurseInformationList.valueOf("SEX").ordinal()],
@@ -46,8 +46,8 @@ public class NurseDatabase{
 
     public static void loadToFile(){
         try (BufferedWriter writer = Files.newBufferedWriter(Path.of(nurseInformationPath.toAbsolutePath().toString()), StandardOpenOption.TRUNCATE_EXISTING)) {
-            for(Map.Entry<String, Nurse> nurse: nurseList.entrySet()){
-                writer.write(nurse.getValue().getUsername());
+            for(Map.Entry<String, Nurse> nurse: nurseInformation.entrySet()){
+                writer.write(nurse.getValue().getUserID());
                 writer.write(',');
                 writer.write(nurse.getValue().getNurseName());
                 writer.write(',');
@@ -67,8 +67,8 @@ public class NurseDatabase{
         }
     }
 
-    public static void createNurseObject(Scanner scan, String username){
-        System.out.println("\nEnter Nursing Credentials!");
+    public static void createNurseObject(Scanner scan, String nurseID){
+        System.out.println("Enter Nursing Credentials!");
         System.out.print("Name: ");
         String nurseName = scan.nextLine();
         System.out.print("Age: ");
@@ -82,14 +82,16 @@ public class NurseDatabase{
         System.out.print("Area Assignment: ");
         String areaAssignment = scan.nextLine();
 
-        nurseList.put(username, new Nurse(username, nurseName, age, sex, position, shiftSchedule, areaAssignment));
+        addNurseAccount(nurseID, new Nurse(nurseID, nurseName, age, sex, position, shiftSchedule, areaAssignment));
+        
+        PatientDatabase.addNursePatientList(nurseInformation.get(nurseID));
     }
 
-    public static Map<String, Nurse> getNurseAccounts(){
-        return nurseList;
+    public static Map<String, Nurse> getNurseInformation(){
+        return nurseInformation;
     }
 
-    public static void addNurseAccount(String username, Nurse nurse){
-        nurseList.put(username, nurse);
+    public static void addNurseAccount(String nurseID, Nurse nurse){
+        nurseInformation.put(nurseID, nurse);
     }
 }

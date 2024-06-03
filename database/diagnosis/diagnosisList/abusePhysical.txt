@@ -5,3 +5,4 @@ chronic low Self-Esteem>chronicLowSelf-Esteem.txt
 ineffective Coping>ineffectiveCoping.txt
 sexual Dysfunction>sexualDysfunction.txt
 =====
+

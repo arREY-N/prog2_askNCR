@@ -21,6 +21,7 @@ public class DiagnosesDatabase {
     }
 
     private static Map<Integer, Diagnosis> diagnosisNames = new TreeMap<Integer, Diagnosis>();
+    private static Map<String, Integer> diagnosisTable = new TreeMap<String, Integer>();
 
     private static Path diagnosisListPath = Paths.get("database\\diagnosis\\diagnosisList.txt");
     private static Path diagnosisListFolderPath = Paths.get("database\\diagnosis\\diagnosisList");
@@ -43,6 +44,7 @@ public class DiagnosesDatabase {
                     if(nameMatcher.find()){
                         String diagnosisName = line.trim().substring(2, line.length()-2);
                         diagnosisNames.get(diagnosisNumber).setDiagnosisName(diagnosisName);
+                        diagnosisTable.put(diagnosisName, diagnosisNumber);
                     } else {
                         String[] symptomInfo = line.split(">");
                         diagnosisNames.get(diagnosisNumber).addSymptom(symptomInfo[0]);
@@ -53,6 +55,10 @@ public class DiagnosesDatabase {
                 e.printStackTrace();
             }
         }
+    }
+
+    public static Map<String, Integer> getDiagnosisTable(){
+        return diagnosisTable;
     }
 
     public static ArrayList<String> getDiagnosis(Integer diagnosisNumber) throws FileNotFoundException{

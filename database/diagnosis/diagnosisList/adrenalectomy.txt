@@ -1,7 +1,6 @@
 ::Adrenalectomy::
-
 ineffective Tissue Perfusion Specify>ineffectiveTissuePerfusionSpecify.txt
 risk for Infection>riskforInfection.txt
 deficient Knowledge regarding condition, prognosis, self-care, and treatment needs>deficientKnowledgeRegardingConditionPrognosisSelfCareandTreatmentNeeds.txt
-
 =====
+

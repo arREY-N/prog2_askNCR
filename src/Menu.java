@@ -1,8 +1,6 @@
-import java.io.IOException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
-
 public class Menu {
     private static Path nursePath = Paths.get("database\\nurse");
     public static void main(String[] args) {
@@ -11,6 +9,9 @@ public class Menu {
         DiagnosesDatabase.loadFromFile();
         NurseDatabase.loadFromFile();
         SymptomDatabase.loadFromFile();
+        PatientDatabase.loadFromFile();
+
+        
 
         Scanner scan = new Scanner(System.in);
         Boolean run = true;
@@ -20,7 +21,6 @@ public class Menu {
             System.out.println("A. Login");
             System.out.println("B. Sign Up");
             System.out.println("C. Exit");
-            System.out.println("D: Choose symptom");
             System.out.print("Enter your choice: ");
             String input = scan.nextLine().trim().toUpperCase();
 
@@ -37,10 +37,8 @@ public class Menu {
                         run = false;
                         AccountsDatabase.loadToFile();
                         NurseDatabase.loadToFile();
+                        PatientDatabase.loadToFile();
                         System.out.println("See you soon, our nurse!\n");
-                        break;
-                    case 'D':
-                        Search.chooseSymptoms(scan);
                         break;
                     default:
                         System.out.println("Invalid input!\n");
@@ -91,7 +89,6 @@ public class Menu {
                 Validation.signup(username, password);
                 NurseDatabase.createNurseObject(scan, username);
                 fileManagement.createFolder(nursePath, username);
-                fileManagement.createFile(username + "_patients.txt", nursePath.resolve(username));
                 homepage(scan, username);
             } catch (AccountExistingException a){
                 System.out.println(a.getMessage());
@@ -99,8 +96,6 @@ public class Menu {
             } catch (FolderCreationException e){
                 System.out.println(e.getMessage());
                 System.out.println();
-            } catch (IOException e) {
-                System.out.println("Error creating file\n");
             }
         } else {
             System.out.println("Input must be alphanumeric only");
@@ -108,7 +103,7 @@ public class Menu {
     }
 
     public static void homepage(Scanner scan, String username){
-        Nurse nurse = NurseDatabase.getNurseAccounts().get(username);
+        Nurse nurse = NurseDatabase.getNurseInformation().get(username);
         boolean run = true;
 
         while (run) {
@@ -177,7 +172,7 @@ public class Menu {
                     Retrieve.showAllSymptoms();
                     break;
                 case 5:
-                    NurseDatabase.getNurseAccounts();
+                    NurseDatabase.getNurseInformation();
                     break;
                 case 6:
                     System.out.println("Logging out...");

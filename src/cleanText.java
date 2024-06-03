@@ -17,7 +17,7 @@ import java.util.regex.Pattern;
 public class cleanText {
     public static void cleanTexts(){
         Scanner scan = new Scanner(System.in);
-        Path filePath = Paths.get("database\\symptom\\symptomList");
+        Path filePath = Paths.get("database\\diagnosis\\diagnosisList");
         File symptomFolder = new File(filePath.toString());
         File[] symptomFiles = symptomFolder.listFiles();
         Pattern titlePattern = Pattern.compile("::.*::");
@@ -55,9 +55,9 @@ public class cleanText {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            System.out.print("End of Document. Enter to continue...");
-            scan.nextLine();
         }
+        System.out.print("End of clean up...");
+        scan.nextLine();
         scan.close();
     }
 }

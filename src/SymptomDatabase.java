@@ -49,33 +49,42 @@ public class SymptomDatabase {
         return symptomArray;
     }  
 
-    public static LinkedHashMap<String, ArrayList<String>> getSymptom(Scanner scan, String symptomName){
+    public static LinkedHashMap<String, ArrayList<String>> getSymptom(String symptomName) throws NullPointerException{
         System.out.println();
         LinkedHashMap<String, ArrayList<String>> fileContents = new LinkedHashMap<>();
-        Path symptomPath = symptomListFolderPath.resolve(symptomList.get(symptomName).getFileName());
+        try{
+            Path symptomPath = symptomListFolderPath.resolve(symptomList.get(symptomName).getFileName());
 
-        Pattern titlePattern = Pattern.compile("::.*::");
+            Pattern titlePattern = Pattern.compile("::.*::");
 
-        String cleanTitle = null;
-        String title = null;
-        String line = null;
-        try (BufferedReader reader = new BufferedReader(new FileReader(symptomPath.toString()))) {
-            while((line=reader.readLine()) != null && !line.equals("=====")){
-                Matcher titleMatch = titlePattern.matcher(line);
-                if(titleMatch.find()){
-                    cleanTitle = line.trim();
-                    title = cleanTitle.substring(2, cleanTitle.length()-2);
-                    fileContents.put(title, new ArrayList<String>());
-                } else {
-                    if(!line.isEmpty()){
-                        fileContents.get(title).add(line);
+            String cleanTitle = null;
+            String title = null;
+            String line = null;
+            try (BufferedReader reader = new BufferedReader(new FileReader(symptomPath.toString()))) {
+                while((line=reader.readLine()) != null && !line.equals("=====")){
+                    Matcher titleMatch = titlePattern.matcher(line);
+                    if(titleMatch.find()){
+                        cleanTitle = line.trim();
+                        title = cleanTitle.substring(2, cleanTitle.length()-2);
+                        fileContents.put(title, new ArrayList<String>());
+                    } else {
+                        if(!line.isEmpty()){
+                            fileContents.get(title).add(line);
+                        }
                     }
                 }
+            } catch (IOException e) {
+                e.printStackTrace();
             }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
+        } catch (NullPointerException npe){
+            throw new NullPointerException();
+        } 
         return fileContents;
+    }
+
+    public static void createNewSymptom(Scanner scan){
+        System.out.println("\nCreate New Symptom\n");
+        scan.nextLine();
+
     }
 }

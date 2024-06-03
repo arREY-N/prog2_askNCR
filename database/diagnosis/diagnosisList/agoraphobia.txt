@@ -1,6 +1,5 @@
 ::Agoraphobhia::
-
 also refer to Phobia>alsorefertoPhobia.txt
 anxiety panic>anxietyPanic.txt
-
 =====
+

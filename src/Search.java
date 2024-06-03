@@ -24,13 +24,28 @@ public class Search {
                         try{
                             System.out.print("Choose Symptom (0 to exit): ");
                             if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
-                                SymptomDatabase.getSymptom(scan, diagnosisSymptomList.get(symptomNumber-1));
+                                try{
+                                    LinkedHashMap<String, ArrayList<String>> fileContents = SymptomDatabase.getSymptom(diagnosisSymptomList.get(symptomNumber-1));
+                                    showSymptomInformation(scan, fileContents, diagnosisSymptomList.get(symptomNumber-1));
+                                } catch (NullPointerException npe){
+                                    System.out.println("Sorry! Symptom is not yet available in the database!");
+                                    System.out.println("Add to database? (Y to add | Enter to go back)");
+                                    String response = scan.nextLine().toUpperCase().trim();
+
+                                    switch(response){
+                                        case "Y":
+                                            SymptomDatabase.createNewSymptom(scan);
+                                            break;
+                                        default:
+                                            break;
+                                    }
+                                }
                             } else {
                                 diagnosisSymptomLoop = false;
                             }
                         } catch (NumberFormatException nfe){
                             System.out.println("Invalid input!");
-                        }
+                        } 
                     }while(diagnosisSymptomLoop);
                 } else {
                     System.out.println();
@@ -38,7 +53,7 @@ public class Search {
                 }
             } catch (NumberFormatException nfe){
                 System.out.println("Invalid input!");
-            }
+            } 
         }while(diagnosisLoop); 
     }
 
@@ -72,21 +87,25 @@ public class Search {
             try{
                 System.out.print("Choose Diagnosis (0 to exit): ");
                 if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
-                    LinkedHashMap<String, ArrayList<String>> fileContents = SymptomDatabase.getSymptom(scan, symptomList.get(symptomNumber-1));
-                    showSymptomInformation(scan, fileContents, symptomList.get(symptomNumber-1));
+                    try{
+                        LinkedHashMap<String, ArrayList<String>> fileContents = SymptomDatabase.getSymptom(symptomList.get(symptomNumber-1));
+                        showSymptomInformation(scan, fileContents, symptomList.get(symptomNumber-1));
+                    } catch (NullPointerException npe){
+                        System.out.println("\nSorry! Symptom is not yet available in the database!\n");
+                    }
                 } else {
                     System.out.println();
                     symptomLoop = false;
                 }
             } catch (NumberFormatException nfe){
                 System.out.println("\nInvalid input!\n");
-            }
+            } 
         }while(symptomLoop); 
     }
 
     public static void showSymptomInformation(Scanner scan, LinkedHashMap<String, ArrayList<String>> fileContents, String symptomName){
         for(Map.Entry<String, ArrayList<String>> content : fileContents.entrySet()){
-            if(content.getKey().equals(symptomName)){
+            if(content.getKey().equalsIgnoreCase(symptomName)){
                 System.out.println("-----" + content.getKey() + "-----\n");
             } else {
                 System.out.println("=====" + content.getKey());
@@ -98,7 +117,6 @@ public class Search {
                 }
             }
         }
-
         System.out.print("End of document. Enter to continue...\n");
         scan.nextLine();
     }

@@ -1,7 +1,6 @@
 ::Anaphylaxis::
-
 also refer to Shock>alsorefertoShock.txt
 ineffective Airway Clearance>ineffectiveAirwayClearance.txt
 decreased Cardiac Output>decreasedCardiacOutput.txt
-
 =====
+

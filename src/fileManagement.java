@@ -9,7 +9,7 @@ public class fileManagement {
         
         if(folderFile.mkdir()){
             System.out.println();
-            System.out.println(userID + " folder created!");                
+            System.out.println(userID + " folder created!");           
         } else {
             throw new FolderCreationException();
         }
@@ -25,8 +25,20 @@ public class fileManagement {
         }
     }
 
-    public static void removeFolder(Path folderPath, String userID){
-        
+    public static void removeFolder(Path folderPath){
+        System.out.println(folderPath.toString());
+        File userFolder = new File(folderPath.toString());
+        File[] userFiles = userFolder.listFiles();
+
+        if(userFiles != null && userFiles.length > 0){
+            System.out.println("userFiles != null && userFiles.length > 0");
+            for(File file: userFiles){
+                file.delete();
+            }
+        } else {
+            System.out.println("deleting folder");
+            userFolder.delete();
+        }
     }
 
     public static void removeFile(String fileName, Path folderPath){
