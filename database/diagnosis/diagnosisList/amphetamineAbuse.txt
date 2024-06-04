@@ -1,4 +1,9 @@
 ::Almphetamine Abuse::
+<<<<<<< HEAD
+
+Stimulant abuse>StimulantAbuse.txt
+=======
 refer to Stimulant abuse>refertoStimulantAbuse.txt
 =====
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 

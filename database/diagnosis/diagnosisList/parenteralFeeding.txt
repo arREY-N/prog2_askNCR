@@ -1,0 +1,9 @@
+::Parenteral Feeding::
+
+imbalanced Nutrition: less than body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+risk for Infection>riskforInfection.txt
+risk for Injury>riskforInjury.txt
+risk for imbalanced Fluid Volume>riskforimbalancedFluidVolume.txt
+fatigue>fatigue.txt
+
+=====

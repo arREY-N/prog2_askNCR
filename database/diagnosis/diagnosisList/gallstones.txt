@@ -1,0 +1,6 @@
+::Gallstones::
+
+ineffective peripheral Tissue Perfusion>ineffectiveperipheralTissuePerfusion.txt
+acute Pain>acutePain.txt
+
+=====

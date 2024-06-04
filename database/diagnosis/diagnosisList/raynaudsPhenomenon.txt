@@ -1,0 +1,7 @@
+::Raynaud’s Phenomenon::
+
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+ineffective peripheral Tissue Perfusion>ineffectiveperipheralTissuePerfusion.txt
+deficient Knowledge regarding pathophysiology of condition, potential for complications, therapy and self-care Needs>deficientKnowledgeRegardingPathophysiologyofConditionPotentialforComplicationsTherapyandSelf-CareNeeds.txt
+
+=====

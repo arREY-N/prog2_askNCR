@@ -1,0 +1,9 @@
+::Bulimia Nervosa::
+
+anorexia Nervosa>anorexiaNervosa.txt
+impaired Dentition>impairedDentition.txt
+impaired oral Mucous Membrane>impairedoralMucousMembrane.txt
+risk for deficient Fluid Volume / risk for Bleeding>riskfordeficientFluidVolume/riskforBleeding.txt
+deficient Knowledge regarding condition, pronosis, complication, treatment>deficientKnowledgeRegardingConditionPrognosisComplicationTreatment.txt
+
+=====

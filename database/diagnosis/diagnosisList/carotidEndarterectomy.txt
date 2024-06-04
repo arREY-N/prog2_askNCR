@@ -1,0 +1,6 @@
+::Carotid Endarterectomy::
+
+surgery, General>surgeryGeneral.txt
+risk for ineffective cerebral Tissue Perfusion>riskforineffectivecerebralTissuePerfusion.txt
+
+=====

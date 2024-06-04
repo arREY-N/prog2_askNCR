@@ -1,4 +1,9 @@
 ::Allergies, Seasonal::
+<<<<<<< HEAD
+
+Hay Fever>HayFever.txt
+=======
 refer to Hay Fever>refertoHayFever.txt
 =====
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 

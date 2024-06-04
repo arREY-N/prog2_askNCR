@@ -1,0 +1,9 @@
+::Metabolic syndrome::
+
+risk for unstable Blood Glucose Level>riskforunstableBloodGlucoseLevel.txt
+sedentary Lifestyle>sedentaryLifestyle.txt
+compromised family Coping>compromisedfamilyCoping.txt
+impaired Home Maintenance>impairedHomeMaintenance.txt
+risk for ineffective Tissue Perfusion>riskforineffectiveTissuePerfusion.txt
+
+=====

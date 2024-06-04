@@ -1,0 +1,6 @@
+::Cat Scratch Disease::
+
+acute Pain>acutePain.txt
+hyperthermia>hyperthermia.txt
+
+=====

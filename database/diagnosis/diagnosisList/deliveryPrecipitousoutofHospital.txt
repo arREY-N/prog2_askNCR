@@ -1,0 +1,8 @@
+::Delivery, Precipitous / Out of Hospital::
+
+labor, Precipitous; Labor, stage I (active phase); Labor stage II (expulsion)>laborPrecipitousLaborstageI(activephase)LaborstageII(expulsion).txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+risk for Infection>riskforInfection.txt
+risk for fetal Injury>riskforFetalInjury.txt
+
+=====

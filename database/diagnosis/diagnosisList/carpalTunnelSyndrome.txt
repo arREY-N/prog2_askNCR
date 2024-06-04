@@ -1,0 +1,8 @@
+::Carpal Tunnel Syndrome::
+
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+impaired Physical Mobility>impairedPhysicalMobility.txt
+risk for peripheral neurovascular Dysfunction>riskforperipheralneurovascularDysfunction.txt
+deficient Knowledge regarding condition, prognosis, treatment, and safety needs>deficientKnowledgeregardingConditionPrognosisTreatmentandSafetyNeeds.txt
+
+=====

@@ -1,0 +1,9 @@
+::Menopause::
+
+ineffective Thermoregulation>ineffectiveThermoregulation.txt
+fatigue>fatigue.txt
+risk for Sexual Dysfunction>riskforSexualDysfunction.txt
+risk for stress urinary Incontinence>riskforstressUrinaryIncontinence.txt
+readiness for enhanced Health Management>readinessforEnhancedHealthManagement.txt
+
+=====

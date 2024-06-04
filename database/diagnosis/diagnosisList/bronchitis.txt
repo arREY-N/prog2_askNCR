@@ -1,0 +1,6 @@
+::Bronchitis::
+
+ineffective Airway Clearance>ineffectiveAirwayClearance.txt
+activity Intolerance>activityIntolerance.txt
+
+=====

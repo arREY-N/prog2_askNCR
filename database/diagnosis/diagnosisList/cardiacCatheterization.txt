@@ -1,0 +1,8 @@
+::Cardiac Catheterization::
+
+anxiety>anxiety.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+risk for decreased cardiac Tissue Perfusion>riskfordecreasedcardiacTissuePerfusion.txt
+risk for Adverse Reaction to Iodinated Contrast Media>riskforAdverseReactiontoIodinatedContrastMedia.txt
+
+=====

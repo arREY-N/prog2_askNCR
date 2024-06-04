@@ -1,0 +1,9 @@
+::Delirium Tremens (Acute Alcohol Withdrawal)::
+
+anxiety_Fear>anxiety_Fear.txt
+disturbed Sensory Perception>disturbedSensoryPerception.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+risk for Falls>riskforFalls.txt
+imbalanced Nutrition: less than Body Requirements>imblancedNutrition:lessthanBodyRequirements.txt
+
+=====

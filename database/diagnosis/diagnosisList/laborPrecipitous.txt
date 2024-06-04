@@ -1,0 +1,7 @@
+::Labor, Precipitous::
+
+anxiety>anxiety.txt
+risk for impaired Skin Integrity_impaired Tissue Integrity>riskforimpairedSkinIntegrity_impairedTissueIntegrity.txt
+labor Pain>laborPain.txt
+
+=====

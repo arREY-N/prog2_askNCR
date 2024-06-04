@@ -1,0 +1,7 @@
+::Osteoporosis::
+
+risk for Trauma>riskforTrauma.txt
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+impaired physical Mobility>impairedphysicalMobilty.txt
+
+=====

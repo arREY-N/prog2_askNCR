@@ -1,0 +1,6 @@
+::Hernia, Hiatal::
+
+chronic Pain>chronicPain.txt
+deficient Knowledge regarding pathophysiology, prevention of complications and self-care needs>deficientKnowledgeRegardingPathophysiologyPreventionofComplicationsandSelf-CareNeeds.txt
+
+=====

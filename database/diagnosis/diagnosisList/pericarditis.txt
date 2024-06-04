@@ -1,0 +1,8 @@
+::Pericarditis::
+
+acute Pain>acutePain.txt
+activity Intolerance>activityIntolerance.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+anxiety>anxiety.txt
+
+=====

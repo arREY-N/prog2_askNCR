@@ -1,5 +1,10 @@
 ::AIDS Dementia::
+<<<<<<< HEAD
+
+Dementia, presenile/senile>Dimentia,presenile/senile.txt
+=======
 also refer to Dementia, presenile/senile>alsorefertoDimentia,presenile/senile.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 chronic Confusion/Impaired Memory>chronicConfusion/ImpairedMemory.txt
 ineffective Protection>ineffectiveProtection.txt
 =====

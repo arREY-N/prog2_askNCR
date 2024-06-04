@@ -1,0 +1,9 @@
+::Labor Stage II (Expulsion)::
+
+labor Pain>laborPain.txt
+cardiac Output (fluctuation)>cardiacOutput(fluctuation).txt
+risk for impaired fetal Gas Exchange>riskforimpairedFetalGasExchange.txt
+impaired Skin Integrity_impaired Tissue Integrity>impairedSkinIntegrity_impairedTissueIntegrity.txt
+risk for Fatigue>riskforFatigue.txt
+
+=====

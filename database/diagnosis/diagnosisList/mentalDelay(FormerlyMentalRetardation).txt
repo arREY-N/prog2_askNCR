@@ -1,0 +1,12 @@
+::Mental Delay (Formerly Mental Retardation)::
+
+impaired verbal Communication>impairedverbalCommunication.txt
+risk for Self-Care deficit>riskforSelf-Caredeficit.txt
+risk for Overweight or Obesity>riskforOverweightorObesity.txt
+risk for sedentary Lifestyle>riskforsedentaryLifestyle.txt
+impaired Social Interaction>impairedSocialInteraction.txt
+compromised family Coping>compromisedfamilyCoping.txt
+impaired Home Maintenance>impairedHomeMaintenance.txt
+risk for Sexual Dysfunction>riskforSexualDysfunction.txt
+
+=====

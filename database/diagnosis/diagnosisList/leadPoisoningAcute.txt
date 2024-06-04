@@ -1,0 +1,8 @@
+::Lead Poisoning, Chronic::
+
+contamination>contamination.txt
+risk for Trauma>riskforTrauma.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+deficient Knowledge regarding sources of lead and prevention of poisoning>deficientKnowledgeRegardingSourcesofLeadandPreventionofPoisoning.txt
+
+=====

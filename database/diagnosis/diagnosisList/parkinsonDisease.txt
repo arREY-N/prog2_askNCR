@@ -1,0 +1,9 @@
+::Parkinson Disease::
+
+impaired Walking>impairedWalking.txt
+impaired Swallowing>impairedSwallowing.txt
+impaired verbal Communication>impairedverbalCommunication.txt
+risk for Stress Overload>riskforStressOverload.txt
+caregiver Role Strain>caregiverRoleStrain.txt
+
+=====

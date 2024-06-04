@@ -1,0 +1,10 @@
+::Leukemia, Acute::
+
+chemotherapy>chemotherapy.txt
+risk for Infection>riskforInfection.txt
+anxiety_Fear>anxiety_Fear.txt
+activity Intolerance>activityIntolerance.txt
+acute Pain>acutePain.txt
+risk for deficient Fluid Volume_risk for Bleeding>riskfordeficientFluidVolume_riskforBleeding.txt
+
+=====

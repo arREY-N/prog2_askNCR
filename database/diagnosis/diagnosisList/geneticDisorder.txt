@@ -1,0 +1,9 @@
+::Genetic Disorder::
+
+anxiety>anxiety.txt
+deficient Knowledge regarding purpose and process of Genetic Counseling>deficientKnowledgeRegardingPurposeandProcessofGeneticCounseling.txt
+risk for interrupted Family Processes>riskforinterruptedFamilyProcesses.txt
+spiritual Distress>spiritualDistress.txt
+risk for complicated Grieving>riskforcomplicatedGrieving.txt
+
+=====

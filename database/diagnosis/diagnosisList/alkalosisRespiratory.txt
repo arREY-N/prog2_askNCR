@@ -1,5 +1,10 @@
 ::Alkalosis, Respiratory::
+<<<<<<< HEAD
+
+Underlying Cause or Condition>UnderlyingCauseorCondition.txt
+=======
 also refer to Underlying Cause or Condition>alsorefertoUnderlyingCauseorCondition.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 impaired Gas Exchange>impairedGasExchange.txt
 =====
 

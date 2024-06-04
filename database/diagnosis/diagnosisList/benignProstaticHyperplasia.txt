@@ -1,0 +1,8 @@
+::Benign Prostatic Hyperplasia::
+
+urinary Retention / overflow urinary Incontinence>urinaryRetention/overflowUrinaryIncontinence.txt
+acute Pain>acutePain.txt
+risk for deficient Fluid Volume / Electrolyte Imbalance>riskfordeficientFluidVolume/ElectrolyteImbalance.txt
+fear / Anxiety>fear/Anxiety.txt
+
+=====

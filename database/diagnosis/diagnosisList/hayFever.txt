@@ -1,0 +1,6 @@
+::Hay Fever::
+
+impaired Comfort>impairedComfort.txt
+deficient Knowledge regarding underlying cause, appropriate therapy, and required lifestyle changes>deficientKnowledgeregardingUnderlyingCauseAppropriateTherapyandRequiredLifestyleChanges.txt
+
+=====

@@ -1,0 +1,12 @@
+::Hepatitis::
+
+impaired Liver Function>impairedLiverFunction.txt
+fatigue>fatigue.txt
+imbalanced Nutrition: less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+risk for Infection>riskforInfection.txt
+risk for impaired Tissue Integrity>riskforimpairedTissueIntegrity.txt
+risk for impaired Home Management>riskforimpairedHomeManagement.txt
+deficient Knowledge regarding disease process and transmission, treatment needs, and future expectations>deficientKnowledgeRegardingDiseaseProcessandTransmissionTreatmentNeedsandFutureExpectations.txt
+
+=====

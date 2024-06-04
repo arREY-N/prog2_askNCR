@@ -1,0 +1,9 @@
+::Gastroesophageal Reflux Disease (GERD)::
+
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+impaired Swallowing>impairedSwallowing.txt
+risk for imbalanced Nutrition: less than Body Requirements>riskforimbalancedNutritionlessthanthanBodyRequirements.txt
+risk for Insomnia>riskforInsomnia.txt
+risk for Aspiration>riskforAspiration.txt   
+
+=====

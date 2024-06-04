@@ -1,0 +1,6 @@
+::Gangrene, Dry::
+
+ineffective peripheral Tissue Perfusion>ineffectiveperipheralTissuePerfusion.txt
+acute Pain>acutePain.txt
+
+=====

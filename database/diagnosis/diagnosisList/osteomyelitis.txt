@@ -1,0 +1,9 @@
+::Osteomyelitis::
+
+acute Pain>acutePain.txt
+hyperthermia>hyperthermia.txt
+ineffective Tissue Perfusion>ineffectiveTissuePerfusion.txt
+risk for impaired Walking>riskforimpairedWalking.txt
+deficient Knowledge regarding pathophysiology of condition, long-term therapy needs, activity restriction, and prevention of Complications>deficientKnowledgeRegardingPathophysiologyofConditionLong-termTherapyNeedsActivityRestrictionandPreventionofComplications.txt
+
+=====

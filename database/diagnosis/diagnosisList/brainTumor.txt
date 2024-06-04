@@ -1,0 +1,9 @@
+::Brain Tumor::
+
+acute Pain>acutePain.txt
+impaired Memory>impairedMemory.txt
+disturbed Sensory Perception>disturbedSensoryPerception.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+self-care Deficit>self-careDeficit.txt
+
+=====

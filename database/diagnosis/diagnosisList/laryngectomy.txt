@@ -1,0 +1,10 @@
+::Laryngectomy::
+
+cancer; Chemotherapy>cancer;Chemotherapy.txt
+ineffective Airway Clearance>ineffectiveAirwayClearance.txt
+impaired Skin Integrity_impaired Tissue Integrity>impairedSkinIntegrity_impairedTissueIntegrity.txt
+impaired oral Mucous Membrane_risk for Dry Mouth>impairedoralMucousMembrane_riskforDryMouth.txt
+impaired Verbal Communication>impairedVerbalCommunication.txt
+risk for Aspiration>riskforAspiration.txt
+
+=====

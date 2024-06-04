@@ -1,0 +1,6 @@
+::Neuralgia, Trigeminal::
+
+acute Pain>acutePain.txt
+deficient Knowledge regarding control of recurrent episodes, medical therapies, and self-care Needs>deficientKnowledgeregardingcontrolofrecurrentepisodesmedicaltherapiesandself-careNeeds.txt
+
+=====

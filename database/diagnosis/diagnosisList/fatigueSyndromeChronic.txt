@@ -1,0 +1,8 @@
+::Fatigue Syndrome, Chronic::
+
+fatigue>fatigue.txt
+chronic Pain>chronicPain.txt
+self-care Deficit>self-careDeficit.txt
+risk for ineffective Role Performance>riskforineffectiveRolePerformance.txt
+
+=====

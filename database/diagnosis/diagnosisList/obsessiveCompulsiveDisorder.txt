@@ -1,0 +1,7 @@
+::Obsessive-Compulsive Disorder::
+
+anxiety>anxiety.txt
+impaired Skin Integrity_impaired Tissue Integrity>impairedSkinIntegrity_impairedTissueIntegrity.txt
+risk for ineffective Role Performance>riskforineffectiveRolePerformance.txt
+
+=====

@@ -1,0 +1,8 @@
+::Delusional Disorder::
+
+risk for self-directed Violence_risk for other-directed Violence>riskforother-directedViolence.txt
+anxiety>anxiety.txt
+ineffective Health Management>ineffectiveHealthManagement.txt
+impaired Social Interaction>impairedSocialInteraction.txt
+
+=====

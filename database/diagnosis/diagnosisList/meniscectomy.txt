@@ -1,0 +1,6 @@
+::Meniscectomy::
+
+impaired Walking>impairedWalking.txt
+deficient Knowledge regarding postoperative expectations, prevention of complications, and self-care Needs>deficientKnowledgeRegardingpostoperativeExpectationsPreventionofComplicationsandSelf-careNeeds.txt
+
+=====

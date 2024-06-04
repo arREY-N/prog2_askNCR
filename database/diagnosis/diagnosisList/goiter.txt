@@ -1,0 +1,7 @@
+::Goiter::
+
+disturbed Body Image>disturbedBodyImage.txt
+anxiety>anxiety.txt
+risk for ineffective Airway Clearance>riskforineffectiveAirwayClearance.txt
+
+=====
