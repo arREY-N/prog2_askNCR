@@ -1,9 +1,4 @@
 ::Adams Strokes Syndrome::
-<<<<<<< HEAD
-
-Dysrhythmia, cardiac>DysrhythmiaCardiac.txt
-=======
 refer to Dysrhythmia, cardiac>refertoDysrhythmiaCardiac.txt
 =====
->>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 

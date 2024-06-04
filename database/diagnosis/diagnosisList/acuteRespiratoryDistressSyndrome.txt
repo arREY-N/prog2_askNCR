@@ -1,9 +1,4 @@
 ::Acute Respiratory Distress Syndrome::
-<<<<<<< HEAD
-
-Respiratory Distress Syndrome, Acute>RespiratoryDistressSyndrome.txt
-=======
 refer to Respiratory Distress Syndrome, Acute>refertoRespiratoryDistressSyndrome.txt
 =====
->>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 

@@ -1,9 +1,4 @@
 ::Addiction::
-<<<<<<< HEAD
-
-specific substances; Substance dependence/abuse rehabilitation>refertoSpecificSubstanceDependence/AbuseRehabilitation.txt
-=======
 refer to specific substances; Substance dependence/abuse rehabilitation>refertoSpecificSubstanceDependence/AbuseRehabilitation.txt
 =====
->>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 

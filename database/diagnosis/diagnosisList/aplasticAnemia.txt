@@ -1,5 +1,4 @@
 ::Aplastic Anemia::
-
 **also refer to Anemia>alsorefertoAnemia.txt
 ineffective Protection>ineffectiveProtection.txt
 fatigue>fatigue.txt

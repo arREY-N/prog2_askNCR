@@ -1,10 +1,5 @@
 ::Acoustic Neuroma::
-<<<<<<< HEAD
-
-Surgery, general>SurgeryGeneral.txt
-=======
 also refer to Surgery, general>alsorefertoSurgeryGeneral.txt
->>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 disturbed Auditory Sensory Perception>disturbedAuditorySensoryPerception.txt
 risk for Falls>riskforFalls.txt
 =====
