@@ -1,7 +1,7 @@
 ::Disturbed Body Image::
 
 ::Definition::
-Confusion in [and/or dissatisfaction with] mental picture of one’s physical self. 
+Confusion in [and/or dissatisfaction with] mental picture of one's physical self. 
 
 ::Action/Interventions::
 [Nursing Priority No. 1]
@@ -20,7 +20,6 @@ Confusion in [and/or dissatisfaction with] mental picture of one’s physical se
 12. Determine ethnic background and cultural and religious perceptions or considerations. Understanding how these factors affect the individual in this situation and how they may influence how individual deals with what has happened is necessary to develop appropriate intervention.
 13. Identify social aspects of illness or condition (e.g., sexually transmitted diseases, sterility, or chronic conditions), may affect how client views self and functions in social settings as well as how others view the client.
 14. Observe interaction of client with signifi cant other (SOs). Distortions in body image may be unconsciously reinforced by family members, and/or secondary gain issues may interfere with progress.
-
 [Nursing Priority No. 2] 
 -To determine coping abilities and skills: 
 1. Assess the client’s current level of adaptation and progress. 
@@ -29,8 +28,7 @@ Confusion in [and/or dissatisfaction with] mental picture of one’s physical se
 4. Note dependence on prescription medications or use of addictive substances, such as alcohol or other drugs, which may refl ect dysfunctional coping.
 5. Identify previously used coping strategies and effectiveness. 
 6. Determine individual/family/community resources available to the client. 
-
-[Nursing Priority No. 4]
+[Nursing Priority No. 3]
 -To assist client and SO(s) to deal with/accept issues of self-concept related to body image: 
 1. Establish a therapeutic nurse-client relationship, conveying an attitude of caring and developing a sense of trust. 
 2. Visit the client frequently and acknowledge the individual as someone who is worthwhile. This provides opportunities for listening to concerns and questions.
@@ -51,7 +49,6 @@ Confusion in [and/or dissatisfaction with] mental picture of one’s physical se
 16. Discuss the availability of prosthetics, reconstructive surgery, and physical/occupational therapy or other referrals as dictated by the individual situation. Provides hope that situation is not impossible and the future does not look so bleak.
 17. Help the client select and use clothing or makeup to minimize body changes and enhance appearance.
 18. Discuss the reasons for infectious isolation and treatment procedures when used and make time to sit down and talk/listen to the client while in the room to decrease the sense of isolation/loneliness.
-
 [Nursing Priority No. 4] 
 -To promote wellness (Teaching/Discharge Considerations): 
 1. Begin counseling/other therapies (e.g., biofeedback or relaxation) as soon as possible to provide early/ongoing sources of support.
@@ -61,6 +58,6 @@ Confusion in [and/or dissatisfaction with] mental picture of one’s physical se
 5. Identify/plan for alterations to home and work environment/activities to accommodate individual needs and support independence.
 6. Assist the client in learning strategies for dealing with feelings and venting emotions. 
 7. Offer positive reinforcement for efforts made (e.g., wearing makeup or using a prosthetic device). 
-8.  Refer to appropriate support groups. 
+8. Refer to appropriate support groups. 
+=====
 
-======

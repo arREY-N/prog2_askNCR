@@ -1,0 +1,39 @@
+::Decreased Intracranial Adaptive Capacity::
+
+::Definition::
+Compromise in intracranial fluid dynamic mechanisms that normally compensate for increases in intracranial volume are resulting in repeated disproportionate increases in intracranial pressure (ICP) in response to a variety of noxious and non-noxious stimuli. 
+
+::Action/Interventions::
+[Nursing Priority No. 1] 
+    To assess causative/contributing factors:
+1. Determine factors related to individual situation (e.g., cause of loss of consciousness or coma [such as fall, motor vehicle crash, gunshot wound], infection such as meningitis or encephalitis, brain tumor) and potential for increased ICP.
+2.  Monitor and document changes in ICP; monitor waveform and corresponding event (e.g., suctioning, position change, monitor alarms, family visit). ICP monitoring may be done in a critically ill client with a Glasgow Coma Scale (GCS) score of 8 or less. The ICP offers data that supplement the neurological examination and can be crucial in client whose examination fi ndings are affected by sedatives, paralytics, or other factors. Elevated pressure can be caused by the injury, environmental stimuli, or treatment modalities.
+[Nursing Priority No. 2]
+     To note degree of impairment:
+1. Assess and document client’s eye opening, position, and movement; size, shape, equality, light reactivity of pupils; and consciousness and mental status via GCS to determine client’s baseline neurological status and monitor changes over time.
+2. Note purposeful and nonpurposeful motor response (posturing, etc.), comparing right and left sides. Posturing and abnormal flexion of extremities usually indicate diffuse cortical damage. Absence of spontaneous movement on one side indicates damage to the motor tracts in the opposite cerebral hemisphere.
+3. Test for the presence of reflexes (e.g., blink, cough, gag, Babinski’s reflex), nuchal rigidity. Helps identify location of injury (e.g., loss of blink refl ex suggests damage to the pons and medulla, absence of cough and gag reflexes reflects damage to medulla).
+4. Monitor vital signs and cardiac rhythm before, during, after activity. Helps determine parameters for “safe” activity. Mean arterial blood pressure should be maintained above 90 mm Hg to maintain cerebral perfusion pressure
+(CPP) greater than 70 mm Hg, which reflects adequate blood supply to the brain. Fever in brain injury can be associated with injury to the hypothalamus or bleeding, systemic infection (e.g., pneumonia), or drugs. Hyperthermia exacerbates cerebral ischemia. Irregular respiration patterns can suggest location of cerebral insult. Cardiac dysrhythmias can be due to brainstem injury and stimulation of the sympathetic nervous system. Bradycardia may occur with high ICP.
+5. Review results of diagnostic imaging (e.g., computed tomography [CT] scans) to note location, type, and severity of tissue injury.
+[Nursing Priority No.3]
+     To minimize/correct causative factors and maximize perfusion:
+1. Elevate head of bed, as individually appropriate. Studies show that, in most cases, 30 degrees elevation significantly decreases ICP while maintaining cerebral blood fl ow.
+2. Maintain head and neck in neutral position, support with small towel rolls or pillows to maximize venous return. Avoid placing head on large pillow or causing hip flexion of 90 degrees or more.
+3. Decrease extraneous stimuli and provide comfort measures (e.g., quiet environment, soft voice, tapes of familiar voices played through earphones, back massage, gentle touch as tolerated) to reduce central nervous system stimulation and promote relaxation.
+4. Limit painful procedures (e.g., venipunctures, redundant neurological evaluations) to those that are absolutely necessary.
+5. Provide rest periods between care activities and limit duration of procedures. Lower lighting and noise level, schedule and limit activities to provide restful environment, reduce agitation, and limit spikes in ICP associated with noxious stimuli.
+6. Limit or prevent activities that increase intrathoracic or abdominal pressures (e.g., coughing, vomiting, straining at stool). Avoid or limit use of restraints. These factors markedly increase ICP.
+7. Suction with caution—only when needed—to just beyond end of endotracheal tube without touching tracheal wall or carina. Administer lidocaine intratracheally per protocol to reduce cough reflex, and hyperoxygenate before suctioning, as appropriate, to minimize hypoxia.
+8. Maintain patency of urinary drainage system to reduce risk of hypertension, increased ICP, and associated dysreflexia when a spinal cord injury is also present and spinal cord shock is past. (Refer to ND Autonomic Dysrefl exia.)
+9. Weigh, as indicated. Calculate fluid balance every shift ordaily to determine fluid needs, maintain hydration, and prevent fluid overload.
+10. Administer or restrict fluid intake, as necessary. Administer IV fluids via pump or control device to maintain circulating volume and CPP or to prevent inadvertent fluid bolus or vascular overload with potential cerebral edema and increased ICP.
+11. Regulate environmental temperature; use cooling blanket as indicated to decrease metabolic and O2 needs when fever is present or therapeutic hypothermia therapy is used.
+12. Investigate increased restlessness to determine causative factors and initiate corrective measures as early as possible.
+13. Provide appropriate safety measures and initiate treatment for seizures to prevent injury and increased ICP or hypoxia.
+14. Administer supplemental oxygen, as indicated, to prevent cerebral ischemia; hyperventilate (as indicated per protocol) when on mechanical ventilation. Therapeutic hyperventilation may be used (Pa CO 2 of 30 to 35 mm) to reduce intracranial hypertension for a short period of time, while other methods of ICP control are initiated.
+15. Administer medications (e.g., antihypertensives, diuretics, analgesics, sedatives, antipyretics, vasopressors, antiseizure drugs, neuromuscular blocking agents, and corticosteroids), as appropriate, to maintain cerebral homeostasis and manage symptoms associated with neurological injury.
+16. Administer enteral or parenteral nutrition to achieve positive nitrogen balance, reducing effects of post–brain injury metabolic and catabolic states, which can lead to complications.
+17. Prepare client for surgery, as indicated (e.g., evacuation of hematoma or space-occupying lesion), to reduce ICP and enhance circulation.
+=====
+

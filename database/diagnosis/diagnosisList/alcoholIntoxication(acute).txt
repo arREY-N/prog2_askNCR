@@ -1,7 +1,11 @@
 ::Alcohol Intoxication, Acute::
+<<<<<<< HEAD
 
 Delirium Tremens>DeliriumTremens.txt
+=======
+also refer to Delirium Tremens>alsorefertoDeliriumTremens.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 risk for ineffective Breathing Pattern>riskforineffectiveBreathingPattern.txt
 risk for Aspiration>riskforAspiration.txt
-
 =====
+

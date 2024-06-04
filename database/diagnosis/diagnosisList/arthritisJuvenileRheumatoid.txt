@@ -1,8 +1,11 @@
 ::Arthritis, Juvenile Rheumatoid::
+<<<<<<< HEAD
 
 Arthritis, Rheumatoidalso>ArthritisRheumatoid.txt
+=======
+also refer to Arthritis, Rheumatoidalso>refertoArthritisRheumatoid.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 risk for delayed Development>riskfordelayedDevelopment.txt
 social Isolation>socialIsolation.txt
-
-
 =====
+

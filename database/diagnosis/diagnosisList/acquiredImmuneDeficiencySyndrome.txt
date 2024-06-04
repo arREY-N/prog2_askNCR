@@ -1,5 +1,10 @@
 ::Acquired Immune Deficiency Syndrome::
+refer to AIDS>Aids.txt
+=====
 
+<<<<<<< HEAD
 AIDS>Aids.txt
 
 =====
+=======
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932

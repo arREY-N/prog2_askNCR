@@ -1,5 +1,4 @@
 ::Affective Disorder::
-
-Bipolar Disorder ; Depressive disorders, major>BipolarDisorderDepressiveDisordersMajor.txt
-
+**refer to Bipolar Disorder ; Depressive disorders, major>refertoBipolarDisorderDepressiveDisordersMajor.txt
 =====
+

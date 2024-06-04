@@ -1,5 +1,4 @@
 ::Acidosis Metabolic::
-
-Diabetic Ketoacidosis>DiabeticKetoacidosis.txt
-
+refer to Diabetic Ketoacidosis>DiabeticKetoacidosis.txt
 =====
+

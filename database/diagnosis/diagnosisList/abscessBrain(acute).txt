@@ -1,8 +1,7 @@
 ::Abscess Brain (Acute)::
-
 acute Pain>acutePain.txt
 risk for Hyperthermia>riskforHyperthermia.txt
 acute Confusion>acuteConfusion.txt
 risk for Trauma>riskforTrauma.txt
-
 =====
+

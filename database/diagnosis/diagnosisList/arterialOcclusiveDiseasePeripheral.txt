@@ -1,7 +1,6 @@
 ::Arterial Occlusive Disease, Peripheral::
-
 ineffective peripheral Tissue Perfusion>ineffectiveperipheralTissuePerfusion.txt
 risk for impaired Walking>riskforimpairedWalking.txt
 risk for impaired Skin / Tissue Integrity>riskforimpairedSkin/TissueIntegrity.txt
-
 =====
+

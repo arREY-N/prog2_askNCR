@@ -1,9 +1,13 @@
 ::Adenoidectomy::
+<<<<<<< HEAD
 
 Tonsillectomy>Tonsillectomy.txt
+=======
+also refer to Tonsillectomy>alsorefertoTonsillectomy.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 anxiety Specific Level/Fear>anxietySpecificLevel/Fear.txt
 risk for ineffective Airway Clearance>riskforineffectiveAirwayClearance.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
 acute Pain>acutePain.txt
-
 =====
+

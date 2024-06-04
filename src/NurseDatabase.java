@@ -5,38 +5,37 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.HashMap;
+import java.util.TreeMap;
 import java.util.Map;
+import java.util.Scanner;
 import java.io.FileReader;
 
 public class NurseDatabase{
 
     enum nurseInformationList{
-        USERNAME, NURSENAME, AGE, SEX, POSITION, SHIFTSCHEDULE, AREAASSIGNMENT, PATIENTFOLDER;
+        USERID, NURSENAME, AGE, SEX, POSITION, SHIFTSCHEDULE, AREAASSIGNMENT;
     }
 
-    private static HashMap<String, Nurse> nurseList = new HashMap<>();
-    private static Path nursePath = Paths.get("database\\nurse\\nurseInformation.txt");
-
+    private static Map<String, Nurse> nurseInformation = new TreeMap<>();
+    private static Path nurseInformationPath = Paths.get("database\\nurse\\nurseInformation.txt");
+    
     public static void loadFromFile(){
-        try (BufferedReader reader = new BufferedReader(new FileReader(nursePath.toAbsolutePath().toString()))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader(nurseInformationPath.toAbsolutePath().toString()))) {
             String delimiter = ",";
             String line;
-            String[] information = new String[8];
-
+            String[] information = new String[7];
             while((line = reader.readLine()) != null){
                 information = line.split(delimiter);
-                nurseList.put(
-                    information[0], 
+                nurseInformation.put(
+                    information[nurseInformationList.valueOf("USERID").ordinal()], 
                     new Nurse(
-                        information[nurseInformationList.valueOf("USERNAME").ordinal()], 
+                        information[nurseInformationList.valueOf("USERID").ordinal()], 
                         information[nurseInformationList.valueOf("NURSENAME").ordinal()], 
                         Integer.parseInt(information[nurseInformationList.valueOf("AGE").ordinal()]),
                         information[nurseInformationList.valueOf("SEX").ordinal()],
                         information[nurseInformationList.valueOf("POSITION").ordinal()], 
                         information[nurseInformationList.valueOf("SHIFTSCHEDULE").ordinal()], 
-                        information[nurseInformationList.valueOf("AREAASSIGNMENT").ordinal()], 
-                        information[nurseInformationList.valueOf("PATIENTFOLDER").ordinal()]
+                        information[nurseInformationList.valueOf("AREAASSIGNMENT").ordinal()]
                     )
                 );
             }
@@ -46,15 +45,13 @@ public class NurseDatabase{
     }
 
     public static void loadToFile(){
-        try (BufferedWriter writer = Files.newBufferedWriter(Path.of(nursePath.toAbsolutePath().toString()), StandardOpenOption.TRUNCATE_EXISTING)) {
-            for(Map.Entry<String, Nurse> nurse: nurseList.entrySet()){
-                writer.write(nurse.getKey());
-                writer.write(',');
-                writer.write(nurse.getValue().getUsername());
+        try (BufferedWriter writer = Files.newBufferedWriter(Path.of(nurseInformationPath.toAbsolutePath().toString()), StandardOpenOption.TRUNCATE_EXISTING)) {
+            for(Map.Entry<String, Nurse> nurse: nurseInformation.entrySet()){
+                writer.write(nurse.getValue().getUserID());
                 writer.write(',');
                 writer.write(nurse.getValue().getNurseName());
                 writer.write(',');
-                writer.write(nurse.getValue().getAge());
+                writer.write(String.valueOf(nurse.getValue().getAge()));
                 writer.write(',');
                 writer.write(nurse.getValue().getSex());
                 writer.write(',');
@@ -63,8 +60,6 @@ public class NurseDatabase{
                 writer.write(nurse.getValue().getShiftSchedule());
                 writer.write(',');
                 writer.write(nurse.getValue().getAreaAssignment());
-                writer.write(',');
-                writer.write(nurse.getValue().getPatientFolder());
                 writer.write('\n');
             }
         } catch (IOException e) {
@@ -72,11 +67,31 @@ public class NurseDatabase{
         }
     }
 
-    public static HashMap<String, Nurse> getNurseAccounts(){
-        return nurseList;
+    public static void createNurseObject(Scanner scan, String nurseID){
+        System.out.println("Enter Nursing Credentials!");
+        System.out.print("Name: ");
+        String nurseName = scan.nextLine();
+        System.out.print("Age: ");
+        int age = Integer.parseInt(scan.nextLine());
+        System.out.print("Sex: ");
+        String sex = scan.nextLine();
+        System.out.print("Position: ");
+        String position = scan.nextLine();
+        System.out.print("Shift Schedule: ");
+        String shiftSchedule = scan.nextLine();
+        System.out.print("Area Assignment: ");
+        String areaAssignment = scan.nextLine();
+
+        addNurseAccount(nurseID, new Nurse(nurseID, nurseName, age, sex, position, shiftSchedule, areaAssignment));
+        
+        PatientDatabase.addNursePatientList(nurseInformation.get(nurseID));
     }
 
-    public static void addNurseAccount(String username, Nurse nurse){
-        nurseList.put(username, nurse);
+    public static Map<String, Nurse> getNurseInformation(){
+        return nurseInformation;
+    }
+
+    public static void addNurseAccount(String nurseID, Nurse nurse){
+        nurseInformation.put(nurseID, nurse);
     }
 }

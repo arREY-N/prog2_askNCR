@@ -1,8 +1,7 @@
 ::Abruptio Placentae::
-
 risk for Shock>riskforShock.txt
 fear>fear.txt
 acute Pain>acutePain.txt
 risk for disturbed Maternal Fetal Dyad>riskfordisturbedMaternalFetalDyad.txt
-
 =====
+

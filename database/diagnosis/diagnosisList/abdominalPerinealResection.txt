@@ -1,7 +1,6 @@
 ::Abdominal Perineal Resection::
-
 disturbed Body Image>disturbedBodyImage.txt
-risk for Constipation>riskforConstipation.txt
-risk for Sexual Dysfunction>riskforSexualDysfuntion.txt
-
+risk for Constipation>riskForConstipation.txt
+risk for Sexual Dysfunction>riskForSexualDysfunction.txt
 =====
+

@@ -1,8 +1,18 @@
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Scanner;
-
 public class Menu {
+    private static Path nursePath = Paths.get("database\\nurse");
     public static void main(String[] args) {
         AccountsDatabase.loadFromFile();    // loads txt files into the program
+        NurseDatabase.loadFromFile();
+        DiagnosesDatabase.loadFromFile();
+        NurseDatabase.loadFromFile();
+        SymptomDatabase.loadFromFile();
+        PatientDatabase.loadFromFile();
+
+        
+
         Scanner scan = new Scanner(System.in);
         Boolean run = true;
         
@@ -11,6 +21,7 @@ public class Menu {
             System.out.println("A. Login");
             System.out.println("B. Sign Up");
             System.out.println("C. Exit");
+            System.out.print("Enter your choice: ");
             String input = scan.nextLine().trim().toUpperCase();
 
             if(!input.isEmpty()){
@@ -22,9 +33,11 @@ public class Menu {
                     case 'B':
                         signupMenu(scan);
                         break;
-                    case 'C':
+                    case 'C':    
                         run = false;
                         AccountsDatabase.loadToFile();
+                        NurseDatabase.loadToFile();
+                        PatientDatabase.loadToFile();
                         System.out.println("See you soon, our nurse!\n");
                         break;
                     default:
@@ -48,10 +61,17 @@ public class Menu {
         // first checks if the input is a valid input (alphanumeric only)
         if(Validation.isAlphanumeric(username, password) == true){
             // if true, calls the login() method in the Validation class
-            Validation.login(username, password);
+            try{
+                Validation.login(username, password);
+                homepage(scan, username);
+            } catch (InvalidCredentialsException e){
+                System.out.println(e.getMessage());
+                System.out.println();
+            }
         } else {
             System.out.println("Input must be alphanumeric only");
         }
+        System.out.println();
     }
     
     public static void signupMenu(Scanner scan){
@@ -60,21 +80,106 @@ public class Menu {
         String username = scan.nextLine();
         System.out.print("Password: ");
         String password = scan.nextLine();
+        System.out.println();
 
         // first checks if the input is a valid input (alphanumeric only)
         if(Validation.isAlphanumeric(username, password) == true){
             // if true, calls the login() method in the Validation class
-            Validation.signup(username, password);
+            try{
+                Validation.signup(username, password);
+                NurseDatabase.createNurseObject(scan, username);
+                fileManagement.createFolder(nursePath, username);
+                homepage(scan, username);
+            } catch (AccountExistingException a){
+                System.out.println(a.getMessage());
+                System.out.println();
+            } catch (FolderCreationException e){
+                System.out.println(e.getMessage());
+                System.out.println();
+            }
         } else {
             System.out.println("Input must be alphanumeric only");
         }
     }
 
-    public static void adminHome(Scanner scan){
+    public static void homepage(Scanner scan, String username){
+        Nurse nurse = NurseDatabase.getNurseInformation().get(username);
+        boolean run = true;
 
+        while (run) {
+            System.out.println("What do you like to see?");
+            System.out.println("A. Nurse's Information");
+            System.out.println("B. Patient's Information Management");
+            System.out.println("C. Diagnoses Page");
+            System.out.println("D. Symptoms Page");
+            System.out.println("E. Log out");
+            System.out.print("Enter your choice: ");
+            String response = scan.nextLine().toUpperCase();
+            System.out.println();
+            
+            if(!response.isEmpty()){
+                char choice = response.charAt(0);
+                switch (choice) {
+                    case 'A':
+                        Nurse.nurseInformationPage(scan, nurse);
+                        break;
+                    case 'B':
+                        PatientManagement.patientInformationManagement(scan, nurse);
+                        break;
+                    case 'C':
+                        Search.chooseDiagnosis(scan);
+                        break;
+                    case 'D':
+                        Search.chooseSymptoms(scan); 
+                        break;                   
+                    case 'E':
+                        run = false;
+                        break;
+                    default:
+                        System.out.println("Invalid input. Please try again.");
+                        System.out.println();
+                        break;
+                }
+            } else {
+                System.out.println("Invalid input. Please try again.");
+            }
+        }
     }
 
-    public static void nurseHome(Scanner scan, String username, String password){
-        
+    public static void adminHome(Scanner scan){
+        while (true) {
+            System.out.println("Admin Home");
+            System.out.println("1. Show Accounts");
+            System.out.println("2. Show Diagnoses");
+            System.out.println("3. Show Patients");
+            System.out.println("4. Show Symptoms");
+            System.out.println("5. Show Nurses");
+            System.out.println("6. Logout");
+            System.out.print("Enter your choice: ");
+            int choice = scan.nextInt();
+            scan.nextLine(); 
+            switch (choice) {
+                case 1:
+                    AccountsDatabase.showAccounts();
+                    break;
+                case 2:
+                    Retrieve.showAllDiagnose();
+                    break;
+                case 3:
+                    // PatientDatabase.showPatientList();
+                    break;
+                case 4:
+                    Retrieve.showAllSymptoms();
+                    break;
+                case 5:
+                    NurseDatabase.getNurseInformation();
+                    break;
+                case 6:
+                    System.out.println("Logging out...");
+                    return;
+                default:
+                    System.out.println("Invalid choice!");
+            }
+        }
     }
 }

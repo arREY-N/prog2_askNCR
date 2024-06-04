@@ -1,10 +1,9 @@
 ::Achalasia (Cardiospasm)::
-
 impaired Swallowing>impairedSwallowing.txt
 imbalanced Nutrition: less than body requirements>imbalancedNutrition:lessthanBodyRequirements.txt
 acute Pain>acutePain.txt
-fear / anxiety specific level>fear/AnxietySpecificLevel.txt
+fear/anxiety specific level>fear_AnxietySpecificLevel.txt
 risk for Aspiration>riskforAspiration.txt
 deficient Knowledge regarding condition, prognosis, self-care, and treatment needs>deficientKnowledgeregardingconditionprognosisself-careandtreatmentneeds.txt
-
 =====
+

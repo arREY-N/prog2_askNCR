@@ -6,11 +6,11 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.HashMap;
+import java.util.TreeMap;
 import java.util.Map;
 
 public class AccountsDatabase {
-    private static HashMap<String, String> accountList = new HashMap<>();
+    private static TreeMap<String, String> accountList = new TreeMap<>();
     
     private static Path accountPath = Paths.get("database\\nurse\\nurseAccount.txt");
     private static String adminName = "admin";
@@ -44,7 +44,7 @@ public class AccountsDatabase {
         }
     }
 
-    public static HashMap<String, String> getAccounts(){
+    public static Map<String, String> getAccounts(){
         return accountList;
     }
 
@@ -60,11 +60,11 @@ public class AccountsDatabase {
         return adminPassword;
     }
 
-    // private static void showAccounts(){
-    //     for(Map.Entry<String, String> account: accountList.entrySet()){
-    //         System.out.println("Account: " + account.getKey());
-    //         System.out.println("Password: " + account.getValue());
-    //         System.out.println();
-    //     }
-    // }
+    public static void showAccounts(){
+        for(Map.Entry<String, String> account: accountList.entrySet()){
+            System.out.println("Account: " + account.getKey());
+            System.out.println("Password: " + account.getValue());
+            System.out.println();
+        }
+    }
 }

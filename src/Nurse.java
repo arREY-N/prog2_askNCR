@@ -1,21 +1,22 @@
+import java.util.Scanner;
+
 public class Nurse {
-    private String username;
+    private String userID;
     private String nurseName;
     private String sex;
     private int age;
     private String position;
     private String shiftSchedule;
     private String areaAssignment;
-    private String patientFolder;
     
-    public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment, String patientFolder){
-        this.username = username;
+    public Nurse(String userID, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment){
+        this.userID = userID;
         this.nurseName = nurseName;
         this.age = age;
+        this.sex = sex;
         this.position = position;
         this.shiftSchedule = shiftSchedule;
         this.areaAssignment = areaAssignment;
-        this.patientFolder = patientFolder;
     }
 
     public void setPosition(String position){
@@ -30,12 +31,8 @@ public class Nurse {
         this.areaAssignment = areaAssignment;
     }
 
-    public void setPatientFolder(String patientFolder){
-        this.patientFolder = patientFolder;
-    }
-
-    public String getUsername(){
-        return username;
+    public String getUserID(){
+        return userID;
     }
 
     public String getNurseName(){
@@ -62,7 +59,16 @@ public class Nurse {
         return areaAssignment;
     }
 
-    public String getPatientFolder(){
-        return patientFolder;
+    public static void nurseInformationPage(Scanner scan, Nurse nurse) {
+        System.out.println("NURSE INFORMATION");
+        System.out.println("Name: " + nurse.getNurseName());
+        System.out.println("Age: " + nurse.getAge());
+        System.out.println("Sex: " + nurse.getSex());
+        System.out.println("Position: " + nurse.getPosition());
+        System.out.println("Shift Schedule: " + nurse.getShiftSchedule());
+        System.out.println("Area Assignment: " + nurse.getAreaAssignment());
+        System.out.print("\nEnter to continue...");
+        scan.nextLine();
+        System.out.println();
     }
 }

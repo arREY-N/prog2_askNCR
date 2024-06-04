@@ -1,7 +1,11 @@
 ::Anaphylaxis::
+<<<<<<< HEAD
 
 Shock>Shock.txt
+=======
+also refer to Shock>alsorefertoShock.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 ineffective Airway Clearance>ineffectiveAirwayClearance.txt
 decreased Cardiac Output>decreasedCardiacOutput.txt
-
 =====
+

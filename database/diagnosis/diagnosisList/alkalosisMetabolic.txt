@@ -1,5 +1,9 @@
 ::Alkalosis, Metabolic::
+<<<<<<< HEAD
 
 Underlying Cause or Condition>UnderlyingCauseorCondition.txt
-
+=======
+refer to Underlying Cause or Condition>refertoUnderlyingCauseorCondition.txt
 =====
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
+

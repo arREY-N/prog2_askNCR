@@ -1,5 +1,9 @@
 ::Adrenal Insufficiency::
+<<<<<<< HEAD
 
 Addison’s disease>AddisonsDisease.txt
-
+=======
+refer to Addison’s disease>refertoAddisonsDisease.txt
 =====
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
+

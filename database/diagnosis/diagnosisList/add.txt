@@ -1,5 +1,9 @@
 ::Attention Deficit Disorder::
+<<<<<<< HEAD
 
 Attention Deficit Disorder>AttentionDeficitDisorder.txt
-
+=======
+refer to Attention Deficit Disorder>refertoAttentionDeficitDisorder.txt
 =====
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
+

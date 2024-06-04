@@ -1,5 +1,9 @@
 ::Adjustment Disorder::
+<<<<<<< HEAD
 
 Anxiety Disorders-PED>AnxietyDisorders-PED.txt
-
+=======
+refer to Anxiety Disorders-PED>refertoAnxietyDisorders-PED.txt
 =====
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
+

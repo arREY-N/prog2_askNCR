@@ -1,0 +1,27 @@
+::risk for Adverse Reaction To Iodinated Contrast Media::
+
+::Definition::
+: Susceptible to noxious or unintended reaction associated with the use of iodinated contrast media that can occur within 7 days after contrast agent injection, which may compromise health.
+
+::Action/Interventions::
+[Nursing Priority No. 1]
+    To identify causative/precipitating factors related to risk:
+1. Identify the client at risk for adverse reaction prior to procedures. A history of allergies, asthma, diabetes, renal insuffi ciency, including solitary kidney with elevated creatinine, thyroid dysfunction, hypertension, heart failure, current or recent use of nephrotoxic medications, or reaction to previous ICM administration places individual at increased risk.
+2. Ascertain type of reaction client experienced when there is a history of past reaction. There are two types of reactions, idiosyncratic and nonidiosyncratic, both of which could change decisions about using ICM for diagnostic purposes.
+[Nursing Priority No. 2]
+     To assist client/caregiver to reduce or correct individual risk
+factors: 
+1. Administer infusions using “six rights” system (right client, right medication, right route, right dose, right time, and right documentation) to prevent client from receiving improper contrast agent or dosage.
+2. Perform imaging tests that do not require contrast media where possible when client is at high risk for reaction.
+3. Administer IV fluids as appropriate to reduce incidence of contrast medium-induced nephropathy.
+4. Administer medications (e.g., prednisone [Deltasone] or Benadryl) before, during, and after injection or procedures to reduce risk or severity of reaction.
+5. Observe IV injection site frequently to ascertain that no extravasation of contrast solution is occurring.
+6. Halt infusion immediately if client reports site discomfort or redness or swelling is noted to prevent tissue damage from contrast agent.
+7. Monitor results of laboratory studies (e.g., creatinine clearance) to ascertain status of kidney function.
+[Nursing Priority No.3]
+    To promote wellness (Teaching/Discharge Criteria):
+1. Instruct client regarding signs and symptoms that should be reported to physician after a procedure. Any delayed signs of reaction should be reported to physician immediately for timely intervention.
+2. Instruct client/care provider about puncture sites and to report redness, soreness, or pain to reduce risk of complications associated with extravasation.
+3. Encourage client to use Medic Alert bracelet to alert healthcare providers of history of prior reaction to contrast media.
+=====
+

@@ -1,7 +1,7 @@
 ::Aplastic Anemia::
 
-Anemia>Anemia.txt
+**also refer to Anemia>alsorefertoAnemia.txt
 ineffective Protection>ineffectiveProtection.txt
 fatigue>fatigue.txt
-
 =====
+

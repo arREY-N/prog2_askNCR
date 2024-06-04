@@ -1,5 +1,9 @@
 ::Aneurysm, Cerebral::
+<<<<<<< HEAD
 
 Cerebrovascular accident>CerebrovascularAccident.txt
-
+=======
+refer to Cerebrovascular accident>refertoCerebrovascularAccident.txt
 =====
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
+
