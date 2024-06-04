@@ -5,9 +5,12 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.TreeMap;
 public class carePlan {
 
-    public static void createCareRecommendation(Scanner scan, Patient patient){
+    private static ArrayList<LinkedHashMap<String, ArrayList<String>>> careRecommendations = new ArrayList<>();
+
+    public static void createCareRecommendation(Scanner scan, Patient patient, Nurse nurse){
         Boolean createLoop = true;
 
         do{
@@ -19,7 +22,7 @@ public class carePlan {
             String response = scan.nextLine().toUpperCase().trim();
             switch (response) {
                 case "A":
-                    createDiagnosisCareRecommendation(scan, patient.getDiagnosis());
+                    createDiagnosisCareRecommendation(scan, patient.getDiagnosis(), patient, nurse);
                     break;
                 case "B":
                     System.out.println("Symptom-based care");
@@ -31,101 +34,103 @@ public class carePlan {
         } while (createLoop);
     }
 
-    public static void createDiagnosisCareRecommendation(Scanner scan, String patientDiagnosis){
+    public static void createDiagnosisCareRecommendation(Scanner scan, String patientDiagnosis, Patient patient, Nurse nurse){
         Map<String, Integer> diagnosisTable = DiagnosesDatabase.getDiagnosisTable();
+        Map<String, Integer> possibleMatch = new TreeMap<String, Integer>();
+        LinkedHashMap<String, ArrayList<String>> fileContents;
+        Boolean diagnosisSymptomLoop = true;
+        String diagnosisName;
+        int diagnosisNumber;
+        int symptomNumber;
+        Boolean found = false;
 
         for(Map.Entry<String, Integer> diagnosis: diagnosisTable.entrySet()){
-            if(fileMatches(diagnosis.getKey(), patientDiagnosis) == true){
-                scan.nextLine();
+            if(found == false && fileMatches(diagnosis.getKey(), patientDiagnosis) != null && fileMatches(diagnosis.getKey(), patientDiagnosis).equals("match")){
+                diagnosisName = DiagnosesDatabase.getDiagnosisList().get(diagnosisTable.get(diagnosis.getKey())).getDiagnosisName();
+                diagnosisNumber = diagnosisTable.get(diagnosis.getKey());
+                found = true;        
+                do{
+                    System.out.println();
+                    System.out.println("Diagnosis: " + diagnosisName);
+                        ArrayList<String> diagnosisSymptomList = Search.showDiagnosisSymptomList(diagnosisNumber);
+                        try{
+                            System.out.print("Choose Symptom (0 to exit): ");
+                            if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
+                                try{
+                                    fileContents = SymptomDatabase.getSymptom(diagnosisSymptomList.get(symptomNumber-1));
+                                    careRecommendations.add(fileContents);
+                                    Search.showSymptomInformation(scan, fileContents, diagnosisSymptomList.get(symptomNumber-1));
+                                } catch (NullPointerException npe){
+                                    System.out.println("Sorry! Symptom is not yet available in the database!");
+                                    System.out.println("Add to database? (Y to add | Enter to go back)");
+                                    String response = scan.nextLine().toUpperCase().trim();
+
+                                    switch(response){
+                                        case "Y":
+                                            SymptomDatabase.createNewSymptom(scan);
+                                            break;
+                                        default:
+                                            break;
+                                    }
+                                } catch (IndexOutOfBoundsException e){
+                                    System.out.println("\nInvalid input!");
+                                }
+                            } else {
+                                diagnosisSymptomLoop = false;
+                            }
+                        } catch (NumberFormatException nfe){
+                            System.out.println("Invalid input!");
+                        } 
+                    }while(diagnosisSymptomLoop);
+
+            } else if (found == false && fileMatches(diagnosis.getKey(), patientDiagnosis) != null && fileMatches(diagnosis.getKey(), patientDiagnosis).equals("part")){
+                possibleMatch.put(diagnosis.getKey(), diagnosisTable.get(diagnosis.getKey()));
+            } else{
+                continue;
+            }   
+
+            if(found == true){
+                System.out.println("Diagnosis found!");
+                fileManagement.createCareFile(careRecommendations, patient, nurse);
+                break;
             }
-            
-
-            // String diagnosisFileTitle =  diagnosis.getKey().replaceAll("[^a-zA-Z ]", " ");
-            // ArrayList<String> diagnosisFileTitleParts = new ArrayList<>(Arrays.asList(diagnosisFileTitle.toUpperCase().split(" ")));
-
-            // System.out.println("Diagnosis: " + patientDiagnosis);
-            // for(String parts: diagnosisFileTitleParts){
-            //     System.out.println(parts);
-            // }
-
-            // if(diagnosisFileTitleParts.contains(patientDiagnosis)){
-            //     scan.nextLine();    
-            //     int diagnosisNumber = diagnosis.getValue();
-            //     int symptomNumber;
-            //     Boolean diagnosisSymptomLoop = true;
-                
-            //     do{
-            //         System.out.println();
-            //         System.out.println("Diagnosis: " + DiagnosesDatabase.getDiagnosisList().get(diagnosisNumber).getDiagnosisName());
-            //             ArrayList<String> diagnosisSymptomList = Search.showDiagnosisSymptomList(diagnosisNumber);
-            //             try{
-            //                 System.out.print("Choose Symptom (0 to exit): ");
-            //                 if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
-            //                     try{
-            //                         LinkedHashMap<String, ArrayList<String>> fileContents = SymptomDatabase.getSymptom(diagnosisSymptomList.get(symptomNumber-1));
-            //                         Search.showSymptomInformation(scan, fileContents, diagnosisSymptomList.get(symptomNumber-1));
-            //                     } catch (NullPointerException npe){
-            //                         System.out.println("Sorry! Symptom is not yet available in the database!");
-            //                         System.out.println("Add to database? (Y to add | Enter to go back)");
-            //                         String response = scan.nextLine().toUpperCase().trim();
-
-            //                         switch(response){
-            //                             case "Y":
-            //                                 SymptomDatabase.createNewSymptom(scan);
-            //                                 break;
-            //                             default:
-            //                                 break;
-            //                         }
-            //                     }
-            //                 } else {
-            //                     diagnosisSymptomLoop = false;
-            //                 }
-            //             } catch (NumberFormatException nfe){
-            //                 System.out.println("Invalid input!");
-            //             } 
-            //         }while(diagnosisSymptomLoop);
-            // }
         }
-     
+
+        if(found == false){
+            System.out.println("\nDiagnosis not found in the system!\n");
+        }
     }
 
-    public static Boolean fileMatches(String fileName, String diagnosis){
-        Boolean found = null;
+    public static String fileMatches(String fileName, String diagnosis){
+        String match;
         String[] fileNameParts = fileName.toUpperCase().replaceAll("[^a-zA-Z ]", "").split(" ");
         String[] diagnosisParts = diagnosis.toUpperCase().replaceAll("[^a-zA-Z ]" , "").split(" ");
 
         Set<String> fileSet = new HashSet<>();
         Set<String> diagnosisSet = new HashSet<>();
 
-        System.out.println("Filename Parts:");
+
         for(String parts1: fileNameParts){
             fileSet.add(parts1.trim());
-            System.out.print(parts1.trim() + " ");
         } 
-        System.out.println();
 
-        System.out.println("Diagnosis Name Parts:");
         for(String parts2: diagnosisParts){
             diagnosisSet.add(parts2.trim());
-            System.out.print(parts2.trim() + " ");
         }
-        System.out.println();
 
         if(!fileSet.equals(diagnosisSet)){
             diagnosisSet.retainAll(fileSet);
 
             if(!diagnosisSet.isEmpty()){
-                System.out.println("parts of the filename matches");
-                found = true;
+                match = "part";
             } else {
-                found = false;
+                match = null;
             }
 
         } else {
-            System.out.println("filename matches");
-            found = true;
+            match = "match";
         }
 
-        return found;
+        return match;
     }
 }

@@ -46,7 +46,7 @@ public class PatientManagement {
         }
     }
 
-    public static void managePatientInformation(Scanner scan, Patient patient){
+    public static void managePatientInformation(Scanner scan, Patient patient, Nurse nurse){
         boolean run = true;
         System.out.println();
         while (run) {
@@ -69,7 +69,7 @@ public class PatientManagement {
                     // carePlan.viewCarePlan(scan);
                     break;
                 case "C":
-                    carePlan.createCareRecommendation(scan, patient);
+                    carePlan.createCareRecommendation(scan, patient, nurse);
                     break;
                 case "D":
                     run = false;
@@ -89,7 +89,7 @@ public class PatientManagement {
 
         if (!(input = scan.nextLine()).equals("0")){
             if(patientList.containsKey(input.trim())){
-                managePatientInformation(scan, patientList.get(input));
+                managePatientInformation(scan, patientList.get(input), nurse);
             } else if(input.isEmpty()){
                 System.out.println("\nInvalid input!\n");
                 getPatient(scan, nurse);
