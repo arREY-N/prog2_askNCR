@@ -1,0 +1,8 @@
+::Glomerulonephritis::
+
+excess Fluid Volume>excessFluidVolume.txt
+acute Pain>acutePain.txt
+imbalanced Nutrition: less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+deficient Diversional Activity Engagement>deficientDiversionalActivityEngagement.txt
+
+=====

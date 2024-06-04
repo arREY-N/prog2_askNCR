@@ -1,6 +1,6 @@
 ::Affective Disorder Seasonal::
 
-also refer to Depressive Disorders, Major>alsorefertoDepressiveDisordersMajor.txt
+Depressive Disorders, Major>DepressiveDisordersMajor.txt
 intermittent ineffective Coping>intermittentIneffectiveCoping.txt
 imbalanced Nutrition:less than body requirements/risk for Overweight>imbalancedNutritionLessThanBodyRequirements/RiskforOverweight.txt
 

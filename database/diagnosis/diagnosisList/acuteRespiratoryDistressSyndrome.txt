@@ -1,5 +1,5 @@
 ::Acute Respiratory Distress Syndrome::
 
-refer to Respiratory Distress Syndrome, Acute>refertoRespiratoryDistressSyndrome.txt
+Respiratory Distress Syndrome, Acute>RespiratoryDistressSyndrome.txt
 
 =====

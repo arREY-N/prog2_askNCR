@@ -1,6 +1,6 @@
 ::Aplastic Anemia::
 
-also refer to Anemia>alsorefertoAnemia.txt
+Anemia>Anemia.txt
 ineffective Protection>ineffectiveProtection.txt
 fatigue>fatigue.txt
 

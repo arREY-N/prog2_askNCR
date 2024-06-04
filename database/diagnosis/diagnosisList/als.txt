@@ -1,5 +1,5 @@
 ::ALS::
 
-refer to Amyotrophic lateral sclerosis>refertoAmyotrophicLateralSclerosis.txt
+myotrophic lateral sclerosis>AmyotrophicLateralSclerosis.txt
 
 =====

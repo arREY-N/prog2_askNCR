@@ -1,0 +1,7 @@
+::Necrotizing cellulitis, fasciitis::
+
+cellulitis, Sepsis>cellulitisSepsis.txt
+hyperthermia>hyperthermia.txt
+impaired Tissue Integrity>impairedTissueIntegrity.txt
+
+=====

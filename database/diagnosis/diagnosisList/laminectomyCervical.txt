@@ -1,0 +1,8 @@
+::Laminectomy, Cervical::
+
+laminectomy, Lumbar>laminectomyLumbar.txt
+risk for perioperative Positioning Injury>riskforperioperativePositioningInjury.txt
+risk for ineffective Airway Clearance>riskforineffectiveAirwayClearance.txt
+risk for impaired Swallowing>riskforimpairedSwallowing.txt
+
+=====

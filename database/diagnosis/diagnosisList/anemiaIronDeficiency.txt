@@ -1,6 +1,6 @@
 ::Anemia, Iron-Deficiency::
 
-also refer to Anemia>alsorefertoAnemia.txt
+Anemia>Anemia.txt
 fatigue>fatigue.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
 risk for impaired oral Mucous Membrane>riskforimpairedoralMucousMembrane.txt

@@ -1,5 +1,5 @@
 ::Arrythmia Cardiac::
 
-refer to Dysrhythmia, Cardiac>refertoDysrhytmiaCardiac.txt
+Dysrhythmia, Cardiac>DysrhytmiaCardiac.txt
 
 =====

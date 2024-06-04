@@ -1,6 +1,6 @@
 ::Agoraphobhia::
 
-also refer to Phobia>alsorefertoPhobia.txt
+Phobia>Phobia.txt
 anxiety panic>anxietyPanic.txt
 
 =====

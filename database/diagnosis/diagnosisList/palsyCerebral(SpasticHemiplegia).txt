@@ -1,0 +1,7 @@
+::Palsy, Cerebral (spastic Hemiplegia)::
+
+impaired physical Mobility>impairedphysicalMobilty.txt
+compromised family Coping>compromisedfamilyCoping.txt
+risk for disproportionate Growth and_or delayed Development>riskfordisproportionateGrowthand_ordelayedDevelopment.txt
+
+=====

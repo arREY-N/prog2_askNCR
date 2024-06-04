@@ -1,6 +1,6 @@
 ::AIDS Dementia::
 
-also refer to Dementia, presenile/senile>alsorefertoDimentia,presenile/senile.txt
+Dementia, presenile/senile>Dimentia,presenile/senile.txt
 chronic Confusion/Impaired Memory>chronicConfusion/ImpairedMemory.txt
 ineffective Protection>ineffectiveProtection.txt
 

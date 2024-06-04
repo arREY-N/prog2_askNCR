@@ -1,0 +1,8 @@
+::Ectopic Pregnancy (Tubal)::
+
+abortion, spontaneous Termination>abortionSpontaneousTermination.txt
+acute Pain>acutePain.txt
+risk for deficient Fluid Volume_risk for Bleeding.txt
+anxiety_Fear>anxiety_Fear.txt
+
+=====

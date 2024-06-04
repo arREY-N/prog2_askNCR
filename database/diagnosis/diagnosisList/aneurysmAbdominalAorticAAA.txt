@@ -1,5 +1,5 @@
 ::Aneurysm, Abdominal Aortic (AAA)::
 
-refer to Aortic aneurysm, Abdominal>refertoAorticAneurysmAbdominal.txt
+Aortic aneurysm, Abdominal>AorticAneurysmAbdominal.txt
 
 =====

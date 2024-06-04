@@ -1,0 +1,7 @@
+::Lyme Disease::
+
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+fatigue>fatigue.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+
+=====

@@ -1,0 +1,8 @@
+::Cataract::
+
+disturbed visual Sensory Perception>disturbedvisualSensoryPerception.txt
+risk for Trauma>riskforTrauma.txt
+anxiety_Fear>anxiety_Fear.txt
+deficient Knowledge regarding ways of coping with altered abilities, theraphy choices, lifestyle changes>deficientKnowledgeRegardingWaysofCopingwithAlteredAbilitiesTheraphyChoicesLifestyleChanges.txt
+
+=====

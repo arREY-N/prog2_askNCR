@@ -1,6 +1,6 @@
 ::Arthritis, Juvenile Rheumatoid::
 
-also refer to Arthritis, Rheumatoidalso>refertoArthritisRheumatoid.txt
+Arthritis, Rheumatoidalso>ArthritisRheumatoid.txt
 risk for delayed Development>riskfordelayedDevelopment.txt
 social Isolation>socialIsolation.txt
 

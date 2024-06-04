@@ -1,0 +1,7 @@
+::Macular Degeneration::
+
+disturbed visual Sensory Perception>disturbedvisualSensoryPerception.txt
+anxiety>anxiety.txt
+risk for impaired Social Interaction>riskforimpairedSocialInteraction.txt
+
+=====

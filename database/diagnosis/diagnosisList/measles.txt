@@ -1,0 +1,8 @@
+::Measles::
+
+acute Pain>acutePain.txt
+hyperthermia>hyperthermia.txt
+risk for (secondary) Infection>riskfor(secondary)Infection.txt
+deficient Knowledge regarding condition, transmission, and possible Complications>deficientKnowledgeRegardingConditionTransmissionandPossibleComplications.txt
+
+=====

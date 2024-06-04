@@ -1,0 +1,8 @@
+::Femoral Popliteal Bypass::
+
+surgery, General>surgeryGeneral.txt
+risk for ineffective peripheral Tissue Perfusion>riskforineffectivePeripheralTissuePerfusion.txt
+risk for peripheral neurovascular Dysfunction>riskforPeripheralNeurovascularDyfunction.txt
+impaired Walking>impairedWalking.txt
+
+=====

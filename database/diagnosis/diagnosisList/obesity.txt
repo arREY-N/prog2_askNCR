@@ -1,0 +1,10 @@
+::Obesity::
+
+overweight>overweight.txt
+sedentary Lifestyle>sedentaryLifestyle.txt
+activity Intolerance>activityIntolerance.txt
+risk for Sleep Deprivation>riskforSleepDeprivation.txt
+disturbed Body Image>disturbedBodyImage.txt
+impaired Social Interaction>impairedSocialInteraction.txt
+
+=====

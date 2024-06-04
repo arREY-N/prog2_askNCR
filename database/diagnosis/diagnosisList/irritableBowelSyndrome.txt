@@ -1,0 +1,7 @@
+::Irritable Bowel Syndrome::
+
+acute Pain>acutePain.txt
+constipation>constipation.txt
+diarrhea>diarrhea.txt
+
+=====

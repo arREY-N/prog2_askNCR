@@ -1,0 +1,8 @@
+::Mitral Stenosis::
+
+activity Intolerance>activityIntolerance.txt
+impaired Gas Exchange>impairedGasExchange.txt
+decreased Cardiac Output>decreasedCardiacOutput.txt
+deficient Knowledge regarding pathophysiology, therapeutic needs, and potential Complications>deficientKnowledgeRegardingPathophysiologyTFrNmFBpzPfDvDX8m4i7KdjsoNxzK2E62acations.txt
+
+=====

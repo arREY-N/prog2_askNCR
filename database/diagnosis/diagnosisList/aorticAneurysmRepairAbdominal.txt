@@ -1,6 +1,6 @@
 ::Aortic Aneurysm Repair, Abdominal::
 
-also refer to Surgery, General>alsorefertoSurgeryGeneral.txt
+Surgery, General>SurgeryGeneral.txt
 risk for Bleeding>riskforBleeding.txt
 risk for ineffective Tissue Perfusion>riskforineffectiveTissuePerfusion.txt
 

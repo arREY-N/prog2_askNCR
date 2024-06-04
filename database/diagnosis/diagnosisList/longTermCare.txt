@@ -1,0 +1,11 @@
+::Long-Term Care::
+
+anxiety_Fear>anxiety_Fear.txt
+grieving>grieving.txt
+risk for Poisoning (drug toxicity)>riskforPoisoning(DrugToxicity).txt
+impaired Memory>impairedMemory.txt
+insomnia>insomnia.txt
+risk for Relocation Stress Syndrome>riskforRelocationStressSyndrome.txt
+risk for impaired Religiosity>riskforimpairedReligiosity.txt
+
+=====

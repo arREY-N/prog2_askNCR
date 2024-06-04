@@ -1,0 +1,8 @@
+::Candidiasis::
+
+thrush>thrush.txt
+impaired Skin_Tissue Integrity>impairedSkinTissueIntegrity.txt
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+risk for Sexual Dysfunction>riskforSexualDysfunction.txt
+
+=====

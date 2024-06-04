@@ -1,0 +1,7 @@
+::Mountain Sickness, Acute (AMS)::
+
+acute Pain>acutePain.txt
+fatigue>fatigue.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+
+=====

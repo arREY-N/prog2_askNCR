@@ -1,5 +1,5 @@
 ::Adams Strokes Syndrome::
 
-refer to Dysrhythmia, cardiac>refertoDysrhythmiaCardiac.txt
+Dysrhythmia, cardiac>DysrhythmiaCardiac.txt
 
 =====

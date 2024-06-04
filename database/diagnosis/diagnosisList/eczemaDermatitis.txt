@@ -1,0 +1,7 @@
+::Eczema (Dermatitis)::
+
+impaired Comfort>impairedComfort.txt
+risk for Infection>riskforInfection.txt
+social Isolation>socialIsolation.txt
+
+=====

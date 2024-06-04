@@ -1,6 +1,6 @@
 ::Acidosis Metabolic::
 
-also refer to underlying cause or condition>alsorefertoUnderlyingCauseorCondition.txt
+underlying cause or condition>underlyingCauseorCondition.txt
 impaired Gas Exhange>impairedGasExchange.txt
 
 =====

@@ -1,0 +1,7 @@
+::Hemothorax::
+
+pneumothorax>pneumothorax.txt
+risk for Trauma_risk for Suffocation>riskforTrauma_riskforSuffocation.txt
+anxiety>anxiety.txt
+
+=====

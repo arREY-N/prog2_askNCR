@@ -1,5 +1,5 @@
 ::ARDS::
 
-refer to Respiratory Distress Syndrome, Acute>refertoRespiratoryDistressSyndromeAcute.txt
+Respiratory Distress Syndrome, Acute>RespiratoryDistressSyndromeAcute.txt
 
 =====

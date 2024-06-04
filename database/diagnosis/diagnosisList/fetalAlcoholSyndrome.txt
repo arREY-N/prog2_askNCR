@@ -1,0 +1,9 @@
+::Fetal Alcohol Syndrome::
+
+risk for Injury>riskforInjury.txt
+disorganized infant Behavior>disorganizedinfantBehavior.txt
+risk for impaired Parenting>riskforimpairedParenting.txt
+ineffective Coping>ineffectiveCoping.txt
+dysfunction Family Processes>dysfunctionFamilyProcesses.txt
+
+=====

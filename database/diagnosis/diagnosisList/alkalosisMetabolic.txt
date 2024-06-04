@@ -1,5 +1,5 @@
 ::Alkalosis, Metabolic::
 
-refer to Underlying Cause or Condition>refertoUnderlyingCauseorCondition.txt
+Underlying Cause or Condition>UnderlyingCauseorCondition.txt
 
 =====

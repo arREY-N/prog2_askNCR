@@ -1,0 +1,9 @@
+::Pancreatitis::
+
+acute Pain>acutePain.txt
+risk for deficient Fluid Volume_risk for Bleeding>riskfordeficientFluidVolume_riskforBleeding.txt
+risk for unstable Blood Glucose Level>riskforunstableBloodGlucoseLevel.txt
+imbalanced Nutrition: less than body Requirements>imbalancedNutritionlessthanbodyRequirements.txt
+risk for Infection>riskforInfection.txt
+
+=====

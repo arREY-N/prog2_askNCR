@@ -1,0 +1,6 @@
+::Hemorrhoids::
+
+acute Pain>acutePain.txt
+constipation>constipation.txt
+
+=====

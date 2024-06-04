@@ -1,5 +1,5 @@
 ::Allergies, Seasonal::
 
-refer to Hay Fever>refertoHayFever.txt
+Hay Fever>HayFever.txt
 
 =====

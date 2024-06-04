@@ -1,0 +1,7 @@
+::Endometriosis::
+
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+sexual Dysfunction>sexualDysfunction.txt
+deficient Knowledge regarding pathophysiology of condition and theraphy needs>deficientKnowledgeRegardingPathophysiologyofConditionandTheraphyNeeds.txt
+
+=====

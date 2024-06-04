@@ -1,5 +1,5 @@
 ::Attention Deficit Disorder::
 
-refer to Attention Deficit Disorder>refertoAttentionDeficitDisorder.txt
+Attention Deficit Disorder>AttentionDeficitDisorder.txt
 
 =====

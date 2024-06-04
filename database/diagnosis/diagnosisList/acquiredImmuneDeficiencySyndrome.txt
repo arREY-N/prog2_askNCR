@@ -1,5 +1,5 @@
 ::Acquired Immune Deficiency Syndrome::
 
-refer to AIDS>refertoAids.txt
+AIDS>Aids.txt
 
 =====

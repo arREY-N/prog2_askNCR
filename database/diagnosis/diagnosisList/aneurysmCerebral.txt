@@ -1,5 +1,5 @@
 ::Aneurysm, Cerebral::
 
-refer to Cerebrovascular accident>refertoCerebrovascularAccident.txt
+Cerebrovascular accident>CerebrovascularAccident.txt
 
 =====

@@ -1,5 +1,5 @@
 ::Adrenal Insufficiency::
 
-refer to Addison’s disease>refertoAddisonsDisease.txt
+Addison’s disease>AddisonsDisease.txt
 
 =====
