@@ -1,0 +1,74 @@
+::Dysfunctional Gastrointestinal Motility/risk For Dysfunctional Gastrointestinal Motility::
+
+::Definition::
+dysfunctional Gastrointestinal Motility:
+Increased, decreased, ineffective, or lack of peristaltic activity 
+within the gastrointestinal system.
+
+risk for dysfunctional Gastrointestinal Motility:
+Susceptible to increased, decreased, ineffective, or lack of 
+peristaltic activity within the gastrointestinal system, which 
+may compromise health.
+
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing or risk factors: 
+1. Note the presence of conditions (e.g., congestive heart failure, major trauma, chronic conditions, or sepsis) affecting systemic circulation/perfusion that can result in gastrointestinal (GI) hypoperfusion, and short- and/or long-term GI dysfunction.
+2. Determine the presence of disorders causing localized or diffuse reduction in GI blood fl ow, such as esophageal varices, GI hemorrhage, pancreatitis, or intraperitoneal hemorrhage, to identify a client at higher risk for ineffective tissue perfusion.
+3. Note the presence of chronic/long-term disorders, such as gastrointestinal reflux disease (GERD), hiatal hernia, infl ammatory bowel (e.g., ulcerative colitis, Crohn disease), malabsorption (e.g., dumping syndrome, celiac disease), short-bowel syndrome, as may occur after surgical removal of portions of the small intestine. These conditions are associated with increased, decreased, or ineffective peristaltic activity.
+4. Note the client’s age and developmental concerns. Premature or low-birth-weight neonates are at risk for developing necrotizing enterocolitis (NEC). Children are prone to infections causing gastroenteritis manifested by vomiting and diarrhea. The elderly have problems associated with decreased motility, such as constipation.
+5. Note lifestyle (e.g., people who regularly engage in competitive sports such as long-distance running, cycling; persons with poor sanitary living conditions; people who travel to areas with contaminated food or water; overeating or intake of foods associated with gastric distress). These are issues that can affect GI function and health.
+6. Ascertain whether the client is experiencing anxiety; acute, extreme, or chronic stress; or other psychogenic factors present in a person with emotional or psychiatric disorders (including anorexia/bulimia, etc.) that can affect interest in eating, and ability to ingest and digest food.
+7. Review client’s medication regimen. Medications (e.g., laxatives, antibiotics, opiates, sedatives, and iron preparations) may cause or exacerbate intestinal issues. In addition, the likelihood of bleeding increases from the use of medications such as nonsteroidal anti-infl ammatory agents (NSAIDs), Coumadin, and Plavix.
+8. Review laboratory and other diagnostic studies to evaluate for GI problems, such as bleeding, infl ammation, toxicity, and infection; or to help identify masses, dilation/obstruction, abnormal stool and gas patterns, and so forth. 
+
+[Nursing Priority No. 2]
+    - To note degree of dysfunction or risk for organ involvement: 
+1. Assess vital signs, noting presence of low blood pressure, elevated heart rate, and fever. This may suggest hypoperfusion or developing sepsis. Fever in the presence of bright red blood in stool may indicate ischemic colitis.
+2. Ascertain presence of and characteristics of abdominal pain. Pain is a common symptom of GI disorders and can vary in location, duration, and intensity. Note: Tension pain caused by organ distention may develop in the presence of bowel obstruction, constipation, or accumulation of pus or fl uid. Infl ammatory pain is deep and initially poorly localized, caused by irritation of either the visceral or the parietal peritoneum, as in acute appendicitis. Ischemic pain (the most serious type of visceral pain) has sudden onset, is intense, is progressive in severity, and is not relieved by analgesics. 
+3. Inspect the abdomen, noting contour. Distention of bowel may indicate accumulation of fluids (salivary, gastric, pancreatic, biliary, and intestinal) and gases formed from bacteria, swallowed air, or any food or fl uid the client has consumed.
+4. Auscultate abdomen. Hypoactive bowel sounds may indicate ileus. Hyperactive bowels sounds may indicate early intestinal obstruction or irritable bowel or GI bleeding.
+5. Palpate abdomen to note masses, enlarged organs (e.g., spleen, liver, or portions of colon); elicitation of pain with touch; and pulsation of aorta.
+6. Measure abdominal girth and compare with client’s customary waist size or belt length to monitor development or progression of distention.
+7. Note frequency and characteristics of bowel movements. Bowel movements by themselves are not necessarily diagnostic but need to be considered in total assessment as they may reveal an underlying problem or effect of pathology.
+8. Note presence of nausea, with or without vomiting, and relationship to food intake or other events, if indicated. History can provide important information about cause (e.g., pregnancy, gastroenteritis, cancers, myocardial infarction, hepatitis, systemic infections, contaminated food, drug toxicity, or eating disorders).
+9. Evaluate client’s current nutritional status, noting ability to ingest and digest food. Health depends on the intake, digestion, and absorption of nutrients, which both affect and are affected by GI function.
+10. Measure intra-abdominal pressure as indicated. Tissueedema or free fl uid collecting in the abdominal cavity leads to intra-abdominal hypertension, which, if untreated, can cause abdominal compartment syndrome with end-stage organ failure
+
+[Nursing Priority No. 3]
+    - To reduce risks or improve existing dysfunction: 
+1. Collaborate in treatment of underlying conditions to correct or treat disorders associated with client’s current GI dysfunction.
+2. Maintain GI rest when indicated—nothing by mouth (NPO), fluids only, or gastric or intestinal decompression to reduce intestinal bloating and risk of vomiting.
+3. Measure GI output periodically and note characteristics of drainage to manage fluid losses and replacement needs and electrolyte balance.
+4. Administer prescribed prophylactic medications to reduce the potential for GI complications such as bleeding, ulceration of stomach mucosa, and viral diarrheas.
+5. Administer fluids and electrolytes as indicated to replace losses and to improve GI circulation and function.
+6. Collaborate with dietitian or nutritionist to provide diet sufficient in nutrients by best possible route—oral, enteral, or parenteral
+7. Emphasize the importance of and assist with early ambulation, especially following surgery, to stimulate peristalsis and help reduce GI complications associated with immobility.
+8. Encourage client to report changes in nature or intensity of pain, as this may indicate worsening of condition, requiring more intensive interventions.
+9. Encourage relaxation and distraction techniques if anxiety is suspected to play a role in GI dysfunction.
+10. Manage pain with medications as ordered, and nonpharmacological interventions such as positioning, back rub, or heating pad (unless contraindicated) to enhance muscle relaxation and reduce discomfort.
+11. Prepare the client for procedures and surgery, as indicated. This may require a variety of interventions to treat the problem causing or contributing to severe GI dysfunction. 
+
+[Nursing Priority No.4]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+1. Discuss normal variations in bowel patterns to help alleviate unnecessary concern, initiate planned interventions, or seek timely medical care. This may prevent overuse of laxatives or help the client understand when food, fl uid, or drug modifi cations are needed.
+2. Review measures to maintain bowel health: 
+-- Use dietary fi ber and/or stool softeners. 
+-- Ensure fl uid intake is appropriate to individual. 
+-- Establish or maintain regular bowel evacuation habits, incorporating privacy needs, assistance to bathroom on regular schedule, and so forth, as indicated. 
+-- Emphasize the benefi ts of regular exercise in promoting normal GI function. 
+3. Discuss dietary recommendations with client/signifi cantother (SO). The client may elect to make adaptations in food choices and eating habits to avoid GI complications.
+4. Instruct in healthier variations in preparation of foods, as indicated, when these factors may affect GI health.
+5. Recommend maintenance of normal weight, or weight loss if client is obese, to decrease risk associated with GI disorders such as GERD or gallbladder disease.
+6. Discuss fluid intake appropriate to individual situation. Water is necessary to general health and GI function; client may need encouragement to increase intake or to make appropriate fl uid choices if intake is restricted for certain medical conditions.
+7. Collaborate with physician in medication management. Dose modifi cation, discontinuation of certain drugs (e.g., laxatives, opioids, antidepressants, or iron supplements), or alternative route of administration may be required to reduce risk of GI dysfunction.
+8. Emphasize importance of discussing with physician current and new prescribed medications, and/or planned use of certain medications (e.g., NSAIDs, including aspirin; corticosteroids, some over-the-counter [OTC] drugs, and herbal supplements) that can be harmful to GI mucosa.
+9. Encourage discussion of feelings regarding prognosis and long-term effects of condition. Major or unplanned life changescan strain coping abilities, impairing functioning and jeopardizing relationships, and may even result in depression.
+10. Discuss the value of relaxation and distraction techniques or counseling if anxiety or other emotional/psychiatric issue is suspected to play a role in GI dysfunction.
+11. Recommend smoking cessation. Studies have shown various deleterious short- and long-term effects of smoking on the GI circulation and organs. Smoking is a risk factor for acquiring or exacerbating certain GI disorders, such as Crohn’s disease.
+12. Review foodborne and waterborne illnesses, contamination, and hygiene issues, as indicated, and make needed follow-up referrals. 
+13. Refer to appropriate resources (e.g., Social Services, Public Health Services) for follow-up if client is at risk for ingestion of contaminated water or food sources or would benefi t from teaching concerning food preparation and storage.
+14. Recommend and/or refer to physician for vaccines as indicated. The Centers for Disease Control and Prevention (CDC) makes recommendations for travelers and/or persons in high-risk areas or situations in which person might be exposed to contaminated food or water.
+15. Refer to NDs bowel Incontinence; Constipation; Diarrhea, for additional interventions.
+=========

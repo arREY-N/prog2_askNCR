@@ -1,0 +1,61 @@
+::Impaired Urinary Elimination::
+
+::Definition::
+ Dysfunction in urine elimination
+
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing factors: 
+1. Identify conditions that may be present, such as urinary tract infection, interstitial cystitis or painful bladder syndrome; dehydration; surgery (including urinary diversion); neurological involvement (e.g., multiple sclerosis [MS], stroke, Parkinson disease, paraplegia/tetraplegia); mental or emotional dysfunction (e.g., impaired cognition, delirium or confusion, depression, Alzheimer disease); prostate disorders; recent or multiple pregnancies; and pelvic trauma. 
+2. Determine pathology of bladder dysfunction relative to medical diagnosis identifi ed. This identifi es direction for further evaluation and treatment options to discover specifi cs of individual situation. For example, in neurological or demyelinating diseases such as MS, the problem may be related to the inability to store urine, empty the bladder, or both.
+3. Assist with physical examination (e.g., cough test for incontinence, palpation for bladder retention or masses, prostate size, and observation for urethral stricture). 
+4. Note age and gender of client. Incontinence is twice as common in women as in men and affects at least one in three older women; painful bladder syndrome (PBS) or interstitial cystitis (IC) is more common in women.
+5. Investigate reports of pain, noting location, duration, intensity; presence of bladder spasms; or back or flank pain to assist in differentiating between bladder and kidney as cause of dysfunction. 
+6. Have the client complete the Pelvic Pain and Urgency/Frequency (PUF) patient symptom survey, as indicated. This helps in evaluating the presence and severity of PBS/IC symptoms.
+7. Note reports of exacerbations and spontaneous remissions of symptoms of urgency and frequency, which may or may not be accompanied by pain, pressure, or spasm. 
+8. Determine the client’s usual daily fl uid intake (both amount and beverage choices, use of caffeine). Note the condition of skin and mucous membranes and the color of urine to help determine level of hydration.
+9. Review medication regimen for drugs that can alter bladder or kidney function (e.g., antihypertensive agents suchas angiotensin-converting enzyme [ACE] inhibitors, betaadrenergic blockers; anticholinergics, antihistamines; antiparkinsonian drugs; antidepressants or antipsychotics; sedatives, hypnotics, opioids; caffeine and alcohol).
+10. Send urine specimen (midstream clean-voided or catheterized) for culture and sensitivities in the presence of signs of urinary tract infection—cloudy, foul odor; bloody urine. 
+11. Review laboratory tests for hyperglycemia, hyperparathyroidism, or other metabolic conditions; changes in renal function; culture for presence of infection or sexually transmitted infections (STIs); urine cytology for cancer. 
+12. Prepare for/review results of cystoscopy and bladder distention test as appropriate. May be done to diagnose PBS/IC. Note: Bladder distention test can also be used as initial therapy.
+13. Review results of diagnostic studies (e.g., urofl owmetry; cystometrogram; postvoid residual ultrasound (bladder scan); pressure fl ow and leak point pressure measurement; videourodynamics; electromyography; kidney, ureter, and bladder [KUB] imaging) to identify presence and type of elimination problem.
+
+[Nursing Priority No. 2]
+    -  To assess degree of interference/disability: 
+1. Ascertain the client’s previous pattern of elimination forcomparison with current situation. Note reports of problems (e.g., frequency, urgency, painful urination; leaking or incontinence; changes in size and force of urinary stream; problems emptying bladder completely; nocturia or enuresis). 
+2. Ascertain the client’s/significant other’s (SO’s) perception of problem and degree of disability (e.g., client is restricting social, employment, or travel activities; having sexual or relationship diffi culties; incurring sleep deprivation; experiencing depression).
+3. Note infl uence of culture/ethnicity or gender on client’s view of problems of incontinence. Limited evidence exists to understand and help people cope with the physical and psychosocial consequences of this chronic, socially isolating, and potentially devastating disorder.
+4. Have the client keep a voiding diary for a prescribed number of days to record fl uid intake, voiding times, precise urine output, and dietary intake. This helps determine baseline symptoms, severity of frequency or urgency, and whether diet is a factor (if symptoms worsen)
+
+[Nursing Priority No. 3]
+    - To assist in treating/preventing urinary alteration: 
+1. Refer to specific NDs urinary Incontinence [specify]; urinary Retention [specify], for additional related interventions. 
+2. Encourage fluid intake up to 1,500–2,000 mL/day (within cardiac tolerance), including cranberry juice, to help maintain renal function, prevent infection and formation of urinary stones, avoid encrustation around catheter, or flush urinary diversion appliance.
+3. Discuss possible dietary restrictions (e.g., especially coffee, alcohol, carbonated drinks, citrus, tomatoes, and chocolate) based on individual symptoms. 
+4. Assist with developing toileting routines (e.g., timed voiding, bladder training, prompted voiding, habit retraining), as appropriate. For adults who are cognitively intact and physically capable of self-toileting, bladder training, timed voiding, and habit retraining may be benefi cial.
+5. Encourage the client to verbalize fears and concerns (e.g., disruption in sexual activity or inability to work). Open expression allows the client to deal with feelings and begin problem-solving.
+6. Implement and monitor interventions for specifi c elimination problem (e.g., pelvic fl oor exercises or other bladder retraining modalities; medication regimen, including antimicrobials [single dose is frequently being used for UTI], sulfonamides, antispasmodics); and evaluate client’s response to modify treatment, as needed.
+7. Discuss possible surgical procedures and medical regimen, as indicated (e.g., client with benign prostatic hypertrophy bladder or prostatic cancer, PBS/IC). For example, cystoscopy with bladder hydrodistention may be used for PBS/IC, or an electrical stimulator may be implanted to treat chronic urinary urge incontinence, nonobstructive urinary retention, and symptoms of urgency and frequency
+
+[Nursing Priority No. 4]
+    - To assist in management of long-term urinary alterations: 
+1. Keep bladder deflated by use of an indwelling catheter connected to closed drainage. Investigate alternatives when possible. Measures such as intermittent catheterization, surgical interventions, urinary drugs, voiding maneuvers, condom catheter may be preferable to the indwelling catheter to provide more effective control and prevent the possibility of recurrent infections.
+2. Provide latex-free catheter and care supplies, if indicated. This reduces the risk of developing sensitivity to latex, which can develop in individuals requiring frequent catheterization or who have long-term indwelling catheters.
+3. Check frequently for bladder distention and observe for overfl ow to reduce the risk of infection and/or autonomic hyperrefl exia.
+4. Adhere to a regular bladder or diversion appliance emptying schedule to avoid accidents.
+5. Provide for routine diversion appliance care and assist the client to recognize and deal with problems, such as alkaline salt encrustation, ill-fitting appliance, malodorous urine, and infection. 
+
+[Nursing Priority No. 5]
+    - To promote wellness (Teaching/Discharge Considerations): 
+• Emphasize the importance of keeping the area clean and dry to reduce the risk of infection and/or skin breakdown.
+• Instruct female clients with UTI to drink large amounts of fluid, void immediately after intercourse, wipe from front to back, promptly treat vaginal infections, and take showers rather than tub baths to limit risk or avoid reinfection.
+• Recommend smoking cessation program, as appropriate. Cigarette smoking can be a source of bladder irritation.
+• Encourage SO(s) who participate in routine care to recognize complications (including latex allergy) necessitating medical evaluation or intervention. 
+• Instruct in proper application and care of appliance for urinary diversion. Encourage liberal fl uid intake, avoidance of foods or medications that produce strong odor, use of white vinegar or deodorizer in pouch. These measures help to ensure patency of device and to prevent embarrassing situations for client.
+• Identify sources for supplies and programs or agencies providing fi nancial assistance. Lack of access to necessities can be a barrier to management of incontinence, and having help to obtain needed equipment can assist with daily care.
+• Recommend avoidance of gas-forming foods in the presence of ureterosigmoidostomy, as flatus can cause urinary incontinence.
+• Recommend use of silicone catheter. Although these catheters are more expensive than rubber catheters, they are more comfortable and generally cause fewer problems with infection when permanent or long-term catheterization is required.
+• Demonstrate proper positioning of catheter drainage tubing and bag to facilitate drainage, prevent refl ux and complications of infection.
+• Refer client/SO(s) to appropriate community resources, such as ostomy specialist, support group, sex therapist, or psychiatric clinical nurse specialist, to deal with changes in body image and function, when indicated
+========

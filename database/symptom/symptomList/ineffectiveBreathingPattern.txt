@@ -1,0 +1,69 @@
+::Symptom Name::
+
+::Definition::
+ Inspiration and/or expiration that does not provide adequate ventilation. 
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    -  To identify etiology/precipitating factors: 
+1. Determine the presence of factors/conditions as noted in Defining Characteristics that would demonstrate breathing impairments
+2. Identify age and ethnic group of client who may be at increased risk. Respiratory ailments in general areincreased in infants and children with neuromuscular disorders, the frail elderly, and persons living in highly polluted environments. Smoking (and potential for smoking-related disorders) is prevalent among such groups as Appalachians, African Americans, Chinese men, Latinos, and Arabs. Communities of color are especially vulnerable as they tend to live in areas (e.g., close to freeways or high-traffi c areas) with high levels of air toxins. People most at risk for infectious pneumonias include the very young and frail elderly.
+3. Ascertain if client has history of underlying respiratory disorder, or if this is a new condition with potential for breathing problems, or exacerbation of preexisting problems (e.g., asthma, other acute upper respiratory infection, lung cancer, neuromuscular disorders, heart disease, sepsis, burns, acute chest or brain trauma). 
+4. Note current symptoms and how they relate to past history. 
+5. Note emotional state. Emotional changes can accompany a condition or precipitate or aggravate ineffective breathing patterns.
+6. Assess client's awareness and cognition. Affects ability to manage own airway and cooperate with interventions such as controlling breathing and managing secretions.
+7. Assess for concomitant pain/discomfort that may restrict respiratory effort.
+8. Evaluate client's respiratory status: 
+ - Note rate and depth of respirations, counting for 1 full minute, if rate is irregular. Rate may be faster or slower than usual. In infants and younger children, rate increases dramatically relative to anxiety, crying, fever, or disease. Depth may be diffi cult to evaluate but is usually described as shallow, normal, or deep.
+ - Note client's reports and perceptions of breathing ease. Client may report a range of symptoms (e.g., air hunger, shortness of breath with speaking, activity, or at rest) and demonstrate a wide range of signs (e.g., tachypnea, gasping, wheezing, coughing).
+ - Observe characteristics of breathing pattern. May see use of accessory muscles for breathing, sternal retractions (infants and young children), nasal fl aring, or pursed-lip breathing. Irregular patterns (e.g., prolonged expiration, periods of apnea, obvious agonal breathing) may be pathologicalAuscultate and percuss chest, describing presence, absence, and character of breath sounds. Abnormal breath sounds are indicative of numerous problems and must be evaluated further.
+ - Observe chest size, shape, and symmetry of movement. Changes in movement of chest wall (such as might occur with chest trauma, chest wall deformities) can impair breathing patterns.
+ - Note color of skin and mucous membranes. If pallor, duskiness, and/or cyanosis are present, supplemental oxygen and/or other interventions may be required. (Refer to ND impaired Gas Exchange.) 
+ - Note presence and character of cough. Cough function may be weak or ineffective in conditions such as extremes in age (e.g., premature infant or elderly); in diseases (e.g., cerebral palsy, muscular dystrophy, spinal cord injury, brain injury). Cough that is persistent and constant can interfere with breathing (such as can occur with asthma, acute bronchitis, cystic fi brosis, croup, whooping cough). (Refer to ND ineffective Airway Clearance.) 
+9. Assist with/review results of necessary testing (e.g., chest x-rays, lung volumes/fl ow studies, and pulmonary function/sleep studies) to diagnose the presence/severity of lung diseases.
+10. Review laboratory data, such as ABGs (determines degree of oxygenation and carbon dioxide [CO 2 ] retention), drug screens, and pulmonary function studies (determines vital capacity/tidal volume).
+
+[Nursing Priority No. 2]
+    -  To provide for relief of causative factors: 
+1. Assist in treatment of underlying conditions, administering medications and therapies as ordered. 
+2. Administer oxygen at the lowest concentration indicated and prescribed respiratory medications for management of underlying pulmonary condition, respiratory distress, or cyanosis.
+3. Suction airway, as needed, to clear secretions.
+4. Assist with bronchoscopy or chest tube insertion as indicated. 
+5. Elevate the head of the bed and/or have the client sit up in a chair, as appropriate, to promote physiological and psychological ease of maximal inspiration.
+6. Direct client in breathing efforts as needed. Encourage slower and deeper respirations and use of the pursed-liptechnique to assist client in “taking control” of the situation, especially when condition is associated with anxiety and air hunger. 
+7. Monitor pulse oximetry, as indicated, to verify maintenance/improvement in O 2 saturation.
+8. Maintain a calm attitude while dealing with the client and significant other(s) to limit the level of anxiety.
+9. Assist the client in the use of relaxation techniques. 
+10. Deal with fear/anxiety that may be present. (Refer to NDs Fear; Anxiety.) 
+11. Encourage a position of comfort. Reposition the client frequently if immobility is a factor. 
+12. Coach client in effective coughing techniques. Place in appropriate position for clearing airways. Splint the rib cage during deep-breathing exercises/cough, if indicated. Promotes more effective breathing and airway management, especially when client is guarding, as might occur with chest, rib cage, or abdominal injuries or surgeries.
+13. Medicate with analgesics, as appropriate, to promote deeper respiration and cough. (Refer to NDs acute Pain; chronic Pain.) 
+14. Encourage ambulation/exercise, as individually indicated, to prevent onset or reduce severity of respiratory complications and to improve respiratory muscle strength.
+15. Avoid overfeeding, such as might occur with young infant or client on tube feedings. Abdominal distention can interfere with breathing as well as increase the risk of aspiration.
+16. Provide/encourage use of adjuncts, such as incentive spirometer, to facilitate deeper respiratory effort.
+17. Supervise the use of respirator/diaphragmatic stimulator, rocking bed, apnea monitor, and so forth, when neuromuscular impairment is present.
+18. Ascertain that the client possesses and properly operates continuous positive airway pressure (CPAP) machine when obstructive sleep apnea is causing breathing problems.
+19. Maintain emergency equipment in readily accessible location and include age-/size-appropriate endotrachial/trach tubes (e.g., infant, child, adolescent, or adult) when ventilatory support might be needed
+
+[Nursing Priority No. 3]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+1. Review the etiology of respiratory distress, treatment options, and possible coping behaviors. 
+2. Emphasize the importance of good posture and effective use of accessory muscles to maximize respiratory effort
+3. Instruct and reinforce breathing retraining. Education may include many measures, such as conscious control of breathing rate, breathing exercises (diaphragmatic, abdominal breathing, inspiratory resistive, pursed-lip), and assistive devices such as rocking bed.
+4. Recommend energy conservation techniques and pacing of activities. 
+5. Refer for general exercise program (e.g., upper and lower extremity endurance and strength training), as indicated, to maximize the client's level of functioning.
+6. Encourage adequate rest periods between activities to limit fatigue.
+7. Encourage the client/significant other(s) to develop a plan for smoking cessation. Provide appropriate referrals. 
+8. Review environmental factors (e.g., exposure to dust, high pollen counts, severe weather, perfumes, animal dander, household chemicals, fumes, secondhand smoke; insuffi cient home support for safe care) that may require avoidance of triggers or modifi cation of lifestyle or environment to limit the impact on the client's breathing.
+9. Encourage self-assessment and symptom management: 
+ - Use of equipment to identify respiratory decompensation, such as a peak fl ow meter 
+ -Appropriate use of oxygen (dosage, route, and safety factors) 
+ -Medication regimen, including actions, side effects, and potential interactions of medications, over-the-counter (OTC) drugs, vitamins, and herbal supplements 
+ -Adherence to home treatments such as metered-dose inhalers (MDIs), compressors, nebulizers, and chest physiotherapies 
+ -Dietary patterns and needs; access to foods and nutrients supportive of health and breathing 
+ -Management of personal environment, including stress reduction, rest and sleep, social events, travel, and recreation issues 
+ -Avoidance of known irritants, allergens, and sick persons 
+ -Immunizations against infl uenza and pneumonia 
+ -Early intervention when respiratory symptoms occur, knowing what symptoms require reporting to medical providers, and seeking emergency care 
+10. Provide referrals as appropriate. May include a wide variety of services and providers, including support groups, a comprehensive rehabilitation program, occupational nurse, oxygen and durable medical equipment companies for supplies, home health services, occupational and physical therapy, transportation, assisted or alternate livingfacilities, local and national Lung Association chapters, and Web sites for educational materials
+=========

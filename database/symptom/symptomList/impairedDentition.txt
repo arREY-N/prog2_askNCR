@@ -1,0 +1,54 @@
+::Impaired Dentition::
+
+::Definition::
+Disruption in tooth development/eruption patterns or structural integrity of individual teeth
+
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing factors: 
+1. Inspect the oral cavity. Note the presence or absence of teeth and/or dentures and ascertain the significance of fi nding in terms of nutritional needs and aesthetics. 
+2. Evaluate the current status of dental hygiene and oral health to determine the need for instruction or coaching, assistive devices, and/or referral to dental care providers.
+3. Note presence of halitosis. Bad breath may be result of numerous local or systemic conditions, including smoking, periodontal disease, dehydration, malnutrition, ketoacidosis, nasal and sinus infections, and some medication and drugs. Management can include improved mouth care or treatment of underlying conditions.
+4. Document age, developmental and cognitive status, and manual dexterity. Evaluate nutritional and health state, noting the presence of conditions such as bulimia or chronic vomiting, musculoskeletal impairments, or problems with mouth (e.g., bleeding disorders, cancer lesions, abscesses, and facial trauma), which are factors affecting a client’s dental health and the ability to provide effective oral care.
+5. Document the presence of factors affecting dentition (e.g., chronic use of tobacco, coffee, or tea; bulimia/chronic vomiting; abscesses; tumors; braces; bruxism [chronic grinding of teeth]) to determine possible interventions and/or treatment needs.
+6. Note the current situation that could impact dental health (e.g., presence of endotrachial [ET] intubation, facial fractures, or chemotherapy) and that require special mouth care procedures.
+7. Document (photograph) facial injuries before treatment to provide a “pictorial baseline” for future comparison and evaluation.
+
+[Nursing Priority No. 2]
+To treat/manage dental care needs: 
+1. Ascertain the client’s usual method of oral care to provide continuity of care or to build on the client’s existing knowledge base and current practices in developing a plan of care.
+2. Assist with or provide oral care, as indicated: 
+ -- Offer tap water or saline rinses and diluted alcohol-free mouthwashes. 
+ -- Provide gentle gum massage and tongue brushing with a soft toothbrush, using fl uoride toothpaste to manage tartar buildup, if appropriate. 
+ -- Use foam sticks to swab gums and oral cavity when brushing is not possible or is inadvisable.
+ -- Assist with brushing and fl ossing when the client is unable to do self-care.
+ -- Demonstrate and assist with electric or battery-powered mouth care devices (e.g., toothbrush, plaque remover, or Waterpik™), as indicated. 
+ -- Remind the client to brush teeth as indicated. Cues, modeling, or pantomime may be helpful if the client is young, elderly, or cognitively or emotionally impaired.
+ -- Assist with or provide denture care, when indicated (e.g., remove and clean after meals and at bedtime).
+3. Provide an appropriate diet for optimal nutrition, considering the client’s special needs, such as pregnancy, age and developmental concerns, and ability to chew (e.g., liquids or soft foods), and offer low-sugar, low-starch foods and snacks; limit between-meal eating, sugary foods, and bedtime snacks to minimize tooth decay and to improve overall health. 
+4. Increase fluids, as needed, to enhance hydration and general well-being of oral mucous membranes.
+5. Reposition ET tubes and airway adjuncts routinely, carefully padding and protecting teeth and prosthetics. 
+6. Suction with care, when indicated. 
+7. Avoid thermal stimuli when teeth are sensitive. Recommend the use of specifi c toothpastes designed to reduce sensitivity of teeth.
+8. Maintain good jaw and facial alignment when fractures are present. 
+9. Administer antibiotics, as needed, to treat dental and gum infections.
+10. Recommend the use of analgesics and topical analgesics, as needed, when dental pain is present.
+11. Administer antibiotic therapy prior to dental procedures in susceptible individuals (e.g., prosthetic heart valve clients) to reduce risk of infective endocarditis or migration of bacteria to other body organs and/or ascertain that bleeding disorders or coagulation defi cits are not present to prevent excess bleeding.
+12. Direct client to notify dental care provider when bleeding disorder is present or anticoagulant therapy (including aspirin) is being used. May impact choice of procedure or technique in order to prevent excess bleeding.
+13. Refer to appropriate care providers (e.g., dental hygienists, dentists, periodontists, and oral surgeons).
+
+[Nursing Priority No. 3]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+1. Instruct the client/caregiver in home-care interventions to treat the condition and/or prevent further complications.
+2. Review resources that are needed for the client to perform adequate dental hygiene care (e.g., toothbrush/paste, clean water, dental fl oss, and/or personal care assistant). 
+3. Recommend that the client (of any age) limit sugary and high-carbohydrate foods in diet and snacks to reduce the buildup of plaque and the risk of cavities caused by acids associated with the breakdown of sugar and starch.
+4. Instruct older client and caregiver(s) concerning special needs and importance of daily mouth care and regular dental follow-up.
+5. Review or demonstrate proper toothbrushing techniques (e.g., spending several minutes brushing, reaching all tooth surfaces, brushing after meals) and daily fl ossing. Avoid sharing toothbrushes. Brush child’s teeth until he or she can perform alone. 
+6. Advise the mother regarding age-appropriate concerns (e.g., refrain from letting baby fall asleep with milk or juice in bottle; use water and pacifi er during the night; avoid sharing eating utensils and toothbrushes among family members; teach children to brush teeth while young; provide the child with safety devices such as helmet, face mask, or mouth guard to prevent facial injuries). 
+7. Discuss with pregnant women special needs and regular dental care to maintain maternal dental health and promote strong teeth and bones in fetal development.
+8. Encourage cessation of tobacco, especially smokeless, and enrollment in smoking-cessation classes to reduce the incidence of gum disorders, oral cancer, and other health problems.
+9. Discuss advisability of dental checkup and care prior to initiating chemotherapy or radiation treatments to minimize oral and dental tissue damage.
+10. Refer to resources to maintain dental hygiene (e.g., dental care providers, oral health care supplies, and/or fi nancial assistance programs). 
+
+=========

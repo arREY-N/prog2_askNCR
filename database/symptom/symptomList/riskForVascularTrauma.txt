@@ -1,0 +1,48 @@
+::Risk For Vascular Trauma::
+
+::Definition::
+ Susceptible to damage to vein and its surrounding tissues related to the presence of a catheter and/or infused solutions, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess risk factors: 
+1. Determine presence of medical condition(s) requiring IV therapy (e.g., dehydration, trauma, surgery; long-term antibiotic treatment of severe infections; cancer therapies, pain management when oral drugs not effective or practical). 
+2. Note client’s age, body size, and weight. Very young or elderly client is at risk because of lack of subcutaneous tissue surrounding veins, and veins may be fragile or ropy, causing diffi culties with insertion. Forearm veins may be diffi cult to see in obese, edematous, or darkskinned individual.
+3. Identify particular issues, such as client’s emotional state (including fear of needles) and mental or developmental status, that might interfere with client’s ability to cooperate with procedures, IV site choices that interfere with client’s mobility, to prevent or limit potential for vascular damage. 
+4. Determine type(s) of solutions being used or planned. Certain infusates are associated with greater risk of vein irritation and pain (e.g., potassium, contrast media); others are associated with signifi cant risk of tissue injury, especially upon infi ltration into surrounding tissues, including certain antibiotics, chemotherapy, or parenteral nutrition.
+5. Assess peripheral IV site, when one is already in place, to determine potential for complications. Reddened, blanched, tight, translucent, or cool skin; swelling; pain; numbness; streak formation; a palpable venous cord or purulent drainage are indicative of problem with IV requiring immediate intervention.
+6. Assess central venous access device (CVAD), if present, to determine potential for complications. Inability to aspirate, slowed or absent solution fl ow, site pain, engorged veins, or swelling in upper arm, chest wall, neck, or jaw on side of catheter insertion may indicate vein or catheter-related thrombus, requiring immediate intervention.
+
+[Nursing Priority No. 2]
+    -  To reduce potential complications:
+1. Determine appropriate site choice:
+ - Inspect and palpate chosen veins to determine size and condition. Best veins are those that are not scarred, lumpy, or fragile, to improve ease of cannulation and effectiveness of infusion.
+ - Identify extremities or sites that have impaired circulation or injury. Existing tissue injury, bleeding, or edema can inhibit successful IV cannulation and potentiate risk for infi ltration of infusates.
+ - Avoid leg veins in adults due to potential for thrombophlebitis.
+ - Avoid anticubital veins when using peripheral catheter because placement there limits client’s movement, and the catheter is easily dislodged.
+ - Avoid inserting needle in vein valve site. Damage to this area can cause blood pooling and increase risk of thrombosis.
+2. Use best practice approach to IV insertion: 
+ - Determine best type of access when IV therapy is initiated. Peripheral catheter in forearm is recommended for short-duration, nonirritating solutions of less than 7 days. Central line is appropriate for infusing many kinds of solutions over long periods of time or when client has suffered multiple peripheral sticks or one extremity is not available (e.g., amputation, dialysis shunt in one arm).
+ - Use appropriate needle gauge for chosen vein and solution to deliver solution at appropriate rate, to promote hemodilution of fl uid(s) at the catheter tip, and to reduce mechanical and chemical irritation to vein wall.
+ - Make use of equipment (e.g., ultrasound, near-infrared technology, transillumination), as indicated/available, when venous access is diffi cult and/or after failed venous access attempts to reduce client’s trauma (both physical and emotional) and potential for excess vein damage affi liated with multiple attempts.
+ - Clean site and follow agency policy for the use of a local anesthetic (e.g., buffered 1% lidocaine) before venipuncture to reduce risk of infection and pain with needle or cannula insertion.
+ - Stretch and immobilize skin and tissues to stabilize vein and prevent rolling, requiring multiple sticks.
+ - Insert needle bevel up during insertion and hold at 3° to 10° angle to prevent “blowing” the vein by piercing the back wall.
+ - Release tourniquet immediately when insertion is complete to prevent intravascular pressure from causing bleeding into surrounding tissues.
+ - Observe for hematoma development and/or reports of pain and discomfort during insertion, indicating vein damage with bleeding into tissues.
+ - Secure needle or cannula with tape or other securing device to prevent dislodging and to extend catheter dwell time.
+ - Avoid placing tape entirely around arm to anchor catheter; can impede venous return and cause pooling of fl uid, and infi ltration or extravasation into surrounding tissues.
+ - Utilize transparent dressing over insertion site to protect from external contaminants and to allow easy observation for potential complications.
+3. Adhere to recommended infusions, dilutions, and administration rates for medications or irritating substances, such as potassium, to reduce incidence of tissue irritation and sloughing.
+4. Consult with IV/infusion nurse or other medical provider to problem-solve issues that arise with IVs and/or for interventions for complications.
+
+[Nursing Priority No.3]
+    - To promote optimum therapeutic effect: 
+1. Observe IV site on a regular basis and instruct client/caregiver to report any discomfort, bruising, redness, swelling, bleeding, or other fl uid leaking from site. 
+2. Replace peripheral catheters every 72 to 96 hr (or per agency policy) to prevent thrombophlebitis and catheter-related infections.
+3. Apply pressure to site when IV discontinued for suffi cient time to prevent bleeding, especially in client with coagulopathies or on anticoagulants. 
+4. Adhere to specific protocols related to infection control to promote safe infusion of solutions or medications and prevent complications. (Refer to ND risk for Infection.) 
+5. Identify community resources and suppliers as indicated to support home therapy regimen.
+
+=====

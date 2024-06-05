@@ -1,0 +1,66 @@
+::Risk For Thermal Injury::
+
+::Definition::
+ Susceptible to extreme temperature damage to skin and mucous membranes, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify causative/precipitating factors related to risk: 
+1. Identify client at risk (e.g., chronic illness conditions with weakness or prolonged immobility; acute or chronic confusion, mental illness, dementia, head injury; use of multiple medications; use of alcohol or other drugs; cultural, familial, and socioeconomic factors adversely affecting lifestyle and home; exposure to environmental chemicals). 
+2. Note chronological and developmental age of client. Infants, young children, disabled, debilitated, aged, or impaired individuals are not able to protect themselves and may not recognize and/or react appropriately in dangerous situations.
+3. Evaluate client’s/significant other’s (SO’s) level of cognition, competence, decision-making ability, and independence. 
+4. Ascertain if client is using alcohol/other drugs or medications that could impair ability to act in best interest of self or others.
+5. Evaluate client’s lifestyle practices, noting reports of riskprone behavior (e.g., smoking in bed, failure to use safety equipment when working with chemicals, allowing child to play with matches, unprotected exposure to sun or cold environment) that can place client or others at high risk for injury.
+6. Ascertain knowledge of safety needs and injury prevention, as well as motivation to prevent injury. Information may reveal areas of misinformation, lack of knowledge, need for teaching.
+
+[Nursing Priority No. 2]
+    - To assist client/caregiver to reduce or correct individual risk factors:
+1. Provide client/SO information regarding client’s specifi c situation and consequences of continuing unsafe behaviors to enhance decision-making, clarify expectations and individual needs.
+2. Review client’s physical and psychological abilities or limitations to determine adaptations that may be required by current situation.
+3. Provide for client’s safety while in facility care (e.g., apply hot and cold treatments judiciously; prevent/monitor smoking; exercise care in use of all electrical equipment in presence of oxygen; supervise bath temperature in confused individuals, young children, or elderly adults; etc.) to reduce risk of dermal injury.
+4. Be mindful of skin safety issues during surgical procedures :
+ - Conduct a fi re risk assessment at beginning of each surgical procedure and continuously monitor for changes in risk during procedure. The highest risks involve an ignition source (e.g., electrocautery device), delivery of supplemental oxygen, and the operation of the ignition source near the oxygen (e.g., head, neck, or upper chest surgery).
+ - Provide supplemental oxygen safely, using the lowest concentration possible to reduce amount of oxygen fl owing into surgical fi eld.
+ - Verify electrical safety of equipment including intact cords, grounds, and medical engineering verifi cation labels.
+ - Place dispersive electrode (electrocautery pad) over largest available muscle mass closest to surgical site, ensuring its contact to prevent electrical burns.
+ - Ascertain that alcohol-containing skin prep solutions are not pooled under client or in surgical drapes and had suffi cient drying time.
+ - Protect surrounding skin and tissues appropriately when laser equipment is used in surgical procedures. Prevents inadvertent skin integrity disruption, hair ignition, and adjacent anatomy injury in area of laser beam use.
+ - Apply eye protection before laser activation. Eye protection for specifi c laser wavelength must be used to prevent injury.
+5. Implement skin care protocol for client receiving radiation therapy :
+ - Assess skin frequently for side effects of therapy; note breakdown and delayed wound healing. Emphasize importance of reporting open areas to caregiver. A reddening and/ or tanning effect (radiation dermatitis) may develop within the fi eld of radiation.
+ - Avoid rubbing the skin or use of soap, lotions, creams, ointments, powders, or deodorants on area; avoid applying heat or attempting to wash off marks/tattoos placed on skin to pinpoint location for radiation therapy. These factors can potentiate or otherwise interfere with radiation delivery and may increase dermal reaction.
+6. Avoid application of lotion or oils to skin of infants receiving phototherapy for hyperbilirubinemia to prevent dermal injury and cover male groin with small pad to protect testes from heat-related injury.
+7. Provide or instruct in proper care of skin surfaces during exposure to very cold or hot weather. Although everyone is at risk for frostbite or sunburn, individuals with impaired sensation or cognition and infants/young children require special attention to deal with extremes in weather.
+8. Discuss importance of self-monitoring of factors that can contribute to occurrence of injury (e.g., fatigue, anger). Client/SO may be able to modify risk through monitoring of actions especially during times when client is likely to be highly stressed.
+9. Perform home assessment, if indicated, to address safety issues. Concerns vary widely and may include evaluation of fire alarms or extinguisher function; safe use of oxygen; checking hot water temperature for elderly confused person, or obtaining medical alert device or home health service, etc.
+10. Review specific employment concerns or worksite issues and needs (e.g., properly fi tting safety equipment, regular use of safety glasses or goggles, safe storage of hazardous substances). 
+11. Discuss need for and sources of supervision (e.g., before- and after-school programs for children, elder day programs, home care assistance) when client or care provider is unable or unwilling to attend to safety concerns.
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Criteria): 
+1. Identify individual needs and resources for safety education. 
+2. Prevent burn injuries (flame, scalding, chemical, electrical, sunburn):
+ - Install smoke alarms in kitchen, in every sleeping area, and on every fl oor of home.
+ - Keep space heaters away from fl ammable materials and from at-risk persons.
+ - Check all fuel-burning appliances including fi replaces for proper function.
+ - Store combustibles away from all heat-producing appliances.
+ - Prepare and practice an emergency escape plan.
+ - Avoid smoking in bed. Get rid of used cigarettes carefully.
+ - Prevent small children from playing with matches or near open fl ame or stove.
+ - Turn handles of pots and pans toward side of stove or use back burners.
+ - Set the temperature on water heater to 120°F or use the “lowmedium” setting.
+ - Test water temperature before allowing child/impaired person into tub or shower.
+ - Use cool-water humidifi ers instead of hot-steam vaporizers.
+ - Store fi reworks, cleaning supplies, and other chemicals out of the reach of children.
+ - Wear gloves, safety glasses, and other protective clothing when handling chemicals.  Avoid storing chemicals in easily accessible locations or in food or drink containers; store in original containers with intact labels to reduce risk of chemical burns.
+ - Check electrical appliances for proper function and follow manufacturer’s safety instructions. Discard frayed or damaged electrical cords. Avoid using electrical appliances while showering or in other wet environmental conditions to reduce risk of electrical burns.
+ - Use child safety plugs in all electrical outlets.
+ - Avoid lengthy or unnecessary sun exposure/ultraviolet tanning, especially with specifi c disease conditions or treatments (e.g., systemic lupus, tetracycline or psychotropic drug use, radiation therapy) to reduce risk of sunburn.
+ - Advise use of high sun protection factor (SPF) sunblock or sunscreen, particularly on young child and/or client with fair skin (prone to burn). Because children spend a lot of time outdoors playing, they get most of their lifetime sun exposure in their fi rst 18 years.
+3. Provide telephone numbers and other contact numbers as individually indicated (e.g., fi re, police, physician). 
+4. Refer to community resources as indicated (e.g., substance recovery, anger management, and parenting classes) to address conditions that could exacerbate risk of injury to self or others.
+5. Refer to or assist with community education programs to increase awareness of safety measures and available resources.
+6. Identify emergency escape plans and routes for home and community to be prepared in the event of natural or manmade disaster (e.g., fi re, toxic chemical release).
+
+=====

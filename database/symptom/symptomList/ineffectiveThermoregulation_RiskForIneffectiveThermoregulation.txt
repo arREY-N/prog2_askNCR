@@ -1,0 +1,38 @@
+::Ineffective Thermoregulation And Risk For Ineffective Thermoregulation::
+
+::Definition::
+ - Ineffective Thermoregulation: Temperature fluctuation between hypothermia and hyperthermia.
+ - Risk For Ineffective Thermoregulation: Susceptible to temperature fluctuation between hypothermia and hyperthermia, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    -  To identify causative/contributing or risk factors: 
+1. Note extremes of age (e.g., premature neonate, young child, or aging adult) as this can directly impact ability to maintain or regulate body temperature.
+2. Obtain history concerning present symptoms, correlate with previous episodes or family history, and diagnostic studies. Thermoregulation is a controlled process that maintains the body’s core temperature in the range at which most biochemical processes work best (97.7°F–99.5°F [36.5°C–37.°C]). Exercise, behavioral impulses, metabolic and hormonal changes infl uence changes in body temperature, leading to loss or gain of heat.
+3. Determine specific factors involved in current temperature fluctuation (e.g., environmental factors [such as extreme heat or cold], surgery, infectious process, effects of drugs or toxins, brain or spinal cord injury; behaviors that can increase risk of exposure such alcoholism, illicit drug use; homelessness). Thermoregulation is affected in two ways: (1) endogenous factors (via diseases or conditions of body/organ systems that affect temperature homeostasis) and (2) exogenous factors (via environmental exposures, medications, and nutrition).
+4. Review client’s medications for possible thermoregulatory side effects (e.g., diuretics, certain sedatives and antipsychotic agents, anticholinergics, anticonvulsants, some heart and blood pressure medications, anesthesia). 
+5. Monitor laboratory studies (e.g., tests indicative of infection, thyroid or other endocrine tests, organ damage, drug screens) to identify potential internal causes of temperature imbalances.
+
+[Nursing Priority No. 2]
+    - To assist with measures to correct/treat underlying cause or prevent temperature alteration:
+1. Monitor temperature by appropriate route (e.g., tympanic, rectal, oral), using the same site and device over time and noting variation from client’s usual or normal temperature. 
+2. Have cooling and warming equipment and supplies readily available during childbirth and following procedures or surgery.
+3. Limit clothing or remove blanket from premature infant placed in incubator to prevent overheating in climatecontrolled environment.
+4. Maintain ambient temperature in comfortable range to prevent or compensate for client’s heat production or heat loss (e.g., may need to add or remove clothing or blankets, avoid drafts, reduce or increase room temperature and humidity).
+5. Review home management of temperature fluctuations in special population (e.g., newborn infant, person with spinal cord injury, frail elder). Measures could include use of heating pads, ice bag, radiant heaters or fans; adding or removing clothing or blankets; cool or warm liquids and bath water.
+6. Initiate emergent and/or immediate interventions such as occlusive wrap in delivery room, skin-to-skin contact in newborn; cooling or warming measures (e.g., fl uids, electrolytes, nutrients, and medications [e.g., antipyretics, antibiotics, neoplastics]), to restore or maintain body temperature within normal range, as indicated in NDs Hypothermia; Hyperthermia; risk for imbalanced Body Temperature.
+7. Administer fluids, electrolytes, and medications, as appropriate, to restore or maintain body and organ function.
+
+[Nursing Priority No.3]
+    - To promote optimal body temperature (Teaching/Discharge Considerations):
+1. Review causative related factors and risk factors, if appropriate, with client/signifi cant other (SO). Provides information about what, if any, measures can be implemented to protect client from harm or limit potential for problems associated with ineffective thermoregulation.
+2. Discuss appropriate dressing with client/caregivers, such as:
+ - Wearing layers of clothing that can be removed or added as needed
+ - Donning hat and gloves in cold weather
+ - Using water-resistant outer gear to protect from wet weather chill
+ - Dressing in light, loose protective clothing in hot weather
+3. Provide oral and written information concerning client’s disease processes, current therapies, and postdischarge precautions regarding hypothermia or hyperthermia, as appropriate to situation. Allows for review of instructions for early intervention and implementation of preventive or corrective measures.
+4. Refer to teaching section in NDs risk for imbalanced Body Temperature, Hypothermia, or Hyperthermia, for related interventions as appropriate. 
+
+=====

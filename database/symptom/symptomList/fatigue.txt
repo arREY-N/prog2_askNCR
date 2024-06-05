@@ -1,0 +1,72 @@
+::Fatigue::
+
+::Definition::
+ An overwhelming sustained sense of exhaustion 
+and decreased capacity for physical and mental work at the 
+usual level.
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+To assess causative/contributing factors: 
+1 Identify the presence of physical and/or psychological conditions (e.g., pregnancy; infectious processes; blood loss, anemia; connective tissue disorders [e.g., multiple sclerosis (MS), lupus]; trauma, chronic pain syndromes [e.g., arthritis]; cardiopulmonary disorders; cancer and cancer treatments; hepatitis; AIDS; major depressive disorder; anxiety states; substance use or abuse). Important information can be obtained from knowing 1-- fatigue is a result of an underlying condition or disease process (acute or chronic); 2-- the current status of an exacerbating or remitting condition;, or 3-- whether fatigue has been present over a long time without any identifi able cause.
+2 Note diagnosis or possibility of chronic fatigue syndrome (CFS), also sometimes called chronic fatigue immune dysfunction syndrome (CFIDS). Defi ning Characteristics in preceding section indicate that this fatigue far exceeds feeling tired after a busy day. Because no direct tests help in diagnosis of CFS, it is one of exclusion. CFS has been defi ned as a distinct disorder (affecting both children and adults) characterized by chronic (often relapsing, but always debilitating) fatigue, lasting for at least 6 months (often for much longer), causing impairments in overall physical and mental functioning and without an apparent etiology.
+3 Note age, gender, and developmental stage. Some studies show a prevalence of fatigue more often in females than males; it most often occurs in adolescent girls and in young to middle-aged adults, but the condition may be present in any person at any age
+4 Review medication regimen/other drug use. Many medications have the potential side effect of causing/exacerbating fatigue (e.g., beta blockers, chemotherapy agents, narcotics, sedatives, muscle relaxants, antiemetics, antidepressants, antiepileptics, diuretics, cholesterol-lowering drugs, HIV treatment agents, combinations of drugs and/or substances).
+5 Ascertain the client’s belief about what is causing the fatigue. 
+6 Assess vital signs to evaluate fl uid status and cardiopulmonary response to activity.
+7 Determine the presence/degree of sleep disturbances. Fatigue can be a consequence of, and/or exacerbated by, sleep deprivation.
+8 Note recent lifestyle changes, including confl icts (e.g.,expanded responsibilities, demands of others, job-related confl icts); maturational issues (e.g., adolescent with an eating disorder); and developmental issues (e.g., new parenthood, loss of spouse/signifi cant other [SO]). 
+9 Assess psychological and personality factors that may affect reports of fatigue level. Client can potentially have issues that affect desire to be active (or work), resulting in over or underactivity. or concerns of secondary gain from exaggerated fatigue reports.
+10 Evaluate aspect of “learned helplessness” that may be manifested by giving up. This can perpetuate a cycle of fatigue, impaired functioning, and increased anxiety and fatigue.
+
+[Nursing Priority No. 2]
+    -  To determine degree of fatigue/impact on life: 
+1 Obtain client/SO descriptions of fatigue (i.e., lacking energy or strength, tiredness, weakness lasting over length of time). Note the presence of additional concerns (e.g., irritability, lack of concentration, diffi culty making decisions, problems with leisure, and relationship diffi culties) to assist in evaluating the impact on the client’s life.
+2 Ask the client to rate fatigue (using 0 to 10 or similar scale) and its effects on the ability to participate in desired activities. Fatigue may vary in intensity and is often accompanied by irritability, lack of concentration, diffi culty making decisions, problems with leisure, and relationship diffi culties that can add to stress level and aggravate sleep problems.
+3 Discuss lifestyle changes or limitations imposed by fatigue state. 
+4 Interview parent/caregiver regarding specifi c changesobserved in child or elder client. These individuals may not be able to verbalize feelings or relate meaningful information.
+5 Note daily energy patterns (i.e., peaks and valleys). This is helpful in determining pattern/timing of activity.
+6 Measure the physiological response to activity (e.g., changes in blood pressure or heart and respiratory rate). 
+7 Evaluate the need for individual assistance or assistive devices. 
+8 Review the availability and current use of support systems and resources. 
+9 Perform, or review results of, testing, such as the Multidimensional Assessment of Fatigue (MAF), Piper Fatigue Scale (PFS), and Global Fatigue Index (GFI), as appropriate. Can help determine manifestation, intensity, duration, and emotional meaning of fatigue
+
+[Nursing Priority No. 3]
+    -  To assist client to cope with fatigue and manage within individual limits of ability: 
+1 Treat underlying conditions where possible (e.g., manage pain, depression, or anemia; treat infections; reduce numbers of interacting medications) to reduce fatigue caused by treatable conditions.
+2 Accept the reality of client reports of fatigue and do not underestimate effect on client’s quality of life. Fatigue is subjective and often debilitating. For example, clients with MS or cancer are prone to severe fatigue following minimal energy expenditure and require a longer recovery period.
+3 Establish realistic activity goals with the client and encourage forward movement. This enhances the commitment to promoting optimal outcomes.
+4 Plan interventions to allow individually adequate rest periods. Schedule activities for periods when the client has the most energy to maximize participation.
+5 Involve the client/SO(s) in schedule planning. 
+6 Encourage the client to do whatever possible (e.g., self-care, sit up in chair, go for walk, interact with family, or play a game). Increase activity level, as tolerated. 
+7 Instruct client/caregivers in alternate ways of doing familiar activities and methods to conserve energy, such as the following: 
+-- Sit instead of stand during daily care and other activities. 
+-- Carry several small loads instead of one large load. 
+-- Combine and simplify activities.
+-- Take frequent, short breaks during activities. 
+-- Delegate tasks. 
+-- Ask for and accept assistance. 
+-- Say “No” or “Later.” 
+-- Plan steps of activity before beginning so that all needed materials are at hand. 
+8. Encourage the use of assistive devices (e.g., wheeled walker, handicap parking spot, elevator, backpack for carrying objects), as needed, to extend active time/conserve energy for other tasks.
+9. Assist with self-care needs; keep the bed in a low position and keep travelways clear of furniture; assist with ambulation, as indicated. 
+10. Avoid or limit exposure to temperature and humidity extremes, which can negatively impact energy level.
+11. Encourage engagement in diversional activities, avoiding both overstimulation and understimulation (cognitive and sensory). Participating in pleasurable activities can refocus energy and diminish feelings of unhappiness, sluggishness, and worthlessness that can accompany fatigue.
+12. Discuss measures to promote restful sleep, if client is experiencing sleep disturbances. (Refer to ND Insomnia.) 
+13. Encourage nutritionally dense, easy-to-prepare and easy-toconsume foods, and avoidance of caffeine and high-sugar foods and beverages to promote energy.
+14. Instruct in/implement stress-management skills of visualization, relaxation, and biofeedback, when appropriate. 
+15. Discuss alternative therapies (e.g., massage, acupuncture, osteopathic or chiropractic manipulations), if appropriate. Complementary therapies may be helpful in reducing muscle tension and pain to promote relaxation and rest.
+16. Refer to comprehensive rehabilitation program, physical and occupational therapy for programmed daily exercises and activities to improve stamina, strength, and muscle tone and to enhance sense of well-being
+
+[Nursing Priority No. 4]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+1. Discuss therapy regimen relating to individual causative factors (e.g., physical and/or psychological illnesses) and help the client/SO(s) to understand relationship of fatigue to illness. 
+2. Assist client/SO(s) to develop plan for activity and exercise within individual ability. Emphasize benefi ts of allowing sufficient time to participate in needed/desired activities.
+3. Instruct the client in ways to monitor responses to activity and signifi cant signs/symptoms that indicate the need to alter activity level.
+4. Promote overall health measures (e.g., nutrition, adequate fl uid intake, and appropriate vitamin and iron supplementation). 
+5. Encourage the client to develop assertiveness skills, to prioritize goals and activities, to learn to delegate duties or tasks, or to say “No.” Discuss burnout syndrome, when appropriate, and actions client can take to change individual situation. 
+6. Assist the client to identify appropriate coping behaviors. This promotes a sense of control and improves self-esteem.
+7. Identify condition-specific support groups and community resources to provide information, share experiences, and enhance problem-solving. . 
+8. Refer to counseling or psychotherapy, as indicated. 
+9. Identify community resources that can be available to assist with everyday life needs (e.g., Meals on Wheels, homemaker or housekeeper services, yard care).
+=========

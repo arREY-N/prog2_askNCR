@@ -1,0 +1,54 @@
+::Risk For Suicide::
+
+::Definition::
+ Susceptible to self-inflicted, life-threatening injury. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors and degree of risk:
+1. Identify degree of risk or potential for suicide and seriousness of threat. Information may be obtained from client or signifi cant other (SO) interviews, or over time in the course of care. Note: Most people who are contemplating suicide send a variety of signals indicating their intent, and recognizing these warning signs allows for immediate intervention.
+2. Use a risk scale (where available) to prioritize client risk according to severity of threat and availability of means. Several risk scales may be used (e.g., Beck’s Scale for Suicide Ideation, Linehan’s Reasons for Living Inventory, Cole’s self-administered adaptation of Linehan’s structured interview called the Suicidal Behaviors Questionnaire) to assist in evaluating the severity of risk. 
+3. Note behaviors indicative of intent (e.g., gestures; withdrawal from usual activities, or family/friends; presence of means, such as guns; threats; giving away possessions; previous attempts; and presence of hallucinations or delusions). These are classic behaviors of the individual who is feeling depressed and sad and may be having negative thoughts of worthlessness.
+4. Ask directly if person is thinking of acting on thoughts or feelings. Determines intent. Most people will answer honestly because they actually want help. 5. Note age and gender. Risk of suicide is greater in males, teens, and the elderly, but there is a rising awareness of risk in early childhood.
+5. Review family history for suicidal behavior. Individual risk is increased, especially when the person who committed suicide was close to the client.
+6. Identify conditions, such as acute or chronic brain syndrome, panic state, hormonal imbalance (e.g., premenstrual syndrome, postpartum psychosis, drug induced) that may interfere with ability to control own behavior and will require specifi c interventions to promote safety.
+7. Discuss losses client has experienced and meaning of those losses. Unresolved issues may be contributing to thoughts of hopelessness.
+8. Assess physical complaints (e.g., sleeping diffi culties, lack of appetite). Sleeping difficulties, lack of appetite can be indicators of depression and suicidal ideation requiring further evaluation
+9. Determine drug use or “self” medication. The use of drugs and alcohol, especially the combination of alcohol and barbiturates, increases the risk of suicide.
+10. Note history of disciplinary problems or involvement with judicial system. Feelings of despair over problems with the legal system and lack of hope about outcome can lead to belief that the only solution is suicide.
+11. Assess coping behaviors presently used. Client’s current negative thinking may preclude looking at positive behaviors used in the past that would help in the current situation.
+12. Determine presence of SO(s)/friends who are available for support. Individuals who have positive support systems upon whom they can rely during a crisis situation are less likely to commit suicide and are more apt to return to a successful life.
+13. Review laboratory fi ndings (e.g., blood alcohol, blood glucose, arterial blood gas, electrolytes, renal function tests) to identify factors that may affect reasoning ability.
+
+[Nursing Priority No. 2]
+    - To assist clients to accept responsibility for own behavior and prevent suicide:
+1. Develop therapeutic nurse client relationship, providing consistent caregiver. Collaborating with the client to better understand the problem affi rms the client’s ability to solve the current situation. 
+2. Maintain straightforward communication to avoid reinforcing manipulative behavior.
+3. Explain concern for safety and willingness to help client stay safe. 
+4. Encourage expression of feelings and make time to listen to concerns. Acknowledges reality of feelings and that they are okay. Helps individual sort out thinking and begin to develop understanding of situation and look at other alternatives.
+5. Give permission to express angry feelings in acceptable ways and let client know someone will be available to assist in maintaining control. Promotes acceptance and sense of safety.
+6. Acknowledge reality of suicide as an option. Discuss consequences of actions if they follow through on intent. Ask how it will help individual to resolve problems. Helps to focus on consequences of actions and possibility of other options.
+7. Maintain observation of client and check environment for hazards that could be used to commit suicide. Do not leave client alone if expressing “I’m going to kill myself.” Do not promise to keep client’s suicidal thoughts a secret. Increases client safety and may reduce risk of impulsive behavior.
+8. Help client identify more appropriate solutions/behaviors (e.g., motor activities/exercise) to lessen sense of anxiety and associated physical manifestations.
+9. Provide directions for actions client can take, avoiding negative statements, such as “Do Nots.” Promotes a positive attitude.
+10. Discuss use of psychotropic medication, positive and negative aspects. While the use of medications is often helpful, there are some drawbacks, including the potential for providing client a means of suicide. 
+11. Reevaluate potential for suicide periodically at key times (e.g., mood changes, increasing withdrawal), as well as when client is feeling better and discharge planning becomes active. The highest risk exists when the client has both suicidal ideation and suffi cient energy with which to act.
+
+[Nursing Priority No.3]
+    - To assist client to plan course of action to correct/deal with existing situation:
+1. Gear interventions to individual involved (e.g., age, relationship, current situation). Age, relationships, and current situation determine what is needed to help client deal with feelings of despair and hopelessness.
+2. Negotiate contract with client regarding willingness not to do anything lethal for a stated period of time. Specify what caregiver will be responsible for and what client responsibilities are. 
+3. Specify alternative actions necessary if client is unwilling to negotiate contract. Client may be willing to agree to other actions (i.e., calling therapist if feelings are overwhelming), even though he or she is not willing to commit to a contract.
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Promote development of internal control by helping client look at new ways to deal with problems. 
+2. Assist with learning problem-solving, assertiveness training, and social skills. 
+3. Engage in physical activity programs. Releases endorphins, promoting feelings of self-worth and improving sense of well-being.
+4. Determine nutritional needs and help client to plan for meeting them. 
+5. Involve family/SO(s) in planning to improve understanding and support.
+6. Review use of antidepressants, when prescribed. Emphasize importance of continuing medication after symptoms of severe depression subside, to reduce risk of relapse. Antidepressants can be effective in quick relief of suffering in severe cases of depression. The combination of medication and interpersonal psychotherapy has been shown to be more effective than either alone.
+7. Refer to formal resources as indicated. May need referrals to individual, group, or marital psychotherapy, substance abuse treatment program, or social services when situation involves mental illness, family disorganization.
+
+=====

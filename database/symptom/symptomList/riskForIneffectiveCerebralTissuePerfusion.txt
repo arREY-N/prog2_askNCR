@@ -1,0 +1,44 @@
+::Risk For Ineffective Cerebral Tissue Perfusion::
+
+::Definition::
+ Susceptible to a decrease in cerebral tissue circulation, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors:
+1. Determine history of conditions associated with thrombus or emboli such as stroke, complicated pregnancy, sickle cell disease, fractures (especially long bones and pelvis) to identify client at higher risk for decreased cerebral perfusion related to bleeding and/or coagulation problems.
+2. Note current situation or presence of conditions (e.g., congestive heart failure, major trauma, sepsis, hypertension) that can affect multiple body systems and systemic circulation/perfusion.
+3. Ascertain potential for presence of acute neurological conditions, such as traumatic brain injuries, tumors, hemorrhage, anoxic brain injury associated with cardiac arrest, and toxic or viral encephalopathies. These conditions alter the relationship between intracranial volume and pressure, potentially increasing intracranial pressure and decreasing cerebral perfusion.
+4. Investigate client reports of headache, particularly when accompanied by a range of progressive neurological deficits. May accompany cerebral perfusion defi cits associated with conditions such as stroke, transient ischemic attack, brain trauma, or cerebral arteriovenous malformations.
+5. Ascertain if client has history of cardiac problems (e.g., recent myocardial infarction, heart failure, heart valve dysfunction or replacement), which can impair systemic and cerebral blood fl ow or cause thromboembolic events to brain.
+6. Determine presence of cardiac dysrhythmias (e.g., chronicatrial fi brillation, bradycardia). Stroke can be precipitated by dysrhythmias.
+7. Assess level of consciousness, mental status, speech, and behavior. Clinical symptoms of decreased cerebral perfusion include fluctuations in consciousness and cognitive function.
+8. Evaluate blood pressure. Chronic or severe acute hypertension can precipitate cerebrovascular spasm and stroke. Low blood pressure or severe hypotension causes inadequate perfusion of brain.
+9. Verify proper use of antihypertensive medications. Individuals may stop medication because of lack of symptoms, presence of undesired side effects, and/or cost of drug, potentiating risk of stroke.
+10. Review medication regimen noting use of anticoagulants/antiplatelet agents/other drugs that could cause intracranial bleeding.
+11. Review pulse oximetry or arterial blood gases. Hypoxia is associated with reduced cerebral perfusion.
+12. Review laboratory studies to identify disorders that increase risk of clotting or bleeding or conditions contributing to decreased cerebral perfusion.
+13. Review results of diagnostic studies (e.g., ultrasound or other imaging scans such as echocardiography, computed tomography [CT], or magnetic resonance angiography [MRA]; diffusion and perfusion magnetic resonance imaging) to determine location and severity of disorder that can cause or exacerbate cerebral perfusion problem.
+
+[Nursing Priority No. 2]
+    - To maximize tissue perfusion:
+1. Collaborate in treatment of underlying conditions as indicated to improve systemic perfusion and organ function.
+2. Restore or maintain fl uid balance to maximize cardiac output and prevent decreased cerebral perfusion associated with hypovolemia.
+3. Manage cardiac dysrhythmias via medication administration, pacemaker insertion. 
+4. Restrict fluids, administer diuretics, as indicated, to prevent decreased cerebral perfusion associated with hypertension, and cerebral edema.
+5. Maintain optimal head of bed placement (e.g., 0, 15, 30 degrees) as indicated, to promote cerebral perfusion.
+6. Administer vasoactive medications, as indicated, to increase cardiac output and/or adequate arterial blood pressure to maintain cerebral perfusion.
+7. Administer other medications, as indicated (e.g., steroids may reduce edema, antihypertensives for high blood pressure, anticoagulants to prevent cerebral embolus).
+8. Prepare client for surgery, as indicated (e.g., carotid endarterectomy, evacuation of hematoma or space-occupying lesion), to improve cerebral perfusion.
+9. Refer to NDs decreased Cardiac Output; decreased intracranial Adaptive Capacity, for additional interventions. 
+
+[Nursing Priority No.3]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+1. Review modifiable risk factors, including hypertension, smoking, diet, physical activity, excessive alcohol intake, illicit drug use, as indicated. Information can help client make informed choices about remedial risk factors and commit to lifestyle changes, as appropriate.
+2. Discuss impact of unmodifi able risk factors such as family history, age, race. Understanding effects and interrelationship of all risk factors may encourage client to address what can be changed to improve general well-being and reduce individual risk.
+3. Assist client to incorporate disease management into activities of daily living. Promotes independence; enhances selfconcept regarding ability to deal with change and manage own needs.
+4. Emphasize necessity of routine follow-up and laboratory monitoring, as indicated, for effective disease management and possible changes in therapeutic regimen.
+5. Refer to educational and community resources, as indicated. Client/significant other (SO) may benefi t from instruction and support provided by agencies to engage in healthy activities (e.g., weight loss, smoking cessation, exercise).
+
+=====
