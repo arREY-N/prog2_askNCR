@@ -1,0 +1,8 @@
+::Tonsillectomy::
+
+anxiety_Fear>anxiety_Fear.txt
+risk for ineffective Airway Clearance>riskforineffectiveAirwayClearance.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+acute Pain>acutePain.txt
+
+=====

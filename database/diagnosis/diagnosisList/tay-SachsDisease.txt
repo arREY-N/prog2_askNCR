@@ -1,0 +1,10 @@
+::Tay-Sachs Disease::
+
+risk for delayed Development>riskfordelayedDevelopment.txt
+disturbed visual Sensory Perception>disturbedvisualSensoryPerception.txt
+grieving>grieving.txt
+powerlessness>powerlessness.txt
+risk for Spiritual Distress>riskforSpiritualDistress.txt
+compromised family Coping>compromisedfamilyCoping.txt
+
+=====

@@ -1,0 +1,6 @@
+::Varices, Esophageal::
+
+risk for deficient Fluid Volume_risk for Bleeding>riskfordeficientFluidVolume_riskforBleeding.txt
+anxiety_Fear>anxiety_Fear.txt
+
+=====

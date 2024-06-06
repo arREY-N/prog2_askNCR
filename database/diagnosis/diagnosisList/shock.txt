@@ -1,0 +1,6 @@
+::Shock::
+
+ineffective Tissue Perfusion>ineffectiveTissuePerfusion.txt
+anxiety>anxiety.txt
+
+=====
