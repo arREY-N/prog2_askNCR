@@ -1,0 +1,79 @@
+::Risk For Physical Trauma::
+
+::Definition::
+ Susceptible to physical injury of sudden onset and severity, which requires immediate attention.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors:
+1. Determine factors related to individual situation and extent of risk for trauma. Influences scope and intensity of interventions to manage threat to safety. Note: Clients interfacing with the healthcare system are at higher risk for trauma for any number of reasons (e.g., illness state, cognitive function, family structure, information and training) and require protection in numerous ways.
+2. Note client’s age, gender and developmental stage, decisionmaking ability, and level of cognition and competence. Affects client’s ability to protect self and/or others, and infl uences choice of interventions and teaching.
+3. Ascertain client’s/significant other’s (SO’s) knowledge of safety needs and injury prevention, and motivation to prevent injury in home, community, and work setting. Lack of appreciation of signifi cance of individual hazards increases risk of traumatic injury.
+4. Note socioeconomic status and availability and use of resources. 
+5. Assess infl uence of client’s lifestyle and stress that can impair judgment and greatly increase client’s potential for injury.
+6. Assess mood, coping abilities, personality styles (i.e., temperament, aggression, impulsive behavior, level of selfesteem). May result in careless actions or increased risk-taking without consideration of consequences.
+7. Evaluate individual’s emotional and behavioral response to violence in surroundings (e.g., neighborhood, television, peer group). May affect client’s view of and regard for own/ others’ safety.
+8.Evaluate environment (home, neighborhood, work, transportation) for obvious safety hazards, as well as situations that can exacerbate injury or adversely affect client’s well-being. Unsafe factors include a vast array of possibilities (e.g., unsafe heating appliances, smoking and unattended smoking materials, toxic substances and chemicals, open fl ames, knives, improperly stored weapons, overloaded electrical outlets, dangerous neighborhoods, unsupervised children).
+
+[Nursing Priority No. 2]
+    - To enhance safety in healthcare environment: 
+1. Screen client for safety concerns (e.g., risk for falls, cognitive, developmental, vision/other sensory impairments upon admission and during stay in healthcare facility). Assess for and report changes in client’s functional status. Perform thorough assessments regarding safety issues when planning for client discharge. Failure to accurately assess and intervene or refer regarding these issues can place the client at needless risk and creates negligence issues for the healthcare practitioner.
+2. Review client’s therapeutic regimen on a continual basis when under direct care (e.g., vital signs, medications, treatment modalities, infusions, nutrition, physical environment) to prevent healthcare-related complications.
+3. Provide for routine safety needs:
+ - Provide adequate supervision and frequent observation.
+ - Place young children, confused client/person with dementia near nurses’ station.
+ - Orient client to environment.
+ - Make arrangement for call system for bedridden client in home or hospital setting. Demonstrate use and place device within client’s reach.
+ - Provide for appropriate communication tools (e.g., writing implements and paper; alphabet/picture board).
+ - Encourage client’s use of corrective vision and hearing aids.
+ - Keep bed in low position or place mattress on fl oor, as appropriate.
+ - Use and pad side rails, as indicated.
+ - Provide seizure precautions.
+ - Lock wheels on bed and movable furniture. Clear travel paths. Provide adequate area lighting.
+ - Assist with activities and transfers, as needed.
+ - Provide well-fi tting, nonskid footwear.
+ - Demonstrate and monitor use of assistive devices, such as transfer devices, cane, walker, crutches, wheelchair, safety bars.
+ - Provide supervision while client is smoking.
+ - Provide for appropriate disposal of potentially injurious items (e.g., needles, scalpel blades).
+ - Follow facility protocol and closely monitor use of restraints, when required (e.g., vest, limb, belt, mitten).
+4. Emphasize with client importance of obtaining assistance when weak or sedated and when problems of balance, coordination, or postural hypotension are present to reduce risk of syncope and falls.
+5. Demonstrate and encourage use of techniques to reduce or manage stress and vent emotions such as anger, hostility to reduce risk of violence to self/others.
+6. Refer to physical or occupational therapist as appropriate to identify high-risk tasks, conduct site visits, select, create, or modify equipment; and provide education about body mechanics and musculoskeletal injuries, as well as provide needed therapies.
+7. Assist with treatments for underlying medical, surgical, or psychiatric conditions to improve cognition and thinking processes, musculoskeletal function, awareness of own safety needs, and general well-being.
+
+[Nursing Priority No.3]
+    - To enhance safety for client in community care setting:
+1. Provide information to caregivers regarding client’s specific disease or condition(s) and associated risks. 
+2. Identify interventions and safety devices to promote safe physical environment and individual safety:
+ - Recommend wearing visual or hearing aids to maximize sensory input.
+ - Ensure availability of communication devices (e.g., telephone, computer, alarm system, or medical emergency alert device).
+ - Install and maintain electrical and fi re safety devices, extinguishers, and alarms. Participate in fi re drills and planning for fire evacuation routes.
+ - Review smoking safety rules, as indicated, especially as relates to unsafe places to smoke, including while in bed or when oxygen is in use.
+ - Identify environmental needs (e.g., decals on glass doors; adequate lighting of stairways, handrails, ramps, bathtub safety tapes) to reduce risk of falls , lower temperature on hot water heater to prevent accidental burns, etc.
+ - Obtain seat risers for chairs; ergonomic beds or chairs.
+ - Encourage participation in back safety classes, injury-prevention exercises, mobility or transfer device training.
+ - Install childproof cabinets for medications and toxic household substances, use tamper-proof medication containers.
+ - Review proper storage and disposal of volatile liquids; installation of proper ventilation for use when mixing or using toxic substances; use of safety glasses or goggles.
+ - Emphasize importance of appropriate use of car restraints, bicycle, motorcycle, skating, or skiing helmets.
+ - Discuss swimming pool fencing and supervision; attending First Aid and cardiopulmonary resuscitation (CPR) classes.
+ - Obtain trigger locks or gun safes for fi rearms. 
+3. Initiate appropriate teaching when reckless behavior is occurring or likely to occur (e.g., smoking in bed, driving without safety belts, working with chemicals without safety goggles).
+4. Refer to counseling or psychotherapy, as needed, especially when individual is “accident prone” or violent, or selfdestructive behavior is noted. (Refer to NDs risk for other-/self-directed Violence.)
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Discuss importance of self-monitoring of conditions or emotions that can contribute to occurrence of injury to self/others (e.g., fatigue, anger, irritability). Client/SO may be able to modify risk through monitoring of actions or postponement of certain actions, especially during times when client is likely to be highly stressed.
+2. Encourage use of warm-up and stretching exercises before engaging in athletic activity to prevent muscle injuries.
+3. Recommend use of seat belts; fitted helmets for cyclists, skate-/snowboarders, skiers; approved infant seat in appropriate position in vehicle; avoidance of hitchhiking; substance abuse programs to promote transportation and recreation safety.
+4. Refer to accident prevention programs (e.g., medication and drug safety, mobility or transfer device training, driving instruction, parenting classes, fi rearms safety, workplace ergonomics).
+5. Develop home fire safety program (e.g., family fi re drills; use of smoke detectors; yearly chimney cleaning; purchase of fi re-retardant clothing, especially children’s nightwear; safe use of in-home oxygen; fi reworks safety). 
+6. Problem-solve with client/parent to provide adequate child supervision after school, during working hours, on school holidays; or day program for frail or confused elder. 
+7. Explore behaviors related to use of fi rearms, alcohol, tobacco, and recreational drugs and other substances. Provides opportunity to review consequences of previously determined risk factors (e.g., potential consequences of illegal activities, effects of smoking on health of family members as well as fi re danger; potential for unintentional gunshot injuries, suicide, or homicide; potential for harm related to alcohol and other substances).
+8. Identify community resources (e.g., fi nancial, food assistance) to assist with necessary corrections or improvements and purchases.
+9. Recommend involvement in community self-help programs, such as Neighborhood Watch, Helping Hand. 
+10. Promote educational opportunities geared toward increasing awareness of safety measures (e.g., fi rearms safety) and resources available to the individual.
+11. Seek out and involve businesses in volunteer outreach activities such as building safe playgrounds, community or street cleanup, home repair or improvement for frail elders, and so forth. 
+12. Advocate for and promote solutions for problems of design of buildings, equipment, transportation, and workplace practices that contribute to accidents.
+
+=====

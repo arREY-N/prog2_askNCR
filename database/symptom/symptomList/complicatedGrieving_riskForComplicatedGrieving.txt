@@ -1,0 +1,58 @@
+::Symptom Name::
+
+::Definition::
+complicated Grieving: A disorder that occurs after the death of a significant other, in which the experience of distress accompanying bereavement fails to follow normative expectations and manifests in functional impairment
+risk for complicated Grieving: Susceptible to a disorder that occurs after the death of a significant other, in which the experience of distress accompanying bereavement fails to follow normative expectations and manifests in functional impairment.
+
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    -  To determine risk or contributing factors: 
+1. Identify loss that that has occurred and meaning to client. Note circumstances of death, such as sudden or traumatic (e.g., fatal accident, large-scale disaster, or homicide); or related to socially sensitive issue (e.g., AIDS, suicide, gun violence in schools, sexual assault with murder); or associated with unfi nished business (e.g., spouse died during time of crisis in marriage; son has not spoken to parent for years). These situations can sometimes cause the individual to become stuck in grief and unable to move forward with life.
+2. Ascertain circumstances surrounding loss of fetus, infant, or child (e.g., gestational age of fetus, multiple miscarriages, death due to violence or fatal illness). Repeated losses and/or violent death can increase client’s/signifi cant other’s (SO’s) sense of futility and compromise resolution of grieving process.
+3. Meet with both parents following loss of child to determine how they are dealing with the loss. Death of a child is often more diffi cult for parents/family, based on individual values and sense of life unlived.
+4. Assess status of relationships or marital diffi culties and adjustments to loss. Responses of family/SOs affect how client deals with situation.
+5. Determine significance of the loss to the client (e.g., presence of chronic condition leading to divorce or disruption of family unit and change in lifestyle, fi nancial security). 
+6. Identify cultural or religious beliefs and expectations that may impact or dictate the client’s response to loss. These factors affect current situation and may help bring loss into perspective and promote grief resolution.
+7. Ascertain the response of the family/SO(s) to the client’s situation (e.g., sympathetic or urging client to “just get over it”).
+
+[Nursing Priority No. 2]
+    - To determine degree of impairment or risk for dysfunction: 
+1. Observe for cues of sadness (e.g., sighing; faraway look; unkempt appearance; inattention to conversation; somatic complaints, such as exhaustion or headaches). 
+2. Listen to words/communications indicative of renewed or intense grief (e.g., constantly bringing up death or loss even in casual conversation long after event; outbursts of anger at relatively minor events; expressing desire to die), indicating the person is possibly unable to adjust or move on from feelings of severe grief. Identify stage of grief being expressed: denial, isolation, anger, bargaining, depression, or acceptance. Stages of grief may progress in a predictable manner or stages may be random or revisited.
+3. Assess client’s ability to manage activities of daily living and period of time since loss has occurred. Feelings of overwhelming sadness, exhaustion, and inertia can occur with active grieving interfering with life activities; however, when they persist and interfere with normal activities, client may need additional assistance.
+4. Note availability and use of support systems and community resources. 
+5. Be aware of avoidance behaviors (e.g., anger, withdrawal, long periods of sleeping, or refusing to interact with family; sudden or radical changes in lifestyle; inability to handle everyday responsibilities at home, work, or school; confl ict). 
+6. Determine if the client is engaging in reckless or self-destructive behaviors (e.g., substance abuse, heavy drinking, promiscuity, or aggression) to identify safety issues.
+7. Identify cultural factors and ways individual has dealt with previous loss(es) to put current behavior and responses in context.
+8. Refer to mental health providers for specifi c diagnostic studies and intervention in issues associated with debilitating grief. 
+9. Refer to ND Grieving for additional interventions, as appropriate. 
+
+[Nursing Priority No. 3]
+    -  To assist client to deal appropriately with loss: 
+1. Respect client’s desire for quiet, privacy, talking, or silence. Individual may not be ready to talk about or share grief and needs to be allowed to make own timeline. 
+2. Acknowledge client’s sense of relief when death follows a long and debilitating course. Even when death brings a release, sadness and loss are still there; or client may feel guilty about having a sense of relief.
+3. Encourage verbalization without confrontation about realities. This helps to begin resolution and acceptance.
+4. Encourage the client to talk about what he or she chooses and refrain from forcing the client to “face the facts.” 
+5. Active-listen feelings and be available for support and assistance. Speak in a soft, caring tone. 
+6. Encourage expression of anger, fear, and anxiety. Thesefeelings are part of the grieving process; to accomplish the work of grieving, they need to be expressed and accepted. 
+7. Permit verbalization of anger with acknowledgment of feelings and setting of limits regarding destructive behavior. This enhances client safety and promotes resolution of the grief process.
+8. Acknowledge the reality of feelings of guilt or blame, including hostility toward spiritual power. Do not minimize loss; avoid clichés and easy answers. (Refer to ND Spiritual Distress.) Assist the client to take steps toward resolution. 
+9. Give “permission” to be at this point when the client is depressed. 
+10. Provide comfort and availability as well as caring for physical needs. 
+11. Reinforce use of previously effective coping skills. Instruct in, or encourage use of, visualization and relaxation techniques. 
+12. Encourage resuming involvement in usual activities, exercise, and socialization within physical and psychological abilities. Keeping life to a somewhat normal routine can provide individual with some sense of control over events that are not controllable.
+13. Assist SOs/family to understand and be tolerant of client’s feelings and behavior. Family members inadvertently hamper client’s progress through grief by expressing their feelings in anger for client behavior they deem unacceptable, rather than recognizing the basis is grief.
+14. Include family/SO(s) in setting realistic goals for meeting needs of family members. 
+15. Encourage family members to participate in support group or family-focused therapy as indicated. 
+16. Use sedatives or tranquilizers with caution to avoid retarding resolution of grief process.
+
+[Nursing Priority No. 4]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+1. Discuss with client/SO(s) healthy ways of dealing with dif- fi cult situations. 
+2. Have client identify familial, religious, and cultural factors that have meaning for him or her. This may help bring loss into perspective and promote grief resolution.
+3. Support client and family in setting goals for meeting needs of members for moving on beyond the grieving process. 
+4. Encourage resuming involvement in usual activities, exercise, and socialization within physical and psychological abilities. Keeping life to a somewhat normal routine can provide individual with some sense of control over events that are not controllable.
+5. Advocate planning for the future, as appropriate, to individual situation (e.g., staying in own home after death of spouse, returning to sporting activities following traumatic amputation, choice to have another child or to adopt, rebuilding home following a disaster, etc.). 
+6. Refer to other resources (e.g., pastoral care, family counseling, psychotherapy, organized support groups). This provides additional help, when needed, to resolve situation/continue grief work
+=========

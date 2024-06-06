@@ -1,0 +1,53 @@
+::Risk For SUffocation::
+
+::Definition::
+ Susceptible to inadequate air availability for inhalation, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors: 
+1. Determine age, developmental level, and mentation (e.g., infant/young child, frail elder, person with developmental delay, altered level of consciousness, or cognitive impairments or dementia) to identify individuals unable to be responsible for or protect self.
+2. Determine client’s/significant other’s (SO’s) knowledge of safety factors or hazards present in the environment to identify misconceptions and educational needs. Suffocation can be caused by (1) spasm of airway (e.g., food or water going down wrong way, irritant gases, asthma); (2) airway obstruction (e.g., foreign body, tongue falling back in unconscious person, swelling of tissues from burn injury or allergic reaction); (3) airway compression (e.g., tying rope or band tightly around neck, hanging, throttling, smothering); (4) conditions affecting the respiratory mechanism (e.g., epilepsy, tetanus, rabies, nerve diseases causing paralysis of chest wall or diaphragm); (5) conditions affecting respiratory center in brain (e.g., electric shock; stroke or other brain trauma; medications such as morphine, barbiturates); and (6) compression of the chest (e.g., crushing as might occur with cave-in, motor vehicle crash, pressure in a massive crowd).
+3. Identify level of concern or awareness and motivation of client/SO(s) to correct safety hazards and improve individual situation. Lack of commitment, unwillingness to make changes, places dependent individuals at risk.
+4. Assess neurological status and note history/presence of conditions (e.g., stroke, cerebral palsy, multiple sclerosis, amyotrophic lateral sclerosis) that have potential to compromise airway or affect ability to swallow.
+5. Determine use of antiepileptics and how well epilepsy is controlled. Seizure activity (and especially status epilepticus) is a major risk factor for respiratory inhibition or arrest, particularly when consciousness is impaired.
+6. Review medication regimen to note potential for oversedation and respiratory failure (e.g., central nervous system depressants, analgesics, sedatives, antidepressants).
+7. Note reports of sleep disturbance and fatigue; may be indicative of sleep apnea (airway obstruction). Refer to NDs Insomnia and Sleep Deprivation. 
+8. Assess for allergies (e.g., medications, foods, environmental) to which individual could have severe/anaphylactic reaction resulting in respiratory arrest.
+9. Be alert to and carefully monitor those individuals who are severely depressed, mentally ill, or aggressive. These individuals could be at risk for suicide by suffocation (e.g., inhaled carbon monoxide or death by strangling or hanging). Refer to ND risk for Suicide.
+10. Note signs of respiratory distress (e.g., cough, stridor, wheezing, increased work of breathing) that could indicate swelling or obstruction of airways. Refer to NDs ineffective Airway Clearance; risk for Aspiration; ineffective Breathing Pattern; impaired spontaneous Ventilation, as appropriate, for additional interventions.
+
+[Nursing Priority No. 2]
+    - To reverse/correct contributing factors:
+1. Discuss with client/SO(s) identified environmental or workrelated safety hazards and problem-solve methods for resolution (e.g., need for smoke and carbon monoxide alarms, vents for household heater, clean chimney, properly strung clothesline, proper venting of machinery exhaust, monitoring of stored chemicals, bracing trench walls when digging).
+2. Protect airway at all times, especially if client unable to protect self:
+ - Use proper positioning, suctioning, use of airway adjuncts, as indicated, for comatose or cognitively impaired individual or client with swallowing impairment or obstructive sleep apnea.
+ - Provide seizure precautions and antiseizure medication, as indicated.
+ - Administer medications when client is sitting or standing upright and can swallow without diffi culty.
+ - Emphasize importance of chewing carefully, taking small amounts of food, and using caution to prevent aspiration when talking or drinking while eating.
+ - Provide diet modifi cations as indicated by specifi c needs (e.g., developmental level; presence/degree of swallowing disability, impaired cognition) to reduce risk of aspiration or choking.
+ - Avoid physical and mechanical restraints, including vest or waist restraint, side rails, choke hold. Can increase client agitation causing struggle to escape, resulting in entrapment of head and hanging.
+3. Emphasize with client/SO the importance of getting help when beginning to choke or feel respiratory distress (e.g., staying with people instead of leaving table, make gestures across throat; making sure someone recognizes the emergency) in order to provide timely intervention, such as abdominal thrusts and calling 911.
+4. Refrain from smoking in bed; supervise smoking materials (use, disposal, and storage) for impaired individuals. Keep smoking materials out of reach of children.
+5. Avoid idling automobile (or using fuel-burning heaters) in closed or unvented spaces.
+6. Emphasize importance of periodic evaluation and repair of gas appliances and furnace, automobile exhaust system to prevent exposure to carbon monoxide.
+7. Review child protective measures. Refer to ND risk for Sudden Infant Death for interventions relating to infant sleeping safety.
+ - Provide constant supervision of young children in bathtub, swimming pool, other bodies of water.
+ - Make certain that blind and curtain cords, drawstrings on clothing, and so forth, are out of reach of small children to prevent accidental hanging.
+ - Prevent young child/impaired individual from putting objects in mouth (e.g., food such as chunks of raw vegetables, nuts and seeds, popcorn, hot dogs; toy parts; buttons; balloons; small balls/marbles; button-type batteries; refrigerator magnets; coins) that can get lodged in airway and cause choking.
+ - Lock or remove lid or door of chests, trunks, old refrigerators or freezers to prevent child from being trapped in airless environment.
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Review safety factors identified in individual situation and methods for remediation. 
+2. Develop plan with client/caregiver for long-range management of situation to avoid injuries. Enhances commitment to plan, optimizing outcomes.
+3. Review importance of chewing carefully, taking small amounts of food, using caution when talking or drinking while eating. Discuss possibility of choking because of impaired swallowing or throat muscle relaxation and impaired judgment when drinking alcohol and eating.
+4. Promote public education in techniques for clearing blocked airways, back blows, abdominal thrusts (Heimlich maneuver), CPR. 
+5. Discuss fire safety and concerns regarding use of heaters; household gas appliances; and old, discarded appliances. Encourage home fi re safety drills yearly.
+6. Collaborate in community public health education regarding hazards for children (e.g., appropriate toy size for young child) discussing dangers of “huffi ng” (inhalants) and playing choking or hanging games with preteens; fi re safety drills; bathtub rules; how to spot potential for depression and risk of suicidal gestures in adolescents to reduce potential for accidental or intentional suffocation.
+7. Assist individuals to learn to read package labels and identify safety hazards. 
+8. Promote pool safety, use of approved fl otation devices, proper fencing enclosure or alarm system for home pools.
+9. Refer to NDs ineffective Airway Clearance; risk for Aspiration; ineffective Breathing Pattern; impaired Parenting. 
+
+=====

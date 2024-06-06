@@ -1,0 +1,52 @@
+::Self-Neglect::
+
+::Definition::
+ A constellation of culturally framed behaviors involving one or more self-care activities in which there is a failure to maintain a socially accepted standard of health and well-being (Gibbons, Lauder, & Ludwick, 2006).
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify causative or precipitating factors:
+1. Determine existing health problems, age, developmental level, and cognitive psychological factors, including presence of delusions affecting ability to care for own needs. A wide variety of impairments can cause a person to neglect hygiene needs, particularly aging, homelessness, and dementia.
+2. Use an appropriate screening instrument, such as the Elder Assessment Instrument (EAI). A wide variety of impairments can cause a person to neglect hygiene needs, particularly aging, homelessness, and dementia. Note: Neglect and elder abuse is underreported, and the use of a good tool can help identify its presence.
+3. Identify other problems that may interfere with ability to care for self. Visual or hearing impairment, language barrier, emotional instability, or lability can create diffi culties for individual to manage daily tasks.
+4. Note recent life events or changes in circumstances. Losses such as of a loved one, fi nancial security, or physical independence can trigger or exacerbate self-neglect behaviors.
+5. Review circumstances of client illness, possible monetary rewards, sympathy or attention from family. On occasion, self-neglect may be malingering as an attempt to gain something from others or relinquish unwanted responsibilities.
+6. Perform mental status examination. Mental illness (e.g., psychosis, depression, dementia) can affect individual’s ability or desire to maintain self-care activities or care for home surroundings.
+7.  Review studies evaluating frontal lobe dysfunction and possibility of Diogenes syndrome. These clients present with severe self-neglect and may have coexisting medical and psychiatric conditions.
+8. Assess economic factors and living arrangements. May live alone or with family members who are not helpful or may be homeless; may have little or no fi nancial resources,resulting in inability to achieve or lack of concern about personal well-being.
+9. Determine availability and use of resources. Depending on disability of client, agencies can work together to develop a plan to meet needs, noting whether individual is availing self of help.
+10.  Interview significant other (SO)/family members to determine level of involvement and support. Client may be exhibiting acting-out/paranoid behaviors, stressing caregivers, who may not realize that cognitive impairment prevents individual from exercising self-control.
+
+[Nursing Priority No. 2]
+    - To determine degree of impairment:
+1. Perform head-to-toe assessment inspecting scalp and skin, noting personal hygiene, body odor, rashes, bruising, skin tears, lesions, burns, presence of vermin; inspecting oral cavity for gum disease, infl ammation, lesions, loose or broken teeth, fi t of dentures. Identifi es specifi c needs and may reveal signs of trauma or abuse.
+2. Obtain weight. Perform nutritional assessment as indicated. Neglecting oneself often includes not eating meals regularly or not eating nutritionally balanced foods, especially when alcoholism or drug abuse is present.
+3. Review medication regimen. In addition to neglecting self-care activities, client will likely not pay attention to taking prescriptions as ordered, potentially resulting in exacerbation of medical problem. Some psychotropic medications may cause individual to “feel different” or not in control of self, resulting in reluctance to take drug. 
+4. Determine client’s willingness to change situation.
+
+[Nursing Priority No.3]
+    - To assist in correcting/dealing with situation:
+1. Develop multidisciplinary team specific to individual needs, such as case manager, physician, dietitian, physical or occupational therapist, rehabilitation specialist. To develop a plan appropriate to the individual situation, making use of client’s capabilities and maximizing potential.
+2. Establish therapeutic relationship with client and with family, if available and willing to be involved.
+3. Identify specific priorities and goals of client/SOs. Helps client to look at possibilities for dealing with diffi cult situation of no longer being able to maintain lifestyle and moving on to a new way of managing.
+4. Promote client’s/SO’s participation in problem identifi cation and decision-making.
+5. Evaluate need for safety, balancing client’s need for autonomy. The ethical challenge of providing individual safety within the current laws for client’s right to refuse care in face of self-neglect and self-destructive behaviors, which can impact others as well as the client, is diffi cult to manage.
+6. Perform home assessment, as indicated to determine safety issues, cleanliness, compulsive hoarding, neglected property concerns. 
+7. Demonstrate or review skills necessary for caring for self, using terms appropriate to client’s level of understanding.
+8. Plan time for listening to client’s/SO’s concerns. Provides opportunity to determine whether plan is being followed and identify the barriers to participation.
+9. Refer to NDs Self-Care Defi cit [specify]; ineffective Health Maintenance; impaired Home Maintenance; [disturbed Sensory Perception], for additional interventions as appropriate.
+
+[Nursing Priority No.4]
+    - To promote wellness (Discharge/Evaluation Criteria):
+1. Establish remotivation or resocialization program when indicated. Depending on where the client is residing, isolation may become a problem as individual withdraws from contact with others.
+2. Assist with setting up medication regimen as indicated. 
+3. Discuss dietary needs and client’s ability to provide nutritious meals. May require support such as food assistance, community pantry, elder meal program, Meals on Wheels
+4. Provide for ongoing evaluation of self-care program. Helps to identify whether client is managing effectively or whether cognitive functioning is deteriorating and a new plan needs to be developed.
+5. Evaluate for appropriateness of providing a companion animal. Taking responsibility for another life and sharing unconditional love can provide purpose and motivation for client to take more interest in own situation.
+6. Refer to support services such as home care, day-care program, social services, food assistance, community clinic, physical/ occupational therapy, senior services, as indicated. Taking responsibility for another life and sharing unconditional love can provide purpose and motivation for client to take more interest in own situation.
+7. Investigate alternative placements as indicated. Client may require group home, assisted living, or long-term care, and it is best to place in least restrictive environment capable of meeting client’s needs.
+8.  Discuss need for respite for family members. Care of cognitively impaired member can be wearing, and time away allows for renewing oneself and enhancing ability to cope with continued care responsibilities.
+9. Refer for counseling as indicated. Accurate mental health diagnoses may reveal the need for appropriate services, psychiatric, social services, home care.
+
+=====

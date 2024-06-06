@@ -1,0 +1,70 @@
+::Disturbed Sensory Perception:Specify Visual, Auditory, Kinisthetic, Gustatory, Tactile, Olfactory::
+
+::Definition::
+ Change in the amount or patterning of incoming stimuli accompanied by a diminished, exaggerated, distorted, or impaired response to such stimuli.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors and degree of impairment:
+1. Identify client with condition that can affect sensing, interpreting, and communicating stimuli. Specific clinical concerns (e.g., neurological disease or trauma, intensive care unit confi nement, surgery, pain, biochemical imbalances, psychosis, substance abuse, toxemia) have the potential for altering one or more of the senses, with resultant change in the reception, sensitivity, or interpretation of sensory input.
+2. Note age and developmental stage. Problems with sensory perception may be known to client/caregiver (e.g., child wearing hearing aid, elderly adult with known macular degeneration), where compensatory interventions are in place. Screening or evaluation may be required if sensory impairments are suspected but not obvious.
+3. Review results of sensory and motor neurological testing and laboratory studies (e.g., cognitive testing or laboratory values, such as electrolytes, chemical profi le, arterial blood gases, serum drug levels) to note presence or possible cause of changes in response to sensory stimuli.
+4. Evaluate medication regimen and determine possible use or misuse of drugs (prescription, over-the-counter [OTC], illicit) to identify effects, side effects, or drug interactions that may cause or exacerbate sensory or perceptual problems.
+5. Assess ability to speak, hear, interpret, and respond to simple commands to obtain an overview of client’s mental and cognitive status and ability to interpret stimuli.
+6. Evaluate sensory awareness: stimulus of hot and cold, dull or sharp; smell, taste, visual acuity, and hearing; gait, mobility; location and function of body parts. 
+7. Determine response to painful stimuli to note whether response is appropriate to stimulus and is immediate or delayed.
+8. Observe for behavioral responses (e.g., illusions, hallucinations, delusions, withdrawal, hostility, crying, inappropriate affect, confusion or disorientation) that may indicate mental or emotional problems or chemical toxicity (as might occur with digoxin or other drug overdose or reaction) or be associated with brain or neurological trauma or infection.
+9. Note inattention to body parts, segments of environment; lack of recognition of familiar objects or persons. Loss of comprehension of auditory, visual, or other sensations may be indicative of unilateral neglect or inability to recognize and respond to environmental cues.
+10. Ascertain client’s/significant other’s (SO’s) perception of problem/changes in activities of daily living. Client may or may not be aware of changes (e.g., diabetic with neuropathy may not realize he or she has lost discrimination for pain in feet; or parents may notice child’s problem with coordination or diffi culty with words). Listen to and respect client’s expressions of deprivation and take these into consideration in planning care. 
+11. Refer to additional NDs Anxiety; acute/chronic Confusion; Unilateral Neglect; risk for Disuse Syndrome, as appropriate and based on findings.
+
+[Nursing Priority No. 2]
+    - To promote normalization of response to stimuli: 
+1. Address client by name and have personnel wear name tags and reintroduce self, as needed, to preserve client’s sense of identity and orientation.
+2. Reorient to person, place, time, and events, as necessary to reduce confusion and provide sense of normalcy to client’s daily life.
+3. Explain procedures and activities, expected sensations, and outcomes. 
+4. Provide means of communication, as indicated by client’s current situation. 
+5. Encourage use of listening devices (e.g., hearing aid, audiovisual amplifi er, closed-caption TV, signing interpreter) to assist in managing auditory impairment.
+6. Interpret stimuli and offer feedback to assist client to separate reality from fantasy or altered perception.
+7. Avoid isolating client, physically or emotionally, to prevent sensory deprivation and limit confusion.
+8. Promote a stable environment with continuity of care by same personnel as much as possible.
+9. Eliminate extraneous noise and stimuli, including nonessential equipment, alarms, or audible monitor signals when possible. 
+10. Provide undisturbed rest and sleep periods.
+11. Speak to visually impaired or unresponsive client during care to provide auditory stimulation and prevent startle refl ex.
+12. Provide tactile stimulation as care is given. Touching is an important part of caring and a deep psychological need communicating presence and connection with another human being.
+13. Provide sensory stimulation, including familiar smells and sounds, tactile stimulation with a variety of objects, changing of light intensity, and other cues (e.g., clocks, calendars).
+14. Encourage SO(s) to bring in familiar objects, talk to, and touch the client frequently. 
+15. Minimize discussion of negatives (e.g., client and personnel problems) within client’s hearing. Client may misinterpret and believe references are to himself or herself.
+16. Provide diversional activities, as able (e.g., TV, radio, conversation, large-print or talking books). (Refer to ND decreased Diversional Activity Engagement.)
+17. Promote meaningful socialization. (Refer to ND Social Isolation.) 
+18. Collaborate with other health team members in providing rehabilitative therapies and stimulating modalities (e.g., music therapy, sensory training, remotivation therapy) to achieve maximal gains in function and psychosocial well-being
+19. Identify and encourage use of resources and prosthetic devices (e.g., hearing aids, computerized visual aid, glasses with a level plumbline for balance). Useful for augmenting senses.
+
+[Nursing Priority No.3]
+    - To prevent injury/complications:
+1. Record perceptual deficit on chart so that caregivers are aware.
+2. Place call bell or other communication device within reach and be sure client knows where it is and how to use it. 
+3. Provide safety measures, as needed (e.g., siderails, bed in low position, adequate lighting; assistance with walking; use of vision or hearing devices). 
+4. Review basic and specifi c safety information (e.g., “I am on your right side”; “This water is hot”; “Swallow now”; “Stand up”; “You cannot drive”).
+5. Position doors and furniture so they are out of travel path for client with impaired vision or strategically place items or grab bars to aid in maintaining balance.
+6. Ambulate with assistance and devices to enhance balance.
+7. Describe where affected areas of body are when moving client. 
+8. Limit and carefully monitor use of sedation, especially in the elderly who are more sensitive to side effects and drug interactions affecting sensory perception and interpretation.
+9. Monitor use of heating pads or ice packs; use thermometer to measure temperature of bath water to protect from thermal injury.
+10. Refer to NDs risk for Thermal Injury; risk for Trauma; risk for Falls.
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Review ways to prevent or limit exposure to conditions affecting sensory functions (e.g., how exposure to loud noise and toxins can impair hearing; early childhood screening for speech and language disorders; vaccines to prevent measles, mumps, meningitis, once known to be major causes of hearing loss).
+2. Assist client/SO(s) to learn effective ways of coping with and managing sensory disturbances, anticipating safety needs according to client’s sensory deficits and developmental level. 
+3. Identify alternative ways of dealing with perceptual defi cits (e.g., vision and hearing aids; augmentative communication devices; computer technologies; specifi c defi cit-compensation techniques).
+4. Provide explanations of and plan care with client, involving SO(s) as much as possible. Enhances commitment to and continuation of plan, optimizing outcomes.
+5. Review home safety measures pertinent to defi cits
+6. Discuss drug regimen, noting possible toxic side effects of both prescription and over-the-counter drugs. Prompt recognition of side effects allows for timely intervention/change in drug regimen.
+7. Demonstrate use and care of sensory prosthetic devices (e.g., assistive vision or listening devices, etc.). 
+8. Identify resources and community programs for acquiring and maintaining assistive devices.
+9. Refer to appropriate helping resources, such as Society for the Blind, Self-Help for the Hard of Hearing (SHHH), or local support groups, screening programs, as indicated.
+10. Refer to additional NDs Anxiety; acute/chronic Confusion; Unilateral Neglect, as appropriate.
+
+=====

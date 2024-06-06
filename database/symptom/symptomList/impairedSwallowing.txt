@@ -1,0 +1,75 @@
+::Impaired Swallowing::
+
+::Definition::
+ Abnormal functioning of the swallowing mechanism associated with deficits in oral, pharyngeal, or esophageal structure or function. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors and degree of impairment:
+1. Evaluate client’s potential for swallowing problems, noting age and medical conditions (e.g., Parkinson disease, multiple sclerosis, myasthenia gravis, or other neuromuscular conditions). Swallowing disorders are especially common in the elderly, possibly due to coexistence of variety of neurological, neuromuscular, or other conditions. Infants at risk include those born prematurely or with tracheoesophageal fi stula or lip and palate malformation. Persons with traumatic brain injuries often exhibit swallowing impairments, regardless of gender or age. 
+2. Determine infant’s ability to initiate and sustain effective suck. Weak suck results in ineffi cient nippling, suggesting ineffective movement of tongue and mouth muscles, impairing ability to swallow.
+3. Assess client’s cognitive and sensory-perceptual status. Sensory awareness, orientation, concentration, motor coordination affect desire and ability to swallow safely and effectively.
+4. Note symmetry of facial structures and muscle tone.
+5. Assess strength and excursion of muscles involved in mastication and swallowing. 
+6. Note voice quality and speech. Abnormal voice (dysphonia) and abnormal speech patterns (dysarthria) are signs of motor dysfunction of structures involved in oral and pharyngeal swallowing.
+7. Inspect oropharyngeal cavity for edema, infl ammation, altered integrity of oral mucosa, adequacy of oral hygiene.
+8. Verify proper fi t of dentures, if present.
+9. Ascertain presence and strength of cough and gag refl ex. Although absence of gag refl ex is not necessarily predictive of client’s eventual ability to swallow safely, it does increase client’s potential for aspiration (overt or silent). Coughing, drooling, double swallowing, decreased ability to move food in mouth, and throat clearing with or after swallowing are indicative of swallowing dysfunction and increase risk for aspiration.
+10. Review medications that may affect (1) oropharyngeal function (e.g., benzodiazepines, neuroleptics, anticonvulsants, certain sedatives); (2) esophageal function (e.g., NSAIDs, iron preparations, tetracycline, calcium channel blockers).
+11. Discuss medications that can cause xerostomia (e.g., anticholinergics, opioids, antidepressants, antineoplastics, diuretics), thus impairing swallowing by means of sedation, pharyngeal weakness, infl ammation, dry mouth, and so forth. 
+12. Note hyperextension of head or arching of neck during or after meals or repetitive swallowing, suggesting inability to complete swallowing process.
+13. Auscultate breath sounds to evaluate the presence of aspiration.
+14. Review laboratory test results for underlying problems (e.g., complete blood count) to screen for infectious or infl ammatory conditions or thyroid or other metabolic and nutritional studies that can affect swallowing.
+15. Prepare for or assist with diagnostic testing of swallowing activity (e.g., refl ex cough test, swallowing electromyography, transnasal or esophageal endoscopy, videofl uorographic swallow studies; fi ber-optic endoscopic examination of swallowing) to identify the pathophysiology of swallowing disorder.
+
+[Nursing Priority No. 2]
+    - To prevent aspiration and maintain airway patency:
+1. Identify individual factors that can precipitate aspiration or compromise airway. 
+2. Move client to chair for meals, snacks, and drinks when possible; if client must be in bed, raise head of bed as upright as possible with head in anatomical alignment and slightly fl exed forward during feeding. Keep client seated upright or head of bed elevated for 30 to 45 min after feeding, if possible, to reduce risk of regurgitation or aspiration. 
+3. Instruct client to cough and expectorate when secretion management is of concern.
+4. Have suction equipment available during initial feeding attempts and as indicated. Suction oral cavity if client cannot clear secretions to prevent aspiration.
+5. Teach client self-suction when appropriate (e.g., drooling, frequent choking, structural changes in mouth or pharynx). Promotes airway safety and independence and sense of control with managing secretions.
+
+[Nursing Priority No.3]
+    - To enhance swallowing ability to meet fluid and caloric body requirements:
+1. Refer to surgeon, gastroenterologist, or neurologist as indicated for treatment (e.g., reconstructive facial surgery, esophageal dilatation) that may result in improved swallowing.
+2. Refer to speech/language pathologist to identify specific techniques to enhance client efforts and safety measures.
+3. Encourage a rest period before meals to minimize fatigue.
+4. Provide analgesics prior to feeding, as indicated, to enhance comfort, being cautious to avoid decreasing awareness or sensory perception.
+5. Focus client’s attention on feeding and swallowing activity. Decrease environmental stimuli and talking, which may be distracting or promote choking during feeding.
+6. Determine food preferences of client to incorporate as possible, enhancing intake. Present foods in an appealing, attractive manner.
+7. Ensure temperature (hot or cold versus tepid) of foods and fluid, which will stimulate sensory receptors.
+8. Provide a consistency of food and fluid that is most easily swallowed. Risk of choking or aspiration is reducedwhen food can be formed into a bolus before swallowing, such as gelatin desserts prepared with less water than usual; pudding and custard or liquids are thickened (addition of thickening agent, or yogurt, cream soups prepared with less water); thinned purees (hot cereal with added water); thick drinks, such as nectars; fruit juices that have been frozen into “slush” consistency (thin fl uids are most diffi cult to control); medium-soft boiled or scrambled eggs; canned fruit; soft-cooked vegetables. 
+9. Avoid milk products and chocolate, which may thicken oral secretions.
+10. Feed one consistency and/or texture of food at a time. 
+11. Place food in unaffected side of client’s mouth (when one side of the mouth is affected by condition, e.g., hemiplegia), and have client use tongue to assist with moving food bolus to swallowing position.
+12. Manage size of bites (e.g., small bites of 1/2 tsp or less are usually easier to swallow). Use a teaspoon or small spoon to encourage smaller bites. Cut all solid foods into small pieces. 
+13. Place food midway in oral cavity to adequately trigger the swallowing reflex.
+14. Provide cognitive cues (e.g., remind client to chew and swallow as indicated) to enhance concentration and performance of swallowing sequence. Focus attention on feeding and swallowing activity by decreasing environmental stimuli, which may be distracting during feeding. Also, if client is talking or laughing while eating, risk of aspiration is increased. 
+15. Massage the laryngopharyngeal musculature (sides of trachea and neck) gently (if prescribed) to stimulate swallowing.
+16. Observe oral cavity after each bite and have client check around cheeks with tongue for remaining food. Remove food if unable to swallow. 
+17. Incorporate client’s eating style and pace when feeding to avoid fatigue and frustration with process.
+18. Allow ample time for eating (feeding). 
+19. Remain with client during meal to reduce anxiety and offer assistance.
+20. Use a glass with a nose cut-out to avoid posterior head tilting while drinking. Refrain from pouring liquid into the mouth or “washing food down” with liquid.
+21. Monitor intake, output, and body weight to evaluate adequacy of fl uid and caloric intake. 
+22. Provide positive feedback for client’s efforts.
+23. Provide oral hygiene following each feeding to clear mouth of retained food particles and reduce risk of infection and dental caries. . 
+24. Consider enteral or parenteral feedings , for the client unable to achieve adequate nutritional intake.
+25. Consult with dysphagia specialist or rehabilitation team, as indicated.
+26. Refer to lactation counselor or support group (e.g., La Leche League) for breastfeeding guidance.
+27. Refer to NDs ineffective Breastfeeding; ineffective infant Feeding Pattern, for additional interventions for infants. 
+
+[Nursing Priority No.4]
+    -  To promote wellness (Teaching/Discharge Considerations):
+1. Consult with nutritionist to establish optimum dietary plan considering specifi c pathology, nutritional needs, and available resources.
+2. Place medication in gelatin, jelly, or puddings. Consult with pharmacist to determine if pills may be crushed or if liquids or capsules are available.
+3. Refer to ND imbalanced Nutrition: less than body requirements for related and teaching considerations. 
+4. Assist client and/or signifi cant other(s) (SO[s]) in learning specifi c feeding techniques and swallowing exercises.
+5. Encourage continuation of facial exercise program to maintain or improve muscle strength.
+6. Instruct client and/or SO(s) in emergency measures in event of choking to prevent aspiration or more serious complications.
+7. Recommend avoiding food intake within 3 hr of bedtime, eliminating alcohol and caffeine intake, reducing weight if needed, using stress-reduction techniques, and elevating head of bed during sleep to limit potential for gastric reflux and aspiration.
+8. Establish routine schedule for monitoring weight.
+
+=====
