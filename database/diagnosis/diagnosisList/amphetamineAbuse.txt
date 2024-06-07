@@ -1,6 +1,5 @@
 ::Almphetamine Abuse::
 <<<<<<< HEAD
-
 Stimulant abuse>StimulantAbuse.txt
 =======
 refer to Stimulant abuse>refertoStimulantAbuse.txt

@@ -1,9 +1,8 @@
 ::Neonatal, Normal Newborn::
-
 risk for impaired Gas Exchange>riskforimpairedGasExchange.txt
 risk for Hypothermia>riskforHypothermia.txt
 risk for impaired Attachment>riskforimpairedAttachment.txt
 risk for imbalanced Nutrition: less than Body Requirements>riskforimbalancedNutritionlessthanBodyRequirements.txt
 risk for Infection>riskforInfection.txt
-
 =====
+

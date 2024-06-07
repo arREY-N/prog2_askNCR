@@ -1,10 +1,9 @@
 ::Emphysema::
-
 impaired Gas Exchange>impairedGasExchange.txt
 ineffective Airway Clearance>ineffectiveAirwayClearance.txt
 activity Intolerance>activityIntolerance.txt
 imbalanced Nutrition: less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
 risk for Infection>riskforInfection.txt
 powerlessness>powerlessness.txt
-
 =====
+

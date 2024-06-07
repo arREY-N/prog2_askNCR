@@ -1,0 +1,6 @@
+::omcmiss na kita ::
+di makatulog>diMakatulog.txt
+di makakain>diMakakain.txt
+di mapakali>diMapakali.txt
+sumasakit ulo>sumasakitUlo.txt
+=====

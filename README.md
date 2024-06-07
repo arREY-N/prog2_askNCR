@@ -101,3 +101,55 @@ Refer to page 2 for all the symptom names
 Refer to page 996 for all the diagnoses
 
 add "======" to mark the end of the file
+
+
+
+[SymptomDatabase.java]
+
+VARIABLES
+    symptomListFolderPath   path 
+    symptomList             <(Symptom name), (Symptom object)>
+    symptomArray            <(Symptom name)>    
+
+METHODS
+    loadFromFile()
+        -   symptomsFiles   array containing all the symptoms within the symptoms folder
+        
+        reads all the files from the symptom folder
+        iterates through all the files
+        creates a BufferedReader to read the contents of each file
+
+    getSymptomContents(String symptomName)
+        - fileContents      map containing the contents of a symptom file
+
+        returns the contents of a symptom file
+    
+    getSymptomList()
+        returns the symptomArray (array of symptom names)
+
+[DiagnosesDatabase.java]
+
+VARIABLES
+    dianosisListFolderPath      path, file containing all the diagnosis
+    diagnosisNames              <(Diagnosis Number), (Diagnosis object)>
+    diagnosisTable              <(Diagnosis Name), (Diagnosis number)>
+
+METHODS
+    loadFromFile()
+        -   diagnosisFiles  array containinhg all the diagnoses within the diagnoes folder
+
+        reads all the files from the diagnoses folder
+        iterates through all the files
+        creates a BufferedReader to read the contents of each file
+        
+    getDiagnosisContents(Integer diagnosisNumber)
+        
+
+
+
+[Search.java]
+
+METHODS
+    chooseDiagnosis(Scanner scan)
+        displays all the diagnoses in the system
+        asks the user to choose one

@@ -1,8 +1,7 @@
 ::Masectomy::
-
 impaired Skin Integrity_impaired Tissue Integrity>impairedSkinIntegrity_impairedTissueIntegrity.txt
 impaired physical Mobility>impairedPhysicalMobility.txt
 dressing Self-Care deficit>dressingSelf-Caredeficit.txt
 disturbed Body Image_situational low Self-Esteem>disturbedBodyImage_situationallowSelf-Esteem.txt
-
 =====
+

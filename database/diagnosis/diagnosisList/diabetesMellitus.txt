@@ -1,10 +1,9 @@
 ::Diabetes Mellitus::
-
 deficient Knowledge regarding disease process, treatment, and individual care needs>deficientKnowledgeRegardingDiseaseProcessTreatmentandIndividualCareNeeds.txt
 risk for unstable Blood Glucose Level>riskforunstableBloodGlucoseLevel.txt
 risk-prone Health Behavior>risk-proneHealthBehavior.txt
 risk for Infection>riskforInfection.txt
 risk for disturbed Sensory Perception>riskfordisturbedSensoryPerception.txt
 compromised family Coping>compromisedfamilyCoping.txt
-
 =====
+

@@ -1,9 +1,8 @@
 ::Eclampsia::
-
 pregnancy-induced hypertension>pregnancy-inducedHypertension.txt
 anxiety_Fear>anxiety_Fear.txt
 risk for maternal Injury>riskformaternalInjury.txt
 impaired Physical Mobility>impairedPhysicalMobility.txt
 risk for Self-Care deficit>riskforSelf-CareDeficit.txt
-
 =====
+

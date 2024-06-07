@@ -1,5 +1,4 @@
 ::Quadriplegia::
-
 paraplegia>paraplegia.txt
 ineffective Breathing Pattern>ineffectiveBreathingPattern.txt
 risk for Trauma>riskforTrauma.txt
@@ -9,5 +8,5 @@ bowel Incontinence_Constipation>bowelIncontinence_Constipation.txt
 impaired bed Mobility_impaired wheelchair Mobility>impairedbedMobility_impairedwheelchairMobility.txt
 risk for Autonomic Dysreflexia>riskforAutonomicDysreflexia.txt
 impaired Home Maintenance>impairedHomeMaintenance.txt
-
 =====
+

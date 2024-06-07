@@ -1,6 +1,5 @@
 ::Aneurysm, Cerebral::
 <<<<<<< HEAD
-
 Cerebrovascular accident>CerebrovascularAccident.txt
 =======
 refer to Cerebrovascular accident>refertoCerebrovascularAccident.txt

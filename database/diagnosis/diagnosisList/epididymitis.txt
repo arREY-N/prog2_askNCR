@@ -1,7 +1,6 @@
 ::Epididymitis::
-
 acute Pain>acutePain.txt
 risk for Infection>riskforInfection.txt
 deficient Knowledge regarding pathophysiology, outcome, and self-care needs>deficientKnowledgeRegardingPathophysiologyOutcomeandSelf-CareNeeds.txt
-
 =====
+

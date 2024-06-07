@@ -1,9 +1,8 @@
 ::Meningitis, Acute Meningococcal::
-
 risk for Infection>riskforInfection.txt
 risk for ineffective cerebral Tissue Perfusion>riskforineffectiveCerebralTissuePerfusion.txt
 hyperthermia>hyperthermia.txt
 acute Pain>acutePain.txt
 risk for Trauma_Suffocation>riskforTrauma_Suffocation.txt
-
 =====
+

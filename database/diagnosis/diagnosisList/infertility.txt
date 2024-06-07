@@ -1,7 +1,6 @@
 ::Infertility::
-
 situational low Self-Esteem>situationallowSelf-Esteem.txt
 chronic Sorrow>chronicSorrow.txt
 risk for Spiritual Distress>riskforSpiritualDistress.txt
-
 =====
+

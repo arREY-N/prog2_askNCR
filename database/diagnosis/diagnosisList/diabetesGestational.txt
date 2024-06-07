@@ -1,8 +1,7 @@
 ::Diabetes, Gestational::
-
 diabetes Meticullus>diabetesMeticullus.txt
 risk for unstable Blood Glucose Level>riskforunstableBloodGlucoseLevel.txt
 risk for disturbed Maternal-Fetal Dyad>riskfordisturbedMaternal-FetalDyad.txt
 deficient Knowledge regarding diabetic condition, progosis, and treatment needs>deficientKnowledgeRegardingDiabeticConditionPrognosisandTreatmentNeeds.txt
-
 =====
+

@@ -1,6 +1,5 @@
 ::Alcoholism::
 <<<<<<< HEAD
-
 substance dependence / abuse rehabilitation>substanceDependence/abuseRehabilitation.txt
 =======
 refer to Substance dependence / abuse rehabilitation>refertoSubstanceDependence/AbuseRehabilitation.txt

@@ -1,8 +1,7 @@
 ::Borderline Personality Disorder::
-
 risk for Self-Directed / Other-Directed Violence / Self-Mutilation>riskforSelf-Directed/Other-DirectedViolence/Self-Mutilation.txt
 anxiety>anxiety.txt
 chronic low Self-Esteem / disturbed Personal Identity>chroniclowSelf-Esteem/disturbedPersonalIdentity.txt
 social Isolation>socialIsolation.txt
-
 =====
+

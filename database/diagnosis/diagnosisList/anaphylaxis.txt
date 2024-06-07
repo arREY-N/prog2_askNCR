@@ -1,6 +1,5 @@
 ::Anaphylaxis::
 <<<<<<< HEAD
-
 Shock>Shock.txt
 =======
 also refer to Shock>alsorefertoShock.txt

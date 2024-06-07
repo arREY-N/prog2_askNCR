@@ -1,5 +1,4 @@
 ::Cancer::
-
 chemotheraphy; Radiation Theraphy>chemotheraphy;RadiationTheraphy.txt
 fear / Death Anxiety>fear/DeathAnxiety.txt
 grieving>grieving.txt
@@ -8,5 +7,5 @@ fatigue>fatigue.txt
 impaired Home Maintenance>impairedHomeMaintenance.txt
 risk for interrupted Family Processes>riskforinterruptedFamilyProcesses.txt
 readiness for enhanced family Coping>readinessforEnhancedFamilyCoping.txt
-
 =====
+

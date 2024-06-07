@@ -1,7 +1,6 @@
-::Illeus:
-
+::Illeus::
 acute Pain>acutePain.txt
 diarrhea_Constipation>diarrhea_Constipation.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
-
 =====
+

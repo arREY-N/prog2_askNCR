@@ -1,9 +1,8 @@
 ::Laminectomy, Lumbar::
-
 ineffective Tissue Perfusion>ineffectiveTissuePerfusion.txt
 risk for (spinal) Trauma>riskfor(spinal)Trauma.txt
 acute Pain>acutePain.txt
 impaired Physical Mobility>impairedPhysicalMobility.txt
 risk for (acute) Urinary Retention>riskfor(acute)UrinaryRetention.txt
-
 =====
+

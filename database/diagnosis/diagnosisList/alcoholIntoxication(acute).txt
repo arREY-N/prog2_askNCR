@@ -1,6 +1,5 @@
 ::Alcohol Intoxication, Acute::
 <<<<<<< HEAD
-
 Delirium Tremens>DeliriumTremens.txt
 =======
 also refer to Delirium Tremens>alsorefertoDeliriumTremens.txt

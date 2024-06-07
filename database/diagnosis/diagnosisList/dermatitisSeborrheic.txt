@@ -1,5 +1,4 @@
 ::Dermatitis, Seborrheic::
-
 impaired Skin Integrity>impairedSkinIntegrity.txt
-
 =====
+

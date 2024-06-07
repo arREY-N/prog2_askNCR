@@ -1,7 +1,6 @@
 ::Nicotine Withdrawal::
-
 readiness for enhanced Health Management>readinessforenhancedHealthManagement.txt
 risk for Overweight>riskforOverweight.txt
 risk for ineffective Health Management>riskforineffectiveHealthManagement.txt
-
 =====
+

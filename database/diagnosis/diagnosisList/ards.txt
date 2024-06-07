@@ -1,6 +1,5 @@
 ::ARDS::
 <<<<<<< HEAD
-
 Respiratory Distress Syndrome, Acute>RespiratoryDistressSyndromeAcute.txt
 =======
 refer to Respiratory Distress Syndrome, Acute>refertoRespiratoryDistressSyndromeAcute.txt

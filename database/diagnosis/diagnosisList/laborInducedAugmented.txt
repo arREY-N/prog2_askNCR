@@ -1,8 +1,7 @@
 ::Labor Induced, Augmented::
-
 deficient Knowledge regarding procedure, treatment needs, and possible outcomes>deficientKnowledgeRegardingProcedureTreatmentNeedsandPossibleOutcomes.txt
 risk for maternal Injury>riskfofMaternalInjury.txt
 risk for impaired fetal Gas Exchange>riskforimpairedfetalGasExchange.txt
 labor Pain>laborPain.txt
-
 =====
+

@@ -1,7 +1,6 @@
 ::Frostbite::
-
 impaired Tissue Integrity>impairedTissueIntegrity.txt
 acute Pain>acutePain.txt
 risk for Infection>riskforInfection.txt
-
 =====
+

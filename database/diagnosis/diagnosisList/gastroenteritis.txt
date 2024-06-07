@@ -1,7 +1,6 @@
 ::Gastroenteritis::
-
 diarrhea>diarrhea.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
 risk for Infection>riskforInfection.txt
-
 =====
+

@@ -1,7 +1,6 @@
 ::Gout::
-
 acute Pain>acutePain.txt
 impaired physical Mobility>impairePhysicalMobility.txt
 deficient Knowledge regarding cause, treatment, and prevention of condition>deficientKnowledgeregardingCauseTreatmentandPreventionofCondition.txt
-
 =====
+

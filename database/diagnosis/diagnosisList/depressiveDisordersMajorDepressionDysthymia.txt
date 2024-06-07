@@ -1,10 +1,9 @@
 ::Depressive Disorders, Major Depression, Dysthymia::
-
 risk for self-directed Violance>riskforself-directedViolance.txt
 anxiety>anxiety.txt
 insomnia>insomnia.txt
 social Isolation_impaired Social Interaction>socialIsolation_impairedSocialInteraction.txt
 interrupted Family Processes>interruptedFamilyProcesses.txt
 risk for impaired Religiosity>riskforimpairedReligiosity.txt
-
 =====
+

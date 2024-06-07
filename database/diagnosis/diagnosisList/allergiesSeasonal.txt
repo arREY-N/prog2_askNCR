@@ -1,6 +1,5 @@
 ::Allergies, Seasonal::
 <<<<<<< HEAD
-
 Hay Fever>HayFever.txt
 =======
 refer to Hay Fever>refertoHayFever.txt

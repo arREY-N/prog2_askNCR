@@ -1,136 +1,190 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
-import java.util.TreeMap;
 public class carePlan {
 
-    private static ArrayList<LinkedHashMap<String, ArrayList<String>>> careRecommendations = new ArrayList<>();
+    private static Path symptomFolderPath = Paths.get("database\\symptom\\symptomList");
 
-    public static void createCareRecommendation(Scanner scan, Patient patient, Nurse nurse){
-        Boolean createLoop = true;
+    public static void createCareRecommendation(Scanner scan, Patient patient, Nurse nurse){        
+        ArrayList<LinkedHashMap<String, ArrayList<String>>> carePlans = new ArrayList<LinkedHashMap<String, ArrayList<String>>>();
+        LinkedHashMap<String, ArrayList<String>> fileContent = new LinkedHashMap<String, ArrayList<String>>();
+        Map<String, Symptom> symptomList = SymptomDatabase.getSymptomList();
+        ArrayList<String> symptomArray = patient.getSymptomFileList();    
+        ArrayList<Symptom> possibleSymptomMatch = new ArrayList<Symptom>();     
+
+        String patientDiagnosisName = patient.getDiagnosisName();
+        String symptomName = null;
+        Boolean read = true;    
 
         do{
-            System.out.println("\nCreate care recommendation!\n");
-            System.out.println("A: Diagnosis-based Care Recommendations");
-            System.out.println("B: Symptom-based Care Recommendations");
-            System.out.println("C: Go Back");
+            Symptom matchSymptom = null;
+            System.out.println("Diagnosis: " + patientDiagnosisName);
+            System.out.println("Symptoms: ");
 
-            String response = scan.nextLine().toUpperCase().trim();
-            switch (response) {
-                case "A":
-                    createDiagnosisCareRecommendation(scan, patient.getDiagnosis(), patient, nurse);
-                    break;
-                case "B":
-                    System.out.println("Symptom-based care");
-                    break;
-                default:
-                    createLoop = false;
-                    break;
-            }
-        } while (createLoop);
-    }
-
-    public static void createDiagnosisCareRecommendation(Scanner scan, String patientDiagnosis, Patient patient, Nurse nurse){
-        Map<String, Integer> diagnosisTable = DiagnosesDatabase.getDiagnosisTable();
-        Map<String, Integer> possibleMatch = new TreeMap<String, Integer>();
-        LinkedHashMap<String, ArrayList<String>> fileContents;
-        Boolean diagnosisSymptomLoop = true;
-        String diagnosisName;
-        int diagnosisNumber;
-        int symptomNumber;
-        Boolean found = false;
-
-        for(Map.Entry<String, Integer> diagnosis: diagnosisTable.entrySet()){
-            if(found == false && fileMatches(diagnosis.getKey(), patientDiagnosis) != null && fileMatches(diagnosis.getKey(), patientDiagnosis).equals("match")){
-                diagnosisName = DiagnosesDatabase.getDiagnosisList().get(diagnosisTable.get(diagnosis.getKey())).getDiagnosisName();
-                diagnosisNumber = diagnosisTable.get(diagnosis.getKey());
-                found = true;        
-                do{
-                    System.out.println();
-                    System.out.println("Diagnosis: " + diagnosisName);
-                        ArrayList<String> diagnosisSymptomList = Search.showDiagnosisSymptomList(diagnosisNumber);
-                        try{
-                            System.out.print("Choose Symptom (0 to exit): ");
-                            if((symptomNumber = Integer.parseInt(scan.nextLine())) != 0){
-                                try{
-                                    fileContents = SymptomDatabase.getSymptom(diagnosisSymptomList.get(symptomNumber-1));
-                                    careRecommendations.add(fileContents);
-                                    Search.showSymptomInformation(scan, fileContents, diagnosisSymptomList.get(symptomNumber-1));
-                                } catch (NullPointerException npe){
-                                    System.out.println("Sorry! Symptom is not yet available in the database!");
-                                    System.out.println("Add to database? (Y to add | Enter to go back)");
-                                    String response = scan.nextLine().toUpperCase().trim();
-
-                                    switch(response){
-                                        case "Y":
-                                            SymptomDatabase.createNewSymptom(scan);
-                                            break;
-                                        default:
-                                            break;
-                                    }
-                                } catch (IndexOutOfBoundsException e){
-                                    System.out.println("\nInvalid input!");
-                                }
-                            } else {
-                                diagnosisSymptomLoop = false;
-                            }
-                        } catch (NumberFormatException nfe){
-                            System.out.println("Invalid input!");
-                        } 
-                    }while(diagnosisSymptomLoop);
-
-            } else if (found == false && fileMatches(diagnosis.getKey(), patientDiagnosis) != null && fileMatches(diagnosis.getKey(), patientDiagnosis).equals("part")){
-                possibleMatch.put(diagnosis.getKey(), diagnosisTable.get(diagnosis.getKey()));
-            } else{
-                continue;
-            }   
-
-            if(found == true){
-                System.out.println("Diagnosis found!");
-                fileManagement.createCareFile(careRecommendations, patient, nurse);
+            if(symptomArray.size()<1){
+                System.out.println("\nNo symptoms to use\n");
                 break;
+            } else{
+                for(int i=0; i<symptomArray.size(); i++){
+                    System.out.println((i+1) + ". " + symptomArray.get(i));
+                }
+            
+                System.out.print("Read symptoms to add (0 to complete): ");
+                try{
+                    int symptomNumber = Integer.parseInt(scan.nextLine());
+                    System.out.println();
+                    if(symptomNumber != 0){
+                        try{
+                            symptomName = symptomArray.get(symptomNumber-1);
+    
+                            for(Map.Entry<String, Symptom> symptom: symptomList.entrySet()){
+                                String currentSymptomName = symptom.getKey();
+                                    
+                                int match = Utilities.matchTitles(currentSymptomName, symptomName);
+    
+                                switch (match) {
+                                    case 1:
+                                        matchSymptom = symptom.getValue();
+                                        break;
+                                    case 2:
+                                        possibleSymptomMatch.add(symptom.getValue());
+                                        break;
+                                    default:
+                                        break;
+                                }
+                            }
+    
+                            if(matchSymptom == null){
+                                if(!possibleSymptomMatch.isEmpty()){
+                                    boolean possibleMatch = true;
+                                    System.out.println("Exact matches cannot be found!\n");
+                                    do{
+                                        System.out.println("Possible matches\n");
+                    
+                                        int i = 1;
+                                            
+                                        for(Symptom possibleSymptom: possibleSymptomMatch){
+                                            System.out.println((i) + ". " + possibleSymptom.getSymptomName());
+                                            i++;
+                                        }
+        
+                                        System.out.print("Choose (0 to exit): ");
+                                        try{
+                                            int chosenMatch = Integer.parseInt(scan.nextLine());
+                                            System.out.println();
+                                            
+                                            if(chosenMatch != 0){
+                                                matchSymptom = possibleSymptomMatch.get(chosenMatch-1);
+                                                symptomName = matchSymptom.getSymptomName();
+                                            } 
+                                            
+                                            possibleMatch = false;
+                                        } catch (NumberFormatException e){
+                                            System.out.println("\nInvalid input!\n");
+                                        }
+                                    } while (possibleMatch);
+                                }
+                            }
+                        } catch (NullPointerException e){
+                            e.printStackTrace();
+                        }
+                            
+                        try{
+                            Path symptomPath = symptomFolderPath.resolve(matchSymptom.getFileName());
+                         
+                            fileContent = SymptomDatabase.getSymptomContents(symptomPath);
+                         
+                            Search.showSymptomInformation(scan, fileContent, symptomName);
+                            carePlans.add(fileContent);
+                         
+                            System.out.printf("\n[%s] added to care plan! Enter to continue!\n", symptomArray.get(symptomNumber-1));
+                            scan.nextLine();                            
+                        } catch (NullPointerException e){
+                            System.out.printf("\nSorry! [%s] is not yet available in the database!\n", symptomName.toUpperCase());
+                            System.out.println("Add to database? (Y to add | Enter to go back)");
+                            String response = scan.nextLine().toUpperCase().trim();
+                            
+                            switch(response){
+                                case "Y":
+                                    SymptomDatabase.createNewSymptom(scan);
+                                    break;
+                                default:
+                                    break;
+                            }
+                        }                
+                    } else {
+                        read = false; 
+                    }
+                } catch (NumberFormatException e){
+                    System.out.println("\nInvalid Input!\n");
+                }
             }
-        }
-
-        if(found == false){
-            System.out.println("\nDiagnosis not found in the system!\n");
+        } while (read);
+        
+        if(!carePlans.isEmpty()){
+            fileManagement.createCareFile(carePlans, patient, nurse);
+        } else {
+            System.out.println("No contents to include!\n");
         }
     }
+    
+    public static File[] getCarePlans(Patient patient, Nurse nurse){
+        Path filePath = Paths.get("database\\nurse\\" + nurse.getUserID() + "\\" + patient.getPatientId());
+        File carePlans = new File(filePath.toString());
+        File[] plans = carePlans.listFiles();
+        
+        return plans;
+    }
 
-    public static String fileMatches(String fileName, String diagnosis){
-        String match;
-        String[] fileNameParts = fileName.toUpperCase().replaceAll("[^a-zA-Z ]", "").split(" ");
-        String[] diagnosisParts = diagnosis.toUpperCase().replaceAll("[^a-zA-Z ]" , "").split(" ");
-
-        Set<String> fileSet = new HashSet<>();
-        Set<String> diagnosisSet = new HashSet<>();
-
-
-        for(String parts1: fileNameParts){
-            fileSet.add(parts1.trim());
-        } 
-
-        for(String parts2: diagnosisParts){
-            diagnosisSet.add(parts2.trim());
-        }
-
-        if(!fileSet.equals(diagnosisSet)){
-            diagnosisSet.retainAll(fileSet);
-
-            if(!diagnosisSet.isEmpty()){
-                match = "part";
-            } else {
-                match = null;
+    public static void viewCarePlan(Scanner scan, Patient patient, Nurse nurse){
+        File[] plans = getCarePlans(patient, nurse);
+        boolean careLoop = true;
+        int response;
+        do{
+            int careNumber = 1;
+            System.out.println("Care Recommendations\n");
+            for(File plan: plans){
+                System.out.println(careNumber + ". " + plan.getName());
+                careNumber++;
             }
 
-        } else {
-            match = "match";
-        }
+            System.out.print("Choose (0 to exit): ");
 
-        return match;
+            try{
+                response = Integer.parseInt(scan.nextLine());
+
+                if(response != 0){
+                    readCarePlan(scan, plans[response-1]);
+                } else {
+                    careLoop = false;
+                }
+            } catch (NumberFormatException e){
+                System.out.println("\nInvalid Input!");
+            } catch (ArrayIndexOutOfBoundsException e){
+                System.out.println("\nInvalid Input!");
+            }
+
+            System.out.println();
+        } while (careLoop);
+    }
+    
+    public static void readCarePlan(Scanner scan, File plan){
+        try (BufferedReader reader = new BufferedReader(new FileReader(plan))) {
+            String line;
+
+            while((line=reader.readLine()) != null){
+                System.out.println(line);
+                scan.nextLine();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

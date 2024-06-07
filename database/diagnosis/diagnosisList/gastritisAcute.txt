@@ -1,6 +1,5 @@
 ::Gastritis, Acute::
-
 acute Pain>acutePain.txt
 risk for deficient Fluid Volume_risk for Bleeding>riskfordeficientFluidVolume_riskforBleeding.txt
-
 =====
+

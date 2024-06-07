@@ -1,9 +1,8 @@
 ::Paranoid Personality Disorder::
-
 risk for self-directed Violence_risk for other-directed Violence>riskforself-directedViolence_riskforother-directedViolence.txt
 anxiety>anxiety.txt
 powerlessness>powerlessness.txt
 disturbed Sensory Perception>disturbedSensoryPerception.txt
 compromised family Coping>compromisedfamilyCoping.txt
-
 ===== 
+

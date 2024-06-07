@@ -1,6 +1,5 @@
 ::Affective Disorder Seasonal::
 <<<<<<< HEAD
-
 Depressive Disorders, Major>DepressiveDisordersMajor.txt
 =======
 also refer to Depressive Disorders, Major>alsorefertoDepressiveDisordersMajor.txt

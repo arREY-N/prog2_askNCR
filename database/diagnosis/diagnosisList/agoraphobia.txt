@@ -1,6 +1,5 @@
 ::Agoraphobhia::
 <<<<<<< HEAD
-
 Phobia>Phobia.txt
 =======
 also refer to Phobia>alsorefertoPhobia.txt

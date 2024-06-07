@@ -1,10 +1,9 @@
 ::Heart Failure Chronic::
-
 decreased Cardiac Output>decreasedCardiacOutput.txt
 excess Fluid Volume>excessFluidVolume.txt
 risk for impaired Gas Exchange>riskforimpairedGasExchange.txt
 activity Intolerance>activityIntolerance.txt
 risk for impaired Skin Integrity>riskforimpairedSkinIntegrity.txt
 deficient Knowledge regarding cardiac function_disease process, therapy and self-care needs>
-
 =====
+

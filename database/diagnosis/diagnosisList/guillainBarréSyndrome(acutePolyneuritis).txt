@@ -1,9 +1,8 @@
 ::Guillain Barré Syndrome (Acute Polyneuritis)::
-
 risk for ineffective Breathing Pattern_Airway Clearance>riskforineffectiveBreathingPattern_AirwayClearance.txt
 disturbed Sensory Perceptual>disturbedSensoryPerceptual.txt
 impaired physical Mobility>impairedPhysicalMobility.txt
 anxiety_Fear>anxiety_Fear.txt
 risk for Disuse Syndrome>riskforDisuseSyndrome.txt
-
 =====
+

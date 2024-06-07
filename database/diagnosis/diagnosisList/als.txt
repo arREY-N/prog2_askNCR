@@ -1,6 +1,5 @@
 ::ALS::
 <<<<<<< HEAD
-
 myotrophic lateral sclerosis>AmyotrophicLateralSclerosis.txt
 =======
 refer to Amyotrophic lateral sclerosis>refertoAmyotrophicLateralSclerosis.txt

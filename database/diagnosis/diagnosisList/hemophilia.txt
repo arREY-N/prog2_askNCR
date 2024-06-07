@@ -1,9 +1,8 @@
 ::Hemophilia::
-
 risk for Bleeding_deficient Fluid Volume>riskforBleeding_deficientFluidVolume.txt
 acute Pain_chronic Pain>acutePain_chronicPain.txt
 risk for impaired physical Mobility>riskforimpairedPhysicalMobility.txt
 ineffective Protection>ineffectiveProtection.txt
 compromised family Coping>compromisedfamilyCoping.txt
-
 =====
+

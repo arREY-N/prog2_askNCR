@@ -1,9 +1,8 @@
 ::Perinatal Loss / Death of Child::
-
 grieving>grieving.txt
 situational low Self-Esteem>situationallowSelf-Esteem.txt
 risk for ineffective Role Performance>riskforineffectiveRolePerformance.txt
 risk for interrupted Family Processes>riskforinterruptedFamilyProcesses.txt
 risk for Spiritual Distress>riskforSpiritualDistress.txt
-
 =====
+

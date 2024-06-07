@@ -1,7 +1,6 @@
-Hemorrhoidectomy::
-
+::Hemorrhoidectomy::
 acute Pain>acutePain.txt
 risk for Urinary Retention>riskforUrinaryRetention.txt
 deficient Knowledge regarding therapeutic treatment and potential complications>deficientKnowledgeRegardingTherapeuticTreatmentandPotentialComplications.txt
-
 =====
+

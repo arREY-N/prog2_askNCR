@@ -1,7 +1,6 @@
 ::Celiac Disease::
-
 imbalanced Nutrition: less than Body Requirements>imbalancedNutrition:lessthanBodyRequirements.txt
 diarrhea>diarrhea.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
-
 =====
+

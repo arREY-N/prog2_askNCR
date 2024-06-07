@@ -1,8 +1,7 @@
 ::Encephalitis::
-
 risk for ineffective cerebral Tissue Perfusion>riskforineffectivecerebralTissuePerfusion.txt
 hyperthermia>hyperthermia.txt
 acute Pain>acutePain.txt
 risk for Trauma_risk for Suffocation>riskforTrauma_riskforSuffocation.txt
-
 =====
+

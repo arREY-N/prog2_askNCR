@@ -61,10 +61,10 @@ public class AccountsDatabase {
     }
 
     public static void showAccounts(){
+        System.out.println();
+        System.out.printf("%-10s | %-20s \n", "USER ID", "USER PASSWORD");
         for(Map.Entry<String, String> account: accountList.entrySet()){
-            System.out.println("Account: " + account.getKey());
-            System.out.println("Password: " + account.getValue());
-            System.out.println();
+            System.out.printf("%-10s | %-20s \n", account.getKey(), account.getValue());
         }
     }
 }

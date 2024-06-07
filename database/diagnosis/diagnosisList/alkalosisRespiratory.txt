@@ -1,6 +1,5 @@
 ::Alkalosis, Respiratory::
 <<<<<<< HEAD
-
 Underlying Cause or Condition>UnderlyingCauseorCondition.txt
 =======
 also refer to Underlying Cause or Condition>alsorefertoUnderlyingCauseorCondition.txt

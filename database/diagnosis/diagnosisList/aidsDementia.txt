@@ -1,6 +1,5 @@
 ::AIDS Dementia::
 <<<<<<< HEAD
-
 Dementia, presenile/senile>Dimentia,presenile/senile.txt
 =======
 also refer to Dementia, presenile/senile>alsorefertoDimentia,presenile/senile.txt

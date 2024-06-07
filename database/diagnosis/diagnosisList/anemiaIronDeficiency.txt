@@ -1,6 +1,5 @@
 ::Anemia, Iron-Deficiency::
 <<<<<<< HEAD
-
 Anemia>Anemia.txt
 =======
 also refer to Anemia>alsorefertoAnemia.txt

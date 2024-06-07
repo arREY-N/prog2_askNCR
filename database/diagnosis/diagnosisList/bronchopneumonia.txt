@@ -1,8 +1,7 @@
 ::Bronchopneumonia::
-
 bronchitis>bronchitis.txt
 ineffective Airway Clearance>ineffectiveAirwayClearance.txt
 impaired Gas Exchange>impairedGasExchange.txt
 risk for Infection>riskforInfection.txt
-
 =====
+

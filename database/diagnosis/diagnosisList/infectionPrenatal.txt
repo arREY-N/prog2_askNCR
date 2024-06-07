@@ -1,7 +1,6 @@
 ::Infection, Prenatal::
-
 AIDS (Acquired Immunodeficiency Syndrome)>AIDS(AcquiredImmunodeficiencySyndrome).txt
 deficient Knowledge regarding treatment_prevention, prognosis of condition>deficientKnowledgeRegardingTreatment_PreventionPrognosisofCondition.txt
 impaired Comfort>impairedComfort.txt
-
 =====
+

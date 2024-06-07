@@ -1,8 +1,7 @@
 ::Impetigo::
-
 impaired Skin Integrity>impairedSkinIntegrity.txt
 acute Pain>acutePain.txt
 risk for (secondary) Infection>riskfor(secondary)Infection.txt
 risk for Infection (transmission)>riskforInfection(transmission).txt
-
 =====
+

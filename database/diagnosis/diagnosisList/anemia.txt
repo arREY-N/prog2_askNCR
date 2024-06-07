@@ -1,6 +1,5 @@
 ::Anemia::
 <<<<<<< HEAD
-
 activity Intolerance>activityIntolerance.txt
 =======
 Activity Intolerance>activityIntolerance.txt

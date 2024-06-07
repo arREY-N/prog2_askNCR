@@ -1,7 +1,6 @@
 ::Cardiomyopathy::
-
 decreased Cardiac Output>decreasedCardiacOutput.txt
 activity Intolerance>activityIntolerance.txt
 ineffective Role Performance>ineffectiveRolePerformance.txt
-
 =====
+

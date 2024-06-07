@@ -41,6 +41,9 @@ public class cleanText {
                         }
                     }
                 }
+            } catch (NullPointerException e){
+                System.out.println(symptom.getName());
+                scan.nextLine();
             } catch (IOException e) {
                 e.printStackTrace();
             }

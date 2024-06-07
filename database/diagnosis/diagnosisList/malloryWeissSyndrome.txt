@@ -1,7 +1,6 @@
 ::Mallory-Weiss Syndrome::
-
 achalasia>achalasia.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
 deficient Knowledge regarding causes, treatment, and prevention of condition>deficientKnowledgerRegardingCausesTreatmentandPreventionofCondition.txt
-
 =====
+
