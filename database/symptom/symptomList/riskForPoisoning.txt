@@ -1,0 +1,62 @@
+::Risk For Poisoning::
+
+::Definition::
+ Susceptible to accidental exposure to, or ingestion of, drugs or dangerous products in sufficient doses that may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors:
+1. Identify internal and external risk factors in client’s environment, including presence of infants, young children, or frail elderly (who are at risk for accidental poisoning) and teenagers or young adults (who are at risk for medication experimentation); confused or chronically ill person on multiple medications; person with potential for suicidal action; person who partakes in illicit drug use/dealing (e.g., opioids, cocaine, heroin); person who manufactures drugs in home (e.g., meth).
+2. Note client’s age, gender, socioeconomic status, developmental stage, decision-making ability, level of cognition, and competence to identify individuals who could be at higher risk for accidental poisoning. This affects client’s ability to protect self/others and infl uences choice of interventions/teaching.
+3. Determine client’s allergies to medications and foods in order to avoid exposure to substances causing potentially lethal reaction.
+4. Assess mood, coping abilities, personality styles (e.g., temperament, impulsive behavior, level of self-esteem) that may result in carelessness/increased risk taking without consideration of consequences.
+5. Assess client’s knowledge of safe use of drugs/herbal supplements, safety hazards in the environment, and ability to respond to potential threat. People may believe “if a little is good, a lot is better,” placing them at risk for overdose, adverse drug effects, or interactions. Knowledge and use also affect the client’s storage (e.g., may not use labeled bottles) and/ or taking of medications that look alike (potentiating risk of overdose or adverse drug interactions). The elderly may unintentionally take the wrong medication at the wrong time or “double up,” forgetting that they already took their daily dose of a prescription medicine.
+6. Evaluate for alcohol/other drug use/abuse (e.g., cocaine, methamphetamine, lysergic acid diethylamide [LSD], methadone). These substances have potential for adverse reactions, cumulative affects with other substances, and risk for intentional and accidental overdose.
+7. Identify environmental hazards:  
+ - Storage of household chemicals (e.g., oven, toilet bowl, or drain cleaners; dishwasher products; bleach; hydrogen peroxide; fl uoride preparations; essential oils; furniture polish; lighter fl uid; lamp oil; kerosene; paints; turpentine; rust remover; lubricant oils; bug sprays or powders; fertilizers). These are all readily available toxins in various forms that are often improperly stored.
+ - Review client’s home, employment, or work environment for exposure to chemicals, including vapors and fumes.
+ - Refer to ND risk for Contamination for environmental issues.
+ - Review results of laboratory tests and toxicology screening, as indicated.
+
+
+[Nursing Priority No. 2]
+    - To assist in correcting factors that can lead to accidental poisoning:
+1. Discuss medication safety with client/signifi cant other(s) (SO[s]) to prevent accidental poisoning:
+ - Emphasize importance of supervising infant, child, frail elderly, or individuals with cognitive limitations.
+ - Keep medicines and vitamins out of sight or reach of children or cognitively impaired persons.
+ - Use child-resistant or tamper-resistant caps and lock medication cabinets. 
+ - Recap medication containers immediately after obtaining current dosage. Do not leave open container out.
+ - Code medicines for the visually impaired.
+ - Administer children’s medications as drugs, not candy. 
+2. Prevent duplication or possible overdose:
+ - Keep updated list of all medications (prescription, over the counter [OTC], herbals, supplements) and review with healthcare providers when medications are changed, new ones added, or new healthcare providers are consulted.
+ - Keep prescription medication in original bottle with label. Do not mix with other medication/place in unmarked containers.
+ - Have responsible SO(s)/home health nurse supervise medication regimen/prepare medications for the cognitively or visually impaired or obtain prefi lled medication box from pharmacy.
+ - Take prescription medications, as prescribed on label.
+ - Do not adjust medication dosage.
+ - Retain and read safety information that accompanies prescriptions about expected effects, minor side effects, reportable or adverse affects that require medical intervention, and how to manage forgotten dose.
+3. Avoid taking medications that interact with one another or OTCs, herbals, or other supplements in an undesired or dangerous manner:
+ - Keep list of and reveal medication allergies, including type of reaction, to healthcare providers/pharmacist.
+ - Wear medical alert bracelet or necklace, as appropriate.
+ - Do not take outdated or expired medications. Do not save partial prescriptions to use another time.
+ - Encourage discarding outdated or unused drug safely (disposing in hazardous waste collection areas, not down drain or toilet).
+ - Do not take medications prescribed for another person.
+ - Coordinate care when multiple healthcare providers are involved to limit number of prescriptions and dosage levels. 
+
+[Nursing Priority No.3]
+    -  To promote wellness (Teaching/Discharge Considerations):
+1. Discuss general poison prevention measures. 
+2. Encourage parent/caregiver to place safety stickers on dangerous products (drugs and chemicals) to warn children of harmful contents.
+3. Teach children about hazards of poisonous substances and to “ask fi rst” before eating or drinking anything. 
+4. Review drug side effects, potential interactions, and possibilities of misuse or overdosing (as with vitamin megadosing, etc.).
+5. Discuss issues regarding drug use in home (e.g., alcohol, marijuana, opioids, heroin) to provide opportunity to address potential for client’s/SO’s accidental overdose or accidental ingestion by children when drugs or drug paraphernalia are in the home.
+6. Refer substance abuser to detoxifi cation programs, inpatient/outpatient rehabilitation, counseling, support groups, psychotherapy. 
+7. Provide list of emergency numbers (i.e., local or national poison control numbers, physician’s offi ce) to be placed by telephone for use if poisoning occurs. 8. Encourage client to obtain regular screening tests at prescribed intervals (e.g., prothrombin time/international normalized ratio [INR] for Coumadin; drug levels for Dilantin, digoxin; liver function studies when lipid-lowering agents [statins] are prescribed; or renal and thyroid function and serum glucose levels for antimanics [lithium] use) to ascertain that circulating blood levels are within therapeutic range and absence of adverse effects.
+9. Encourage participation in community awareness and education programs (e.g., CPR and First Aid class, home and workplace safety, hazardous materials disposal, access to emergency medical personnel) to assist individuals to identify and correct risk factors in environment and be prepared for emergency situation.
+10.  Discuss vitamins (especially those containing iron) that can be poisonous or lethal to children.
+11. Review common analgesic safety (e.g., acetaminophen is an ingredient in many OTC medications, and unintentional overdose can occur).
+12. Refer substance abuser to detoxifi cation programs, inpatient/ outpatient rehabilitation, counseling, support groups, and psychotherapy, as appropriate.
+13. Encourage emergency measures, awareness, and education (e.g., CPR/First Aid class, community safety programs, ways to access emergency medical personnel) to assist individuals to identify and correct risk factors in environment and be prepared for emergency situation.
+
+=====

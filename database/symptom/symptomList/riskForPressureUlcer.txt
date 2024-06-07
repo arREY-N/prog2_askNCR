@@ -1,0 +1,42 @@
+::Risk For Pressure Ulcer::
+
+::Definition::
+ Susceptible to localized injury to the skin and/or underlying tissue usually over a bony prominence as a result of pressure, or pressure in combination with shear [National Pressure Ulcer Advisory Panel (NPUAP, 2007)].
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess risk and contributing factors: 
+1. Identify presence of underlying condition that increases risk of pressure ulcer. Skin integrity problems can be the result of 
+(1) disease processes that affect circulation and perfusion of tissues (e.g., arteriosclerosis, venous insuffi ciency, hypertension, obesity, diabetes, malignant neoplasms); 
+(2) medications (e.g., vasopressors, antidepressants, anticoagulants, corticosteroids, immunosuppressives, antineoplastics) that adversely affect or impair healing; 
+(3) burns or radiation (can break down internal tissues as well as skin); and 
+(4) nutrition and hydration (e.g., malnutrition deprives the body of protein and calories required for cell growth and repair, and dehydration impairs transport of oxygen and nutrients).
+2. Evaluate client’s risk for developing pressure injury upon admission to care, using NPUAP Pressure Injury Stages, Braden risk scale (or similar scale per facility policy) as listed above. Using susceptibility factors of sensory perception, skin moisture, activity, mobility, nutritional status, friction, and shear potential, the client’s risk can be quickly determined.
+3. Determine client’s age and developmental factors affecting skin/tissue health. Infant’s skin is predisposed to a dry, fl aky, and impaired skin barrier. Studies have shown that similar to adult patients, acutely ill infants and children are at risk for pressure injury. In older adults, reduced epidermal regeneration, fewer sweat glands, less subcutaneous fat, elastin, and collagen, cause skin to become thinner, drier, and less responsive to pain sensations.
+4. Note skin color discoloration (e.g., nonblanchable erythema, persistent red, blue, or purple hues) in pressure areas suggestive of impaired tissue health. Note: It may be necessary in a darker skinned individual to focus more on other evidence of pressure injury development, such as bogginess, induration, coolness, or increased warmth as well as signs of skin discoloration.
+5. Ascertain current medication regimen. Individual may be on medications that contribute to development of pressure injuries or affect wound healing (e.g., NSAIDs. vasopressors, beta blockers, anticoagulants, inotropics, immunosuppressives, antineoplastics, some analgesics), and that can adversely affect the skin.
+6. Review laboratory results (e.g., hemoglobin/hematocrit [Hb/ Hct], blood glucose, blood and/or wound culture and sensitivities for infectious agents [viral, bacterial, fungal], albumin, prealbumin, transferrin, protein) to evaluate for potential risk factors or ability to heal. Note: Albumin <3.5 correlates to decreased wound healing and increased incidence of pressure ulcers.
+
+[Nursing Priority No. 2]
+    - To maintain optimal skin/tissue integrity: 
+1. Monitor for incontinence, changing diapers, padding, and bedding as needed. Maintains skin that is clean, dry, and free of contaminants which can cause/exacerbate skin/ tissue breakdown.
+2. Develop regularly timed repositioning schedule for client with mobility and sensation impairments; encourage or assist with periodic weight shifts for client in chair to reduce stress on pressure points and to promote circulation to tissues. 
+3. Use proper turning and transfer techniques and suffi cient personnel when repositioning client. Avoids movements that cause friction or shearing (e.g., pulling client with parallel force, dragging movements).
+4. Use appropriate padding or pressure-reducing devices (e.g., egg crate, gel pads, heel rolls, or foam boots) or pressure-relieving devices (e.g., air or water mattress) when indicated to reduce pressure on sensitive areas and enhance circulation.
+5. Participate in practices that prevent medical device–related pressure ulcers:
+ - Choose the correct size of medical device(s) (e.g., endotracheal tube, anti-embolism stocking splints, other tubings) to fi t the individual
+ - Remove or move the device daily to assess skin Avoid placement of device(s) over sites of prior or existing pressure ulceration
+ - Protect skin with cushioning in high-risk areas (e.g., nasal bridge, ears, sacrum, heels, occipital area of head in infants/small children)
+ - Educate other care providers about client’s devices and prevention of skin breakdown interventions
+6. Provide optimum nutrition (including adequate protein, lipids, calories, trace minerals, and multivitamins [e.g., A, C, D, E]) to promote skin and tissue health, and to maintain general good health. Refer to nutritionist as indicated.
+7. Provide adequate hydration (e.g., oral, tube feeding, IV, ambient room humidity) to reduce and replenish transepidermal water loss.
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Encourage regular inspection and monitoring of skin for changes or failure to heal. Early detection and reporting to healthcare providers promote timely evaluation and intervention.
+2. Encourage good nutrition, adequate hydration, early and ongoing mobility, and range-of-motion and strengthening exercises to enhance circulation and promote health of skin and other organs.
+3. Discuss proper and safe use of equipment or appliances (e.g., heating pad, ostomy appliances, padding straps of braces).
+4. Encourage abstinence from smoking, which causes vasoconstriction, impairing circulation.
+
+=====

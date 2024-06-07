@@ -1,0 +1,38 @@
+::Obesity::
+
+::Definition::
+ A condition in which an individual accumulates abnormal or excessive fat for age and gender that exceeds overweight. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify contributing factors/health status:
+1. Obtain weight history, noting if client has weight gain out of character for self or family, is or was obese child, or used to be much more physically active than is now to identify trends. Note: Obesity is now the most prevalent nutritional disorder among children and adolescents in the United States. Being overweight during older childhood is highly predictive of adult obesity, especially if a parent is also obese.
+2. Assess risk and presence of factors or conditions associated with obesity (e.g., familial pattern of obesity; genetic disorders in children [e.g., Prader-Willi syndrome, LaurenceMoon-Biedl syndrome]; hypothyroidism; type 2 diabetes; reproductive dysfunction; menopause; chronic disorders, such as heart disease, kidney disease, chronic pain; food or other substance addictions; stressful or sedentary lifestyle; depression; use of certain medications such as steroids, birth control pills; physical disabilities or limitations; lack of socioeconomic resources for obtaining or preparing healthy foods) to determine treatments and interventions that may be indicated in addition to weight management.
+3. Ascertain current and previous dieting history. Client may report normal or excessive intake of food, but calories and intake of certain food groups (e.g., sweets and fats) are often underestimated. Client may report experimentation with numerous types of diets, repeated dieting efforts (“yo-yo” dieting) with varying results, or may never have attempted a weight-management program. 
+4. Assess client’s knowledge of own body weight and nutritional needs, and determine cultural expectations regarding size. Although nutritional needs are not always understood, being overweight or having large body size may not be viewed negatively by individual because it is considered within relationship to family eating patterns or peer and cultural infl uences.
+5. Identify familial and cultural infl uences regarding food. People of many cultures place high importance on food and food-related events, while some cultures routinely observe fasting days (e.g., Arab, Greek, Irish, Jewish) that may be done for health or religious purposes.
+6. Ascertain how client perceives food and the act of eating. Individual beliefs, values, and types of foods available infl uence what people eat, avoid, or alter. Client may be eating to satisfy an emotional need rather than physiological hunger, not only because food plays a signifi cant role in socialization but also because food can offer comfort, sense of security, and acceptance.
+7. Assess dietary practices by means of diary covering 3–7 days. Recall of foods and fl uids ingested; times, patterns, and place of eating; whether alone or with other(s); and feelings before, during, and after eating can increase client’s understanding of eating behavior and serve as the basis for dietary modifi cations.
+8. Identify problems with energy balance. Few people can accurately estimate the number of calories they should consume in a day for a person their age, height, weight, and physical activity. Eating and physical activity patterns that are focused on consuming fewer calories, making informed food choices, and being physically active can help people attain and maintain a healthy weight.
+9. Collaborate in assessment and interventions for client with disordered eating habits or eating perceptions:
+ - Obtain comparative body drawing having client draw self on wall with chalk, then standing against it and having actual body outline drawn to note difference between the two. Determines whether client’s view of self-body image is congruent with reality.
+ - Ascertain occurrence of negative feedback from signifi cant other(s) (SO[s]). May reveal control issues, impact motivation for change.
+ - Identify unhelpful eating behaviors (e.g., eating over sink, “gobbling, nibbling, or grazing”) and address kinds of activities associated with eating (e.g., watching television or reading, being unmindful of eating or food) that result in taking in too many calories as well as eliminating the joy of food because of failure to notice fl avors or sensation of fullness or satiety.
+ - Review daily activity and regular exercise program for comparative baseline and to identify areas for modifi cation. Note: The 2008 National Health Interview Survey showed that only 33% of American adults participated in leisure-time physical activity on a regular basis.
+10. Review laboratory test results (e.g., complete blood count with differential, full lipid panel, fasting glucose, A 1 C, and insulin levels; thyroid, leptins; proteins; and eating selfassessment tests or nutritional screening tests such as Mini Nutritional Assessment [MNA]) that may reveal medical or emotional conditions associated with obesity, and identify problems that may be treated with alterations in diet or medications.
+11. Obtain anthropometric measurements to determine presence and severity of obesity.
+12. Calculate BMI to estimate percentage of body fat. Note: The Centers for Disease Control and Prevention (CDC) has standardized BMI calculations, removing age and sex differences for adults with obesity being defi ned as 30 and above. Note: Obesity is also divided into classes. Class 3 obesity is sometimes categorized as “extreme” or “severe” obesity (may replace term “morbid obesity”), and is defi ned as BMI equal to or greater than 40. The CDC has also recommended that children (over age 2) and adolescents be considered obese if their BMI exceeds the 95th percentile on growth curves or exceeds 30 kg/m2 at any age. Note: Normal BMI in children changes as age and growth occurs and is also different between the sexes.
+
+[Nursing Priority No. 2]
+    - To establish weight-reduction program:
+1. Refer to ND Overweight, Nursing Priority 2 for interventions common to weight-loss programs.
+2. Collaborate with nutritionist in addressing/implementing client’s specifi c needs (e.g., about foods to incorporate or limit, and how to identify nutrient-dense foods and beverages). A  healthy eating pattern limits intake of sodium, solid fats, added sugars, and refi ned grains and emphasizes nutrient-dense foods and beverages (e.g., vegetables, fruits, whole grains, fat-free or low-fat milk and milk products), seafood, lean meats and poultry, eggs, beans and peas, and nuts and seeds.
+3. Assist client and family in using technology to manage food choices/track intake. Technology offers applications that can assist in monitoring dietary intake and food choices. Some calculate calories, providing immediate feedback, and generating individualized reminders.
+4. Engage client and family in structured weight loss programs, as indicated. Approaches to the treatment of severely obese individuals may include lifestyle modifi cations, physical activity, very controlled diets, intensive psychiatric interventions, including individual, group, and family therapy.
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Refer to ND: Overweight for related interventions
+
+=====
