@@ -1,0 +1,8 @@
+::Uterus, rupture of, in pregnancy::
+
+deficient Fluid Volume>deficientFluidVolume.txt
+decreased Cardiac Output>decreasedCardiacOutput.txt
+acute Pain>acutePain.txt
+anxiety>anxiety.txt
+
+=====

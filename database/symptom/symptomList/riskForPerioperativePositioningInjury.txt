@@ -1,0 +1,44 @@
+::Risk For PerioPerative Postioning Injury::
+
+::Definition::
+ : Susceptible to inadvertent anatomical and physical changes as a result of posture or positioning equipment used during an invasive/surgical procedure, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify individual risk factors/needs:
+1. Review client’s history, noting age, weight and height, nutritional status, physical limitations, or preexisting conditions (e.g., elderly person with arthritis; extremes of weight; diabetes or other conditions affecting peripheral vascular health; nutrition and hydration impairments). Affects choice of perioperative positioning and affects skin and tissue integrity during surgery.
+2. Evaluate and document client’s preoperative reports of neurological, sensory, or motor defi cits for comparative baseline of perioperative and postoperative sensations.
+3. Note anticipated length of procedure and customary position to increase awareness of potential postoperative complications (e.g., supine position may cause low back pain and skin pressure at heels, elbows, and sacrum; lateral chest position can cause shoulder and neck pain, or eye and ear injury on the client’s downside).
+4. Evaluate environmental conditions/safety issues surrounding the sedated client (e.g., client alone in holding area, side rails up on bed and cart, use of tourniquets and arm boards, need for local injections) that predispose client to potential tissue injury.
+5. Assess the individual’s responses to preoperative sedation/ medication, noting level of sedation and/or adverse effects (e.g., drop in blood pressure) and report to surgeon, as indicated. Hypotension is a common factor associated with nerve ischemia.
+
+[Nursing Priority No. 2]
+    -  To position client to provide protection for anatomical structures and to prevent client injury:
+1. Stabilize and lock transport cart or bed in place; support client’s body and limbs; use adequate number of personnel during transfer to prevent client fall or shear and friction injuries.
+2. Position client, using suffi cient staff, appropriate positioning equipment or devices, and padding to provide protection for anatomic structures and to prevent injury: 
+ - Keep head in neutral position (when client in supine position) and arm boards at less than a 90-degree angle and level with fl oor
+ - Maintain neck alignment and provide protection or padding for forehead, eyes, nose, chin, breasts, genitalia, knees, and feet when client is in prone position.
+ - Protect bony prominences and pressure points on dependent side (e.g., axillary roll for dependent axilla; lower leg fl exed at hip, upper leg straight; padding between knees, ankles, and feet) when client is in lateral position.
+ - Place legs in stirrups simultaneously, adjusting stirrup height to client’s legs, maintaining symmetrical position, and pad popliteal space as indicated when lithotomy position is used.
+3. Place safety straps strategically to secure client for specifi c procedure to prevent unintended movement.
+4. Apply and periodically reposition padding of pressure points and bony prominences (e.g., arms, elbows, sacrum, ankles, heels) and neurovascular pressure points (e.g., breasts, knees) to maintain position of safety, especially when repositioning client and/or table attachments.
+5. Position extremities to facilitate periodic evaluation of hands, fingers, and toes to reduce risk of neurovascular injuries from prolonged pressure due to static position, compression, or stretch.
+6. Protect body from contact with metal parts of the operating table, which could produce burns or electric shock injury.
+7. Prevent pooling of prep and irrigating solutions, and body fl uids. Pooling of liquids in areas of high pressure under client increases risk of pressure ulcer development and presents electrical hazard.
+8. Ascertain that eyelids are closed and secured to prevent corneal abrasions.
+9. Check peripheral pulses and skin color and temperature periodically to monitor circulation.
+10. Reposition slowly at transfer and in bed (especially halothane-anesthetized client) to prevent severe drop in blood pressure, dizziness, or unsafe transfer.
+11. Protect airway and facilitate respiratory effort following extubation.
+12. Determine specific position refl ecting procedure guidelines (e.g., head of bed elevated following spinal anesthesia, to prevent headache; turn to unoperated side following pneumonectomy) to facilitate maximal respiratory effort. 
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Maintain equipment in good working order to identify potential hazards in the surgical suite and implement corrections as appropriate.
+2. Provide perioperative teaching relative to client safety issues, including not crossing legs during procedures performed under local or light anesthesia, postoperative needs and limitations, and signs/symptoms requiring medical evaluation to reduce incidence of preventable complications.
+3. Inform client and postoperative caregivers of expected/transient reactions (e.g., low backache, localized numbness, and reddening or skin indentations, all of which should disappear in 24 hr).
+4. Assist with therapies and perform routine nursing actions, including skin care measures, application of elastic stockings, early mobilization to enhance circulation and promote skin and tissue integrity.
+5. Encourage and assist with frequent range-of-motion exercises, especially when joint stiffness occurs.
+6. Refer to appropriate resources, as needed. 
+
+=====

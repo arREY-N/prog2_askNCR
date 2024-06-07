@@ -1,0 +1,12 @@
+::Schizophrenia (Schizophrenic Disorders)::
+
+disturbed Sensory Perception>disturbedSensoryPerception.txt
+impaired Verbal Communication>impairedVerbalCommunication.txt
+social Isolation>socialIsolation.txt
+ineffective Health Maintenance_impaired Home Maintenance>ineffectiveHealthMaintenance_impairedHomeMaintenance.txt
+risk for Self-Directed Violence_risk for Other-Directed Violence>riskforSelf-DirectedViolence_riskforOther-DirectedViolence.txt
+ineffective Coping>ineffectiveCoping.txt
+interrupted Family Processes_disabled family Coping>interruptedFamilyProcesses_disabledfamilyCoping.txt
+self-Care Deficit>self-CareDeficit.txt
+
+=====

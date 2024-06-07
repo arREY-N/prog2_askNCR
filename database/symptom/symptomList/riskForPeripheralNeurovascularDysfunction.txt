@@ -1,0 +1,65 @@
+::Risk For Peripheral Neurovascular Dysfunction::
+ 
+::Definition::
+ Susceptible to disruption in the circulation, sensation, and motion of an extremity, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To determine signifi cance/degree of potential for compromise:
+1. Assess for individual risk factors: 
+(1) trauma to extremity(ies) that causes internal tissue damage (e.g., high-velocity and penetrating trauma); fractures (especially long-bone fractures) with hemorrhage, or external pressures from burn eschar; 
+(2) immobility (e.g., long-term bedrest, tight dressings, splints, or casting); 
+(3) presence of conditions affecting peripheral circulation, such as atherosclerosis, Raynaud’s disease, or diabetes; 
+(4) smoking, obesity, and sedentary lifestyle; and 
+(5) presence of conditions affecting peripheral circulation, such as atherosclerosis, cardiovascular or cerebrovascular disease; diabetes, sickle cell disease, deep vein thrombosis (DVT), coagulation disorders, or use of anticoagulants, which potentiate risk of circulatory disruption, insuffi ciency, and occlusion.
+2. Monitor for tissue bleeding and spread of hematoma formation, which can compress blood vessels and raise compartment pressures.
+3. Note position and location of casts, braces, and traction apparatus to ascertain potential for pressure on tissues.
+4. Review recent and current drug regimen, noting the use of anticoagulants and vasoactive agents.
+
+[Nursing Priority No. 2]
+    - To prevent deterioration/maximize circulation: 
+1. Conduct a comprehensive upper or lower extremity assessment in at-risk client, including color, sensation, and functional ability. Early detection of circulatory issues may prevent the onset or severity of functional impairments associated with arterial or venous disorders of the extremities.
+2. Perform neurovascular assessment in a person immobilized for any reason (e.g., surgery, diabetic neuropathy, or fractures) or individuals with suspected neurovascular problems. This provides a baseline for future comparisons.
+3. Evaluate for differences between affected extremity and unaffected extremity, noting pain, pulses, pallor, paresthesia, paralysis, and changes in motor and sensory function. 
+4. Ask the client to localize pain or discomfort and to report numbness and tingling or presence of pain with e xercise or rest (atherosclerotic changes). (Refer to ND ineffective peripheral Tissue Perfusion, as appropriate.)
+5. Monitor the presence and quality of peripheral pulse distal to injury or impairment via palpation or Doppler. An intact pulse usually indicates adequate circulation. Occasionally, a pulse may be palpated even though circulation is blocked by a soft clot through which pulsations may be felt; or perfusion through larger arteries may continue after increased compartment pressure has collapsed the arteriole/venule circulation in the muscle.
+6. Assess capillary return, skin color, and warmth in the limb(s) at risk and compare with unaffected extremities. Pallor with  cool, shiny, taut skin and slow venous refi ll is indicative of circulatory impairment. Cold, pale, bluish color with purpura indicates arterial insuffi ciency.
+7. Test sensation of peroneal nerve by pinch or pinprick in the dorsal web between fi rst and second toe, and assess the ability to dorsifl ex toes if indicated (e.g., presence of leg fracture). Changes in sensation cover a wide continuum and may include feeling of tingling, numbness, “pins and needles,” burning, or diminished or absent sensation. Changes that might not be apparent to the client could include loss of protective sensation in feet as determined by screening with tuning fork or percussion hammer.
+8. Evaluate extremity range of motion. Movement may be limited or absent because of tissue edema and nerve compression or because of nerve impingement such as would occur with spinal nerve compression.
+9. Monitor for tissue edema and/or tightness. Swelling or tightness may indicate obstruction, such as might occur with DVT or compartment syndrome. 
+10. Assist with diagnostic studies (e.g., blood studies, Doppler, ultrasound, angiography, segmental arterial pressures, intracompartmental pressures, ankle-brachial index [ABI], transcutaneous oximetry ) as indicated. Numerous diagnostic tests may be needed in view of the multitude of medical and surgical conditions associated with peripheral vascular dysfunction.
+11. Collaborate in interventions to minimize edema formation and elevated tissue pressure:
+ - Maintain elevation of injured extremity(ies).
+ - Apply cold packs around injury/fracture site as indicated.
+ - Remove jewelry from affected limb.
+ - Avoid or limit use of restraints. Pad limb and evaluate status frequently if restraints are required. 
+ - Observe position and location of supporting ring of orthopedic splints or sling. Readjust, as indicated. 
+12. Maximize circulation:
+ - Use protective techniques such as repositioning and padding to prevent or relieve pressure.
+ - Encourage client to routinely exercise digits or joints distal to injury.
+ - Encourage ambulation as soon as possible.
+ - Apply antiembolic hose or sequential pressure device, as indicated.
+ - Administer IV fl uids and blood products, as needed, to maintain circulating volume and tissue perfusion.
+ - Administer anticoagulants or antithrombic agents, as indicated, to prevent DVT or treat thrombotic vascular obstructions.
+ - Split or bivalve cast, or reposition traction or restraints, as appropriate, to quickly release pressure.
+ - Prepare for surgical intervention or other therapies (e.g., fi bulectomy or fasciotomy, revascularization surgery), as indicated, to relieve pressure and restore circulation.
+13. Monitor for development of complications:
+ - Inspect tissues around cast edges for rough places and pressure points. Investigate reports of “burning sensation” under cast.
+ - Evaluate for tenderness, swelling, and pain on dorsifl exion of foot (positive Homans’ sign).
+ - Monitor hemoglobin/hematocrit, coagulation studies (e.g., prothrombin time).
+ - Investigate sudden signs of limb ischemia (e.g., decreased skin temperature, pallor, or increased pain), reports of pain that are extreme for type of injury, increased pain on passive movement of extremity, development of paresthesia, muscle tension or tenderness with erythema, or change in pulse quality distal to injury. Place the limb in a neutral position, avoiding elevation. Report symptoms to physician at once to provide for timely intervention/limit severity of problem.
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Review proper body alignment and elevation of limbs, as appropriate. 
+2. Keep linens off affected extremity with bed cradle or cut-out box, as indicated. 
+3. Discuss necessity of avoiding constrictive clothing, sharp angulation of legs, and crossing legs.  
+4. Demonstrate proper application of antiembolic hose. 
+5. Review safe use of heat or cold therapy, as indicated. 
+6. Instruct client/significant other(s) (SO[s]) to check shoes and socks for proper fi t and/or wrinkles.
+7. Discuss need for/promote benefi ts of smoking cessation and regular exercise to maintain function and improve circulation of limbs.
+8. Review proper use and monitoring of drug regimen and safety concerns associated with anticoagulant use to ensure maximum benefi t and avoid complications and bleeding problems.
+9. Recommend regular follow-up with healthcare provider to monitor status of condition, to monitor treatment effi cacy, and to provide for timely intervention when needed. 
+
+=====

@@ -1,0 +1,74 @@
+::Imbalanced NUTRITION : Less Than Body Requirements::
+
+::Definition::
+ Intake of nutrients insufficient to meet metabolic needs. 
+ 
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors:
+1. Identify client at risk for malnutrition (e.g., institutionalized elderly; client with chronic illness; child or adult living in poverty/low-income area; client with jaw or facial injuries; intestinal surgery, postmalabsorptive or restrictive surgical interventions for weight loss; hypermetabolic states [e.g., burns, hyperthyroidism]; malabsorption syndromes, lactose intolerance; cystic fi brosis; pancreatic disease; prolonged time of restricted intake; prior nutritional defi ciencies).
+2. Obtain dietary history noting:
+ - Current diagnosis/condition with increased caloric requirements and with diffi culty ingesting suffi cient calories (e.g., cancer, burns).
+ - Maturational or developmental issues (e.g., premature baby with sucking diffi culties, child with lack of emotional stimulation, frail elderly living alone, hospitalized, or in nursing home).
+ - Swallowing diffi culties (e.g., stroke, Parkinson disease, cerebral palsy, dementia [especially Alzheimer disease]; other neuromuscular disorders).
+ - Poor dentition (damaged or missing teeth, ill-fi tting dentures, gum disease).
+ - Decreased absorption (e.g., lactose intolerance, Crohn disease).
+ - Diminished desire or refusal to eat (e.g., anorexia nervosa, cirrhosis, pancreatitis, alcoholism, bipolar disorder, depression, chronic fatigue).
+ - Treatment-related issues (e.g., chemotherapy, radiation, stomatitis, facial surgery, wired jaw).
+ - Personal or situational factors (e.g., inability to procure or prepare food, social isolation, grief, loss).
+3. Perform Assessments:
+4. Assess nutritional needs related to age and growth phase, presence of congenital anomalies (e.g., tracheoesophageal fistula, cleft lip/palate), or metabolic or malabsorption problems (e.g., diabetes, phenylketonuria, cerebral palsy; chronic infections). 
+5. Evaluate client’s ability to feed self and document presence of interfering factors. Difficulties such as paralysis, tremor, or injury to hands or arms with inability to grasp or lift utensils to mouth; cognitive impairments affecting coordination or remembering to eat; age; and/or developmental issues may require input of multiple providers and therapists to develop individualized plan of care.
+6. Determine older or impaired client’s ability to chew, swallow, and taste food. Evaluate teeth and gums for poor oral health, and note denture fi t, as indicated. All factors that affect ingestion and/or digestion of nutrients.
+7. Ascertain client’s understanding of individual nutritional needs and ways client is meeting those needs to determine informational needs of client/signifi cant other (SO).
+8. Note availability and use of fi nancial resources and support systems. These factors affect or determine ability to acquire, prepare, and store food. Lack of support or socialization may impact client’s desire to eat.
+9. Determine lifestyle factors that may affect weight. Socioeconomic resources, amount of money available for purchasing food, proximity of grocery store, and available storage space for food are all factors that may impact food choices and intake.
+10. Explore lifestyle factors such as specifi c eating habits, the meaning of food to client (e.g., never eats breakfast, snacks throughout entire day, fasts for weight control, no time to eat properly), and individual food preferences and intolerances/ aversions. Identifi es eating practices that may need to be corrected and provides insight into dietary interventions that may appeal to client.
+11. Assess drug interactions, disease effects, allergies, and use of laxatives or diuretics that may be affecting appetite, food intake, or absorption.
+12. Evaluate impact of cultural, ethnic, or religious desires and infl uences that may affect food choices or identify factors (e.g., dementia, severe depression) that may be interfering with client’s appetite and food intake.
+13. Determine psychological factors, perform psychological assessment, as indicated, to assess body image and congruency with reality.
+14. Assess for occurrence of amenorrhea, tooth decay, swollen salivary glands, and report of constant sore throat, suggesting eating disorders (e.g., bulimia) and affecting ability to eat.
+15. Review usual activities and exercise program, noting repetitive activities (e.g., constant pacing) or inappropriate exercise (e.g., prolonged jogging). May reveal obsessive nature of weight-control measures.
+
+[Nursing Priority No. 2]
+    - To evaluate degree of defi cit:
+1. Assess current weight compared to usual weight and norms for age, gender, and body size. Measure muscle mass or calculate body fat by means of anthropometric measurements and growth scales to identify deviations from the norm and to establish baseline parameters.
+2. Observe for absence of subcutaneous fat and muscle wasting, loss of hair, fi ssuring of nails, delayed healing, gum bleeding, swollen abdomen, and so on, which indicate protein-energy malnutrition.
+3. Auscultate presence and character of bowel sounds to determine ability and readiness of intestinal tract to handle digestive processes (e.g., hypermotility accompanies vomiting or diarrhea, while absence of bowel sounds may indicate bowel obstruction).
+4. Assist in nutritional status assessment, using screening tools (e.g., Mini Nutritional Assessment [MNA], the Malnutrition Universal Screening Tool [MUST], or similar tool). 
+5. Review indicated laboratory data (e.g., serum albumin/prealbumin, transferrin, amino acid profi le, iron, BUN, nitrogen balance studies, glucose, liver function, electrolytes, total lymphocyte count, indirect calorimetry).
+
+[Nursing Priority No.3]
+    - To establish a nutritional plan that meets individual needs:
+1. Collaborate with interdisciplinary team to set nutritional goals when client has specifi c dietary needs, malnutrition is profound, or long-term feeding problems exist.
+2. Calculate client’s energy and protein requirements using basal energy expenditure and the Harris-Benedict (or similar) formula. Various factors may be considered in choosing a useful formula, including age, sex, disease state, stress associated with current illness, body size (e.g., obesity), and activity (e.g., bedbound versus out of bed).
+3. Provide dietary, environmental, and behavioral modifi cations, as indicated:
+ - Optimization of client’s intake of protein, carbohydrates, fats, calories within eating style and needs
+ - Several small meals and snacks daily
+ - Mechanical soft or blenderized tube feedings
+ - Appetite stimulants (e.g., wine), if indicated 
+ - High-calorie, nutrient-rich dietary supplements, such as meal-replacement shake
+ - Formula tube feedings; parenteral nutrition infusion
+ - Determine whether client prefers or tolerates more calories in a particular meal.
+ - Use fl avoring agents (e.g., lemon and herbs) if salt is restricted to enhance food satisfaction and stimulate appetite.
+ - Encourage use of sugar or honey in beverages if carbohydrates are tolerated well.
+ - Encourage client to choose foods or have family member bring foods that seem appealing to stimulate appetite.
+ - Avoid foods that cause intolerances or increase gastric motility (e.g., foods that are gas forming, hot/cold, or spicy; caffeinated beverages; milk products), according to individual needs.
+ - Limit fi ber or bulk, if indicated, because it may lead to early satiety.
+ - Promote pleasant, relaxing environment, including socialization when possible to enhance intake.
+ - Prevent or minimize unpleasant odors or sights. May have a negative effect on appetite and eating.
+ - Assist with or provide oral care before and after meals and at bedtime.
+ - Encourage use of lozenges and so forth to stimulate salivation when dryness is a factor.
+ - Promote adequate and timely fl uid intake. Limit fl uids 1 hr prior to meal to reduce possibility of early satiety.
+ - Weigh regularly and graph results to monitor effectiveness of efforts.
+4. Administer pharmaceutical agents, as indicated:
+ - Digestive drugs or enzymes
+ - Vitamin and mineral (iron) supplements, including chewable multivitamin
+ - Medications (e.g., antacids, anticholinergics, antiemetics, antidiarrheals) 
+5. Develop individual strategies when problem is mechanical (e.g., wired jaws or paralysis following stroke). Consult occupational therapist to identify appropriate assistive devices or speech therapist to enhance swallowing ability. (Refer to ND impaired Swallowing.)
+6. Refer to structured (behavioral) program of nutrition therapy (e.g., documented time and length of eating period, blenderized food or tube feeding, administered parenteral nutritional therapy) per protocol, particularly when problem is anorexia nervosa or bulimia. 
+7. Recommend and support hospitalization for controlled environment in severe malnutrition or life-threatening situations.
+8. Refer to social services or other community resources for possible assistance with client’s limitations in buying and preparing foods.
+
+=====

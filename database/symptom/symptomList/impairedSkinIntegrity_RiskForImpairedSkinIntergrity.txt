@@ -1,0 +1,100 @@
+::Impaired Skin Intergrity And Risk For Impaired Skin Intergrity::
+
+::Definition::
+ - Impaired Skin Integrity: Altered epidermis and/ or dermis. 
+ - Risk For Impaired Skin Integrity: Susceptible to alteration in epidermis and/or dermis, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing or risk factors:
+1. Identify underlying condition or pathology involved. Skin integrity problems can be the result of (1) disease processes that affect circulation and perfusion of tissues (e.g., arteriosclerosis, venous insuffi ciency, hypertension, obesity, diabetes, malignant neoplasms); (2) medications (e.g., anticoagulants, corticosteroids, immunosuppressives, antineoplastics) that adversely affect or impair healing; (3) burns or radiation (can break down internal tissues as well as skin); and (4) nutrition and hydration (e.g., malnutrition deprives the body of protein and calories required for cell growth and repair, dehydration impairs transport of oxygen and nutrients).
+2. Assess skin, noting type(s) of disruption and general health of  skin to provide comparative baseline and opportunity fortimely intervention when problems are noted. Note: Disruption in skin integrity can be (1) intentional (e.g., surgical incision) or (2) unintentional (e.g., accidental trauma, drug effect, allergic reaction), (3) open (e.g., lacerations, skin teats, penetrating wounds, ulcerations); or (4) closed (e.g., contusion, abrasion, rash). 
+3. Determine client’s age and developmental factors or ability to care for self. Newborn/infant’s skin is thin and provides ineffective thermal regulation, and nails are thin. Babies and children are prone to skin rashes associated with viral, bacterial, and fungal infections and allergic reactions. In adolescence, hormones stimulate hair growth and sebaceous gland activity. In adults, it takes longer to replenish epidermis cells, resulting in increased risk of skin cancers and infection. In older adults, there is decreased epidermal regeneration, fewer sweat glands, and less subcutaneous fat, elastin, and collagen, causing skin to become thinner, drier, and less responsive to pain sensations.
+4. Review with client/signifi cant other (SO) history of past skin problems (e.g., allergic reactions, rashes, easy bruising or skin tears) that may indicate particular vulnerability.
+5. Evaluate client’s skin care practices and hygiene issues. Individual’s skin may be oily, dry and scaly, or sensitive and is affected by bathing frequency (or lack of bathing), temperature of water, types of soap, and other cleansing agents. Incontinence (urinary or bowel) and ineffective hygiene can result in serious skin impairment and discomfort.
+6. Determine nutritional status and potential for delayed healing or tissue injury exacerbated by malnutrition (e.g., pressure points on emaciated and/or elderly client). 
+7. Review medication and therapy regimen (e.g., steroid use, chemotherapy, radiation).
+8. Evaluate client with impaired cognition, developmental delay, need for or use of restraints, long-term immobility to identify risk for injury and safety requirements.
+9. Note presence of compromised mobility, sensation, vision, hearing, or speech that may impact client’s self-care as relates to skin care (e.g., diabetic with impaired vision probably cannot satisfactorily examine own feet).
+10. Assess blood supply (e.g., capillary return time, color, and warmth) and sensation of skin surfaces and affected area on a regular basis to provide comparative baseline and opportunity for timely intervention when problems are noted.
+11. Calculate ankle-brachial index (ABI) to evaluate actual/ potential for impairment of circulation to lower extremities. Note: Result less than 0.9 indicates need for close monitoring or more aggressive intervention (e.g., tighter blood glucose and weight control in diabetic client).
+12. Review laboratory results pertinent to causative factors (e.g., studies such as hemoglobin/hematocrit, blood glucose, infectious agents [viral, bacterial, fungal], albumin, and protein). ( Note: Albumin less than 3.5 correlates to decreased wound healing and increased frequency of pressure ulcers. ) 
+13. Obtain specimen from draining wounds when appropriate for culture and sensitivities or Gram stain to determine appropriate therapy.
+
+[Nursing Priority No. 2]
+    - To assess extent of involvement/injury (impaired Skin Integrity):
+1. Obtain a complete history of current skin condition(s) (especially in children where recurrent rash or lesions are common), including age at onset, date of first episode, duration, original site, characteristics of lesions, and any changes that have occurred. Common skin manifestations of sensitivity or allergies are hives, eczema, and contact dermatitis. Contagious rashes include measles, rubella, roseola, chicken pox, and scarlet fever. Bacterial, viral, and fungal infections can also cause skin problems (e.g., impetigo, cellulitis, cold sores, shingles, athlete’s foot, candidiasis, diaper rashes).
+2. Perform routine skin inspections, describing observed changes. Note skin color, texture, and turgor. Assess areas of least pigmentation for color changes (e.g., sclera, conjunctiva, nailbeds, buccal mucosa, tongue, palms, and soles of feet). Systematic inspection can identify improvement or changes for timely intervention.
+
+::General Wounds/Lesions::
+1. Describe rash or lesion, noting color, location, and signifi cant characteristics (e.g., fl at or raised rash, weeping or painful blisters, itching wheal) and surrounding information (e.g., exposure to contagious disease, reaction to medication, recent insect bite, ingrown toenail, sexually transmitted infection). 
+2. Determine anatomic location and depth of skin or tissue injury or damage (e.g., epidermis, dermis, underlying issues) and describe (e.g., skin tear, partial or full-thickness burn).
+3. Use a skin integrity risk assessment tool (e.g., White et al., Skin Tear Risk Assessment Pathway, or Payne-Martin) if available to classify skin tears.
+4. Photograph lesion(s) as appropriate to document status and provide visual baseline for future comparisons.
+5. Note character and color of drainage, when present (e.g., blood, bile, pus, stoma effl uent), which can cause or exacerbate skin irritation or excoriation. 
+
+::Pressure Ulcers/Decubitus::
+1. Determine, document, and reassess periodically 
+(1) dimensions and depth in centimeters; 
+(2) exudates—color, odor, and amount; 
+(3) margins—fi xed or unfi xed; 
+(4) tunneling or tracts; and 
+(5) evidence of necrosis (e.g., color gray to black) or healing (e.g., pink or red granulation tissue) to establish comparative baseline and evaluate effectiveness of interventions. Refer to ND risk for Pressure Ulcer for assessments and preventive interventions.
+
+[Nursing Priority No.3]
+    - To determine impact of condition (impaired Skin Integrity):
+1. Determine if wound is acute (e.g., injury from surgery or trauma) or chronic (e.g., venous or arterial insuffi ciency), which affects healing time and the client’s emotional and physical responses.
+2. Determine client’s level of discomfort (e.g., can vary widely from minor itching or aching, to deep pain with burns, or excoriation associated with drainage) to clarify intervention needs and priorities.
+3. Ascertain attitudes of individual/SO(s) about condition (e.g.,cultural values, stigma). Note misconceptions. Identifi es areas to be addressed in teaching plan and potential referral needs.
+4. Determine impact on life (e.g., work, leisure, increased caregiver requirements). 
+5. Obtain psychological assessment of client’s emotional status, as indicated, noting potential for sexual problems arising from presence of condition. 
+6. Note presence of compromised vision, hearing, or speech.Touch is a particularly important avenue of communication for this population, and when skin is compromised, communication may be affected.
+
+[Nursing Priority No.4]
+    - To assist client with correcting/minimizing condition, and promote healing or to maintain skin integrity at optimal level :
+1. Handle client gently (particularly infant, young child, elderly). Epidermis of infants and very young children is thin and lacks subcutaneous depth that will develop with age. Skin of the older client is also thin, less elastic, and prone to injury, such as bruising and skin tears. 
+2. Maintain and instruct in good skin hygiene (e.g., shower instead of bath, washing thoroughly, using mild nondetergent soap, drying gently and lubricating with lotion or emollient, as indicated) to reduce risk of dermal trauma, improve circulation, and promote comfort.
+3. Develop regularly timed repositioning schedule for client with mobility and sensation impairments, using turn sheet, as needed; encourage or assist with periodic weight shifts for client in chair to reduce stress on pressure points and to promote circulation to tissues.
+4. Provide adequate clothing or covers; protect from drafts to prevent vasoconstriction.
+5. Keep bedclothes dry and wrinkle free; use nonirritating linens. 
+6. Use appropriate padding or pressure-reducing devices (e.g., egg crate, gel pads, heel rolls or foam boots) or pressurerelieving devices (e.g., air or water mattress), when indicated, to reduce pressure on sensitive areas and enhance circulation to compromised tissues.
+7. Use paper tape or a nonadherent dressing on frail skin and remove it gently or use stockinette, gauze wrap, or any other similar type of wrap instead of tape to secure dressings and drains. 
+8. Avoid use of latex products when client has known or suspected sensitivity. (Refer to ND Latex Allergy Reaction.)
+9. Apply hot and cold applications judiciously to reduce risk of dermal injury in persons with circulatory and neurosensory impairments.
+10. Encourage early ambulation or mobilization. Promotes circulation and reduces risks associated with immobility.
+11. Provide for safety measures during ambulation and other therapies that might cause dermal injury (e.g., use of properly fitting hose and footwear, safe use of heating pads or lamps, restraints). 
+12. Provide preventive skin care to incontinent client. Change continence pads/briefs or diapers frequently; cleanse perineal skin daily; and after each incontinence episode, apply skin protectant ointment to minimize contact with irritants (urine, stool, excessive moisture).
+13. Avoid or limit use of plastic material (e.g., plastic-backed linen savers). Remove wet and wrinkled linens promptly. Moisture potentiates skin breakdown.
+14. Provide optimum nutrition, including vitamins (e.g., A, C, D, E) and protein, to provide a positive nitrogen balance to aid in skin and tissue healing and to maintain general good health.
+15. Keep surgical area clean and dry, carefully dress wounds, support incision (e.g., use of Steri-Strips, splinting when coughing), prevent infection, manage incontinence, and stimulate circulation to surrounding areas to assist body’s natural process of repair
+16. Assist with débridement or enzymatic therapy, as indicated (e.g., burns, severe pressure sores), to remove nonviable, contaminated, or infected tissue.
+17. Use appropriate barrier dressings, wound coverings, drainage appliances, vacuum-assisted closure device (wound vac), and skin-protective agents for open, draining wounds and stomas to protect the wound and/or surrounding tissues.
+18. Apply appropriate dressing (e.g., adhesive or nonadhesive film, hydrofiber or gel, acrylics, hydropolymers) for wound healing and to best meet needs of client and caregiver or care setting. 
+19. Maintain appropriate moisture environment for particular wound (e.g., expose lesion or ulcer to air and light if excess moisture is impeding healing or use occlusive dressings to maintain a moist environment for autolytic débridement of wound ), as indicated.
+20. Periodically remeasure and photograph wound and observe for complications (e.g., infection, dehiscence) to monitor progress of wound healing.
+21. Monitor periodic laboratory studies relative to general wellbeing and status of specifi c problem.
+22. Consult with wound or stoma specialist, as indicated, to assist with developing plan of care for problematic or potentially serious wounds.
+
+[Nursing Priority No. 5]
+ - To promote wellness (Teaching/Discharge Considerations): 
+1. Review importance of health, intact skin, as well as measures to maintain proper skin functioning.
+2. Assist the client/SO(s) in understanding and following medical regimen and developing a program of preventive care and daily maintenance. Enhances commitment to plan, optimizing outcomes.
+3. Encourage continuation of regular exercise program (active or assistive) to enhance circulation.
+4. Encourage abstinence from smoking, which causes vasoconstriction.
+5. Suggest use of ice, colloidal bath, lotions to decrease irritable itching.
+6. Recommend keeping nails short or wearing gloves to reduce risk of dermal injury when severe itching is present.
+7. Discuss importance of avoiding exposure to sunlight in specific conditions (e.g., systemic lupus, tetracycline or psychotropic drug use, radiation therapy) as well as potential for development of skin cancer. 
+8. Review measures to avoid spread of communicable disease or reinfection.
+9. Emphasize importance of proper fi t of clothing and shoes, use of specially lined shock-absorbing socks or pressurereducing insoles for shoes in presence of reduced sensation/ circulation.
+10. Identify safety factors for use of equipment or appliances (e.g., heating pad, ostomy appliances, padding straps of braces).
+11. Encourage client to verbalize feelings and discuss how or if condition affects self-concept or self-esteem. (Refer to NDs disturbed Body Image; situational low Self-Esteem.)
+12. Assist client to work through stages of grief and feelings associated with individual condition. 
+13. Lend psychological support and acceptance of client, using touch, facial expressions, and tone of voice. 
+14. Assist client to learn stress-reduction and engage in alternate therapy techniques to control feelings of helplessness and deal with situation.
+15. Refer to dietitian or certifi ed diabetes educator, as appropriate, to enhance healing, reduce risk of recurrence of diabetic ulcers.
+
+
+
+
+=====

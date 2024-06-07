@@ -1,0 +1,49 @@
+::Dysfunctional Ventilatory Weaning Response::
+
+::Definition::
+ Inability to adjust to lowered levels of mechanical ventilator support that interrupts and prolongs the weaning process. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify contributing factors/degree of dysfunction:
+1. Determine extent and nature of underlying disorders or factors (e.g., respiratory pump insufficiency [control of breathing, respiratory muscles, lung/chest wall mechanics, or rarely, gas exchange], cardiovascular dysfunction, neuromuscular disorders, psychological factors [such as depressive disorders or delirium] well as metabolic/endocrine diseases, alone or combined) that contribute to client’s reliance on mechanical support and can affect future weaning efforts.
+2. Note length of time client has been receiving ventilator support. Review previous episodes of extubation and reintubation. Previous unsuccessful weaning attempts (e.g., due to inability to protect airway or clear secretions; oxygen saturation less than 50% on room air) are factors that can influence future weaning interventions.
+3. Assess systemic parameters that may affect readiness for weaning using Burns Weaning Assessment Program (BWAP) or similar checklist (e.g., stability of vital signs, factors that increase metabolic rate [e.g., sepsis, fever]; hydration status; need for/recent use of analgesia or sedation; nutritional state; muscle strength; activity level) to assess systemic parameters that may affect readiness for weaning. Note: A recent study of the use of BWAP score in fi ve adult critical care units found that a score of 50 or higher was linked to successful weaning outcomes.
+4. Ascertain client’s awareness and understanding of weaning process, expectations, and concerns. Client/significant other (SO) may need specifi c and repeated instructions during process.
+5. Determine psychological readiness, presence and degree of anxiety. Weaning provokes anxiety regarding ability to breathe on own and likelihood of ventilator dependence. The client must be highly motivated, be able to actively participate in the weaning process, and be physically comfortable enough to work at weaning.
+6. Review laboratory studies (e.g., complete blood count refl ecting number and integrity of red blood cells [affects oxygen transport], serum albumin, and electrolyte levels indicating nutritional status [to confi rm suffi cient energy to meet demands of spontaneous breathing and weaning]).
+7. Review chest x-ray, pulse oximetry or capnography, and/or ABGs. Before weaning attempts, chest radiograph should show clear lungs or marked improvement in pulmonary congestion. ABGs should document satisfactory oxygenation on an F io 2 of 40% or less. Capnometry measures end-tidal carbon dioxide values and can be used to con- fi rm correct placement of endotracheal tube and monitor integrity of ventilation equipment.
+
+[Nursing Priority No. 2]
+    - To support weaning process: 
+1. Discuss with client/SO(s) individual plan and expectations. Assure client of nurse’s presence and assistance during weaning attempts. May reduce client’s anxiety about process and ultimate outcome and enhance willingness to work at spontaneous breathing.
+2. Consult with dietitian, nutritional support team for adjustments in composition of diet to support respiratory muscle strength and work of breathing and to prevent excessive production of CO 2 , which could alter respiratory drive. Individuals on long-term ventilation may require enteral feedings with high intake of carbohydrates, protein, and calories to improve respiratory muscle function.
+3. Implement weaning protocols and mode (e.g., spontaneous breathing trials, automatic tube compensation [ATC], partial client support [SIMV], or pressure support [PSV] during client’s spontaneous breathing) to optimize the work of breathing and to provide support for spontaneous ventilation.
+4. Note response to activity/client care during weaning and limit, as indicated. Provide undisturbed rest or sleep periods. Avoid stressful procedures or situations and nonessential activities. Prevents excessive oxygen consumption or demand with increased possibility of weaning failure.
+5. Time medications during weaning efforts to minimize sedative effects.
+6. Provide quiet room, calm approach, undivided attention of nurse. Enhances relaxation, conserving energy.
+7. Involve SO(s)/family, as appropriate (e.g., sitting at bedside, providing encouragement, and helping monitor client status).
+8. Provide diversional activity (e.g., watching TV, listening to audiobooks, music) to focus attention away from breathing when not actively working at breathing exercises.
+9. Auscultate breath sounds periodically; suction airway, as indicated.
+10. Acknowledge and provide ongoing encouragement for client’s efforts. 
+11. Minimize setbacks, focus client attention on gains and progress to date to reduce frustration that may further impair progress.
+
+[Nursing Priority No.3]
+    -  To prepare for discharge on ventilator when indicated:
+1. Prepare client/SO for alternative actions when client is unable to resume spontaneous ventilation (e.g., tracheostomy with long-term ventilation support in alternate care setting or home, palliative care, or end-of-life procedures). Client discharged from intensive care unit may sent to specialized units (so-called long-term acute care), extended-care facilities or home. Customized discharge planning for people new to home ventilation is essential. This must include assessment of the environment, assessment of resources, assessment of caregivers, education and training, and a plan of care.
+2. Ascertain that all needed equipment is in place, caregivers are trained, and safety concerns have been addressed (e.g., alternative power source, backup equipment, client call or alarm system, established means of client/caregiver communication) to ease the transfer when client is going home on ventilator
+3. Evaluate caregiver capabilities and burden when client requires long-term ventilator in the home to determine potential or presence of skill-related problems or emotional issues (e.g., caregiver overload, burnout, or depression). Note: All home caregivers (professionals, family, friends) should receive a comprehensive orientation before caring for someone using a home ventilator. This includes familiarization with the ventilator; alarms and the subsequent actions that must be taken; tracheostomy care; safe transfer of the ventilator user; suctioning techniques; and bag-valve-mask ventilation (use of an Ambu bag) in the case of an emergency, such as accidental disconnection of the ventilator circuit.
+4. Refer to ND impaired spontaneous Ventilation for additional interventions.
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Encourage client/SO(s) to evaluate impact of ventilatory dependence on their lifestyle and what changes they are willing or unwilling to make when client is discharged on ventilator. Quality-of-life issues must be examined, including issues of privacy and intimacy, and resolved by the ventilator-dependent client and SO(s). All parties need to understand that ventilatory support is a 24-hr job that ultimately affects everyone.
+2. Discuss importance of time for self and identify appropriate sources for respite care. (Refer to ND risk for caregiver Role Strain.)
+3. Emphasize to client/SO(s) importance of monitoring health of visitors and persons involved in care, avoiding crowds during fl u season, obtaining immunizations, and so forth, to protect client from sources of infection.
+4. Engage in rehabilitation program to enhance respiratory muscle strength and general endurance or to compensate for defi cits.
+5. Encourage client/SO(s) to discuss advance directives and ascertain that all care providers are aware of the plan of care. Clarifi es parameters for emergency situations, termination of therapy, or other end-of-life decisions, as desired.
+6. Recommend involvement in support group (may be online); introduce to other ventilator-dependent individuals who are successfully managing home ventilation, if desired, to answer questions, provide role model, assist with problem-solving, and offer encouragement and hope for the future.
+7. Identify conditions requiring immediate medical intervention to treat developing complications and potentially prevent respiratory failure.
+
+=====

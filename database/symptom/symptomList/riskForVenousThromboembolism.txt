@@ -1,0 +1,33 @@
+::Risk For Venous Thromboembolism::
+
+::Definition::
+ Susceptible to the development of a blood clot in a deep vein, commonly in the thigh, calf, or other extremity, which can break off and lodge in another vessel, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify causative/risk factors. 
+1. Identify client at risk. Conditions may include: (1) past history of venous thromboembolism (VTE) or cessation of recent anticoagulant therapy; or (2) predisposing factors (e.g., major surgery [especially orthopedic], trauma, extended travel; prolonged immobilization for any cause; spinal cord injury; pregnancy (especially when pregnant client has gestational hypertension, preeclampsia or eclampsia, amniotic fl uid embolism); use of oral contraceptives; valvular heart disease, heart failure, stroke; certain cancers or ongoing cancer treatments).
+2. Evaluate client reports of calf pain or chest pain or shortness of breath. Symptoms that can be associated with VTE event.
+3. Examine extremities in at-risk client for signs potentially associated with development of deep vein thrombosis (DVT), such as asymmetry of calfs, edema, changes in skin color, obvious tissue injury, prominent veins.
+4. Review results of laboratory studies (such as hematocrit, coagulation profi le, D-dimer assay). Abnormalities in these tests (and others) point toward conditions associated with VTE, such as dehydration or clotting defects or other thrombotic processes.
+
+[Nursing Priority No. 2]
+    -  To reduce risk/prevent VTE 
+1. Initiate active or passive exercises while in bed or chair; for example, flex, extend, and rotate ankles periodically. 
+2. Promote early ambulation after any acute illness, surgery, or trauma.
+3. Elevate legs when in bed or chair as indicated. 
+4. Caution client to avoid crossing legs or hyperfl exing knee, such as when in seated position with legs dangling or lying in jackknife position. 
+5. Increase fluid intake to at least 1500 to 2000 mL/day, within cardiac tolerance.
+6. Apply elastic support hose, compression stockings, or sequential compression devices, if indicated. 
+7. Collaborate in treatment of underlying conditions to manage/treat conditions that can cause or exacerbate risk of thromboembolism.
+8. Provide DVT prophylaxis protocol, if indicated, and progressive mobility protocol where available. 
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Instruct client/SO about client’s particular condition and risk factors. 
+2. Recommend continuation of prescribed treatments, exercises, and other measures to prevent immobility and stasis of body fluids. 
+3. Review position recommendations, such as sitting with feet touching the floor, avoiding crossing of legs. Prevents excess pressure on the popliteal space and enhances venous return.
+4. Problem-solve solutions to predisposing factors that may be present, such as employment that requires prolonged standing or sitting, wearing restrictive clothing, use of oral contraceptives, obesity, prolonged immobility, smoking, and dehydration. 
+
+=====

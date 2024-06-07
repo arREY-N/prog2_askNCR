@@ -1,0 +1,58 @@
+::Impaired Gas Exchange::
+
+::Definition::
+Excess or deficit in oxygenation and/or carbon 
+dioxide elimination at the alveolar-capillary membrane. 
+
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing factors: 
+• Note the presence of conditions that can cause or be associated in some way with gas exchange problems. Can be related to multiple factors, including anemias, anesthesia, surgical procedures, high altitude, allergic reactions, altered level of consciousness, aspiration, decreased lung compliance, excessive or thick secretions, immobility, infection, medication and drug toxicity or overdose, neuromuscular impairment of breathing pattern, pain, and smoking. Refer to NDs ineffective Airway Clearance and ineffective Breathing Pattern for additional assessment interventions as appropriate
+
+[Nursing Priority No. 2]
+    - To evaluate degree of compromise: 
+• Note respiratory rate, depth, use of accessory muscles, pursed-lip breathing, and areas of pallor/cyanosis, such as peripheral (nailbeds) versus central (circumoral) or general duskiness. This provides insight into the work of breathing and adequacy of alveolar ventilation.
+• Note client’s reports/perceptions of breathing ease. Client may report a range of symptoms (e.g., air hunger; shortness of breath with speaking, activity, or at rest).
+• Observe for dyspnea on exertion or gasping, changing positions frequently to ease breathing, and tendency to assume three-point position (bending forward while supporting self by placing one hand on each knee) to maximize respiratory effort.
+• Auscultate breath sounds, note areas of decreased/adventitious breath sounds as well as fremitus. In this nursing diagnosis, ventilatory effort is insuffi cient to deliver enough oxygen or to get rid of suffi cient amounts of carbon dioxide. Abnormal breath sounds are indicative of numerous problems (e.g., hypoventilation such as might occur with atelectasis or presence of secretions, improper endotracheal [ET] tube placement, or collapsed lung) and must be evaluated for further intervention.
+• Note the character and effectiveness of the cough mechanism. This affects the ability to clear airways of secretions.
+• Assess level of consciousness and mentation changes. A  decreased level of consciousness can be an indirect measurement of impaired oxygenation, but it also impairs one’s ability to protect the airway, potentially further adversely affecting oxygenation.
+• Note client reports of somnolence, restlessness, and headache on arising. Assess energy level and activity tolerance, noting reports or evidence of fatigue, weakness, and problems with sleep that are associated with diminished oxygenation. 
+• Monitor vital signs and cardiac rhythm. All vital signs are impacted by changes in oxygenation.
+• Evaluate pulse oximetry and capnography to determine oxygenation and levels of carbon dioxide retention; evaluate lung volumes and forced vital capacity to assess lung mechanics, capacities, and function.
+• Review other pertinent laboratory data (e.g., ABGs, complete blood count [CBC]); chest x-rays. 
+
+[Nursing Priority No. 3]
+    -  To correct/improve existing defi ciencies: 
+• Elevate the head of the bed and position the client appropriately. Elevation or upright position facilitates respiratory function by gravity; however, a client in severe distress will seek a position of comfort. 
+• Provide airway adjuncts and suction, as indicated, to clear or maintain open airway, when client is unable to clear secretions, or to improve gas diffusion when client is showing desaturation of oxygen by oximetry or ABGs.
+• Encourage frequent position changes and deep-breathing and coughing exercises. Use incentive spirometer, chest physiotherapy, and intermittent positive-pressure breathing, as indicated. This promotes optimal chest expansion, mobilization of secretions, and oxygen diffusion.
+• Provide supplemental oxygen at lowest concentration indicated by laboratory results and client symptoms or situation. 
+• Monitor and adjust ventilator settings (e.g., FIO 2 , tidal volume, inspiratory and expiratory ratio, sigh, positive end–expiratory pressure) as indicated when mechanical support is being used. The mode of ventilation (volume or pressure) and ventilator settings are determined by the specifi c needs of the client, which are determined by clinical evaluation and blood gas parameters.
+• Maintain adequate fluid intake for mobilization of secretions, but avoid fl uid overload that may increase pulmonary congestion
+• Use sedation judiciously to avoid depressant effects on respiratory functioning.
+• Ensure the availability of proper emergency equipment, including ET/tracheostomy set and suction catheters appropriate for age and size of infant, child, or adult. 
+• Avoid the use of a face mask in an elderly emaciated client, where possible, as oxygen can leak out around the mask because of poor fi t, and mask can increase client’s agitation.
+• Encourage adequate rest and limit activities to within client tolerance. Promote a calm, restful environment. This helps limit oxygen needs and consumption.
+• Provide psychological support and active-listen questions/concerns to reduce anxiety.
+• Administer medications as indicated (e.g., inhaled and systemic glucocorticosteroids, antibiotics, bronchodilators, methylxanthines, antitussives/mucolytics, and vasodilators). Pharmacological agents are varied, specifi c to the client, but generally used to prevent and control symptoms, reduce frequency and severity of exacerbations, and improve exercise tolerance.
+• Monitor and instruct client in therapeutic and adverse effects as well as interactions of drug therapy. 
+• Minimize blood loss from procedures (e.g., tests or hemodialysis) to limit adverse affects of anemia.
+• Assist with procedures as individually indicated (e.g., transfusion, phlebotomy, or bronchoscopy) to improve respiratory function/oxygen-carrying capacity.
+• Keep environment allergen and pollutant free to reduce irritant effect of dust and chemicals on airways
+
+[Nursing Priority No.4]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+• Review risk factors, particularly environmental/employment related, to promote prevention or management of risk.
+• Discuss implications of smoking related to the illness or condition at each visit. Encourage client and signifi cant other(s) to stop smoking; recommend smoking cessation programs to reduce health risks and/or prevent further decline in lung function.
+• Discuss reasons for allergy testing when indicated. 
+• Review individual drug regimen and ways of dealing with side effects. 
+• Instruct in the use of relaxation and stress-reduction techniques, as appropriate. 
+• Reinforce the need for adequate rest, while encouraging activity and exercise (e.g., upper and lower extremity strength and fl exibility training, endurance) to decrease dyspnea and improve quality of life.
+• Emphasize the importance of nutrition in improving stamina and reducing the work of breathing.
+• Review oxygen-conserving techniques (e.g., sitting instead of standing to perform tasks; eating small meals; performing slower, purposeful movements). 
+• Review job description and work activities to identify need for job modifi cations or vocational rehabilitation.
+• Discuss home oxygen therapy and safety measures, as indicated, when home oxygen is implemented to ensure client’s safety, especially when used in the very young, fragile elderly, or when cognitive or neuromuscular impairment is present.
+• Identify and refer to specifi c suppliers for supplemental oxygen/necessary respiratory devices, as well as other individually appropriate resources, such as home care agencies, Meals on Wheels, and so on, to facilitate independence.
+=========

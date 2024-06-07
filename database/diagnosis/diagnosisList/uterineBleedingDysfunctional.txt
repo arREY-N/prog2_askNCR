@@ -1,0 +1,6 @@
+::Uterine bleeding, dysfunctional::
+
+anxiety>anxiety.txt
+activity Intolerance>activityIntolerance.txt
+
+=====

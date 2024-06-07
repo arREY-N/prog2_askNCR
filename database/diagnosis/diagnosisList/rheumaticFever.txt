@@ -1,0 +1,8 @@
+::Rheumatic Fever::
+
+acute Pain>acutePain.txt
+hyperthermia>hyperthermia.txt
+activity Intolerance>activityIntolerance.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+
+=====

@@ -1,0 +1,86 @@
+::Post-Trauma Syndrome And Risk For Post-Trauma Syndrome::
+
+::Definition::
+ - Post-Trauma Syndrome: Sustained maladaptive response to a traumatic, overwhelming event.
+ - Risk For Post-Trauma Syndrome: Susceptible to sustained maladaptive response to a traumatic, overwhelming event, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative or risk factor(s) and individual reaction:
+ [Acute]
+1. Identify client who survived or witnessed traumatic event (e.g., airplane or motor vehicle crash, mass shooting, fire destroying home and lands, robbery at gunpoint, other violent act) to recognize individual at high risk for post-trauma syndrome.
+2. Note occupation (e.g., police, fi re, rescue, emergency department staff; corrections offi cer; mental health worker; disaster responders; soldier or support personnel in combat zone; as well as family members). These occupations carry a high risk for constantly being involved in traumatic events and the potential for exacerbation of stress response and block to recovery.
+3. Assess client’s knowledge of and anxiety related to potential for work-related trauma (e.g., shooting in line of duty or viewing body of murdered child); and number, duration, and intensity of recurring situations (e.g., emergency medical technician personnel exposed to numerous on-the-job traumatic incidents; rescuers searching for victims of natural or man-made disasters). 
+4. Observe for and elicit information about physical or psychological injury and note associated stress-related symptoms (e.g., “numbness,” headache, tightness in chest, nausea, pounding heart). Anxiety is viewed as a normal reaction to a realistic danger or threat, and noting these factors can identify the severity of the anxiety the client is experiencing in the circumstances. In post-traumatic stress disorder (PTSD), this anxiety reaction is changed or damaged.
+5. Identify psychological responses: anger, shock, acute anxiety, confusion, denial. Note laughter, crying, calm or agitated or excited (hysterical) behavior, expressions of disbelief, guilt or self-blame, labile emotions. Indicators of severe response to trauma that client has experienced and need for specifi c interventions.
+6. Assess client’s knowledge of and anxiety related to the situation. Note ongoing threat to self (e.g., contact with perpetrator and/or associates). Client may be aware but speak as  though the incident is related to someone else. Flashbacksmay occur with the individual reliving the incident/event.
+7. Identify social aspects of trauma or incident (e.g., disfi gurement, chronic conditions or permanent disabilities, loss of home or community) that affect ability to return to normal involvement in activities and work.
+8. Ascertain ethnic background and cultural or religious perceptions and beliefs about the occurrence. Individual’s view of how he or she is coping is infl uenced by cultural background, religious beliefs, and family infl uence. Client (or signifi cant others) may believe occurrence is retribution from God or result of some indiscretion on client’s part.
+9. Determine degree of disorganization (e.g., task-oriented activity is not goal directed, organized, or effective; individual is overwhelmed by emotion most of the time). Presence of persistent problems may interfere with ability to manage daily living, work, and relationships with others.
+10. Identify how client’s past experiences may affect current situation. Individual who has had previous experiences with traumatic events may be more susceptible to PTSD and ineffective coping abilities.
+11. Listen for comments of guilt, humiliation, shame, or taking on responsibility (e.g., “I should have been more careful/gone back to get her”; “Don’t call me a hero, I couldn’t save my partner”; “My kids are the same age as the ones that died”). Expressing guilt for actions that individual might have taken can lead to ruminations about lack of responsible behavior, leading to anxiety and PTSD.
+12. Evaluate for life factors or stressors currently or recently occurring, such as displacement from home due to catastrophic event (e.g., fi re, fl ood, violent storm) happening to individual whose child is dying with cancer or who suffered abuse as a child. This individual is at greater risk for developing traumatic symptoms (acute added to delayed-onset reactions)
+13. Determine disruptions in relationships (e.g., family, friends, coworkers, SOs). Support persons may not know how to deal with client/situation (e.g., may be oversolicitous or withdraw).
+14. Note withdrawn behavior, use of denial, and use of chemical substances or impulsive behaviors (e.g., chain smoking, overeating), which are indicators of severity of anxiety and client’s coping responses.
+15. Be aware of signs of increasing anxiety (e.g., silence, stuttering, inability to sit still). Increasing anxiety may indicate risk for violence.
+16. Note verbal and nonverbal expressions of guilt or self-blame when client has survived trauma in which others died. Validate congruency of observations with verbalizations. Sense of own responsibility (blame) and guilt about not having done something to prevent incident or not having been “good enough” to deserve survival are strong beliefs, especially in individuals who are infl uenced by background, religious, and cultural factors.
+17. Identify client’s general health and coping mechanisms. Resolution of the post-trauma response is largely dependent on the coping skills the client has developed throughout own life and is able to bring to bear on current situation.
+18. Assess signs and stage of grieving for self and others.
+19. Identify development of phobic reactions to ordinary articles (e.g., knives); situations (e.g., walking in groups of people, strangers ringing doorbell). These may trigger feelings from original trauma and need to be dealt with sensitively, accepting reality of feelings and stressing ability of client to deal with them.
+ [Chronic (In addition to previous assessments)]
+1. Evaluate continued somatic complaints (e.g., gastric irritation, anorexia, insomnia, muscle tension, headache). Investigate reports of new or changes in symptoms.
+2. Note manifestations of chronic pain or pain symptoms in excess of degree of physical injury. Psychological responses may magnify or exacerbate physical symptoms, indicating need for interventions to help client deal with pain.
+3. Be aware of signs of severe or prolonged depression. Note presence of fl ashbacks, intrusive memories, nightmares; panic attacks; poor impulse control; problems with memory or concentration, thoughts, and perceptions; confl ict, aggression, or rage. Symptoms are not uncommon following a trauma of such magnitude, although client may feel that he or she is “going crazy.”
+4. Assess degree of dysfunctional coping (e.g., use or abuse of alcohol or other drugs; suicidal or homicidal ideation) and consequences. Individuals display different levels of dysfunctional behavior in response to stress, and often the choice of chemical substances or substance abuse is a way of deadening psychic pain.
+
+[Nursing Priority No. 2]
+    - To assist client to deal with situation or risk that exists:
+ [Acute]
+1. Provide a calm, safe environment. Promotes sense of trust and safety in which client can deal with disruption of life.
+2. Listen as client recounts incident or concerns—possibly repeatedly. (If client does not want to talk, accept silence.) Provides psychological support.
+3. Evaluate client’s perceptions of events and personal signifi - cance (e.g., police officer—who is also a parent—investigating death of a child). 
+4. Provide emotional and physical presence to strengthen client’s coping abilities
+5. Listen to and investigate physical complaints, and take note of lack of physical complaints when injury may have occurred. Emotional reactions may limit client’s ability to recognize or verbalize physical injury.
+6. Identify supportive persons for the individual (e.g., loved ones, counselor, spiritual advisor or pastor). 
+7. Provide environment in which client can talk freely about feelings and fears (including concerns about relationship with and response of SO) and trauma experiences and sensations (e.g., loss of control, “near-death experience”). 
+8. Be aware of and assist client to use ego strengths in a positive way by acknowledging ability to handle what is happening. Enhances self-concept, supports self-esteem, and reducessense of helplessness.
+9. Help child express feelings about event using techniques appropriate to developmental level (e.g., play for young child, stories or puppets for preschooler, peer group for adolescent). Children are more likely to express in play what they may not be able to verbalize directly. Adolescents may benefi t from groups that help them gain knowledge, support, and a decreased sense of isolation.
+10. Allow client to work through own kind of adjustment. If the client is withdrawn or unwilling to talk, do not force the issue.
+11. Listen for expressions of fear of crowds and/or people.
+12. Administer anti-anxiety, sedative, or hypnotic medications with caution. 
+13. Assist in dealing with practical concerns and effects of the incident, such as documentation for police report, court appearances, altered relationships with SO(s), employment problems. In the period immediately following the traumatic incident, thinking becomes diffi cult, and assistance with practical matters will help manage necessary activities for the person to move through this time.
+ [Chronic]
+1. Continue listening to expressions of concern. May have recurring thoughts, thus necessitating the need to continue talking about the incident.
+2. Permit free expression of feelings (may continue from the crisis phase). Avoid rushing client through expressions of feelings too quickly and refrain from providing reassurance inappropriately. Client may believe pain and/or anguish is misunderstood and may be depressed. Statements such as “You don’t understand” or “You weren’t there” are a defense, a way of pushing others away.
+3. Encourage client to talk out experience when ready, expressing feelings of fear, anger, loss, or grief. (Refer to NDs, Grieving, complicated Grieving.)
+4. Ascertain and monitor sleep pattern of children as well as adults. Sleep disturbances and/or nightmares may develop, delaying resolution and/or impairing coping abilities.
+5. Encourage client to become aware of and accept own feelings and reactions as being normal reactions in an abnormal situation. 
+6. Acknowledge reality of loss of self that existed before the incident. Help client to move toward a state of acceptance as to the potential for growth that still exists within client. Recognition that individual can never go back to being the person he or she was before the incident allows progress toward life as a different person.
+7. Continue to allow client to progress at own pace.
+8. Give “permission” to express and deal with anger at the assailant or situation in acceptable ways. 
+9. Avoid prompting discussion of issues that cannot be resolved. Keep discussion on practical and emotional level rather than intellectualizing the experience, which allows client to deal with reality while taking time to work out feelings.
+10. Provide for sensitive, trained counselors/therapists and engage in therapies, such as psychotherapy, Implosive Therapy (fl ooding), hypnosis, relaxation, Rolfi ng, memory work, cognitive restructuring, Eye Movement Desensitization and Reprocessing (EMDR), physical and occupational therapies. 
+11. Administer psychotropic medications, as indicated.
+
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations): 
+1. Educate high-risk persons and families about signs/symptoms of post-trauma response, especially if it is likely to occur in their occupation/life. Awareness allows individual to be proactive and seek support and timely intervention as needed.
+2. Encourage client to identify and monitor feelings on an ongoing basis, and/or while therapy is occurring.
+3. Identify and discuss client’s strengths (e.g., very supportive family, usually copes well with stress) as well as vulnerabilities (e.g., client tends toward alcohol or other drugs for coping, client has witnessed a murder). Knowing one’s strengths and weaknesses helps client know what actions to take to cope with and prevent anxiety from becoming overwhelming.
+4. Provide information about what reactions client may expect during each phase. Let client know these are common reactions. Be sure to phrase in neutral terms of “You may or you may not . . . .” Helps reduce fear of the unknown.
+5. Assist client to identify factors that may have created a vulnerable situation and that he or she may have power to change to protect self in the future.
+6. Avoid making value judgments. 
+7. Discuss lifestyle changes client is contemplating and how they may contribute to recovery. Helps client evaluate appropriateness of plans and identify shortcomings (e.g., moving away from effective support group).
+8. Encourage learning stress-management techniques, such as deep breathing, meditation, relaxation, exercise. Reduces stress, enhancing coping skills, and helping to resolve situation.
+9. Discuss recognition of, and ways to manage, “anniversary reactions,” reinforcing normalcy of recurrence of thoughts and feelings at this time. 
+10. Discuss drug regimen, potential side effects of prescribed medications, and necessity of prompt reporting of untoward effects.
+11. Recommend participation in debriefi ng sessions that may be provided following major events. Dealing with the stressor promptly may facilitate recovery from event or prevent exacerbation, although issues about best timing of debriefi ng continue to be debated.
+12. Explain that post-traumatic symptoms can emerge months or sometimes years after a traumatic experience and that help and support can be obtained when needed or desired if client begins to experience intrusive memories or other symptoms. 
+13. Identify employment, community resource groups (e.g., Assistance Support and Self Help in Surviving Trauma [ASSIST], employee peer-assistance programs, Red Cross or other survivor support services, Compassionate Friends). Provides opportunity for ongoing support to deal with recurrent stressors.
+14. Encourage psychiatric consultation, especially if client is unable to maintain control, is violent, is inconsolable, or does not seem to be making an adjustment. 
+15. Refer for long-term individual/family/marital counseling, if indicated. 
+16. Refer to NDs Powerlessness; ineffective Coping; Grieving; complicated Grieving.
+
+=====

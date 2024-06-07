@@ -1,0 +1,52 @@
+::Chronic Confusion::
+
+::Definition::
+: Irreversible, progressive, insidious, and long- term alteration of intellect, behavior, and personality, manifested by impairment in cognitive functions (memory, speech, language, decision- making, and executive function), and dependency in execution of daily activities.
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess degree of impairment:
+1. Evaluate responses on diagnostic examinations (e.g., memory impairments, reality orientation, attention span, calculations, and quality of life). A combination of tests (e.g., Confusion Assessment Method [CAM], the Mini-Mental State Examination [MMSE], the Alzheimer’s Disease Assessment Scale [ADAS- cog], the Brief Dementia Severity Rating Scale [BDSRS], or the Neuropsychiatric Inventory [NPI]) is often needed to complete an evaluation of the client’s overall condition relating to a chronic/irreversible condition.
+2. Test the client’s ability to receive and send effective communication. The client may be nonverbal or require assistance with/interpretation of verbalizations.
+3. Talk with significant others (SO[s]) regarding baseline behaviors, length of time since onset, and progression of problem, their perception of prognosis, and other pertinent information and concerns for client. If the history reveals an insidious decline over months to years, and if abnormal perceptions, inattention, and memory problems are concurrent with confusion, a diagnosis of dementia is likely.
+4. Obtain information regarding recent changes or disruptions in client’s health or routine. Decline in physical health or disruption in daily living situation (e.g., hospitalization, change in medications, or moving to new home) can exacerbate agitation or bring on acute confusion. (Refer to ND: acute Confusion.)
+5. Ascertain interventions previously used or tried.
+6. Evaluate response to care providers and receptiveness to interventions to determine areas of concern to be addressed.
+7. Determine anxiety level in relation to situation and problem behaviors that may be indicative of potential for violence
+
+[Nursing Priority No. 2]
+    -  To limit effects of deterioration/maximize level of function:
+1. Assist in treating conditions (e.g., infections, malnutrition, electrolyte imbalances, and adverse medication reactions) that may contribute to/exacerbate confusion, discomfort, and agitation.
+2. Provide a calm environment, minimize relocations, and
+eliminate extraneous noise/stimuli that may increase the client’s level of agitation/confusion.
+3. Be open and honest in discussing the client’s disease, abilities, and prognosis.
+4. Use touch judiciously. Tell the client what is being done before initiating contact to reduce sense of surprise and negative reaction.
+5. Avoid challenging illogical thinking because defensive reactions may result.
+6. Use positive statements; offer guided choices between two options. Simplify the client’s tasks and routines to accommodate fl uctuating abilities and to reduce agitation associated with multiple options or demands.
+7. Be supportive when the client is attempting to communicate and be sensitive to increasing frustration, fears, and misperceived threats.
+ -- Encourage family/SO(s) to provide ongoing orientation and input to include current news and family happenings.
+8. Maintain reality- oriented relationship and environment (e.g., clocks, calendars, personal items, and seasonal decorations). Encourage participation in resocialization groups.
+9. Allow the client to reminisce or exist in own reality, if not detrimental to well- being.
+10. Provide safety measures (e.g., close supervision, identifi cation bracelet, alarm on unlocked exits; medication lockup, removal of car or car keys; and lower temperature on hot water tank).
+11. Set limits on unsafe and/or inappropriate behavior, being alert to potential for violence. 
+12. Avoid use of restraints as much as possible. Use vest (instead of wrist) restraints, or investigate the use of alternatives (such as bed nets, electronic bed pads, laptop trays) when required. Although restraints may prevent falls, they can increase client’s agitation and distress and are a safety risk.
+13. Administer medications, as ordered (e.g., antidepressants or antipsychotics). Monitor for therapeutic action, as well as adverse reactions, side effects, and interactions. Medications may be used judiciously to manage symptoms of psychosis, depression, or aggressive behavior.
+14. Implement complementary therapies (e.g., music or dance therapy; animal- assisted therapy; massage, Therapeutic Touch [if touch is tolerated], aromatherapy, bright light treatment) as ordered or desired. Monitor client’s response to each modality and modify as indicated. Use of alternative therapies tailored to the client’s preferences, skills, and abilities can be calming and provide relaxation and can be carried out by a wide range of health and social care providers and volunteers.
+15. Refer to NDs: acute Confusion; impaired Memory; impaired verbal Communication, for additional interventions. 
+
+[Nursing Priority No.3]
+    - To assist SO(s) to develop coping strategies:
+1. Determine family dynamics, cultural values, resources, availability, and willingness to participate in meeting client’s needs. Evaluate SO’s attention to own needs, including health status, grieving process, and respite. Primary caregiver and other members of family will suffer from the stress that accompanies caregiving and will require ongoing support.
+2. Involve family/SO(s) in planning and care activities as needed/desired. Maintain frequent interactions with SO(s) in order to relay information, change care strategies, try different responses, or implement other problem- solving solutions.
+3. Discuss caregiver burden and signs of burnout, when appropriate. (Refer to NDs: caregiver Role Strain; risk for caregiver Role Strain.)
+4. Provide educational materials, bibliographies, list of available local resources, help lines, Web sites, and so on, as desired, to assist SO(s) in dealing and coping with longterm care issues.
+5. Identify appropriate community resources (e.g., Alzheimer’s Association [AA], stroke or brain injury support groups, senior support groups, specialist day services, home care, and respite care; adult placement and short- term residential care; clergy, social services, occupational and physical therapists; assistive technology and tele- care; attorney services for advance directives, and durable power of attorney) to provide client/SO with support and assist with problem- solving. 
+
+[Nursing Priority No. 4]
+    -  To promote optimal functioning and safety (Teaching/Discharge Considerations):
+1. Discuss the nature of the client’s condition (e.g., chronic stable, progressive, or degenerative), treatment concerns, and follow- up needed to promote maintaining client at highest possible level of functioning.
+2. Determine age- appropriate ongoing treatment and socialization needs and appropriate resources.
+3. Review medications with SO/caregiver(s), including dosage, route, action, expected and reportable side effects, and potential drug interactions to prevent or limit complications associated with multiple psychiatric and central nervous system medications.
+4. Develop plan of care with family to meet client’s and SO’s individual needs.
+5. Provide appropriate referrals (e.g., Meals on Wheels, adult day care, home care agency, or respite care). May need additional assistance to maintain the client in the home setting or make arrangements for placement, if necessary
+=====

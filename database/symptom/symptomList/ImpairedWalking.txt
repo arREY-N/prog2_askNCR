@@ -1,0 +1,44 @@
+::Impaired Walking::
+
+::Definition::
+ Limitation of independent movement within the environment on foot.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors: 
+1. Identify conditions or diagnoses (e.g., advanced age, sensory impairments, pain, obesity, chronic fatigue, cognitive dysfunction, acute illness with weakness; chronic illness [e.g., cardiopulmonary disorders, cancer], musculoskeletal injuries or surgery [e.g., sprains, fractures, tendon or ligament injury; total joint replacement; surgical repair of fractured bone; amputation], balance problems [e.g., inner ear infection, brain injury, stroke], nerve disorders [e.g., multiple sclerosis, Parkinson’s disease, cerebral palsy], spinal abnormalities [disease, trauma, degeneration], impaired circulation or neuropathies [e.g., peripheral, diabetic, alcoholic], degenerative bone or muscle disorders [e.g., osteoporosis, muscular dystrophy, myositis], foot conditions [e.g., plantar warts, bunions, ingrown toenails, pressure ulcers]) that contribute to walking impairment and identify specifi c needs and appropriate interventions.
+2. Note client’s particular symptoms related to walking (e.g., unable to bear weight, cannot walk usual distance, limping, staggering, stiff leg, leg pain, shuffl ing, asymmetric or unsteady gait, can walk on certain surfaces, but not on others). 
+3. Determine ability to follow directions and note emotional/behavioral responses that may be affecting client’s ability or desire to engage in activity
+
+[Nursing Priority No. 2]
+    - To assess functional ability: 
+1. Perform “Timed Up and Go (TUG)” test, as indicated, to assess client’s basic ability to ambulate safely. Factors assessed include sitting balance, ability to transfer from sitting to standing and back to sitting, the pace and stability of ambulation, and the ability to turn without staggering.
+2. Evaluate components of walking (e.g., gait, distance covered over time). Determine muscle strength and tone, joint mobility, cardiovascular status, balance, endurance, and use of assistive device. Identifi es strengths and defi cits (e.g., ability to ambulate with/without assistive devices) and may provide information regarding potential for recovery (e.g., client with severe brain injury may have permanent limitations because of impaired cognition affecting memory, judgment, problem-solving, and motor planning, requiring more intensive inpatient and long-term care).
+3. Determine degree of impairment in relation to suggested functional scale (0 to 4), noting that impairment can be temporary, permanent, or progressive. Condition may be caused by reversible condition (e.g., weakness associated with acute illness or fractures/surgery with weight-bearing restrictions); or walking impairment can be permanent (e.g., congenital anomalies, amputation, severe rheumatoid arthritis).
+4. Assist with or review results of mobility testing (e.g., gait, timing of walking over fi xed distance, distance walked over set period of time [endurance], limb movement analysis, leg strength and speed of walking, ambulatory activity monitoring) for differential diagnosis and to guide treatment interventions.
+5. Note emotional and behavioral responses of client/signifi cant other(s) (SO[s]) to problems of mobility. Walking impairments can negatively affect self-concept and self-esteem, autonomy, and independence. Social, occupational, and relationship roles can change, leading to isolation, depression, and economic consequences.
+
+
+[Nursing Priority No.3]
+    - To promote safe, optimal level of independence in walking: 
+1. Assist with treatment of underlying condition causing dysfunction, as indicated by individual situation. 
+2. Consult with physical therapist, occupational therapist, or rehabilitation team for individualized mobility program and identify and develop appropriate devices (e.g., shoe insert, leg brace to maintain proper foot alignment for walking, quad cane, hemiwalker).
+3. Demonstrate use of and help client become comfortable with adjunctive devices (e.g., individually prescribed and fitted cane, crutches, walking cast or boot, walker, limb prosthesis, mobility scooter) to maintain joint stability or immobilization or to maintain alignment or balance during movement.
+4. Provide assistance when indicated (e.g., walking on uneven surfaces; client is weak or has to walk a distance; or vision, coordination, or posture are impaired).
+5. Monitor client’s cardiopulmonary tolerance for walking. Increased pulse rate, chest pain, breathlessness, irregular heartbeat are indicative of need to reduce level of activity. (Refer to ND Activity Intolerance; decreased Cardiac Output, for related interventions.) 
+6. Encourage adequate rest and gradual increase in walking distance to reduce fatigue or leg pain associated with walking and improve stamina. (Refer to NDs Fatigue; risk for peripheral neurovascular Dysfunction.) 
+7. Administer medication, as indicated, to manage pain and maximize level of functioning. (Refer to NDs acute/chronic Pain; chronic Pain Syndrome.) 
+8. Implement fall precautions for high-risk clients (e.g., frail or ill elderly, visually or cognitively impaired, person on multiple medications, presence of balance disorders) to reduce risk of accidental injury. (Refer to NDs risk for Falls; risk for Disuse Syndrome for related interventions.) 
+9. Provide cueing as indicated. Client may need reminders (e.g., lift foot higher, look where going, walk tall) to concentrate on/perform tasks of walking, especially when balance or cognition is impaired.
+10. Assist client to obtain needed information, such as handicap placard for close-in parking, sources for mobility scooter, or special public transportation options, when indicated. 
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Involve client/SO(s) in care, assisting them to learn ways of managing defi cits to enhance safety for client and SO(s)/caregivers.
+2. Identify appropriate resources for obtaining and maintaining appliances, equipment, and environmental modifi cations to promote mobility
+3. Evaluate client’s home (or work) environment for barriers to walking (e.g., uneven surfaces, many steps, no ramps, long distances between places client needs to walk) to determine needed changes, make recommendations for client safety. 
+4. Instruct client/SO in safety measures in home, as individually indicated (e.g., maintaining safe travel pathway, proper lighting, wearing glasses, handrails on stairs, grab bars in bathroom, using walker instead of cane when tired or when walking on uneven surface) to reduce risk of falls.
+5. Discuss need for emergency call/support system (e.g., Lifeline, HealthWatch) to provide immediate assistance for falls or other home emergencies when client lives alone. 
+
+=====

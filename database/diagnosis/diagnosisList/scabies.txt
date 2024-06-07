@@ -1,0 +1,7 @@
+::Scabies::
+
+hyperthermia>hyperthermia.txt
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+
+=====

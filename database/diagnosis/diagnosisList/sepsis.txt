@@ -1,0 +1,8 @@
+::Sepsis::
+
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+risk for impaired Gas Exhange>riskforimpairedGasExchange.txt
+risk for Shock>riskforShock.txt
+
+=====

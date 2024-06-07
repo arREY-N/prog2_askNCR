@@ -1,0 +1,8 @@
+::Thrombophlebitis::
+
+ineffective peripheral Tissue Perfusion>ineffectiveperipheralTissuePerfusion.txt
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+risk for impaired physical Mobility>riskforimpairedphysicalMobility.txt
+deficient Knowledge regarding pathophysiology of condition, therapy_self-care needs, and risk of Embolization>deficientKnowledgeregardingpathophysiologyofconditiontherapy_self-careneedsandriskofEmbolization.txt
+
+=====

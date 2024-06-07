@@ -1,0 +1,65 @@
+::Constipation/risk For Constipation::
+
+::Definition::
+Constipation: Decrease in normal frequency of
+defecation accompanied by difficult or incomplete passage
+of stool and/or passage of excessively hard, dry stool.
+
+: at risk for Constipation: Susceptible to a decrease
+in frequency of defecation, accompanied by difficulty passing stool, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify causative/contributing or individual risk factors:
+1. Review medical, surgical, and social history to identify conditions commonly associated with constipation, including (1) problems with colon or rectum (e.g., obstruction, scar tissue or stricture; presence of diversion [e.g., descending/sigmoid colostomy]; diverticulitis, irritable bowel syndrome, tumors, anal fi ssure); (2) metabolic or endocrine disorders (e.g., diabetes mellitus, hypothyroidism, or uremia); (3)  limited physical activity (e.g., bedrest,poor mobility, chronic disability); (4) chronic pain problems (especially when client is on pain medications); (5)  pregnancy and childbirth, recent abdominal or perianal surgery; and (6) neurological disorders (e.g., stroke, traumatic brain injury, Parkinson disease, multiple sclerosis (MS), and spinal cord abnormalities).
+2. Note the client’s age. Constipation is more likely to occur in individuals older than 65 but can occur in any age from infant to elderly. A bottle- fed infant is more prone to constipation than a breastfed infant, especially when formula contains iron. Toddlers are at risk because of developmental factors (e.g., too young, too interested in other things, rigid schedule during potty training), and children and adolescents are at risk because of unwillingness to take break from play, poor eating and fl uid intake habits, and withholding because of perceived lack of privacy. Many older adults experience constipation as a result of diminished nerve sensations, immobility, dehydration, and electrolyte imbalances; incomplete emptying of the bowel; or failing to attend to signals to defecate.
+3. Review daily dietary regimen, noting if diet is defi cient in fi ber. Inadequate dietary fi ber (vegetable, fruits, and whole grains) and highly processed foods contribute to poor intestinal function. Note: Clients with descending or sigmoid colostomy must avoid constipation. Some may fi nd it helpful to create their own dietary bulk laxative by combining unprocessed millers bran, applesauce, and prune juice. Refer to ND: chronic functional Constipation for further assessments and interventions regarding dietary issues in constipation.
+4. Note general oral/dental health issues. Dental problems can impact dietary intake (e.g., loss of teeth or other oral conditions can force individuals to eat soft foods or liquids, mostly lacking in fi ber).
+5. Determine fluid intake to note defi cits. Refer to ND: chronic functional Constipation for further assessments and interventions regarding fl uid issues in constipation.
+6. Evaluate the client’s medications or drug usage that could cause/exacerbate constipation. Refer to ND: chronic functional Constipation for further assessments and interventions regarding medication issues in constipation.
+7. Discuss laxative and enema use. Note signs or reports of laxative abuse or overuse of stimulant laxatives. This is most common among older adults preoccupied with having daily bowel movement.
+8. Note energy and activity levels and exercise pattern. Lack of physical activity or regular exercise is often a factor in constipation. Refer to ND: chronic functional Constipation for assessments and interventions regarding activity issues in constipation.
+9. Identify areas of life changes or stressors (e.g., personal relationships, occupational factors, or fi nancial problems). Factors such as pregnancy, travel, traumas, changes in personal relationships, occupational factors, or fi nancial concerns can cause or exacerbate constipation. In addition, client may fail to allow time for good bowel habits and/or suffer gastrointestinal effects from stress.
+10. Determine access to bathroom, privacy, and ability to perform self- care activities.
+11. Investigate reports of pain with defecation. Hemorrhoids, rectal fi ssures or prolapse, skin breakdown, or other abnormal fi ndings may be hindering passage of stool or causing client to hold stool.
+12. Auscultate abdomen for presence, location, and characteristics of bowel sounds refl ecting bowel activity.
+13. Palpate abdomen for presence of distention or masses.
+14. Check digital rectum for presence of fecal impaction, as indicated, to evaluate rectal tone and detect tenderness, blood, or detect fecal impaction.
+15. Assist with medical work- up (e.g., x- rays, abdominal imaging, proctosigmoidoscopy, anorectal function tests, colonic transit studies, and stool sample tests) for identifi cation of other possible causative factors.
+
+[Nursing Priority No. 2]
+    -  To determine usual pattern of elimination:
+1. Discuss usual elimination habits (e.g., normal urge time) and problems (e.g., client unable to eliminate unless in own home, passing hard stool after prolonged effort, or anal pain). Helps to identify and clarify client’s perception of problem.
+2. Note color, odor, consistency, amount, and frequency of stool. This provides a baseline for comparison and promotes recognition of changes.
+3. Identify elements that usually stimulate bowel activity (e.g., caffeine, walking, and laxative use) and any interfering factors (e.g., taking opioid pain medications, being unable to ambulate to the bathroom, or pelvic surgery).
+4. Ascertain client’s degree of concern (e.g., long- standing condition that client has “lived with” may not cause undue concern, whereas an acute postsurgical occurrence of constipation can cause great distress). The client’s response may or may not refl ect the severity of the condition.
+5. Note the pharmacological agents the client has used (e.g., fiber pills, laxatives, suppositories, or enemas) to determine the effectiveness of the current regimen and whether laxative use is appropriate and helpful.
+6. Encourage the client to maintain an elimination diary, if appropriate, to facilitate monitoring of long- term problem.
+
+[Nursing Priority No.3]
+    -  To facilitate an acceptable pattern of elimination:
+1. Promote lifestyle changes:
+-- Instruct in and encourage balanced fi ber and bulk (e.g., fruits, vegetables, whole grains) in diet and fi ber supplements (e.g., wheat bran, psyllium).
+-- Limit foods with little or no fi ber, or diet high in fats (e.g., ice cream, cheese, meats, fast foods, and processed foods).
+-- Promote adequate fl uid intake, including water, high- fi ber fruit and vegetable juices, fruit/vegetable smoothies, popsicles. Suggest drinking warm, stimulating fl uids (e.g., decaffeinated coffee, hot water, or tea).
+-- Encourage daily activity and exercise within limits of individual ability.
+-- Encourage the client to not ignore urge. Provide privacy and routinely scheduled time for colostomy irrigation or defecation (bathroom or commode preferable to bedpan).
+-- Refer to ND: chronic functional Constipation for related interventions.
+2. Encourage sitz bath before stools if indicated to relax sphincter , and after stools for cleansing and soothing effect to rectal area.
+3. Discuss client’s current medication regime with physician to determine if drugs that may contribute to constipation can be discontinued or changed.
+4. Administer or recommend medications (e.g., stool softeners, mild stimulants, or bulk- forming agents), as ordered or routinely, when appropriate to prevent constipation (e.g., client taking pain medications, especially opiates, or who is inactive or immobile).
+5. Apply lubricant/anesthetic ointment to anus, if needed.
+6. Establish bowel program to include predictable interval timing for colostomy irrigation or toileting; use of particular position for defecation; abdominal massage; biofeedback for pelvic floor dysfunction; and medications, as appropriate, when long- term or permanent bowel dysfunction is present.
+7. Refer to primary care provider for medical therapies (e.g., added emollient, saline, or hyperosmolar laxatives, enemas, or suppositories) to best treat acute situation.
+
+[Nursing Priority No. 4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Discuss client’s particular physiology and acceptable variations in elimination. May help reduce concerns and anxiety about situation.
+2. Provide information about relationship of diet, exercise, fl uid, and healthy elimination, as indicated.
+3. Provide social and emotional support to help the client manage actual or potential disabilities associated with long- term bowel management.
+4. Educate client/significant other about safe and risky practices for managing constipation. Information can assist client to make benefi cial choices when need arises.
+5. Discuss rationale for and encourage continuation of successful interventions.
+6. Work to implement bowel management program that is easily replicated in home and community settings.
+7. Identify specific actions to be taken if problem does not resolve to promote timely intervention, thereby enhancing client’s independence.
+=====

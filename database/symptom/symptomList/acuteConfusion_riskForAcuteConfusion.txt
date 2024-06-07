@@ -1,0 +1,59 @@
+::Acute Confusion/Risk For Acute Confusion::
+
+::Definition::
+ acute Confusion: Reversible disturbances of consciousness, attention, cognition, and perception that develop over a short period of time, and which last less than 3 months
+
+ risk for acute Confusion: Susceptible to reversible disturbances of consciousness, attention, cognition, and perception that develop over a short period of time, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing or risk factors:
+1. Identify factors present, such as recent surgery or trauma; use of large numbers of medications (polypharmacy); intoxication with/withdrawal from a substance (e.g., prescription and over- the- counter [OTC] drugs; alcohol or illicit drugs); history or current seizure activity; episodes of fever or pain, or presence of acute infection (especially occult urinary tract infection [UTI] in elderly clients); traumatic events; or person with dementia experiencing sudden change in environment, unfamiliar surroundings, or people. Acute confusion is a symptom associated with numerous causes (e.g., hypoxia; metabolic/endocrine/neurological conditions, toxins; electrolyte abnormalities; systemic or central nervous system [CNS] infections; nutritional defi ciencies; or acute psychiatric disorders).
+2. Assess mental status. Typical symptoms of delirium include anxiety, disorientation, tremors, hallucinations, delusions, and incoherence. Onset is usually sudden, developing over a few hours or days, and resolving over varying periods of time.
+3. Evaluate vital signs for indicators of poor tissue perfusion (i.e., hypotension, tachycardia, or tachypnea) or stress response (tachycardia, tachypnea).
+4. the client’s functional level, including the ability to provide self- care and move about at will. Conditions and situations that limit a client’s mobility and independence (e.g., acute or chronic physical or psychiatric illnesses and their therapies, trauma or extensive immobility, confi nement in unfamiliar surroundings, and sensory deprivation) potentiate the prospect of acute confusional state.
+5. Determine current medications/drug use— especially antianxiety agents, barbiturates, certain antipsychotic agents, methyldopa, disulfiram, cocaine, alcohol, amphetamines, hallucinogens, or opiates associated with a high risk of confusion and delirium — and schedule of use, such as cimetidine + antacid or digoxin + diuretics (combinations can increase the risk of adverse reactions and interactions).
+6. Evaluate for exacerbation of psychiatric conditions (e.g., mood or dissociative disorders or dementia). Identifi cation of the presence of mental illness provides opportunity for correct treatment and medication.
+7. Investigate the possibility of alcohol or other drug intoxication or withdrawal.
+8. Ascertain life events (e.g., death of spouse/other family member, absence of known care provider, move from lifelong home, catastrophic natural disaster) that can affect client’s perceptions, attention, and concentration.
+9. Assess diet and nutritional status to identify possible deficiencies of essential nutrients and vitamins (e.g., thiamine) that could affect mental status.
+10. Evaluate sleep and rest status, noting insomnia, sleep depri- vation, or oversleeping. Discomfort, worry, and lack of sleep and rest can cause or exacerbate confusion. (Refer to NDs Insomnia; Sleep Deprivation, as appropriate.)
+11. Monitor laboratory values (e.g., complete blood count (CBC), blood cultures; oxygen saturation and, in some cases, arterial blood gases (ABGs) with carbon monoxide; blood urea nitrogen (BUN) and creatinine (Cr) levels; electrolytes; thyroid function studies; liver function studies, ammonia levels; serum glucose; urinalysis for infection and drug analysis; specifi c drug toxicologies and drug levels [including peak and trough, as appropriate]) to identify imbalances that have potential for causing confusion
+
+[Nursing Priority No. 2]
+    - To determine degree of impairment (acute Confusion):
+1. Talk with SO(s) to determine historic baseline, observed changes, and onset or recurrence of changes to understand and clarify current situation.
+2. Collaborate with medical and psychiatric providers. Review results of diagnostic studies (e.g., delirium assessment tools, such as the Confusion Assessment Method [CAM], delirium index [DI], Mini-Mental State Examination [MMSE]; brain scans or imaging studies; electroencephalogram [EEG]; or lumbar puncture and cerebrospinal fl uid [CSF] studies) to evaluate the extent of impairment in orientation, attention span, ability to follow directions, send and receive communication, and appropriateness of response.
+3. Note occurrence and timing of agitation, hallucinations, and violent behaviors. (“Sundown syndrome” may occur, with client oriented during daylight hours but confused during nighttime.)
+4. Determine threat to safety of client/others. Delirium can cause the client to become verbally and physically aggressive, resulting in behavior threatening the safety of self and others.
+
+[Nursing Priority No.3]
+    -  To maximize level of function, prevent further deterioration, and correct existing risk factors:
+1. Assist with treatment of the underlying problem (e.g., drug intoxication/substance abuse, infectious process, hypoxemia, biochemical imbalances, nutritional deficits, or pain management).
+2. Monitor/adjust medication regimen and note response. Determine medications that can be changed or eliminated when polypharmacy, side effects, or adverse reactions are determined to be associated with current condition.
+3. Orient client to surroundings, staff, necessary activities, as needed. Present reality concisely and briefl y. Avoid challenging illogical thinking — defensive reactions may result.
+4. Encourage family/SO(s) to participate in reorientation as well as provide ongoing input (e.g., current news and family happenings). The client may respond positively to a wellknown person and familiar items.
+5. Maintain a calm environment and eliminate extraneous noise or other stimuli to prevent overstimulation. Provide normal levels of essential sensory and tactile stimulation— include personal items, pictures, and so forth.
+6. Mobilize an elderly client (especially after orthopedic injury) as soon as possible. An older person with low level of activity prior to crisis is at particular risk for acute confusion and may fare better when out of bed.
+7. Provide adequate supervision: remove harmful objects from environment, provide siderails and seizure precautions, place call bell and position needed items within reach, clear traffi c paths, and ambulate with devices to meet client’s safety needs and reduce risk of falls.
+8. Avoid or limit use of restraints. Can cause agitation and increase likelihood of untoward complications.
+9. Encourage the client to use vision or hearing aids when needed to assist the client in interpretation of environment and communication.
+10. Give simple directions. Allow suffi cient time for the client to respond, communicate, and make decisions.
+11. Establish and maintain elimination patterns. Disruption of elimination may be a cause for confusion, or changes in elimination may also be a symptom of acute confusion.
+12. Note behavior that may be indicative of a potential for violence and take appropriate actions. (Refer to ND risk for other- directed/self- directed Violence.)
+13. Assist with treatment of alcohol or drug intoxication and/or withdrawal, as indicated.
+14. Administer psychotropics cautiously to control restlessness, agitation, and hallucinations.
+15. Provide undisturbed rest periods.
+16. Refer to NDs impaired Memory; impaired verbal Communication, for additional interventions. 
+
+[Nursing Priority No. 4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Explain reason(s) for confusion, if known. Although acute confusion usually subsides over time as the client recovers from the underlying cause and/or adjusts to a situation, it can initially be frightening to a client/SO. Therefore, information about the cause and appropriate treatment to improve the condition may be helpful in managing a sense of fear and powerlessness.
+2. Discuss the need for ongoing medical review of the client’s medications to limit the possibility of misuse or potential for adverse actions or reactions.
+3. Assist in identifying ongoing treatment needs and emphasize the necessity of periodic evaluation to support early intervention.
+4. Educate SO/caregivers to monitor client at home for sudden change in cognition and behavior. An acute change is a classic presentation of delirium and should be considered a medical emergency. Early intervention can often prevent long- term complications.
+5. Emphasize the importance of keeping vision/hearing aids in good repair to improve the client’s interpretation of environmental stimuli and communication.
+6. Review ways to maximize the sleep environment (e.g., preferred bedtime rituals, comfortable room temperature, bedding and pillows, and elimination or reduction of extraneous noise or stimuli and interruptions) to prevent confusional state caused by sleep deprivation.
+7. Provide appropriate referrals (e.g., cognitive retraining, substance abuse treatment and support groups, medication monitoring program, Meals on Wheels, home health, or adult day care). 
+=====

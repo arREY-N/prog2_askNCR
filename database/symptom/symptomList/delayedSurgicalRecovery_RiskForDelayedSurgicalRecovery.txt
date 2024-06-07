@@ -1,0 +1,65 @@
+::Delayed Surgical Recovery And Risk For Delayed Surgical Recovery::
+
+::Definition::
+ - delayed Surgical Recovery: Extension of the number of postoperative days required to initiate and perform activities that maintain life, health, and well-being.
+ - risk for delayed Surgical Recovery: Susceptible to an extension of the number of postoperative days required to initiate and perform activities that maintain life, health, and well-being, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing factors or risk factors:
+1. Identify vulnerable client (e.g., low socioeconomic status, lack of resources, challenges related to poverty, lack of insurance or transportation, severe trauma or prolonged hospitalization with multiple complicating factors) who is at higher risk for adverse outcomes.
+2. Determine extent of surgical involvement of organs or tissues, noting age and developmental level, and general state of health to help determine time that may be required for client to resume activities of daily living (ADLs) and other activities, or expectation of time needed for healing.
+3. Note underlying condition or pathology (e.g., cancer, burns, diabetes, hypothyroidism, obesity, steroid therapy, major trauma, infections, radiation therapy, cardiopulmonary disorders, debilitating illness) that can adversely affect healing and prolong recuperation time. In this population, impaired pulmonary function, hyperglycemia, immobility, and nutritional defi cits can compromise wound healing.
+4. Determine the length of operative procedure or time under anesthesia (e.g., typical or lengthy); type and severity of perioperative complications (e.g., trauma or other conditions requiring multiple surgeries; heavy bleeding during procedure); type of surgical wound (e.g., clean, clean-contaminated, or grossly contaminated, acutely infected); and development of postoperative complications (e.g., surgical site infection, suture reactions, dehiscence, ventilator-associated pneumonia, deep vein thrombosis [DVT]) that can affect the pace of healing or prolong recovery.
+5. Determine age, developmental level, and general state of health to help determine time that may be required for client to resume ADLs and other activities, or expectation of time needed for healing.
+6. Evaluate circulation and sensation in surgical area, noting location of incision. Lack of blood supply at the wound site can slow healing. Note: Areas of the body such as the face and neck receive the most blood supply and heal the fastest, whereas areas such as extremities take longer to heal.
+7. Determine nutritional status and current intake to ascertain if nutrition is adequate to support healing. Client may have preexisting nutritional concerns or may have been fasting perioperatively or experienced nausea, vomiting, and loss of appetite postoperatively.
+8. Review client’s preoperative medications/other drug regimen to ascertain that none could impede healing processes (e.g., aspirin and NSAIDs, chemotherapy agents); or increase bleeding time (e.g., alcohol and some herbals such as garlic and ginkgo biloba can also be associated with bleeding complications).
+9. Perform pain assessment to ascertain whether pain management is adequate to meet client’s needs during recovery.
+10. Evaluate client’s cognitive and emotional state, noting presence of postoperative changes, including confusion, depression, apathy, expressions of helplessness to determine need for further assessment of possible physical or psychological interferences.
+11. Ascertain attitudes and cultural values of individual about condition. Family beliefs and cultural values impact rate and expectations for sick role and recovery.
+12. Review results of laboratory tests (e.g., complete blood count [CBC], blood/wound cultures, serum glucose; hormones [e.g., cortisol, glucocorticoid, and other hormones associated with infl ammation and immune system dysfunction]) to assess for presence and type of infections, immunosuppression, metabolic or endocrine dysfunction, or other conditions affecting body’s ability to heal.
+13. Note allergies or history of skin reactions. Evaluate use of plastics (e.g., incontinence pads or moisture barriers), tape/adhesives, or latex materials. Client sensitivity to adhesives and/or latex can cause skin or tissue reactions that delay primary wound healing and cause additional skin/tissue damage. Refer to NDs impaired Skin Integrity, Latex Allergy Reaction. 
+14. Note lifestyle factors (e.g., obesity, cigarette smoking, alcohol abuse, lack of exercise/sedentary lifestyle) that infl uence circulation and wound healing and can impede recovery.
+
+[Nursing Priority No. 2]
+    - To determine risks or impact of delayed recovery:
+1. Note length of hospitalization and progress in recovery to date to compare with expectations for procedure and situation.
+2. Determine client’s/signifi cant other’s (SO’s) expectations for recovery and specifi c stressors related to delay (e.g., return to work or school, home responsibilities, child care, fi nancial diffi culties, limited support system). 
+3. Determine energy level and current participation in ADLs. Compare with usual level of function. 
+4. Ascertain whether client usually requires assistance in home setting and who provides it, current availability, and capability
+5. Obtain psychological assessment of client’s emotional status, noting potential problems arising from current situation. 
+
+[Nursing Priority No.3]
+    - To promote optimal recovery and reduce risk of complications:
+1. Inspect incisions or wounds routinely, describing changes (e.g., deepening or healing, wound measurements, presence and type of drainage, development of necrosis).
+2. Practice and instruct client/caregiver(s) in proper hand hygiene and aseptic technique for incisional care to reduce incidence of contamination and infection.
+3. Administer antibiotics as appropriate, and medications to manage postoperative discomforts (e.g., pain, nausea, vomiting) and other concurrent or underlying conditions, such as diabetes, osteoporosis, heart failure, chronic obstructive pulmonary disease (COPD). Several types of medications may be needed. For example, client may require antibiotics perioperatively, insulin to support tissue repair, or management of chronic pain to improve mobility and tissue recovery.
+4. Instruct client/SO in necessary self-care of incisions and specific symptom management. With short hospital stays, client/SO(s) are usually expected to provide a great deal of postoperative care and monitoring at home.
+5. Provide wound care expectations and instructions in verbal and written forms to facilitate self-care and reduce likelihood of misinterpretation of information when client/SO is providing care at home.
+6. Instruct client/SO in routine inspection of incision or wound and to report changes in wound indicative of failure to heal (e.g., deepening wound, local or systemic fever, exudates [noting color, amount, and odor], loss of approximation of wound edges) to establish comparative baseline and allow for early intervention (e.g., antimicrobial therapy, wound irrigation or packing).
+7. Avoid or limit use of plastics or latex materials in wound care, as appropriate. Can delay healing and cause skin breakdown.
+8. Collaborate in treatment and assist with wound care, as indicated. May require barrier dressings, skin-protective agents, wound vac for open or draining wounds, or surgical débridement. Refer to/include wound care specialist or stomal therapist, as appropriate, to address treatment interventions to deal with healing diffi culties.
+9. Provide optimal nutrition with adequate protein to provide a positive nitrogen balance, which aids in healing and contributes to general good health.
+10. Encourage adequate fluid and electrolyte intake to avoid dehydration of tissues and to promote optimal cellular and organ function.
+11.  Encourage early ambulation and regular exercise to promote circulation, improve muscle strength and overall endurance, and reduce risks associated with immobility.
+12. Recommend pacing activities (alternating activity with adequate rest periods) to reduce fatigue and allow weakened muscles and tissues to recuperate.
+13. Employ nonpharmacological healing measures, as indicated (e.g., breathing exercises, listening to music, relaxation tapes, biofeedback, hot or cold applications) to promote relaxation of muscles and tissue healing as well as improve coping and outlook for positive healing experience.
+14. Refer for follow-up care, as indicated (e.g., telephone monitoring, home visit, wound care clinic, pain management program).
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations): 
+1. Demonstrate self-care skills, provide client/SO(s) with health-related information and psychosocial support to manage symptoms and pain, enhancing well-being.
+2. Discuss reality of recovery process in comparison with client’s/SO’s expectations. Individuals are often unrealistic regarding energy and time required for healing and own abilities and responsibilities to facilitate process.
+3. Involve client/SO(s) in setting incremental goals. Enhances commitment to plan and reduces likelihood of frustration blocking progress
+4. Refer to physical or occupational therapists, as indicated, to address exercise program and home-care needs or to identify assistive devices to facilitate independence in ADLs.
+5. Identify suppliers for dressings or wound care items and assistive devices as needed.
+6. Consult dietitian for individual dietary plan to meet increased nutritional needs that refl ect personal situation and resources.
+7. Evaluate home situation (e.g., lives alone, bedroom or bathroom on second floor, availability of assistance), where appropriate, to evaluate for benefi cial adjustments, such as moving bedroom to fi rst fl oor, arranging for commode during recovery, obtaining an in-home emergency call system.
+8. Discuss alternative placement (e.g., convalescent or rehabilitation center, as appropriate). 
+9. Identify community resources, as indicated (e.g., visiting nurse, home healthcare agency, Meals on Wheels, respite care). Facilitates adjustment to home setting.
+10. Recommend support group or self-help program for smoking cessation.
+11. Refer for counseling or support. May need additional help to overcome feelings of discouragement, deal with changes in life, weight management, and/or smoking cessation.
+
+=====

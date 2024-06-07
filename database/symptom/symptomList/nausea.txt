@@ -1,0 +1,58 @@
+::Nausea::
+
+::Definition::
+ A subjective phenomenon of an unpleasant feeling in the back of the throat and stomach, which may or may not result in vomiting. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To determine causative/contributing factors:
+1. Assess for presence of conditions of the gastrointestinal (GI) tract (e.g., peptic ulcer disease, bleeding into the stomach, cholecystitis, appendicitis, gastritis, constipation, intestinal blockage, ingestion of “problem” foods, food poisoning, excessive alcohol intake) that may cause or exacerbatenausea.
+2. Note systemic conditions that may result in nausea (e.g., pregnancy, cancer treatment, myocardial infarction, hepatitis, systemic infections, toxins, drug toxicity, presence of neurogenic causes [stimulation of the vestibular system], central nervous system trauma/tumor). Helps in determining appropriate interventions or need for treatment of underlying condition.
+3. Identify situations that client perceives as anxiety inducing, threatening, or distasteful (e.g., “This is nauseating”), such as might occur if client is having multiple diagnostic studies, facing surgery, or anticipating chemotherapy that has previously induced nausea or other stressful situations. May be able to limit or control exposure to situations or take medication prophylactically.
+4. Note psychological factors, including those that are culturally determined (e.g., eating certain foods considered repulsive in one’s own culture; seeing or smelling something “gross”; eating disorders such as anorexia and bulimia). 
+5. Determine if nausea is potentially self-limiting and/or mild (e.g., fi rst trimester of pregnancy, 24-hr GI viral infection) or is severe and prolonged (e.g., advanced cancer with multiple medications accompanied by anorexia, constipation, imbalances of calcium/other blood salts; certain cancer treatments; hyperemesis gravidarum). Suggests severity of effect onfl uid and electrolyte balance and nutritional status.
+6. Note client age and developmental level. Vomiting may occur along with nausea, especially in children (often a part of a short-lived viral infection). Nausea can occur with food intolerances, inner ear problems, pain, or medication reactions in any age client. Nausea in the elderly (in the absence of acute disease condition) may be associated with GI motility dysfunction, or medications, pain, or end-of-life issues. Nausea in a female of childbearing age may indicate pregnancy or hormonal infl uences associated with menstruation, anorexia, or migraine headaches.
+7. Review medication regimen, especially in elderly client on multiple drugs (polypharmacy). Drug interactions and side effects may cause or exacerbate nausea.
+8. Review results of diagnostic studies. Various studies may be done depending on the clinical suspicion of cause, such as blood tests (to check electrolytes, blood cell count), urinalysis (to check for dehydration and infection), and x-rays, ultrasound, or computed tomography (CT) scan to help identify or localize cause.
+
+[Nursing Priority No. 2]
+    -  To promote comfort and enhance intake:
+1. Collaborate with physician to treat underlying medical condition when cause of nausea is known (e.g., infection, adverse side effect of medications, recent anesthesia, food allergies, GI refl ux).
+2. Administer and monitor response to medications used to treat underlying cause of nausea (e.g., vestibular, bowel obstruction, dysmotility of upper gut, infection, infl ammation, toxins, cancer treatments) to determine effectiveness of treatment and to monitor for adverse effects of added medication (e.g., oversedation with risk of aspiration).
+3. Select route of medication administration best suited to client’s needs (i.e., oral, sublingual, injectable, rectal, transdermal).
+4. Review pain control regimen when client is experiencing nausea. Converting to long-acting opioids or combination drugs may decrease stimulation of the chemotactic trigger zone, reducing the occurrence of opioid-related nausea.
+5. Manage food and fl uids:
+ - Recommend client try dry foods such as toast, crackers, dry cereal before arising when nausea occurs in the morning or throughout the day, as appropriate.
+ - Encourage client to begin with ice chips or sips/small amounts of fl uids—4 to 8 ounces for adult; 1 ounce or less for child.
+ - Advise client to drink liquids 30 min before or after meals, instead of with meals.
+ - Provide diet and snacks of preferred or bland foods (including skinless chicken, rice, toast, pasta, potatoes) and fl uids (including caffeine-free nondiet carbonated beverages, clear soup broth, nonacidic fruit juice, gelatin, sherbet, or ices) to reduce gastric acidity and improve nutrient intake.
+ - Avoid milk/dairy products, overly sweet or fried and fatty foods, gas-forming vegetables (e.g., broccoli, caulifl ower, cucumbers) that may increase nausea or be more diffi cult to digest.
+ - Encourage client to eat small meals spaced throughout the day instead of large meals so stomach does not feel excessively full.
+ - Instruct client to eat slowly, chewing food well to enhance digestion.
+6. Monitor infusion rate of tube feeding, if present, to prevent rapid administration that can cause gastric distention and produce nausea.
+7. Recommend client remain seated after meal or with head well elevated above feet if in bed. 
+8. Provide clean, peaceful environment and fresh air with fan or open window. Avoid offending odors, such as cooking smells, smoke, perfumes, and mechanical emissions when possible, as they may stimulate or worsen nausea.
+9. Provide frequent oral care (especially after vomiting) to cleanse mouth and minimize “bad tastes.”
+10. Implement nonpharmacological measures:
+ - Encourage deep, slow breathing to promote relaxation and refocus attention away from nausea.
+ - Use distraction with music, chatting with family/friends, and watching TV to refocus attention away from unpleasant sensations.
+ - Administer antiemetic on regular schedule before, during, and after administration of antineoplastic agents to prevent or control side effects of medication.
+ - Time chemotherapy doses for least interference with food intake.
+ - Avoid sudden changes in position or excessive motion; move to aisle seat on plane or front seat of car. Focus on distance; face forward when riding. The actions may help prevent or limit severity of nausea associated with motion sickness. 
+11. Investigate use of electrical nerve stimulation or acupressure point therapy (e.g., elastic band worn around wrist with small, hard bump that presses against acupressure point). Some individuals with chronic nausea or history of motion sickness report this to be helpful, without the sedative effect of medication.
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Review individual factors or triggers causing nausea and ways to avoid problem. Provides necessary information for client to manage own care. Some individuals develop anticipatory nausea (a conditioned refl ex) that recurs each time he or she encounters the situation that triggers the refl ex.
+2. Instruct in proper use, side effects, and adverse reactions of antiemetic medications. Enhances client safety and effective management of condition.
+3. Discuss appropriate use of over-the-counter medications and herbal products (e.g., Dramamine, antacids, antifl atulents, ginger), or the use of THC (Marinol). 
+4. Encourage use of nonpharmacological interventions. Activities such as self-hypnosis, progressive muscle relaxation, biofeedback, guided imagery, and systemic desensitization promote relaxation, refocus client’s attention, increase sense of control, and decrease feelings of helplessness.
+5. Advise client to prepare and freeze meals in advance, have someone else cook, or use microwave or oven instead of stove-top cooking for days when nausea is severe or cooking is impossible.
+6. Suggest wearing loose-fitting clothing to reduce external pressure on abdomen.
+7. Recommend recording weight weekly, if appropriate, to help monitor fl uid and nutritional status.
+8. Discuss potential complications and possible need for medical follow-up or alternative therapies. Timely recognition and intervention may limit severity of complications (e.g., dehydration). 
+9. Review signs of dehydration and emphasize importance of replacing fl uids and/or electrolytes (with products such as Gatorade or other electrolyte drinks for adults or Pedialyte for children). Increases likelihood of preventing potentially serious electrolyte depletion.
+10. Review signs (e.g., emesis appears bloody, black, or like coffee grounds; feeling faint) that require immediate notifi cation of healthcare provider for needed interventions to prevent serious complications.
+
+=====

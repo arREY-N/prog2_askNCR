@@ -1,0 +1,7 @@
+::Vaginitis::
+
+impaired Tissue Integrity>impairedTissueIntegrity.txt
+acute Pain>acutePain.txt
+deficient Knowledge regarding hygienic and therapy needs and sexual behaviors and transmission of Infection>deficientKnowledgeregardinghygienicandtherapyneedsandsexualbehaviorsandtransmissionofInfection.txt
+
+=====

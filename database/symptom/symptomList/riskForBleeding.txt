@@ -1,0 +1,55 @@
+::Risk For Bleeding ::
+
+::Definition::
+ Susceptible to a decrease in blood volume, which 
+may compromise health. 
+
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess risk factors:
+1. Assess client risk, noting possible medical diagnoses or disease processes that may lead to bleeding as listed in risk factors. 
+2. Note the type of injury/injuries when the client presents with 
+trauma. The pattern and extent of injury and bleeding may or may not be readily determined. For example, unbroken skin can hide a signifi cant injury where a large amount of blood is lost within soft tissues; or a crush injury resulting in interruption of the integrity of the pelvic ring can cause life-threatening bleeding from three sources: arterial, venous, and bone edge bleeding.
+3. Determine the presence of hereditary factors, obtain a detailed history if a familial bleeding disorder is suspected, such as hereditary hemorrhagic telangiectasia (HHT), hemophilia, other factor defi ciencies, or thrombocytopenia. Hereditary bleeding or clotting disorders predispose the client to bleeding complications, necessitating specialized testing and/or referral to a hematologist.
+4. Note the client's gender. While bleeding disorders are common in both men and women, women are affected more owing to the increased risk of blood loss related to menstrual cycle and pregnancy complications/delivery procedures.
+5. Identify pregnancy-related factors, as indicated. Many factors can occur, including overdistention of the uterus—pregnant with multiples, prolonged or rapid labor, lacerations occurring during vaginal delivery, or retained placenta that can place the mother at risk for postpartum bleeding.
+6. Evaluate the client's medication regimen. The use of medications, such as nonsteroidal anti-infl ammatories (NSAIDs), anticoagulants, corticosteroids, and certain herbals (e.g., Ginkgo biloba ), predispose client to bleeding
+
+[Nursing Priority No. 2]
+    - To evaluate for potential bleeding: 
+7. Monitor perineum and fundal height in a postpartum client, and wounds, dressings, or tubes in a client with trauma, surgery, or other invasive procedures to identify active blood loss. Note: Hemorrhage may occur because of the inability to achieve hemostasis in the setting of injury or may result from the development of a coagulopathy.
+8. Evaluate and mark boundaries of soft tissues in enclosed structures, such as a leg or abdomen, to document expanding bruises or hematomas.
+9. Assess vital signs, including blood pressure, pulse, and respirations. Measure blood pressure lying/sitting/standing as indicated to evaluate for orthostatic hypotension; monitor invasive hemodynamic parameters when present to determine if an intravascular fl uid defi cit exists. Note: Fit, young people may lose 40% of their blood volume before the systolic blood pressure drops below 100 mm Hg, whereas the elderly may become hypotensive with volume loss of as little as 10%.
+10. Hematest all secretions and excretions for occult blood to determine possible sources of bleeding.
+11. Note client report of pain in specifi c areas, and whether pain is increasing, diffuse, or localized. This can help to identify bleeding into tissues, organs, or body cavities.
+12. Assess skin color and moisture, urinary output, level of consciousness, or mentation. Changes in these signs may be indicative of blood loss affecting systemic circulation or local organ function, such as kidneys or brain.
+13. Review laboratory data (e.g., complete blood count [CBC], platelet numbers and function, and other coagulation factors such as Factor I, Factor II, prothrombin time [PT], partial thromboplastin time [PTT], and fi brinogen) toevaluate bleeding risk. The common problem in life-threatening anemia is a sudden reduction in the oxygen-carrying capacity of the blood. Depending on the etiology, this may occur with or without reduction in the intravascular volume. It is generally accepted that an acute drop in hemoglobin to a level of 7 to 8 g/dL is symptomatic. 
+14. Prepare the client for or assist with diagnostic studies such as x-rays, computed tomography (CT) or magnetic resonance imaging (MRI) scans, ultrasound, or colonoscopy to determine the presence of injuries or disorders that could cause internal bleeding.
+
+[Nursing Priority No. 3]
+    -  To prevent bleeding/correct potential causes of excessive blood loss:
+1. Maintain the patency of vascular access for fl uid administration or blood replacement as indicated.
+2. Assist with the treatment of underlying conditions causing or contributing to blood loss, such as medical treatment of systemic infections or balloon tamponade of esophageal varices prior to sclerotherapy; use of proton pump inhibitor medications or antibiotics for gastric ulcer; or surgery for internal abdominal trauma or retained placenta. Treatment of underlying conditions may prevent or halt bleeding complication.
+3. Provide special intervention for the at-risk client, such as an individual with bone marrow suppression, chemotherapy, or uremia, to prevent bleeding associated with tissue injury:
+-- Monitor closely for overt bleeding. 
+    --Observe for diffuse oozing from tubes, wounds, or orifices with no observable clotting to identify excessive bleeding and/or possible coagulopathy.
+    -- Maintain direct pressure or pressure dressings as indicated for a longer period of time over arterial puncture sites to prevent oozing or active bleeding.
+    -- Hematest secretions and excretions for occult blood for early identifi cation of internal bleeding.
+    -- Protect the client from trauma such as falls, accidental or intentional blows, or lacerations. 
+    --Use soft toothbrush or toothettes for oral care to reduce risk of injury to the oral mucosa.
+4. Collaborate in evaluating the need for replacing blood loss or specifi c components and be prepared for emergency interventions. 
+5. Be prepared to administer hemostatic agents, if needed, to promote clotting and diminish bleeding by increasing coagulation factors, or medications such as proton pump inhibitors to reduce risk of gastrointestinal bleeding. 
+
+[Nursing Priority No. 4]
+    - To promote wellness (Teaching/Discharge Considerations): 
+1. Provide information to the client/family about hereditary or familial problems that predispose to bleeding complications. 
+2. Instruct at-risk client and family regarding: 
+    -- Specific signs of bleeding requiring healthcare provider notifi cation, such as active bright bleeding anywhere, prolonged epistaxis or trauma in a client with known factor bleeding tendencies, black tarry stools, weakness, vertigo, syncope, and so forthNeed to inform healthcare providers when taking aspirin and other anticoagulants (e.g., Lovenox, Coumadin, Plavix, Xeralto, Eliquis), especially when elective surgery or other invasive procedure is planned. (These agents will most likely be withheld for a period of time prior to elective procedures to reduce potential for excessive blood loss.)
+    -- Importance of periodic review of client's medication regimen to identify medications (prescriptions, over-the-counter, and herbals) that might cause or exacerbate bleeding problems.
+    -- Necessity of regular medical and laboratory follow-up when on warfarin (Coumadin) to determine needed dosage changes or client management issues requiring monitoring and/or modifi cation.
+    -- Dietary measures to improve blood clotting, such as foods rich in vitamin K. 
+    -- Need to avoid alcohol in diagnosed liver disorders or seek treatment for alcoholism in the presence of alcoholic varices. 
+    -- Techniques for postpartum client to check her own fundus and perform fundal massage as indicated, and to contact physician for postdischarge bleeding that is bright red or dark red with large clots (may prevent blood loss complications, especially if client is discharged early from hospital)
+
+=========

@@ -1,0 +1,14 @@
+::Ineffective Protection::
+
+::Definition::
+ Decrease in the ability to guard self from internal or external threats such as illness or injury. 
+
+::Note::
+ -The purpose of this diagnosis seems to combine multiple NDs under a single heading for ease of planning care when a number of variables may be present. Outcomes/evaluation criteria and interventions are specifically tied to individual related factors that are present, such as: 
+1. Extremes of age: Concerns may include body temperature or thermoregulation; memory or sensory-perceptual alterations, as well as impaired mobility, risk for falls, sedentary lifestyle, selfcare deficits; risk for trauma, suffocation, or poisoning; problems with skin or tissue integrity; and fluid volume imbalances.
+2. Inadequate nutrition: Brings up issues of nutrition, unstable blood glucose; infection, delayed surgical recovery; swallowing difficulties; impaired skin or tissue integrity; trauma, problems with coping, and family processes.
+3. Substance abuse: May be situational or chronic, with problems ranging from impaired respiration, decreased cardiac output, impaired liver function, and fluid volume deficits, to nutritional concerns, infection, trauma, risk for violence, and coping or family process difficulties.
+4. Abnormal blood profile: Suggests possibility of fluid volume imbalances, decreased tissue perfusion, problems with oxygenation, activity intolerance, or risk for infection or injury.
+5. Pharmaceutical agents and treatment-related side effects or concerns: Would include ineffective tissue perfusion, activity intolerance; cardiovascular, respiratory, and elimination concerns; risk for infection, fluid volume imbalances, impaired skin or tissue integrity, impaired liver function; pain, nutritional problems, fatigue or sleep difficulties; ineffective health management; and emotional responses (e.g., anxiety, sorrow, grieving, coping difficulties). 
+
+=====

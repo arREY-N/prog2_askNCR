@@ -1,0 +1,7 @@
+::Scoliosis::
+
+disturbed Body Image>disturbedBodyImage.txt
+deficient Knowledge regarding pathophysiology of condition, therapy needs, and possible Outcomes>deficientKnowledgeregardingpathophysiologyofconditiontherapyneedsandpossibleOutcomes.txt
+risk-prone Health Behavior>risk-proneHealthBehavior.txt
+
+=====
