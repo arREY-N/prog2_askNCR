@@ -1,0 +1,8 @@
+::Kawasaki Disease::
+hyperthermia>hyperthermia.txt
+acute Pain>acute Pain.txt
+impaired Skin Integrity>impairedSkinIntegrity.txt
+impaired oral Mucous Membrane Integrity>impairedoralMucousMembraneIntegrity.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+=====
+

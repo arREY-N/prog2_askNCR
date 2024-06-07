@@ -1,0 +1,9 @@
+::Paraplegia::
+quadriplegia>quadriplegia.txt
+impaired Transfer Ability>impairedTransferAbilty.txt
+disturbed kinesthetic_tactile Sensory Perception>disturbedkinesthetic_tactileSensoryPerception.txt
+reflex urinary Incontinence_impaired urinary Elimination>reflexurinaryIncontinence_impairedurinaryElimination.txt
+situational low Self-Esteem>situationallowSelf-Esteem.txt
+sexual Dysfunction>sexualDysfunction.txt
+=====
+

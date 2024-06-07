@@ -1,0 +1,12 @@
+::Burns (dependent on type, degree, and severity of the injury)::
+risk for deficient Fluid Volume / risk for Bleeding>riskfordeficientFluidVolume/riskforBleeding.txt
+risk for ineffective Airway Clearance>riskforineffectiveAirwayClearance.txt
+risk for Infection>riskforInfection.txt
+acute Pain / chronic Pain>acutePain/chronicPain.txt
+risk for imbalanced Nutrition: less than Body Requirements>riskforimbalancedNutrition:lessthanBodyRequirements.txt
+post-Trauma Syndrome>post-TraumaSyndrome.txt
+ineffective Protection>ineffectiveProtection.txt
+deficient Diversional Activity>deficientDiversionalActivity.txt
+risk for delayed Development>riskfordelayedDevelopment.txt
+=====
+

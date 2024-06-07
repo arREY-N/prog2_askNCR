@@ -1,0 +1,7 @@
+::Nonketotic Hyperglycemic-Hyperosmolar Coma::
+deficient Fluid Volume>deficientFluidVolume.txt
+imbalanced Nutrition: less than body requirements>imbalancedNutritionlessthanbodyrequirements.txt
+decreased Cardiac Output>decreasedCardiacOutput.txt
+risk for Trauma>riskforTrauma.txt
+=====
+

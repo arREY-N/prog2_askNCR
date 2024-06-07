@@ -1,0 +1,9 @@
+::Wound, Gunshot::
+
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+acute Pain>acutePain.txt
+impaired Tissue Integrity>impairedTissueIntegrity.txt
+risk for Infection>riskforInfection.txt
+risk for Post-Trauma Syndrome>riskforPost-TraumaSyndrome.txt
+
+=====

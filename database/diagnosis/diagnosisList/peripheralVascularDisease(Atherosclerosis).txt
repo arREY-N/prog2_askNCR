@@ -1,0 +1,6 @@
+::Peripheral Vascular Disease (Atherosclerosis)::
+ineffective peripheral Tissue Perfusion>ineffectiveperipheralTissuePerfusion.txt
+activity Intolerance>activityIntolerance.txt
+risk for impaired Skin_Tissue Integrity>riskforimpairedSkin_TissueIntegrity.txt
+=====
+

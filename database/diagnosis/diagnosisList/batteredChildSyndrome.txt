@@ -1,0 +1,9 @@
+::Battered Child Syndrome::
+abuse, physical>abusePhysical.txt
+risk for Other-Directed Violence>riskforOther-DirectedViolence.txt
+interrupted Family Processes / impaired Parenting>interruptedFamilyProcesses/impairedParenting.txt
+chronic low Self-Esteem>chroniclowSelf-Esteem.txt
+post-Trauma Syndrome >postTraumaSyndrome.txt
+ineffective Coping>ineffectiveCoping.txt
+=====
+

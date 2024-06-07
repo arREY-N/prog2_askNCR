@@ -1,0 +1,7 @@
+::Gonorrhea::
+sexually Transmitted Infection (STI)>sexuallyTransmittedInfection(STI).txt
+risk for Infection>riskforInfection.txt
+acute Pain>acutePain.txt
+deficient Knowledge regarding disease cause, tarnsmission, therapy, and self-care needs>deficientKnowledgeRegardingDiseaseCauseTransmissionTherapyandSelf-CareNeeds.txt
+=====
+

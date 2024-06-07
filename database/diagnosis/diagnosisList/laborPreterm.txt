@@ -1,0 +1,8 @@
+::Labor, Preterm::
+activity Intolerance>activityIntolerance.txt
+risk for Poisoning>riskforPoisoning.txt
+risk for fetal Injury>riskforFetalInjury.txt
+anxiety>anxiety.txt
+deficient Knowledge regarding preterm labor treatment needs and prognosis>deficientKnowledgeRegardingPretermLaborTreatmentNeedsandPrognosis.txt
+=====
+

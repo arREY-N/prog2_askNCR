@@ -1,0 +1,8 @@
+::Cardiac Surgery::
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+risk for deficient Fluid Volume_risk for Bleeding>riskfordeficientFluidVolume_riskforBleeding.txt
+risk for impaired Gas Exchange>riskforimpairedGasExchange.txt
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+impaired Skin_Tissue Integrity>impairedSkin_TissueIntegrity.txt
+=====
+

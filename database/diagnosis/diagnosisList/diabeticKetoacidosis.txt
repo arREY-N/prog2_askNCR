@@ -1,0 +1,7 @@
+::Diabetes Ketoacidosis::
+deficient Fluid Volume>deficientFluidVolume.txt
+unstable Blood Glucose Level>unstableBloodGlucoseLevel.txt
+fatigue>fatigue.txt
+risk for Infection>riskforInfection.txt
+=====
+

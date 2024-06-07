@@ -1,0 +1,8 @@
+::Enteral Feeding::
+imbalanced Nutrition: less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+risk for Infection>riskforInfection.txt
+risk for Aspiration>riskforAspiration.txt
+risk for imbalanced Fluid Volume>riskforimbalancedFluidVolume.txt
+fatigue>fatigue.txt
+=====
+

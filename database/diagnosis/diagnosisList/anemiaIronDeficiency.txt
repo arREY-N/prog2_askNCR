@@ -1,8 +1,11 @@
 ::Anemia, Iron-Deficiency::
-
+<<<<<<< HEAD
+Anemia>Anemia.txt
+=======
 also refer to Anemia>alsorefertoAnemia.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 fatigue>fatigue.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
 risk for impaired oral Mucous Membrane>riskforimpairedoralMucousMembrane.txt
-
 =====
+

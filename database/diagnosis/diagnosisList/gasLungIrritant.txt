@@ -1,0 +1,6 @@
+::Gas, Lung Irritant::
+ineffective Airway Clearance>ineffectiveAirwayClearance.txt
+risk for impaired Gas Exhange>riskforimpairedGasExchange.txt
+anxiety>anxiety.txt
+=====
+

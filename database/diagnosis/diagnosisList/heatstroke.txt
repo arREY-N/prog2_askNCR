@@ -1,0 +1,5 @@
+::Heatstroke::
+hyperthermia>hyperthermia.txt
+decreased Cardiac Output>decreasedCardiacOutput.txt
+=====
+

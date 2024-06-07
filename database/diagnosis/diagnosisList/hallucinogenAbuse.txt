@@ -1,0 +1,6 @@
+::Hallucinogen Abuse::
+substance dependence_abuse Rehabilitation>substancedependence_abuseRehabilitation.txt
+self-neglect>self-neglect.txt
+self-care Deficit>self-care Deficit.txt
+=====
+

@@ -1,0 +1,98 @@
+::Decreased Cardiac Output/risk For Decreased Cardiac Output::
+
+::Definition::
+decreased Cardiac Output : Inadequate blood
+pumped by the heart to meet the metabolic demands of the
+body. 
+
+risk for decreased Cardiac Output : Susceptible to
+inadequate blood pumped by the heart to meet the metabolic demands of the body, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify causative/contributing or risk factors:
+1. Identify clients exhibiting symptoms or at risk as noted in Related/Risk Factors and Defi ning Characteristics. In addition to an individual who is obviously at risk because of known cardiac problems, there is a potential for cardiac output issues in others (e.g., person with traumatic injuries and hemorrhage; brainstem trauma; spinal cord injury [SCI] at T8 or above; chronic renal failure, alcohol and other drug intoxication, substance withdrawal or overdose; or pregnant woman with hypertensive states).
+2. Note age- and ethnic- related cardiovascular considerations. In infants, failure to thrive with poor ability to suck and feed can be indications of heart problems. When in the supine position, pregnant women incur decreased vascular return during the second and third trimesters, potentially compromising cardiac output. Contractile force is naturally decreased in the elderly with reduced ability to increase cardiac output in response to increased demand. Also, arteries are stiffer, veins are more dilated, and heart valves are less competent, often resulting in systemic hypertension and blood pooling. Generally, higher- risk populations for decreased cardiac output due to heart failure include African Americans, Hispanics, Native Americans, and recent immigrants from developing nations, directly related to the higher incidence and prevalence of hypertension and diabetes.
+3. Assess the potential for/type of developing shock states: hematogenic, septicemic, cardiogenic, vasogenic, and psychogenic.
+4. Review laboratory data, including but not limited to complete blood count (CBC), electrolytes, arterial blood gases (ABGs), cardiac biomarkers (e.g., creatine kinase and its subclasses, troponins, myoglobin, and LDH); lactate; brain natriuretic peptide (BNP); kidney, thyroid, and liver function studies; cultures (e.g., blood, wound, or secretions); and bleeding and coagulation studies to identify client at risk, and promote early intervention, if indicated.
+5. Review diagnostic studies, including but not limited to: chest radiograph, cardiac stress testing, electrocardiogram (ECG), echocardiogram, cardiac output and ventricular ejection studies, and heart scan or catheterization. For example, the ECG may show previous or evolving myocardial infarction (MI), left ventricular hypertrophy, and valvular stenosis. Doppler fl ow echocardiogram showing an ejection fraction (EF) less than 40% is indicative of systolic dysfunction. 
+
+[Nursing Priority No. 2]
+    - To assess degree of debilitation (decreased Cardiac Output):
+1. Assess and monitor for client reports of chest pain. Note location, intensity, characteristics, and radiation of pain. May indicate evolving heart attack; can also accompany congestive heart failure. Chest pain may be atypical in women experiencing an MI and is often atypical in the elderly owing to altered pain perception.
+2. Evaluate client reports and evidence of extreme fatigue, intolerance for activity, sudden or progressive weight gain, swelling of extremities, and progressive shortness of breath to assess for signs of poor ventricular function and/or impending cardiac failure.
+3. Determine vital signs/hemodynamic parameters including cognitive status. Note vital sign response to activity or procedures and time required to return to baseline. This provides a baseline for comparison to follow trends and evaluate response to interventions.
+4. Review signs of impending failure/shock, noting decreased cognition and unstable or subnormal blood pressure or hemodynamic parameters; tachypnea; labored respirations; changes in breath sounds (e.g., crackles or wheezing); distant or altered heart sounds (e.g., murmurs or dysrythmias); neck vein and peripheral edema; and reduced urinary output. Early detection of changes in these parameters promotes timely intervention to limit the degree of cardiac dysfunction.
+5. Note the presence of pulsus paradoxus, especially in the presence of distant heart sounds, suggesting cardiac tamponade.
+
+[Nursing Priority No.3]
+    -  To minimize/correct causative factors, maximize cardiac output
+(decreased Cardiac Output). 
+Acute Phase
+1. Keep client on bed or chair rest in a position of comfort. (In a congestive state, semi-Fowler’s position is preferred.) May raise legs 20 to 30 degrees in shock situation (if indicated per facility protocol). This decreases oxygen consumption and the risk of decompensation.
+2. Administer oxygen via mask or ventilator, as indicated, to increase oxygen available for cardiac function/tissue perfusion.
+3. Monitor vital signs frequently to note response to activities and interventions.
+4. Perform periodic hemodynamic measurements, as indicated. Note: If arterial, CVP, pulmonary, and left atrial pressures and cardiac output measures are indicated, the client will be cared for in a critical care unit.
+5. Monitor cardiac rhythm continuously to note the effectiveness of medications and/or assistive devices, such as implanted pacemaker or defi brillator.
+6. Administer fluids, diuretics, inotropic drugs, antidysrhythmics, steroids, vasopressors, and/or dilators, as indicated to support systemic and cardiac circulation. Evaluate response to determine therapeutic, adverse, or toxic effects of therapy.
+7. Restrict or administer fluids (IV/PO), as indicated, if cardiopulmonary congestion is present. Provide adequate fl uid/ free water, depending on client needs.
+8. Assess urine output hourly or periodically; weigh daily, noting total fl uid balance to allow for timely alterations in therapeutic regimen.
+9. Monitor the rate of IV drugs closely, using infusion pumps, as appropriate, to prevent bolus or overdose.
+10. Provide a quiet environment to promote adequate rest.
+11. Schedule activities and assessments to maximize rest periods.
+12. Assist with or perform self- care activities for client.
+13. Avoid the use of restraints whenever possible if the client is confused. May increase agitation and increase the cardiac workload.
+14. Use sedation and analgesics, as indicated, with caution to achieve the desired effect without compromising hemodynamic readings.
+15. Alter environment/bed linens and administer antipyretics or cooling measures, as indicated, to maintain body temperature in near- normal range.
+16. Encourage the client to breathe in/out during activities that increase risk for the Valsalva effect; limit suctioning/stimulation of coughing refl ex in intubated client; administer stool softeners when indicated.
+17. Instruct the client to avoid/limit activities that may stimulate a Valsalva response (e.g., bearing down during bowel movement), which can cause changes in cardiac pressures and/ or impede blood fl ow.
+18. Provide psychological support. Maintain a calm attitude, but admit concerns if questioned by the client. Honesty can be reassuring when so much activity and “worry” are apparent to the client.
+19. Provide information about testing procedures and client participation.
+20. Assist with preparations for and monitor response to support procedures or devices as indicated (e.g., cardioversion, pacemaker, angioplasty, and stent placement, coronary artery bypass graft [CABG] or valve replacement, intra- aortic balloon pump [IABP], left ventricular assist device [LVAD] total artifi cial heart [TAH], transplantation). Any number of interventions may be required to correct a condition causing heart failure or to support a failing heart during recovery from myocardial infarction, while awaiting transplantation, or for long- term management of chronic heart failure.
+21. Explain dietary or fl uid restrictions, as indicated. 
+
+[Nursing Priority No. 4]
+    -  To maximize cardiac output or minimize risk factors.
+ Postacute/Chronic Phase
+1. Provide for and encourage adequate rest.
+2. Increase activity levels gradually as permitted by individual condition, noting vital sign response to activity.
+3. Administer medications, as appropriate, and monitor cardiac responses.
+4. Encourage relaxation techniques to reduce anxiety, muscle tension.
+5. Elevate legs when in sitting position (if heart failure present or extremities are edematous). Apply antiembolic hose or sequential compression devices when indicated, being sure they are individually fi tted and appropriately applied. This limits venous stasis, improves venous return and systemic circulation, and reduces the risk of thrombophlebitis.
+6. Avoid a prolonged sitting position for all clients, and supine position for sleep or exercise for gravid clients (second and third trimesters) to maximize vascular return.
+7. Encourage relaxation techniques to reduce anxiety and conserve energy.
+8. Provide skin protective measures (e.g., frequent position changes, early ambulation, monitoring of bony prominences, sheepskin or special fl otation mattress) to avoid the development of pressure sores in the setting of impaired circulation and generalized weakness or debilitation. Refer to ND risk for Pressure Ulcer, as indicated. 
+
+[Nursing Priority No. 5]
+    - To maintain nutrition and fl uid balance:
+1. Provide for diet restrictions (e.g., low- sodium, bland, soft, low- calorie/low fat diet, with frequent small feedings), as indicated.
+2. Note reports of anorexia or nausea and withhold oral intake, as indicated.
+3. Provide fluids and electrolytes, as indicated, to minimize dehydration and dysrhythmias.
+4. Monitor intake/output and calculate 24- hour fl uid balance.
+
+[Nursing Priority No. 6]
+    -  To promote wellness (Teaching/Discharge Considerations):
+ For client with established decreased cardiac output:
+1. Review specifics of drug regimen, diet, exercise/activity plan. Emphasize necessity for long- term management of cardiac conditions.
+2. Discuss significant signs/symptoms that require prompt reporting to healthcare provider (e.g., muscle cramps, headaches, dizziness, or skin rashes), which may be signs of drug toxicity and/or electrolyte loss, especially potassium.
+3. Emphasize importance of regular medical follow- up care. Review “danger” signs requiring immediate physician notifi cation (e.g., unrelieved or increased chest pain, functional decline, dyspnea, or edema), which may indicate deteriorating cardiac function, heart failure.
+4. Encourage changing positions slowly and dangling legs before standing to reduce risk for orthostatic hypotension, especially if heart failure present.
+5. Give information about positive signs of improvement, such as decreased edema and improved vital signs/circulation, to provide encouragement.
+6. Teach home monitoring of weight, pulse, and/or blood pressure, as appropriate, to detect change and allow for timely intervention.
+7. Arrange time with nutritionist/dietitian to determine/adjust individually appropriate diet plan.
+8. Promote visits from family/SO(s) who provide positive social interaction.
+9. Encourage relaxing environment, using relaxation techniques, massage therapy, soothing music, and quiet activities.
+10. Refer to cardiac rehabilitation program, as indicated.
+11. Direct client and/or caregivers to resources for emergency assistance, financial help, durable medical supplies, and psychosocial support and respite, especially when client has impaired functional capabilities or requires supporting equipment (e.g., pacemaker, LVAD, or 24- hour oxygen).
+12. Identify resources for weight reduction, cessation of smoking, and so forth, to provide support for change.
+13. Refer to NDs Activity Intolerance; defi cient Diversional Activity Engagement; ineffective Coping; ineffective Breathing Pattern; compromised family Coping; defi cient/excess Fluid Volume; imbalanced Nutrition: less than body requirements; Overweight; acute/chronic Pain; risk for decreased cardiac Tissue Perfusion; risk for ineffective peripheral Tissue Perfusion; Sexual Dysfunction, as indicated.
+    - For at- risk client:
+    -- Discuss the individual’s particular risk factors (e.g., smoking, stress, obesity, or recent MI) and specifi c resources for assistance (e.g., written information sheets, direction to helpful Web sites, formalized rehabilitation programs, and home interventions) for management of identifi ed risk factors.
+    -- Provide information to clients/caregivers on individual condition, therapies, and expected outcomes.
+    -- Educate client/caregivers about drug regimen, including indications, dose and dosing schedules, potential adverse side effects, or drug/drug interactions.
+    -- Provide instruction for home monitoring of weight, pulse, and blood pressure, as appropriate.
+    -- Discuss signifi cant signs/symptoms that need to be reported to healthcare provider, such as unrelieved or increased chest pain, dyspnea, fever, swelling of ankles, and sudden unexplained cough.
+    -- Emphasize the importance of regular medical follow- up care to monitor the client’s condition and provide early intervention when indicated to prevent complications.
+
+=====

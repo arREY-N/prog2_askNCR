@@ -1,0 +1,8 @@
+::Pelvic Inflammatory Disease::
+risk for Infection>riskforInfection.txt
+acute Pain>acutePain.txt
+hyperthermia>hyperthermia.txt
+risk for situational low Self-Esteem>riskforsituationallowSelf-Esteem.txt
+deficient Knowledge regarding cause, complications of condition, therapy needs, and transmission of disease to Others>deficientKnowledgeRegardingCauseComplicationsofConditionTherapyNeedsandTransmissionofDiseasetoOthers.txt
+=====
+

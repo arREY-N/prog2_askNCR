@@ -1,0 +1,8 @@
+::Botulism (food-borne)::
+deficient Fluid Volume>deficientFluidVolume.txt
+impaired Physical Mobility>impairedPhysicalMobility.txt
+anxiety/Fear>anxiety/Fear.txt
+risk for impaired Spontaneous Ventilation>riskforimpairedSpontaneousVentilation.txt
+contamination>contamination.txt
+=====
+

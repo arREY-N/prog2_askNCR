@@ -1,0 +1,5 @@
+::Latex Allergy::
+latex Allergy Reaction>latexAllergyReaction.txt
+risk for risk-prone Health Behavior>riskforrisk-proneHealthBehavior.txt
+=====
+

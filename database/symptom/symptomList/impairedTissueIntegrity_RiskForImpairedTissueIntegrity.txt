@@ -1,0 +1,86 @@
+::impaired TISSUE INTEGRITYand risk for impaired
+TISSUE INTEGRITY ::
+
+::Definition::
+ - Impaired Tissue Integrity: Damage to the mucous membrane, cornea, integumentary system, muscular fascia, muscle, tendon, bone cartilage, joint capsule, and/or ligament. 
+ - Risk For Impaired Tissue Integrity: Susceptible to damage to the mucous membrane, cornea, integumentary system, muscular fascia, muscle, tendon, bone cartilage, joint capsule, and/or ligament, which may compromise health. 
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify causative/contributing or risk factors: 
+1. Identify underlying conditions or pathology. Assess for individual factors that can result in tissue damage or can impede healing; for example: (1) trauma that causes internal tissue damage (e.g., burns, high-velocity and penetrating trauma); fractures (especially long-bone fractures) with hemorrhage; (2) external pressures (e.g., from tight dressings, splints or casting, burn eschar); (3) immobility (e.g., long-term bedrest, traction/cast); (4) presence of conditions affecting peripheral circulation and sensation (e.g., atherosclerosis, diabetes, venous insuffi ciency); (5) lifestyle factors (e.g., smoking, obesity, and sedentary lifestyle); (6) use of medications (e.g., anticoagulants, corticosteroids, immunosuppressives, antineoplastics) that adversely affect healing; (7) malnutrition (deprives the body of protein and calories required for cell growth and repair); and (8) dehydration (impairs transport of oxygen and nutrients).
+2. Note age, developmental stage, and gender. Children, young adults, elderly persons, and men are at greater risk for injury, which may refl ect client’s ability or desire to protect self, and infl uences choice of interventions or teaching.
+3. Determine mechanism of traumatic injury where indicated (e.g., chemical burn affecting skin, mucous membranes; electrical/high-voltage injury, car crash, gunshot wound; environmental exposure to toxins or extreme temperatures). Suggests initial treatment options and potential for tissue damage. Note: Information should include type of injuring agent (e.g., acid or base with route and length of exposure to offending agent; fi re; penetration of contaminated object; possibility of coexisting injuries).
+4. Note race or ethnic background, familial history for genetic, sociocultural, and religious factors that may make individual vulnerable to particular condition or impact treatment.
+5. Evaluate skin and mucous membranes for hydration status; note presence and degree of edema (1+ to 4+), urine characteristics and output. Determines presence of circulatory or metabolic imbalances resulting in fl uid defi cit or overload that can adversely affect cell or tissue health and organ function. Note: Edematous tissues are prone to breakdown. Refer to NDs risk for imbalanced Fluid Volume, impaired Skin Integrity, risk for Pressure Ulcer.
+6. Examine eyes for conjunctivitis, hemorrhage, burns, abrasions, or lacerations as indicated. Note reports of dry, scratchy eye, vision impairment, or pain. May indicate injury to eye tissues requiring more intensive evaluation and interventions. (Refer to ND risk for Dry Eye, and risk for corneal Injury for related interventions.) 
+7. Determine nutritional status and impact of malnutrition on situation (e.g., pressure points on emaciated and/or elderly client, obesity, lack of activity, slow healing or failure to heal). 
+8. Note evidence of deep organ or tissue involvement in client with wound (e.g., draining fi stula through the integumentary and subcutaneous tissue may signal a bone infection). 
+9. Note use of prosthetic, diagnostic, or external devices (e.g., artificial limbs, contacts, dentures, endotracheal airways, indwelling catheters, esophageal dilators), which can cause pressure on/injure delicate tissues or provide entry point for infectious agents.
+10. Assess blood supply and sensation (nerve damage) of affected area.
+11. Note poor hygiene or health practices (e.g., lack of cleanliness, frequent use of enemas, poor dental care) that may be impacting tissue health.
+12. Assess environmental location of home and work or school, as well as recent travel. Some areas of a country or city may be more susceptible to certain disease conditions or environmental pollutants.
+13. Evaluate pulses, calculate ankle-brachial index to evaluate potential for impairment of circulation to lower extremities. Result less than 0.9 indicates need for close monitoring or more aggressive intervention (e.g., tighter blood glucose and weight control in diabetic client).
+14. Refer to NDs (dependent on individual situation) risk for peripheral Neurovascular Dysfunction; risk for perioperative Positioning Injury; impaired physical/bed Mobility; impaired Skin Integrity; [disturbed visual Sensory Perception]; ineffective peripheral Tissue Perfusion; risk for Trauma; risk for Infection for related interventions.
+
+[Nursing Priority No. 2]
+    -  To assess degree of impairment: (impaired Tissue Integrity)
+1. Obtain a history of condition (e.g., pressure, venous, or diabetic wound; eye or oral lesions), including whether condition is acute or recurrent; original site/characteristics of wound; duration of problem and changes that have occurred over time. 
+2. Assess skin and tissues, bony prominences, pressure areas and wounds for comparative baseline:
+ - Note color, texture, and turgor.
+ - Assess areas of least pigmentation for color changes (e.g., sclera, conjunctiva, nailbeds, buccal mucosa, tongue, palms, and soles of feet).
+ - Note presence, location, and degree of edema.
+ - Record size (depth/width), color, location, temperature, texture of wounds or lesions.
+ - Determine degree and depth of injury or damage to integumentary system (involves epidermis, dermis, and/or underlying tissues), extent of tunneling or undermining, if present.
+ - Classify burns. Use appropriate measuring tool (e.g., Braden or similar) and staging (I to IV) for ulcers.
+ - Document with drawings and/or photograph wound, lesion(s), burns, as appropriate.
+ - Observe for other distinguishing characteristics of surrounding tissue (e.g., exudate; granulation; cyanosis or pallor; tight, shiny skin). 
+ - Describe wound drainage (e.g., amount, color, odor)
+3. Assist with diagnostic procedures (e.g., x-rays, imaging scans, biopsies, débridement). May be necessary to determine extent of impairment.
+4. Obtain specimens of exudate and lesions for Gram stain, culture and sensitivity, and so forth, when appropriate.
+5. Determine psychological effects of condition on client/significant other(s) (SO[s]). Can be devastating for client’s body or self-image and esteem, especially if condition is severe, disfi guring, or chronic, as well as costly and burdensome for SO(s)/caregiver.
+
+[Nursing Priority No.3]
+    - To correct/ reduce risk of impairment and to facilitate healing: 
+1. Inspect lesions or wounds daily, or as appropriate, for changes (e.g., signs of infection, complications, or healing). Promotes timely intervention and revision of plan of care.
+2. Modify or eliminate factors contributing to condition, if possible. Assist with treatment of underlying condition(s), as appropriate. 
+3. Provide or encourage optimum nutrition (including adequate protein, lipids, calories, trace minerals, and multivitamins) to promote tissue health/healing and adequate hydration to reduce and replenish cellular water loss and enhance circulation.
+4. Encourage adequate periods of rest and sleep to limit metabolic demands, maximize energy available for healing, and meet comfort needs.
+5. Provide or assist with oral care (e.g., teaching oral and dental hygiene, avoiding extremes of hot or cold, changing position of endotrachial and nasogastric tubes, lubricating lips) to prevent damage to mucous membranes. Refer to ND, impaired oral Mucous Membranes for related interventions.
+6. Promote early and ongoing mobility. Assist with or encourage position changes, active or passive and assistive exercises in immobile client to promote circulation and prevent excessive tissue pressure.
+7. Collaborate with other healthcare providers (e.g., physician, burn specialist, ophthalmologist, infection or wound specialist, ostomy nurse), as indicated, to assist with developing plan of care for problematic or potentially serious wounds.
+8. Apply appropriate barrier dressings or wound coverings (e.g., semipermeable, occlusive, wet-to-dry, hydrocolloid, hydrogel, polyacrylate moist wound dressing), drainage appliances, and skin-protective agents for open or draining wounds and stomas to protect the wound and surrounding tissues from excoriating secretions or drainage and to enhance healing.
+9. Practice aseptic technique for cleansing, dressing, or medicating lesions. Reduces risk of infection and/or failure to heal.
+10. Use appropriate catheter (e.g., peripheral or central venous) when infusing anticancer or other toxic drugs, and ascertain that IV liquid is patent and infusing well to prevent infi ltration and extravasation with resulting tissue damage.
+11. Monitor for correct placement of tubes, catheters, and other devices; assess skin tissues around these devices for effects of tape or fasteners or pressure from the devices to prevent damage to skin and tissues as a result of pressure, friction, or shear forces.
+12. Develop regularly timed repositioning schedule for client with mobility and sensation impairments, using adequate personnel and assistive devices as needed; encourage and assist with periodic weight shifts for client in chair to reduce stress on pressure points and encourage circulation to tissues.
+13. Provide appropriate mattress (e.g., foam, fl otation, alternating pressure, or air mattress) and appropriate padding devices (e.g., foam boots, heel protectors, ankle rolls), when indicated.
+14. Limit use of plastic material (e.g., rubber sheet, plasticbacked linen savers) and remove wet or wrinkled linens promptly. Moisture potentiates skin and underlying tissues, increasing risk of breakdown and infection.
+15. Provide or instruct in proper care of extremities during cold or hot weather. Individuals with impaired sensation or young children/individuals unable to verbalize discomfort require special attention to deal with extremes in weather.
+16. Protect client from environmental hazards when vision or hearing or cognitive defi cits impact safety. 
+17. Advise smoking cessation and refer for assistance or support, if indicated. Smoking causes vasoconstriction that interferes with healing.
+18. Monitor laboratory studies (e.g., complete blood count, electrolytes, glucose, cultures) for changes indicative of healing or presence of infection, complications.
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Encourage verbalizations of feelings and expectations regarding condition and potential for recovery of structure and
+function. 
+2. Help client and family identify effective successful coping
+mechanisms and implement them to reduce pain or discomfort and to improve quality of life.
+3. Discuss importance of early detection and reporting of
+changes in condition or any unusual physical discomforts or
+changes in pain characteristics. Promotes early intervention
+and reduces potential for complications.
+4. Educate the client/caregivers on proper safety precautions regarding hazardous materials, as indicated:
+ - Inform client/caregivers of various substances in the home that are potentially dangerous. 
+ - Counsel parents on how to keep chemicals out of the reach of children, cognitively impaired person.
+ - Consult with local social services agency to evaluate child’s home situation.
+ - Refer client to appropriate agencies for adequate training and protective equipment to protect against hazardous materials/agents in the community or employment setting.
+6. Emphasize need for adequate nutritional and fl uid intake to optimize healing potential.
+7. Instruct in dressing changes (technique and frequency) and proper disposal of soiled dressings to prevent spread of infectious agent.
+8. Review medical regimen (e.g., proper use of topical sprays, creams, ointments, soaks, or irrigations) to facilitate tissue healing and prevent complications associated with lack of knowledge about maintaining tissue integrity.
+9. Emphasize importance of follow-up care, as appropriate (e.g., diabetic foot care clinic, wound care specialist or clinic, enterostomal therapist). 
+10. Identify required changes in lifestyle, occupation, or environment necessitated by limitations imposed by condition or to avoid causative factors.
+11. Refer to community or governmental resources, as indicated (e.g., Public Health Department, Occupational Safety and Health Administration [OSHA], American Burn Association).
+
+=====

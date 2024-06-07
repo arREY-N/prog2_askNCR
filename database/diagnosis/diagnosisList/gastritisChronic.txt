@@ -1,0 +1,5 @@
+::Gastritis, Chronic::
+risk for imbalanced Nutrition: less than Body Requirements>riskforimbalanceNutritionlessthanBodyRequirements.txt
+deficient Knowledge regarding pathophysiology, psychological factors, theraphy needs, and potential complications>deficientKnowledgeRegardingPathophysiologyPsychologicalFactorsTheraphyNeedsandPotentialComplications.txt
+=====
+

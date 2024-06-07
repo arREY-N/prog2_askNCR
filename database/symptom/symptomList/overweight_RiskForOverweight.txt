@@ -1,0 +1,67 @@
+::Overweight And Risk For Overweight::
+
+::Definition::
+ - Overweight: A condition in which an individual accumulates abnormal or excessive fat for age and gender.
+ - Risk For Overweight: Susceptible to abnormal or excessive fat accumulation for age and gender, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To identify contributing or risk factors:
+1. Obtain weight history, noting if client has weight gain out of character for self or family, is or was an obese child, or used to be much more physically active than is now to identify trends. Note: Unchecked weight gain can lead to obesity, which is now the most prevalent nutritional disorder among children and adolescents in the United States (45% of all adults and approximately 18% of youths ages 2 to 19 years).
+2. Assess risk and presence of factors or conditions associated with obesity (e.g., familial pattern of obesity; decreased basal metabolic rate or hypothyroidism; type 2 diabetes; reproductive dysfunction; menopause; chronic disorders, such as heart disease, kidney disease, chronic pain; food or other substance addictions; stressful or sedentary lifestyle; depression; use of certain medications such as steroids, birth control pills; physical disabilities or limitations; lack of socioeconomic resources for obtaining or preparing healthy foods) to determine treatments and interventions that may be indicated in addition to weight management.
+3. Assess client’s knowledge of own body weight and nutritional needs, and determine cultural expectations regarding size. Although nutritional needs are not always understood, being overweight or having large body size may not be viewed negatively by an individual, because it is considered in relation to family eating patterns, and peer and cultural infl uences.
+4. Identify familial and cultural influences regarding food. People of many cultures place a high importance on food and food-related events, while some cultures routinely observe fasting days (e.g., Arab, Greek, Irish, Jewish) that may be done for health or religious purposes.
+5. Ascertain how the client perceives food and the act of eating. The client may be eating to satisfy an emotional need rather than physiological hunger, not only because food plays a signifi cant role in socialization, but also because food can offer comfort, a sense of security, and acceptance.
+6. Evaluate the client’s routine medications. Some medications can contribute to weight gain (e.g., cortisol and other glucocorticoids; sulfonylureas, tricyclic antidepressants, monoamine oxidase inhibitors; oral contraceptives; insulin [in excessive doses]; risperidone; etc.).
+7. Assess dietary practices by means of diary covering 3–7 days. Recall of foods and fl uids ingested; times, patterns, and places of eating; whether alone or with other(s); and feelings before, during, and after eating can increase the client’s understanding of eating behaviors and serve as the basis for dietary modifi cations.
+8. Ascertain previous dieting history. The client may report normal or excessive intake of food, but calories and intake of certain food groups (e.g., sweets and fats) are often underestimated. The client may report experimentation with numerous types of diets, repeated dieting efforts (“yo-yo” dieting) with varying results, or may never have attempted a weight-management program.
+9. Collaborate in assessment and interventions for client with disordered eating habits or eating perceptions:
+ - Obtain comparative body drawing having client draw self on wall with chalk, then standing against it and having actual body outline drawn to note difference between the two. This determines whether the client’s view of self-body image is congruent with reality.
+ - Ascertain occurrence of negative feedback from signifi cant other (SO). May reveal control issues and may impact motivation for change.
+10. Review laboratory test results (e.g., complete blood count with differential, full lipid panel, fasting glucose, A 1 C, and insulin levels; thyroid and leptins; proteins, Mini-Nutritional Assessment) that may reveal medical conditions associated with obesity, and identify problems that may be treated with alterations in diet or medications.
+
+[Nursing Priority No. 2]
+    - To determine weight loss goals (Overweight or risk for Overweight) :  
+1. Obtain anthropometric measurements to determine presence and severity of situation:
+ - Calculate BMI to estimate the percentage of body fat. Note that the Centers for Disease Control and Prevention (CDC) has standardized BMI calculations, removing age and sex differences for adults, with 25–29.9 kg/m2 defi ning “overweight.” The CDC has recommended that children (over age 2) and adolescents be considered overweight if the BMI exceeds the 85th percentile (and is less than the 95th percentile) on growth curves or exceeds 25 kg/m2 at any age.
+ - Determine waist circumference, if indicated. Some studies support that waist circumference (WC) is more closely linked to cardiovascular risk factors than BMI alone, because a high WC can occur in persons with normal or near-normal BMIs.
+1. Determine client’s motivation for weight loss (e.g., for own satisfaction or self-esteem, to improve health status, or to gain approval from another person). The client is more likely to succeed and maintain desired weight when change is for self (e.g., acceptance of self “as is,” general well-being) rather than to please others.
+2. Discuss myths client/SO may have about weight and weight loss to address misconceptions and possibly enhance motivation for needed behavior changes.
+3. Set realistic goals (short and long term) for weight loss. Reasonable weight loss (1 to 2 lb/week) has been shown to have more lasting effects than rapid weight loss. Note that a loss of 5% to 10% of total body weight can reduce many of the health risks associated with obesity in adults.
+
+[Nursing Priority No.3]
+    -  To establish weight-reduction program (Overweight) : 
+1. Obtain commitment or contract for weight loss. Verbal agreement to goals or written contract formalizes the plan and may enhance efforts and maximize outcomes.
+2. Involve SO(s) in the treatment plan as much as possible to provide ongoing support and increase the likelihood of success.
+3. Collaborate with physician and nutritionist to develop and implement comprehensive weight-loss program that includes food, activity, behavior alteration, and support.
+4. Calculate calorie requirements based on physical factors and activity. Although many weight-reduction programs focuson portion size and food components (e.g., low-fat, highprotein, low-glycemic foods), reducing calorie intake is essential for weight loss.
+5. Provide information regarding specific nutritional needs. Depending on client’s desires and needs, many weight-management programs are available that focus on particular factors (e.g., low carbohydrates, low fat, low calories). Reducing portion size and following a balanced diet along with increasing exercise is often what is needed to improve health.
+6. Discuss modifications to achieve (or maintain) a healthy body weight:
+ - Eat from each food group (fruits, vegetables, whole grains, lean meats, low-fat dairy, and oils).
+ - Start with small changes, such as adding one more vegetable/ day, and introducing healthier versions of favorite foods.
+ - Choose “nutrient-dense” forms of foods that provide substantial amounts of fi ber, vitamins, electrolytes, and minerals.
+ - Avoid saturated fats, trans fats, cholesterol, salt (sodium), and added sugars.
+ - Focus on portion sizes. Calorie-dense foods (high in fat and/ or sugar) should be eaten in smaller quantities, whereas high-fi ber foods can be eaten in larger quantities.
+ - Discuss smart snacks (e.g., low-fat yogurt with fruit, nuts, apple slices with peanut butter, low-fat string cheese).
+ - Emphasize the need for adequate fl uid intake and taking fl uids between meals rather than with meals to provide fl uid while leaving more room for food intake at meals to assist in the digestive process and to quench thirst, which is often mistakenly identifi ed as hunger.
+7. Encourage involvement in planned activity program of client’s choice and within physical abilities. Refer to formal exercise program, if desired. Moderately increased physical activity can support both loss of pounds and maintenance of lower weight. Note: Children should participate in vigorous physical activity throughout adolescence and limit time spent watching television and playing computer games, to facilitate weight control.
+8. Recommend weighing only once/week, same time and clothes, and graph on chart. Measure and monitor body fat when possible to track progress while focusing more on the idea of being health conscious and responsible than on what the scale may reveal.
+9. Provide positive reinforcement and encouragement for efforts as well as actual weight loss. This enhances commitment to the program and enhances the person’s sense of self-worth.
+10. Refer to bariatric physician/surgeon when indicated. Evaluation for special measures may be needed (e.g., supervised fasting or bariatric surgery) for obese or morbidly obese persons. Refer to ND: Obesity for related interventions.
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations): (Overweight or risk for Overweight)
+1. Assist in and encourage periodic evaluation of nutritional status and alteration of dietary plan. This may be desiredor needed for addressing special needs (e.g., diabetes mellitus, age considerations, very low calorie or fasting) and monitoring health status.
+2. Emphasize the importance of avoiding fad diets that may be harmful to health and often do not produce long-term positive results.
+3. Identify and encourage fi nding ways to reduce tension when eating. This promotes relaxation to permit focusing on the act of eating and awareness of satiety.
+4. Identify unhelpful eating behaviors (e.g., eating over the sink, “gobbling, nibbling, or grazing”) and address kinds of activities associated with eating (e.g., watching television or reading, being unmindful of eating or food) that result in taking in too many calories as well as eliminating the joy of food because of failure to notice fl avors or sensation of fullness or satiety.
+5. Review and discuss strategies to deal appropriately with stressful events to avoid overeating as a means of coping.
+6. Discuss importance of an occasional treat by planning for inclusion in diet to a void feelings of deprivation arising from self-denial.
+7. Advise planning for special occasions (birthday or holidays) by reducing intake before event and/or eating “smart” to redistribute or reduce calories and allow for participation in food events.
+8. Discuss normalcy of ups and downs of weight loss: plateau, set point (at which weight is not being lost), hormonal infl uences, and so forth. This prevents discouragement when progress stalls.
+9. Encourage buying personal items and clothing as a reward for weight loss or other accomplishments.
+10. Suggest disposing of “fat clothes” to encourage positive attitude of permanent change and remove “safety valve” of having wardrobe available “just in case” weight is regained.
+11. Review prescribed drug regimen (e.g., appetite suppressants, hormone therapy, vitamin and mineral supplements) for benefi ts or adverse side effects and drug interactions.
+
+=====

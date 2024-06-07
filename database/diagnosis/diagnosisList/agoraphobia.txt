@@ -1,6 +1,9 @@
 ::Agoraphobhia::
-
+<<<<<<< HEAD
+Phobia>Phobia.txt
+=======
 also refer to Phobia>alsorefertoPhobia.txt
+>>>>>>> a422d8a9aa995c66946e56f6326c7efa4beb9932
 anxiety panic>anxietyPanic.txt
-
 =====
+

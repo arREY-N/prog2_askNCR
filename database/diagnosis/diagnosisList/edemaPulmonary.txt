@@ -1,0 +1,6 @@
+::Edema, Pulmonary::
+excess Fluid Volume>excessFluidPulmonary.txt
+impaired Gas Exchange>impairedGasExchange.txt
+anxiety_Fear>anxiety_Fear.txt
+=====
+

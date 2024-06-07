@@ -1,0 +1,10 @@
+::Fractures::
+casts; Traction>casts;Traction.txt
+risk for Trauma>riskforTrauma.txt
+acute Pain>acutePain.txt
+risk for peripheral neurovascular Dysfunction>riskforPeripheralNeurovascularDysfunction.txt
+impaired Physical Mobility>impairedPhysicalMobility.txt
+risk for impaired Gas Exchange>riskforimpairedGasExchange.txt
+deficient Knowledge regarding healing process, theraphy requirements, potential complications, and self-care needs>deficientKnowledgeRegardingHealingProcessTheraphyRequirementsPotentialComplicationsandSelf-CareNeeds.txt
+=====
+

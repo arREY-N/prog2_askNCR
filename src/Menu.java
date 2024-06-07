@@ -1,22 +1,27 @@
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.Scanner;
-
+import java.util.TreeMap;
 public class Menu {
+    private static Path nursePath = Paths.get("database\\nurse");
     public static void main(String[] args) {
         AccountsDatabase.loadFromFile();    // loads txt files into the program
         NurseDatabase.loadFromFile();
         DiagnosesDatabase.loadFromFile();
         NurseDatabase.loadFromFile();
         SymptomDatabase.loadFromFile();
-
+        PatientDatabase.loadFromFile();
+        
         Scanner scan = new Scanner(System.in);
-        Boolean run = true;
+        boolean run = true;
         
         while(run == true){
             System.out.println("What are you here for?");
             System.out.println("A. Login");
             System.out.println("B. Sign Up");
-            System.out.println("C. Exit");
-            System.out.println("D: Choose symptom");
+            System.out.println("X. Exit");
             System.out.print("Enter your choice: ");
             String input = scan.nextLine().trim().toUpperCase();
 
@@ -29,14 +34,12 @@ public class Menu {
                     case 'B':
                         signupMenu(scan);
                         break;
-                    case 'C':    
+                    case 'X':    
                         run = false;
                         AccountsDatabase.loadToFile();
                         NurseDatabase.loadToFile();
+                        PatientDatabase.loadToFile();
                         System.out.println("See you soon, our nurse!\n");
-                        break;
-                    case 'D':
-                        Search.chooseSymptoms(scan);
                         break;
                     default:
                         System.out.println("Invalid input!\n");
@@ -55,19 +58,22 @@ public class Menu {
         String username = scan.nextLine();
         System.out.print("Password: ");
         String password = scan.nextLine();
-
-        // first checks if the input is a valid input (alphanumeric only)
-        if(Validation.isAlphanumeric(username, password) == true){
-            // if true, calls the login() method in the Validation class
-            try{
-                Validation.login(username, password);
-                homepage(scan, username);
-            } catch (InvalidCredentialsException e){
-                System.out.println(e.getMessage());
-                System.out.println();
-            }
+        
+        if(username.equals(AccountsDatabase.getAdminName()) && password.equals(AccountsDatabase.getAdminPassword())){
+            adminHome(scan); 
         } else {
-            System.out.println("Input must be alphanumeric only");
+            if(Validation.isAlphanumeric(username, password) == true){
+                try{
+                    Validation.login(username, password);
+        
+                    homepage(scan, username);
+                } catch (InvalidCredentialsException e){
+                    System.out.println(e.getMessage());
+                    System.out.println();
+                }
+            } else {
+                System.out.println("Input must be alphanumeric only");
+            }
         }
         System.out.println();
     }
@@ -86,7 +92,7 @@ public class Menu {
             try{
                 Validation.signup(username, password);
                 NurseDatabase.createNurseObject(scan, username);
-                NurseDatabase.createNurseFolder(username);
+                fileManagement.createFolder(nursePath, username);
                 homepage(scan, username);
             } catch (AccountExistingException a){
                 System.out.println(a.getMessage());
@@ -101,7 +107,7 @@ public class Menu {
     }
 
     public static void homepage(Scanner scan, String username){
-        Nurse nurse = NurseDatabase.getNurseAccounts().get(username);
+        Nurse nurse = NurseDatabase.getNurseInformation().get(username);
         boolean run = true;
 
         while (run) {
@@ -110,7 +116,9 @@ public class Menu {
             System.out.println("B. Patient's Information Management");
             System.out.println("C. Diagnoses Page");
             System.out.println("D. Symptoms Page");
-            System.out.println("E. Log out");
+            System.out.println("E. New Diagnoses");
+            System.out.println("F. New Symptoms");
+            System.out.println("X. Log out");
             System.out.print("Enter your choice: ");
             String response = scan.nextLine().toUpperCase();
             System.out.println();
@@ -128,9 +136,15 @@ public class Menu {
                         Search.chooseDiagnosis(scan);
                         break;
                     case 'D':
-                        Search.chooseSymptoms(scan); 
+                        Search.chooseSymptomList(scan); 
                         break;                   
                     case 'E':
+                        DiagnosesDatabase.createNewDiagnosis(scan);
+                        break;
+                    case 'F':
+                        SymptomDatabase.createNewSymptom(scan);
+                        break;
+                    case 'X':
                         run = false;
                         break;
                     default:
@@ -146,38 +160,73 @@ public class Menu {
 
     public static void adminHome(Scanner scan){
         while (true) {
-            System.out.println("Admin Home");
-            System.out.println("1. Show Accounts");
-            System.out.println("2. Show Diagnoses");
-            System.out.println("3. Show Patients");
-            System.out.println("4. Show Symptoms");
-            System.out.println("5. Show Nurses");
-            System.out.println("6. Logout");
+            System.out.println("\nAdmin Home");
+            System.out.println("A. Show Accounts");
+            System.out.println("B. Show Diagnoses");
+            System.out.println("C. Show Symptoms");
+            System.out.println("D. Show Patients");
+            System.out.println("E. Show Nurses");
+            System.out.println("F. Logout");
             System.out.print("Enter your choice: ");
-            int choice = scan.nextInt();
-            scan.nextLine(); 
-            switch (choice) {
-                case 1:
-                    AccountsDatabase.showAccounts();
-                    break;
-                case 2:
-                    Retrieve.showAllDiagnose();
-                    break;
-                case 3:
-                    // PatientDatabase.showPatientList();
-                    break;
-                case 4:
-                    Retrieve.showAllSymptoms();
-                    break;
-                case 5:
-                    NurseDatabase.getNurseAccounts();
-                    break;
-                case 6:
-                    System.out.println("Logging out...");
-                    return;
-                default:
-                    System.out.println("Invalid choice!");
-            }
+            String choice = scan.nextLine().trim();
+            
+            if(!choice.isEmpty()){
+                char response = choice.toUpperCase().charAt(0);
+                switch (response) {
+                    case 'A':
+                        AccountsDatabase.showAccounts();
+                        System.out.print("\nEnter to continue...");
+                        scan.nextLine();
+                        System.out.println();
+                        break;
+                    case 'B':
+                        Search.chooseDiagnosis(scan);                    
+                        break;
+                    case 'C':
+                        Search.chooseSymptomList(scan);
+                        break;
+                    case 'D':
+                        System.out.println();
+                        Map<String, TreeMap<String, Patient>> patientList = PatientDatabase.getNursePatients();
+                        
+                        System.out.printf("%-10s | %-15s | %-5s | %-5s | %-10s \n", 
+                        "PATIENT ID", "NAME", "AGE", "SEX", "DIAGNOSIS");
+                        
+                        for(Map.Entry<String, TreeMap<String, Patient>> nurse: patientList.entrySet()){
+                            for(Map.Entry<String, Patient> patients: nurse.getValue().entrySet()){
+                                Patient patient = patients.getValue();
+                                System.out.printf("%-10s | %-15s | %-5d | %-5s | %-10s \n", 
+                                patient.getPatientId(), 
+                                patient.getName(), patient.getAge(), patient.getSex(), patient.getDiagnosisName());
+                            }
+                        }
+                        System.out.print("\nEnter to continue...");
+                        scan.nextLine();
+                        System.out.println();
+                        break; 
+                    case 'E':
+                        System.out.println();
+                        Map<String, Nurse> nurseList = NurseDatabase.getNurseInformation();
+                        System.out.printf("%-10s | %-15s | %-5s | %-5s | %-10s | %-15s | %-10s \n", 
+                        "NURSE ID", "NAME", "AGE", "SEX", "POSITION", "SHIFT SCHEDULE", "AREA ASSIGNMENT");
+                        
+                        for(Map.Entry<String, Nurse> nurses: nurseList.entrySet()){
+                            Nurse nurse = nurses.getValue();
+                            System.out.printf("%-10s | %-15s | %-5d | %-5s | %-10s | %-15s | %-10s \n",
+                            nurse.getUserID(), nurse.getNurseName(), nurse.getAge(), nurse.getSex(), nurse.getPosition(), nurse.getShiftSchedule(), nurse.getAreaAssignment()
+                            );
+                        }
+                        System.out.print("\nEnter to continue...");
+                        scan.nextLine();
+                        System.out.println();
+                        break;
+                    case 'F':
+                        System.out.println("Logging out...");
+                        return;
+                    default:
+                        System.out.println("Invalid choice!");
+                }
+            }            
         }
     }
 }

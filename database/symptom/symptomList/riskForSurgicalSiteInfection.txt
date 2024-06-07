@@ -1,0 +1,66 @@
+::Risk For Surgical Site Infection::
+
+::Definition::
+ Susceptible to invasion of pathogenic organisms at surgical site, which may compromise health. 
+ 
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors: 
+1. Determine reason for surgical intervention (e.g., trauma, elective joint replacement, traumatic amputation, colon resection) as well as comorbid conditions (e.g., obesity, current smoking, uncontrolled diabetes/hyperglycemia, advanced age, use of immunosuppressive drugs, poor nutritional status (especially low-protein and albumin levels), renal failure, client being carrier of methicillin-resistant Staphylococcus aureus (MRSA), or other antibiotic resistant bacterium, that could be a factor in development of postoperative site infections and identify needed interventions.
+
+[Nursing Priority No. 2]
+    - To reduce risk of infection ( Perioperatively ):
+1. Prepare operative site according to specific procedure per agency protocol (e.g., scrubbing with liquid antibacterial soap, swabbing with betadine or other appropriate prep). Minimizes bacterial count at operative site.
+2. Be aware of the type(s) of surgical wound(s). Helps in predicting client’s risk of surgical site infection (SSI). Note: Surgical wounds are classifi ed as follows: 
+(1) Clean: not infected or inflamed at time of surgery; 
+(2) Clean-contaminated: involves entering the respiratory, gastrointestinal, genitourinary systems under controlled conditions; 
+(3) Contaminated: includes open, fresh, accidental wounds, or operations with spillage from the gastrointestinal tract; 
+(4) Dirty-infected: wound is infected prior to surgical intervention.
+3.  Adhere to all surgical care policies and procedures to prevent or reduce risks of infections. Note: The Surgical Care Improvement Project (SCIP) measures focus on reduction of surgically related infections through 
+(1) use and timing of prophylactic antibiotics for selected procedures;
+(2) appropriate hair removal and skin preparation;
+(3) serum glucose management; 
+(4) perioperative temperature management; and 
+(5) timely removal of urinary catheters.
+4. Review laboratory studies for systemic infections or possible localized infections.
+5. Maintain normal client temperature range as much as possible during surgery. 
+6. Identify breaks in aseptic technique and resolve immediately upon occurrence. Contamination by environmental or personnel contact renders the operative fi eld unsterile, thereby increasing the risk of infection.
+7. Insert drain, to evacuate wound bed as necessary, via separate incision distant from the wound; remove the drain as soon as possible. 
+8. Apply sterile dressings and maintain dressings according to facility protocol.
+9. Administer appropriate antibiotics in timely manner, as indicated. Antibiotics may be given prophylactically for 
+(1) selected elective surgical procedures; 
+(2) planned in client at high risk for infection; or 
+(3) when procedures need to be performed in the setting of known or suspected wound contamination. 
+
+[Nursing Priority No.3]
+    -  To reduce risk of surgical site infections ( Postoperatively ):
+1. Obtain information from operating room staff regarding type of procedure performed (e.g., clean, contaminated, etc.). 
+2. Determine presence and severity of comorbid conditions that may increase the incidence of surgical site infections (SSIs).
+3. Practice and promote handwashing before and after contact with any client. Skin contaminants on the client may be transferred to the caregiver and then passed on to another client if strict adherence to handwashing is not maintained.
+4. Perform ongoing assessments: 
+(1) surgical dressing andsurrounding areas immediately postoperatively; 
+(2) surgical incision when dressings are removed; 
+(3) assessment of skinsurrounding the incision to evaluate any changes and/or to monitor trends in healing.
+5. Protect primary closed incisions with a sterile dressing for 24 to 48 hr (or per surgeon instruction). Use sterile technique for wound dressing change.
+6. Monitor client’s vital signs, and skin color and warmth. Provides information about systemic tissue perfusion that impacts tissue healing
+7. Monitor laboratory values, such as hematocrit, white blood cell count, serum glucose, serum albumin. Provides information about fluid and circulatory status, immune and endocrine systems functioning and nutrition needs.
+8. Administer blood products and fluids, as indicated. 
+9. Administer antibiotics as indicated. Use of postoperative antibiotics is variable and may be continued 
+(1) if surgical wound was contaminated (either preoperatively or interpretatively); 
+(2) a high risk of infection is associated with the procedure (e.g., colon resection); or 
+(3) consequences of infection are unusually severe (e.g., total joint replacement).
+10. Maintain adequate control of serum blood glucose levels (usually less than 180 mg/dL) in all diabetic clients and avoid hyperglycemia perioperatively.
+11. Provide nutrition by appropriate route (e.g., oral, enteral, parenteral).
+12. Encourage early ambulation and resumption of activities to reduce risks associated with immobility and stasis of body fluids.
+
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Review client’s specific surgical intervention and associated care needs to promote client’s informed self-care and reduce incidence of preventable complications.
+2. Instruct client/care provider in incision care and receive return demonstration, as indicated.
+3. Review reportable symptoms (postdischarge) such as fever (especially if trending upward), increased pain in surgical site, hardness/redness/warmth of incision, development of drainage or change in character of drainage (e.g., from serosanguinous to blood-tinged pus). 
+4. Advise client to eat nutritious foods and snacks and have adequate fluid intake.
+5. Instruct client to get adequate rest and to increase activities gradually but steadily as tolerated. 
+6. Ask client about home environment, support, and resources. May reveal areas of concern (e.g., client unable to provide own incision care; has no access to nutritious food; cannot afford antibiotics).
+
+=====

@@ -1,9 +1,8 @@
 ::Anxiety Disorder, Generalized::
-
 anxiety/Powerlessness>anxiety/Powerlessness.txt
 ineffective Coping>ineffectiveCoping.txt
 insomnia>insomnia.txt
 compromised family Coping>compromisedfamilyCoping.txt
 impaired Social Interaction/Social Isolation>impairedSocialInteraction/SocialIsolation.txt
-
 =====
+

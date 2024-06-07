@@ -1,0 +1,7 @@
+::Casts::
+fractures>fractures.txt
+risk for peripheral neurovascular Dysfunction>riskforperipheralneurovascularDysfunction.txt
+risk for impaired Skin Integrity>riskforimpairedSkinIntegrity.txt
+self-Care Deficit>self-CareDeficit.txt
+=====
+

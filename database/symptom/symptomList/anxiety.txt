@@ -3,7 +3,7 @@
 ::Definition::
 Vague uneasy feeling of discomfort or dread accompanied by an autonomic response (the source is often nonspecific or unknown to the individual); a feeling of apprehension caused by anticipation of danger. It is an alerting sign that warns of impending danger and enables the individual to take measures to deal with that threat.
 
-::Action/Interventions:: 
+::Action/Interventions::
 [Nursing Priority No. 1]
 To assess level of anxiety:
 1. Review familial and physiological factors (e.g., genetic depressive factors), psychiatric illness, active medical conditions (e.g., thyroid problems, metabolic imbalances, cardiopulmonary disease, anemia, or dysrhythmias), and recent/ongoing stressors (e.g., family member illness or death, spousal confl ict/abuse, or loss of job). These factors can cause/exacerbate anxiety and anxiety disorders.
@@ -32,7 +32,6 @@ sensations, headaches, and so forth
 - Be aware of defense mechanisms being used (e.g., denial or regression) that interfere with ability to deal with problem.
 - Identify coping skills the individual is currently using, such as anger, daydreaming, forgetfulness, overeating, smoking, or lack of problem solving.
 - Review coping skills used in the past to determine those that might be helpful in current circumstances.
-
 [Nursing Priority No. 2]
 To assist client with identifying feelings and beginning to deal with problems:
 1. Establish a therapeutic relationship, conveying empathy and unconditional positive regard. Note : The nurse needs to be aware of his or her own feelings of anxiety or uneasiness, exercising care to avoid the contagious effect or transmission of anxiety.
@@ -64,7 +63,6 @@ anxiety is decreased.
 - Use cognitive therapy to focus on or correct faulty catastrophic interpretations of physical symptoms.
 - Administer medications (anti-anxiety agents/sedatives), as
 ordered. 
-
 [Nursing Priority No.3]
     To provide measures to comfort and aid client to handle problematic situations:
 1. Provide comfort measures (e.g., calm or quiet environment, soft music, warm bath, back rub, Therapeutic Touch). Aids in meeting basic human need, decreasing sense of isolation, and assisting client to feel less anxious. 
@@ -73,7 +71,6 @@ ordered.
 4. Allow the behavior to belong to the client; do not respond personally.
 5. Assist client to use anxiety for coping with the situation if helpful. Moderate anxiety heightens awareness and can help client to focus on dealing with problems.
 6. Encourage awareness of negative self-talk and discuss replacing with positive statements, such as using “can” instead of “can’t,” etc.
-
   -- To promote wellness (Teaching/Discharge Considerations):
     1. Assist the client in identifying precipitating factors and new methods of coping with disabling anxiety.
     2. Review happenings, thoughts, and feelings preceding the anxiety attack.
@@ -86,3 +83,4 @@ ordered.
     9. Refer to the physician for drug management alteration of the prescription regimen. Drugs that often cause symptoms of anxiety include aminophylline/theophylline, anticholinergics, dopamine, levodopa, salicylates, and steroids.
     10. Refer to individual and/or group therapy, as appropriate, to deal with chronic anxiety states.
 =====
+

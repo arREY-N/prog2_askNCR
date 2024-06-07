@@ -1,0 +1,7 @@
+::Leukemia, Chronic::
+risk for Infection>riskforInfection.txt
+ineffective Protection>ineffectiveProtection.txt
+fatigue>fatigue.txt
+imbalanced Nutrition: less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+=====
+

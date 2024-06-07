@@ -1,0 +1,7 @@
+::Mononucleosis, infectious::
+fatigue>fatigue.txt
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+hyperthermia>hyperthermia.txt
+deficient Knowledge regarding disease transmission, self-care needs, medical therapy, and potential Complications>deficientKnowledgeRegardingDiseaseRransmissionSelf-careNeedsMedicalTherapyandPotentialComplications.txt
+=====
+

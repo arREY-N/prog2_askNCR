@@ -1,0 +1,8 @@
+::Depressant Abuse::
+drug Overdose, Acute (depressant)>drugOverdoseAcute(depressant).txt
+ineffective Denial>ineffectiveDenial.txt
+ineffective Coping>ineffectiveCoping.txt
+imblanced Nutrition: less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+risk for Injury>riskforInjury.txt
+=====
+

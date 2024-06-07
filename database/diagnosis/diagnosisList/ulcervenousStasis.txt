@@ -1,0 +1,6 @@
+::Ulcer, Venous Stasis::
+
+impaired Skin_Tissue Integrity>impairedSkin_TissueIntegrity.txt
+ineffective peripheral Tissue Perfusion>ineffectiveperipheralTissuePerfusion.txt
+
+=====

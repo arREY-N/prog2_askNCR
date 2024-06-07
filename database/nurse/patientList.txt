@@ -1,0 +1,6 @@
+[1001]
+0001^MARIA GOMEZ^20^F^Panic Disorder^Activity Intolerance/risk for Activity Intolerance>Acute Substance Withdrawal Syndrome/risk For Acute Substance Withdrawal Syndrome>
+0003^HENRY RIVERA^39^M^Renal failure, Chronic^risk for decreased Cardiac Output>risk for Bleeding>risk for acute Confusion>risk for impaired Sking integrity>risk for impaired oral Mucous Membrane>ineffective Activity Planning/risk for Ineffective Activity Planning>
+0026^REYNAL PENUS^21^M^omcmiss na kita ^di makatulog>di makakain>di mapakali>sumasakit ulo>
+[1002]
+0004^CHRISTIAN REYES^30^M^Paraplegia^Activity Intolerance/risk for Activity Intolerance>

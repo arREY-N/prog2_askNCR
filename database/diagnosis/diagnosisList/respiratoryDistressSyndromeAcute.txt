@@ -1,0 +1,10 @@
+::Respiratory Distress Syndrome, Acute::
+
+ineffective Airway Clearance>ineffectiveAirwayClearance.txt
+impaired Gas Exchange>impairedGasExchange.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+anxiety_Fear>anxiety_Fear.txt
+risk for Injury>riskforInjury.txt
+
+=====

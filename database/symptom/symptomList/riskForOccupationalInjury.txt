@@ -1,0 +1,64 @@
+::Risk For Occupational Injury::
+
+::Definition::
+ Susceptible to sustain a work-related accident or illness, which may compromise health.
+ 
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To evaluate degree/source of risk inherent in work setting:
+1. Determine factors related to individual situation and extent of risk for injury/illness. Influences scope and intensity of interventions to manage threats to safety, which are dynamic and constants in every life and situation.
+2. Note client’s age, gender, developmental stage, decisionmaking ability, level of cognition, and competence to determine client’s ability to recognize danger and to protect self. Note: Younger workers (14–24) are twice as likely to incur injuries than older workers, and women three times more likely than men, which may refl ect client’s ability or desire to protect self, and infl uences choice of interventions or teaching.
+3. Ascertain client’s history of injuries, medical conditions, and medications—prescribed, over-the-counter, vitamins, and herbals. Can impact client’s ability to safely perform certain movements/activities and suggests possible choice of interventions. Note: Research suggests cannabis abuse can increase severity of/time away from work following injury.
+4. Evaluate visual, auditory, tactile, and kinesthetic perception. Ability to correctly perceive and respond to one’s environment greatly impacts worker’s safety and well-being. Note: Blue-collar workers, older workers, and Hispanic  workers have highest rates of uncorrected visual and/or hearing impairment, creating safety issues.
+5. Identify employment/job specifics (e.g., works with dangerous tools/machinery, electricity, explosives, hazardous chemicals, fi rst responder, healthcare worker, computer data entry, works alone or above ground). Aids in identifying risks and individual safety needs.
+6. Determine client’s perception of individual safety and view of hazards in workplace including exposure to violence. Lack of knowledge of safety needs or appreciation of signifi cance of individual hazards increases risk of injury. And lack of focus on specifi c problem(s) can result in no change or may even result in increased injuries.
+7. Clarify client’s awareness of Occupational Safety and Health Administration (OSHA) standards applicable to client. Lack of awareness can limit client’s ability to make best decisions to promote personal safety.
+8. Observe client performing routine work activities. Musculoskeletal injuries are estimated to account for 33% of all workplace injuries. Proper body mechanics is vital for safe lifting, bending, reaching, stooping, pushing/pulling, repetitive motions, etc. Note: Hospital workers experience injuries nearly three times the rate of professional and business services. Even physical therapists incur musculoskeletal injuries, especially low back, in spite of their knowledge of body mechanics.
+9. Evaluate workplace for environmental hazards and stressors (e.g., physical, biological, psychological, chemical, ergonomic) and their interrelationships. May impair/negatively impact client’s judgement and increase potential for injury. Furthermore, at a time of cost cutting and reorganization to sustain business profi ts/viability, organizational culture may defl ect responsibility of occupational injuries onto the worker without adequately considering all factors contributing to the situation.
+
+[Nursing Priority No. 2]
+    -  To assist client to reduce/correct individual risk factors:
+1. Review pertinent job-related safety regulations with client. Provides information necessary for client to make informed decisions.
+2. Develop plan with client to address individual needs and goals. Being part of the solution increases likelihood ofclient commitment to the plan.
+3. Identify facility/company resources available to decrease risk factors. Solutions may be available at limited or no additional cost.
+4. Modify work space as appropriate. For example: for office worker consider ergonomic chair, elevated computer desk, head set/Bluetooth device, voice recognition computer program; industrial site might require better lighting, handrails on stairs, refl ective paint marking fl oor step downs, containment barrier around chemical storage/mixing station; healthcare worker may need ceiling-mounted lifts to facilitate patient transfers, redesign of workstations with adjustable-height computer monitors. 
+5. Instruct in safety techniques/procedures specifi c to client’s situation; for example:
+ - Wear appropriate protective gear—clothing/gowns, safety glasses/goggles, ear protectors, closed toe/steel-toed footwear, gloves, mask/respirator, safety harness, helmet
+ - Avoid operating mechanical equipment/vehicle when using substances, including over-the-counter and prescription, that may impair functioning
+ - Adequate hydration/cooling in hot environments
+ - Use proper body mechanics, frequent change of work position
+ - Practice safe handling of sharps, double gloving during needlesticks, precautions with fl ammable materials including oxygen Proper handling of biologic materials/body fl uids, chemical spills
+ - Avoid mixing chemicals if possible; use in well-ventilated area
+ - Practice situational awareness or being aware of what is happening around oneself and recognizing unsafe situations
+6. Encourage client to read chemical labels or Material Safety Data Sheets (MSDS notebook) to be aware of primary hazards, safe storage and handling.
+7. Identify location of eye wash station/shower, fi rst-aid kit, and safe use of automated external defi brillator (AED). 
+
+[Nursing Priority No.3]
+    - To promote optimum safety and well-being:
+1. Emphasize importance of adherence to lunch/break policy and using vacation or personal time regularly. Too often, workers feel compelled to work through break time or postpone time away because of short staffi ng or to meet deadlines.
+2. Refer to trainer or physical therapist for regular exercise program including focus on core strength/stability and fl exibility. Research suggests decreased core strength contributes to injuries of back and extremities. 
+3. Encourage participation in wellness programs/monitoring of chronic conditions. Stress management, weight loss, smoking cessation, and monitoring of long-term health issues such as hypertension and diabetes can help reduce illness and time away from work.
+4. Recommend keeping vaccinations up to date, obtaining yearly flu shots, and immunizations recommended for occupational risks. Reduces risk of acquiring illness in workplace.
+5. Support modified or light duty work options as indicated. Provides time for recovery while keeping worker engaged and reducing sense of isolation.
+6. Emphasize importance of reporting injuries/completing reports in timely manner. Although it is not unusual for minor injuries to go unreported, violence in the workplace can be accepted as “part of the job” and not reported but can cause signifi cant psychological trauma and stress. Note: In one study, workplace violence incidents requiring days off for worker to recuperate were found to be four times more common in healthcare than in private industry.
+7. Obtain preventive screening/testing and initiate referrals to healthcare providers as appropriate. Some chronic illnesses such as respiratory, some cancers, and birth defects have long latencies between occupational exposure and clinical findings.
+
+[Nursing Priority No.4]
+    - To promote safety in workplace:
+1. Identify applicable OSHA standards and workplace compliance with standards. 
+2. Provide OSHA or facility safety poster(s), copies of standards, and informational placards to inform workers of their rights and responsibilities. 
+3. Inform workers of hazardous substances to which they may be exposed.
+4. Use problem-solving framework such as Public HealthModel to systematically identify and prioritize problems or risks, identify interventions or develop new strategiesto prevent injury/illness, implement activities, and evaluate and monitor results of interventions.
+5. Bring unsafe working conditions to employer’s attention. 
+6. Develop corrective plan with all parties involved. Effectiveness of program requires commitment of managementand participation of employees to analyze safety data and identify appropriate solutions.
+7. Initiate workplace health promotion programs based on identified health risk assessment (e.g., smoking cessation, weight loss, stress management).
+8. Provide incentives for meeting individual/group goals.Rewards/bonuses for health and safety behaviors or number of injury-free days encourages continuation ofefforts.
+9. Repair, replace, or correct unsafe equipment. Provide adaptive devices, e.g., step stool, handrails on moveable stairs, safety guard/shield on mechanical equipment.
+10. Provide protective devices such as locked external doors, gates at stairwells, emergency alarms/phone stations, metal detectors, trained security personnel. 
+11.  Initiate screening programs for environmental hazards, such as noise, pollutants, allergens, dust, asbestos, lead/otherheavy metals, vapor intrusion, radon, diesel emissions. 
+12. Collaborate with appropriate agencies, such as public health and Environmental Protection Agency (EPA), to improve environmental hazards.
+13. Develop plan for long-term monitoring of health risks and evaluation of risk reduction strategies. Provides evidence of effectiveness of interventions, possible need for revision. Information also adds to the body of knowledge in the field.
+
+
+=====

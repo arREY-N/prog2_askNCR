@@ -1,5 +1,4 @@
 ::Amyotrophic Lateral Sclerosis::
-
 impaired physical Mobility>impairedphysicalMobility.txt
 ineffective Breathing Pattern / impaired spontaneous Ventilation>ineffectiveBreathingPattern/impairedSpontaneousVentilation.txt
 impaired Swallowing>impairedSwallowing.txt
@@ -7,5 +6,5 @@ powerlessness>powerlessness.txt
 grieving>grieving.txt
 impaired verbal Communication>impairedverbalCommunication.txt
 risk for caregiver Role Strain>riskforcaregiverRoleStrain.txt
-
 =====
+

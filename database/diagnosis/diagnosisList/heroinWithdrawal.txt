@@ -1,0 +1,6 @@
+::Heroin Withdrawal::
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+anxiety>anxiety.txt
+risk for ineffective Health Management>riskforineffectiveHealthManagement.txt
+=====
+

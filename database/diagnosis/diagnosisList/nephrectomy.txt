@@ -1,0 +1,7 @@
+::Nephrectomy::
+acute Pain>acutePain.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+ineffective Breathing Pattern>ineffectiveBreathingPattern.txt
+constipation>constipation.txt
+=====
+

@@ -1,0 +1,6 @@
+::Herpes, Herpex Simplex::
+acute Pain>acutePain.txt
+risk for Infection>riskforInfection.txt
+risk for Sexual Dysfunction>riskforSexualDysfunction.txt
+=====
+

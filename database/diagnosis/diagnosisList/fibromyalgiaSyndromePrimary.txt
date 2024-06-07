@@ -1,0 +1,6 @@
+::Fibromyalgia Syndrome, Primary::
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+fatigue>fatigue.txt
+risk for Hopelessness>riskforHopelessness.txt
+=====
+

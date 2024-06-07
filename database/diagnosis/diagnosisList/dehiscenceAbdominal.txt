@@ -1,0 +1,7 @@
+::Dehiscence (Abdominal)::
+impaired Skin Integrity>impairedSkinIntegrity.txt
+risk for Infection>riskforInfection.txt
+fear_Anxiety>fear_Anxiety.txt
+deficient Knowledge regarding condition, prognosis, and treatment needs>deficientKnowledgeRegardingConditionPrognosisandTreatmentNeeds.txt
+=====
+

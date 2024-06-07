@@ -1,0 +1,7 @@
+::Failure to Thrive, Infant / Child::
+imbalanced Nutrition:less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+risk for disapropriate Growth and_or delayed Development>riskfordisapropriateGrowthandorDelayedDevelopment.txt
+risk for impaired Parenting>riskforimpairedParenting.txt
+deficient Knowledge regarding pathophysiology of condition, nutritional needs, growth and development expectations, and parenting skills>deficientKnowledgeRegardingPathophysiologyoConditionNutritionalNeedsGrowthandDevelopmentExpectationsandParentingSkills.txt
+=====
+

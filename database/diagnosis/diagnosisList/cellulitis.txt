@@ -1,0 +1,6 @@
+::Cellulitis::
+risk for Infection (abscess,bacteremia)>riskforInfection(abscessBacteremia).txt
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+impaired Tissue Integrity>impairedTissueIntegrity.txt
+=====
+

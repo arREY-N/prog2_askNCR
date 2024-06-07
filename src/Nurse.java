@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Nurse {
-    private String username;
+    private String userID;
     private String nurseName;
     private String sex;
     private int age;
@@ -9,8 +9,8 @@ public class Nurse {
     private String shiftSchedule;
     private String areaAssignment;
     
-    public Nurse(String username, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment){
-        this.username = username;
+    public Nurse(String userID, String nurseName, int age, String sex, String position, String shiftSchedule, String areaAssignment){
+        this.userID = userID;
         this.nurseName = nurseName;
         this.age = age;
         this.sex = sex;
@@ -31,8 +31,8 @@ public class Nurse {
         this.areaAssignment = areaAssignment;
     }
 
-    public String getUsername(){
-        return username;
+    public String getUserID(){
+        return userID;
     }
 
     public String getNurseName(){

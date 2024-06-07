@@ -1,0 +1,8 @@
+::Renal failure, Chronic::
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+risk for Bleeding>riskforBleeding.txt
+risk for acute Confusion>riskforacuteConfusion.txt
+risk for impaired Sking integrity>riskforimpairedSkinIntegrity.txt
+risk for impaired oral Mucous Membrane>riskforimpairedoralMucousMembrane.txt
+=====
+

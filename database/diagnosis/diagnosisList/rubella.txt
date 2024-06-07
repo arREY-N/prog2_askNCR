@@ -1,0 +1,6 @@
+::Rubella::
+
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+deficient Knowledge regarding contagious nature, possible complications, and self-care Needs>deficientKnowledgeregardingcontagiousnaturepossiblecomplicationsandself-careNeeds.txt
+
+=====

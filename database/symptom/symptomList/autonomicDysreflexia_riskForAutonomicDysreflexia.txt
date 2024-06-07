@@ -1,0 +1,45 @@
+::Autonomic Dysreflexia/risk for Autonomic Dysreflexia::
+
+::Definition::
+Autonomic Dysreflexia: Life-threatening, uninhibited sympathetic response of the nervous system to a noxious stimulus after a spinal cord injury at the 7th vertebra (T7) or above.
+
+risk for Autonomic Dysreflexia: Susceptible to life-threatening, uninhibited response of the sympathetic nervous system postspinal shock, in an individual with a spinal cord injury (SCI) or lesion at T6 or above (it has been demonstrated in patients with injuries at T7 and T8), which may compromise health. 
+
+::Actions/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess for risk or precipitating factors:
+1. Monitor the client at home for potential precipitating factors, including urological (e.g., bladder distention, acute urinary tract infection, or kidney stones), gastrointestinal (GI) (e.g., bowel overdistention, hemorrhoids, or digital stimulation), cutaneous (e.g., pressure ulcers, extreme external temperatures, or dressing changes), reproductive (e.g., sexual activity, menstruation, or pregnancy/delivery), and miscellaneous (e.g., pulmonary emboli, drug reaction, or deep vein thrombosis). If problem is occurring, see more comprehensive listing of precipitating factors in the following text. 
+2. Note the phase and specifics of injury. Autonomic dysreflexia (AD) does not occur in the acute phase of spinal cord injury. However, some studies have identified factors that may point toward a client's likelihood of developing AD, perhaps early in recovery. These include higher levels of injury (e.g., cervical versus thoracic involvement) and more complete lesions.
+3. Monitor for bladder distention, and the presence of bladder spasms, stones, or infection. The most common stimulus for AD is bladder irritation or overstretch associated with urinary retention or infection, blocked catheter, overfilled collection bag, or noncompliance with intermittent catheterization.
+4. Assess for bowel distention, fecal impaction, or problems with bowel management program. Bowel irritation or overstretch is associated with constipation or impaction; digital stimulation, suppository, or enema use during bowel program; hemorrhoids or fissures; and/or infection of the GI tract, such as might occur with ulcers or appendicitis.
+5. Observe skin and tissue pressure areas, especially following prolonged sitting. Skin and tissue irritants include direct pressure (e.g., object in chair or shoe, leg straps, abdominal support, or orthotics); wounds (e.g., bruise, abrasion, laceration, or pressure ulcer); ingrown toenails; tight clothing; sunburn or other burn.
+6. Inquire about sexual activity and/or determine if reproductive issues are involved. Overstimulation, vibration, sexual intercourse, ejaculation, scrotal compression, menstrual cramps, and/or pregnancy (especially labor and delivery) are known precipitants.
+7. Note the onset of crying, irritability, or somnolence in an infant or child who may present with nonspecific symptoms; he or she may not be able to verbalize discomforts.
+8. Inform client/care providers of additional precipitators during the course of care. The client is prone to numerous physical conditions or treatments (e.g., intolerance to temperture extremes; deep vein thrombosis; kidney stones; fractures/other trauma; or surgical, dental, and diagnostic procedures), any of which can precipitate AD.
+
+[Nursing Priority No. 2]
+    -  To provide for prevention or early detection and immediate intervention: 
+1. Monitor vital signs routinely, noting elevation in blood pressure, heart rate, and temperature, especially during times of physical stress, to identify trends and intervene in a timely manner. Note: Baseline blood pressure in clients with spinal cord injuries (adults and children) is lower than in the general population; therefore, an elevation of 20 to 40 mm Hg above baseline may be indicative of AD.
+2. Investigate associated complaints/symptoms (e.g., sudden severe headache, chest pains, blurred vision, facial fl ushing, nausea, or a metallic taste). AD is a potentially life-threatening condition that requires immediate intervention.
+3. Eliminate causative stimulus immediately when possible, moving in a step-wise fashion. Measures might include immediate catheterization, or restoration of urine flow if indwelling catheter is blocked; removing bowel impaction, or refraining from digital stimulation; reducing skin pressure by changing position or removing restrictive clothing; and protecting from temperature extremes.
+4. Elevate the head of the bed as high as tolerated or place the client in a sitting position with legs dangling to lower blood pressure.
+5. Monitor vital signs frequently during an acute episode, as blood pressure can fl uctuate quickly due to impaired autonomic regulation. Continue to monitor blood pressure at intervals after symptoms subside to evaluate effectiveness of interventions.
+6. Administer medications as required to block excessive autonomic nerve transmission, normalize heart rate, and reduce hypertension.
+7. Administer antihypertensive medications when an at-risk client is placed on a routine “maintenance dose,” as might occur when noxious stimuli cannot be removed (presence of chronic sacral pressure sore, fracture, or acute postoperative pain).
+8. Know contraindications and cautions associated with antihypertensive medications; adjust dosage of antihypertensive medications carefully for children, the elderly, individuals with known heart disease, male client using sildenafil for sexual activity, or pregnant women. This prevents complications such as untoward side effects, while maintaining blood pressure within the desired range.
+
+[Nursing Priority No. 3]
+    - To promote wellness (Teaching/Discharge Considerations): 
+1. Discuss warning signs of AD with client/caregiver (i.e., sudden, severe pounding headache; fl ushed red face; increased blood pressure/acute hypertension; nasal congestion; anxiety; blurred vision; metallic taste in mouth; sweating and/or flushing above the level of SCI; goosebumps; bradycardia; or cardiac irregularities). AD can develop rapidly (in minutes), requiring quick intervention. Knowledge can support adherence to preventive measures and promote prompt intervention when required.
+2. Be aware of the client's communication abilities. AD can occur at any age, from infants to the elderly, and the individual may not be able to verbalize a pounding headache, which is often the fi rst symptom during onset of AD.
+3. Ascertain that the client/caregiver understands ways to avoid onset of the syndrome. Instruct and periodically reinforce teaching, as needed, regarding the following: 
+    -- Keeping indwelling catheter free of kinks, keeping bag empty and situated below bladder level, and checking daily for deposits (bladder grit) inside catheter 
+    -- Catheterizing as often as necessary to prevent overfilling of bladder
+    -- Monitoring voiding patterns (if client has voiding capability) for adequate frequency and amount 
+    -- Performing a regular bowel evacuation program 
+    -- Performing routine skin assessments 
+    -- Monitoring all systems for signs/symptoms of infection and reporting promptly 
+4. Instruct family member/caregiver in blood pressure monitoring, and importance of knowing client's usual blood pressure range; discuss plan for monitoring, reporting, and medications to use for treatment of high blood pressure during acute episodes.
+
+=========

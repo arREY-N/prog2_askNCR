@@ -1,5 +1,4 @@
 ::Angina Pectoris::
-
 acute Pain>acutePain.txt
 risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
 anxiety>anxiety.txt
@@ -7,5 +6,5 @@ activity Intolerance>activityIntolerance.txt
 deficient Knowledge regarding condition, prognosis, self-care and treatment needs>deficientKnowledgeRegardingConditionPrognosisSelfCareandTreatmentNeeds
 risk for sedentary Lifestyle>riskforsedentaryLifestyle.txt
 risk for risk-prone Health Behavior>riskforRiskProneHealthBehavior.txt
-
 =====
+

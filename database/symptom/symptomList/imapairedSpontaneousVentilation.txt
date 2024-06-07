@@ -1,0 +1,83 @@
+::Impaired Spontaneous Ventilation::
+
+::Definition::
+ Inability to maintain independent breathing that is adequate to support life. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To determine degree of impairment: 
+1. Identify client with actual or impending respiratory failure (e.g., apnea or slow, shallow breathing; declining mentation or obtunded with need for airway protection). 
+2. Determine presence of conditions that could be associated with hypoventilation. Causes of (1) central alveolar hypoventilation include congenital defects, drugs, and central nervous system disorders (e.g., stroke, trauma, and neoplasms); (2) obesity hypoventilation syndrome is another well-known cause of hypoventilation; (3) chest wall deformities (e.g., kyphoscoliosis and changes after thoracic surgery) can be associated with alveolar hypoventilation leading to respiratory insuffi ciency and failure; (4) neuromuscular diseases that can cause alveolar hypoventilation include myasthenia gravis, amyotrophic lateral sclerosis, Guillain-Barré, and muscular dystrophy.
+3. Assess spontaneous respiratory pattern, noting rate, depth, rhythm, symmetry of chest movement, use of accessory muscles. Tachypnea, shallow breathing, demonstrated or reported dyspnea (using a numeric or similar scale); increased heart rate, dysrhythmias; pallor or cyanosis; and intercostal retractions and use of accessory muscles indicate increased work of breathing or impaired gas exchange impairment.
+4. Auscultate breath sounds, noting presence or absence and equality of breath sounds, adventitious breath sounds. 
+5. Evaluate ABGs and/or pulse oximetry and capnography to determine presence and degree of arterial hypoxemia (Pa O 2 <55) and hypercapnea (CO 2 >45), resulting in impaired ventilation requiring ventilatory support.
+6. Obtain or review results of pulmonary function studies (e.g., lung volumes, inspiratory and expiratory pressures, and forced vital capacity), as appropriate, to assess presence and degree of respiratory insuffi ciency.
+7. Investigate etiology of current respiratory failure to determine ventilation needs and most appropriate type of ventilatory support.
+8. Review serial chest x-rays and imaging (magnetic resonance imaging/computed tomography scan) results to diagnose underlying disorder and monitor response to treatment. Client may already be receiving treatments to maintain airway patency and enhance gas exchange or may have respiratory failure associated with sudden event (e.g., severe trauma, sudden-onset respiratory illness, surgery with complications). 
+9. Note response to current measures and respiratory therapy (e.g., bronchodilators, supplemental oxygen, nebulizer or intermittent positive-pressure breathing treatments).
+
+[Nursing Priority No. 2]
+    - To provide/maintain ventilatory support:
+1. Collaborate with physician, respiratory care practitioners regarding effective mode of ventilation (e.g., noninvasive oxygenation via continuous positive airway pressure (CPAP) and biphasic positive airway pressure [BiPAP]); or intubation and mechanical ventilation (e.g., continuous mandatory, assist control, intermittent mandatory [IMV], pressure support). Specifi c mode is determined by client’s respiratory requirements, presence of underlying disease process, and the extent to which client can participate in ventilatory efforts.
+2. Ensure that ventilator settings and parameters are correct as ordered by client situation, including respiratory rate, fraction of inspired oxygen (F IO 2 , expressed as a percentage); tidal volume; peak inspiratory pressure. 
+3. Observe overall breathing pattern, distinguishing between spontaneous respirations and ventilator breaths. Client may be completely dependent on the ventilator or able to take breaths but have poor oxygen saturation without theventilator.
+4. Verify that client’s respirations are in phase with the ventilator. Decreases work of breathing; maximizes O 2 delivery.
+5. Inflate tracheal or endotracheal (ET) tube cuff properly using minimal leak or occlusive technique. Check cuff infl ation periodically per facility protocol and whenever cuff is defl ated and reinfl ated to prevent risk associated with underinfl ation or overinfl ation.
+6. Check tubing for obstruction (e.g., kinking or accumulation of water) that can impede flow of oxygen. Drain tubing as indicated; avoid draining toward client or back into the reservoir, resulting in contamination and providing medium for growth of bacteria.
+7. Check ventilator alarms for proper functioning. Do not turn off alarms, even for suctioning. Remove from ventilator and ventilate manually if source of ventilator alarm cannot be quickly identifi ed and rectifi ed. Verify that alarms can be heard in the nurses’ station by care providers.
+8. Verify that oxygen line is in proper outlet/tank; monitor inline oxygen analyzer or perform periodic oxygen analysis. 
+9. Verify tidal volume set to volume needed for individual situation and proper functioning of spirometer, bellows, or computer readout of delivered volume. Note alterations from desired volume delivery to determine alteration in lung compliance or leakage through machine/around tube cuff (if used).
+10. Monitor airway pressure for developing complications or equipment problems.
+11. Monitor inspiratory and expiratory ratio. 
+12. Promote maximal ventilation of alveoli; check sigh rate intervals (usually 1½ to 2 times tidal volume). Reduces risk of atelectasis, helps mobilize secretions.
+13. Note inspired humidity and temperature; maintain hydration to liquify secretions, facilitating removal.
+14. Auscultate breath sounds periodically. Investigate frequent crackles or rhonchi that do not clear with coughing or suctioning, which are suggestive of developing complications (atelectasis, pneumonia, acute bronchospasm, pulmonary edema).
+15. Suction only as needed, using lowest pressure possible to clear secretions and maintain airway.
+16. Note changes in chest symmetry. May indicate improper placement of ET tube, development of barotrauma.
+17. Keep resuscitation bag at bedside to allow for manual ventilation whenever indicated (e.g., if client is removed from ventilator or troubleshooting equipment problems).
+18. Administer sedation as required to synchronize respirations and reduce work of breathing and energy expenditure, as indicated.
+19. Administer and monitor response to medications that promote airway patency and gas exchange. 
+20. Refer to NDs ineffective Airway Clearance; ineffective Breathing Pattern; impaired Gas Exchange, for related interventions. 
+
+[Nursing Priority No.3]
+    - To prepare for/assist with weaning process if appropriate:
+1. Determine physical and psychological readiness to wean, including specific respiratory parameters, absence of infection or cardiac failure, client alert and/or able to sustain spontaneous respiration, nutritional status suffi cient to maintain work of breathing.
+2. Determine mode for weaning. Pressure support mode or multiple daily T-piece trials may be superior to IMV; lowlevel pressure support may be benefi cial for spontaneous breathing trials; and early extubation and institution of noninvasive positive pressure ventilation may have substantial benefi ts in alert, cooperative client.
+3. Explain weaning activities and techniques, individual plan, and expectations. Reduces fear of unknown, provides opportunities to deal with concerns, clarifi es reality of fears, and helps reduce anxiety to manageable level.
+4. Elevate head of bed or place in orthopedic chair, if possible, or position to alleviate dyspnea and to facilitate oxygenation.
+5. Coach client in “taking control” of breathing (to take slower, deeper breaths, practice abdominal or pursed-lip breathing, assume position of comfort) to maximize respiratory function and reduce anxiety.
+6. Instruct in or assist client to practice effective coughing techniques. Necessary for secretion management after extubation.
+7. Provide quiet environment, calm approach, undivided attention of nurse. Promotes relaxation, decreasing energy and oxygen requirements.
+8. Involve family/significant other(s) (SO[s]) as appropriate. Provide diversional activity. Helps client focus on something other than breathing.
+9. Instruct client in use of energy-saving techniques during care activities to limit oxygen consumption and fatigue.
+10. Acknowledge and provide ongoing encouragement for client’s efforts. Communicate hope for successful weaning response (even partial). Enhances commitment to continue activity, maximizing outcomes.
+
+[Nursing Priority No.4]
+    - To prepare for discharge on ventilator when indicated:
+1. Ascertain plan for discharge placement (e.g., return home, short-term stay in subacute or rehabilitation center, or permanent placement in long-term care facility). Helps to determine care needs and fi scal impact of home care versus extended-care facility.
+2. Determine specific equipment needs. Identify resources for equipment needs and maintenance and arrange for delivery prior to client discharge. 
+3. Review layout of home, noting size of rooms, doorways, placement of furniture, number and type of electrical outlets to identify specifi c safety needs.
+4. Obtain No Smoking signs to be posted in home. Encourage family members to refrain from smoking. 
+5. Have family/SO(s) notify utility companies and fi re department about ventilator in home.
+6. Develop emergency disaster plan to address backup electrical needs and possible evacuation if required. 
+7. Review and provide written or audiovisual materials regarding proper ventilator management, maintenance, and safety for reference in home setting, enhancing client’s/SO’s knowledge and level of comfort.
+8. Demonstrate airway management techniques and proper equipment cleaning practices.
+9. Instruct SO(s)/caregivers in other pulmonary physiotherapy measures as indicated (e.g., chest physiotherapy). 
+10. Allow sufficient opportunity for SO(s)/caregivers to practice new skills. Role play potential crisis situations to enhance confidence in ability to handle client’s needs.
+11. Identify signs/symptoms requiring prompt medical evaluation/intervention. Timely treatment may prevent progression of problem.
+12. Provide positive feedback and encouragement for efforts of SO(s)/caregivers. Promotes continuation of desired behaviors.
+13. List names and phone numbers for identifi ed contact persons/resources. Round-the-clock availability reduces sense of isolation and enhances likelihood of obtaining appropriate information or assistance when needed.
+
+[Nursing Priority No.5]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Discuss impact of specific activities on respiratory status and problem-solve solutions to maximize weaning effort.
+2. Engage client in specialized exercise program to enhance respiratory muscle strength and general endurance.
+3. Protect client from sources of infection (e.g., monitor health of visitors, roommate, caregivers).
+4. Recommend involvement in support group; introduce to individuals dealing with similar problems to provide role models, assistance for problem-solving.
+5. Encourage time out for caregivers so that they may attend to personal needs, wellness, and growth.
+6. Provide opportunities for client/SO(s) to discuss termination of therapy and other end-of-life decisions. 
+7. Refer to individual(s) who are ventilator dependent/have managed home ventilation successfully to encourage hope for the future.
+8. Refer to additional resources (e.g., spiritual advisor, counselor). 
+
+=====

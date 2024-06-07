@@ -1,0 +1,8 @@
+::Endocarditis::
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+anxiety>anxiety.txt
+acute Pain>acutePain.txt
+risk for Activity Intolerance>riskforActivityIntolerance.txt
+risk for ineffective Tissue Perfusion>riskforineffectiveTissuePerfusion.txt
+=====
+

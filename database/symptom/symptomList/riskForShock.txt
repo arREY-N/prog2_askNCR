@@ -1,0 +1,57 @@
+::Risk For Shock::
+
+::Definition::
+ Susceptible to an inadequate blood flow to the body’s tissues that may lead to life-threatening cellular dysfunction, which may compromise health. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing factors:
+1. Note possible medical diagnoses or disease processes that can result in one or more types of shock, such as major trauma with heavy internal or external bleeding; heart failure; head or spinal cord injury; allergic reactions; pregnancy-related complications; intra abdominal infections, open wounds, or other conditions associated with sepsis. 
+2. Assess for history or presence of conditions leading to hypovolemic shock , such as trauma, surgery, inadequate clotting, anticoagulant therapy; gastrointestinal or other organ hemorrhage; prolonged vomiting and diarrhea; diabetes insipidus; misuse of diuretics. These conditions deplete the body’s circulating blood volume and ability to maintain organ perfusion and function.
+3. Assess for conditions associated with cardiogenic shock, including myocardial infarction, cardiac arrest, lethal ventricular dysrhythmias, severe valvular dysfunction, cardiomyopathies, malignant hypertension. These conditions directly impair the heart muscle and ability to pump.
+4. Assess for conditions associated with obstructive shock, including pulmonary embolus, aortic stenosis, cardiac tamponade, tension pneumothorax. In these conditions, the heart itself may be healthy but cannot pump because of conditions outside the heart that prevent normal fi lling or adequate outfl ow. 
+5. Assess for conditions associated with distributive shock— neural induced, including pain, anesthesia, spinal cord or head injury; or chemical induced, including peritonitis, sepsis, burns, anaphylaxis, hyperglycemia. These situations result in loss of sympathetic tone, blood vessel dilation, pooling of venous blood, and increased capillary permeability with shifting of fl uids.
+6. Monitor for persistent or heavy fl uid loss, including wounds, drains, vomiting, gastrointestinal tube, chest tube. Check all secretions and excretions for occult blood. Refer to NDs risk for Bleeding; defi cient Fluid Volume, risk for imbalanced Fluid Volume (for additional interventions).
+7. Inspect skin, noting presence of traumatic or surgical wounds, erythema, edema, tenderness, petechiae; rashes or hives for evidence of hemorrhage, localized infections, or hypersensitivity reaction.
+8. Investigate reports of increased or sudden pain in wounds or body parts, which could indicate ischemia or infection.
+9. Be aware of invasive devices, such as urinary and intravascular catheters, endotrachial tube, implanted prosthetic devices that potentiate risk for localized and systemic infections.
+10. Assess vital signs and tissue and organ perfusion for changes associated with shock states:
+ - Heart rate and rhythm—noting progressive changes in heart rate (refl ecting an attempt to increase cardiac output) and development of dysrhythmias, suggesting electrolyte imbalances, hypoxia.
+ - Respirations—noting rapid, shallow breathing, use of accessory muscles (in an attempt to increase vital capacity and compensate for metabolic acidosis associated with poor tissue perfusion and anaerobic metabolism),
+ - which can progress to respiratory failure. Blood pressure—noting hypotension, postural hypotension, and narrowed pulse pressure. May indicate hypovolemia and/or failure of cardiac pumping or compensatory mechanisms.
+ - Pulses and neck veins—noting rapid, weak, thready peripheral pulses; congested or fl at neck veins. Signs associated with changes in circulating volume, cardiac ouput, and progressive changes in vascular tone and/or capillary permeability.
+ - Temperature—higher than 100.4°F (38°C) or lower than 96.8°F (36°C) may indicate infectious process. Temperature changes in presence of elevated heart and respiratory rate, along with mildly elevated white blood cell (WBC) count in absence of documented infection, is suggestive of systemic infl ammatory response.
+ - State of consciousness and mentation—noting anxiety, restlessness, confusion, lethargy, or unresponsiveness. Can occur because of changes in oxygenation, acid-base imbalances, and toxins associated with hypoperfusion.
+ - Skin color and moisture—noting overall fl ushing or pallor; bluish lips and fi ngernails, slow capillary refi ll; or cool, clammy skin.
+ - Urine output—noting substantially decreased ouput. One of the most sensitive indicators of change in circulating volume or poor perfusion.
+ - Urine characteristics—noting color and odor suggestive of infection source.
+ - Bowel sounds—noting diminished or absent bowel sounds; other changes in gastrointestinal function such as vomiting; or change in color, amount, or frequency of stools, refl ecting hypoperfusion of gastrointestinal tract.
+11. Measure invasive hemodynamic parameters when available—central venous pressure (CVP), mean arterial pressure (MAP), cardiac output (CO)— to determine if intravascular fl uid defi cit or cardiac dysfunction exists.
+12. Obtain specimens of wounds, drains, central lines, blood for culture and sensitivity.
+13. Review laboratory data such as complete blood count with WBCs and differential; platelet numbers and function; other coagulation factors; tests for cardiac, renal, and hepatic function; pulse oximetry/arterial blood gas; serum lactate, blood urine cultures to identify potential sources of shock and degree of organ involvement.
+14. Review diagnostic studies such as x-rays, electrocardiogram, echocardiogram, angiography with ejection fraction, computed tomography or magnetic resonance imaging scans, ultrasound to determine presence of injuries or disorders that could cause or lead to shock conditions.
+
+[Nursing Priority No. 2]
+    - To prevent/correct potential causes of shock:
+1. Collaborate in prompt treatment of underlying conditions such as trauma, heart failure, infections, and prepare for/ assist with medical and surgical interventions to maximize systemic circulation and tissue and organ perfusion.
+2. Administer oxygen by appropriate route (e.g., nasal prongs, mask, ventilator) to maximize oxygenation of tissues.
+3. Administer fluids, electrolytes, colloids, blood or blood products, as indicated, to rapidly restore or sustain circulating volume, electrolyte balance, and prevent shock state.
+4. Administer medications as indicated (e.g., vasoactive drugs, cardiac glycosides, thrombolytics, anticoagulants, antimicrobials, analgesics). 
+5. Provide client care with infection prevention interventions, such as diligent attention to hand hygiene, aseptic wound care or dressing changes, isolation precautions, early intervention in potential infectious condition to reduce incidence or progression of infection.
+6. Provide nutrition by best means—oral, enteral, or parenteral feeding. Refer to nutritionist or dietitian to provide foods rich in nutrients, vitamins, and minerals needed to promote healing and support immune system health.
+7. Refer to NDs ineffective peripheral Tissue Perfusion; risk for decreased cardiac Tissue Perfusion; risk for ineffective cerebral Tissue Perfusion, for additional interventions and rationales. 
+
+[Nursing Priority No.3]
+    -  Promote wellness (Teaching/Discharge Considerations):
+1. Instruct client/SO in ways to prevent and/or manage underlying conditions that cause shock, including heart disease, injuries, dehydration, infection. 
+2. Identify reportable signs and symptoms, including unrelieved pain, unresolved bleeding, excessive fl uid loss, persistent fever and chills, change in skin color accompanied by chest pain for timely evaluation and intervention.
+3. Emphasize need for recognition of substances that cause hypersensitivity or allergic reactions (e.g., insects, medicines, foods, latex) to reduce risk of anaphylactic shock state. 
+4. Teach client purpose, dosage, schedule, precautions, and potential side effects of medications given to treat underlying conditions. Enhances compliance with drug regimen, reducing individual risk.
+5. Instruct in wound and skin care as indicated to prevent infection and promote healing.
+6. Teach client/caregivers importance of good hand hygiene, clean environment, and avoiding crowds when ill, especially if client is immunocompromised.
+7. Reinforce importance of immunization against infections such as infl uenza and pneumonia, especially in client with chronic conditions.
+8. Encourage consumption of healthy diet, participation in regular exercise, and adequate rest for healing and immune system support.
+9. Recommend that client at risk for hypersensitivity reactions wear medical alert bracelet, maintain readily accessible emergency medication (e.g., Benadryl and/or EpiPen).
+
+=====

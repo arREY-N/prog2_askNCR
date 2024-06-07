@@ -1,0 +1,68 @@
+::Acute Pain::
+
+::Definition::
+ Unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage (International Association for the Study of Pain); sudden or slow onset of any intensity from mild to severe and with a duration of less than 3 months.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess etiology/precipitating contributory factors:
+1. Determine and document presence of possible pathophysiological and psychological causes of pain (e.g., infl ammation; tissue trauma, fractures; surgery; infections; heart attack or angina; abdominal conditions [e.g., appendicitis, cholecystitis]; burns; grief; fear, anxiety; depression; and personality disorders). Acute pain is that which follows an injury, trauma, or procedure such as surgery, or occurs suddenly with the onset of a painful condition (e.g., herniated disk, migraine headache, pancreatitis).
+2. Assess for potential types of pain that may be affecting client (i.e., nociceptive pain or neuropathic pain) to aid in understanding reason for severity of pain associated with client’s condition, and point toward needed interventions for pain management. Note: Nociceptive pain results from actual tissue damage or potentially tissue-damaging stimuli. Subsets of nociceptive pain include (1) somatic (localized, and usually stemming from muscle, joint, bone, or connective tissue); and (2) visceral (caused by problem in internal organs, such as abdomen, pelvis) with localized pain occurring from obstruction, distension, or ischemia. Neuropathic pain is complex and caused by a variety of problems with nerves or the processing of nerve impulses. Neuropathic pain can become chronic (e.g., diabetic neuropathy) or have an acute onset related to direct nerve injury (e.g., severe trauma, surgery, certain types of cancer). 
+3. Note client’s age and developmental level and current condition (e.g., infant/child, critically ill, ventilated, sedated, or cognitively impaired client) affecting ability to report pain parameters or response to pain and pain management interventions.
+4. Assess client’s perceptions of pain, along with behaviors and cultural expectations regarding pain. Client’s perception of and expression of pain are infl uenced by age, developmental stage, underlying problem causing pain, cognitive, and behavioral and sociocultural factors.
+5. Note location of surgical incisions, as this can infl uence the amount of postoperative pain experienced; for example, vertical or diagonal incisions are more painful than transverse or S-shaped.
+6. Assess for referred pain, as appropriate, to help determine possibility of underlying condition or organ dysfunction requiring treatment.
+7. Note client’s attitude toward pain and use of pain medications, including any history of substance abuse. Client may have beliefs restricting use of medications, may have a high tolerance for drugs because of recent or current use, or may not be able to take pain medications at all if participating in a substance abuse recovery program.
+8. Note client’s locus of control (internal or external). Individuals with external locus of control may take little or no responsibility for pain management.
+9. Collaborate with medical providers in pain assessment, including neurological and psychological factors (pain inventory, psychological interview) as appropriate when pain persists.
+10. Assist with and review results of laboratory tests and diagnostic studies depending on results of history and physical examination.
+
+[Nursing Priority No. 2]
+    - To evaluate client’s response to pain: 
+1. Obtain client’s/signifi cant other’s (SO) assessment of pain to include location, characteristics, onset, duration, frequency, quality, and intensity. Identify precipitating or aggravating and relieving factors in order to fully understand client’s pain symptoms. Note: Experts agree that attempts should always be made to obtain self-reports of pain. When that is not possible, credible information can be received from another person who knows the client well (e.g., parent, spouse, caregiver).
+2. Evaluate pain characteristics and intensity. Use pain rating scale appropriate for age and cognition (e.g., 0 to 10 scale, facial expression or Wong-Baker faces pain scale [pediatric, nonverbal], adolescent pediatric pain tool [APPT], checklist of nonverbal pain indicators [CNPI], etc.).
+3. Perform pain assessment each time pain occurs. Document and investigate changes from previous reports and evaluate results of pain interventions to demonstrate improvement in status or to identify worsening of underlying condition/developing complications.
+4. Accept client’s description of pain. Be aware of the terminology client uses for pain experience (e.g., young child may say “owie” or “hurt”; elderly may say “it aches so bad”). Pain is a subjective experience and cannot be felt by others. Note: Some elderly clients experience a reduction in perception of pain or have diffi culty localizing or describing pain, and pain may be manifested as a change in behavior (e.g., restlessness, loss of appetite, increased confusion or wandering, acting out, change in functional abilities).
+5. Note cultural and developmental infl uences affecting pain response. Verbal and/or behavioral cues may have no direct relationship to the degree of pain perceived (e.g., client may deny pain even when feeling uncomfortable, or reactions can be stoic or exaggerated, refl ecting cultural or familial norms).
+6. Observe nonverbal cues and pain behaviors (e.g., how client walks, holds body, sits; facial expression; cool fi ngertips/toes, which can mean constricted blood vessels) and other objective Defi ning Characteristics, as noted, especially in persons who cannot communicate verbally. Observations may not be congruent with verbal reports or may be only indicator present when client is unable to verbalize. 
+7. Monitor skin color and temperature and vital signs (e.g., heart rate, blood pressure, respirations), which are usually altered in acute pain.
+8. Ascertain client’s knowledge of and expectations about pain management. Provides baseline for interventions and teaching, provides opportunity to allay common fears and misconceptions.
+9. Ascertain client’s knowledge of and expectations about pain management. Provides baseline for interventions and teaching, provides opportunity to allay common fears and misconceptions, or to address expected side effects of analgesics.
+10. Review client’s previous experiences with pain and methods found either helpful or unhelpful for pain control in the past. 
+11. Be aware of client’s “Right to Treatment” that includes prevention of/or adequate relief from pain. Failure to meet the standard of assessing for pain can be legally interpreted as nursing negligence.
+
+[Nursing Priority No.3]
+    - To assist client to explore methods for alleviation/control of pain:
+1. Collaborate in treatment of underlying condition or disease processes causing pain and proactive management of pain (e.g., epidural analgesia, nerve blockade for postoperative pain).
+2. Determine client’s acceptable level of pain and pain control goals. One client may not be 100% pain free but may feel that a “3” is a manageable level of discomfort, while another may require medication for pain at the same level because the experience is subjective.
+3. Determine factors in client’s lifestyle (e.g., alcohol or other drug use or abuse) that can affect responses to analgesics and/or choice of interventions for pain management.
+4. Note when pain occurs (e.g., only with ambulation, everyevening) to medicate prophylactically, as appropriate.
+5. Work with client to prevent pain. Use flow sheet to document pain, therapeutic interventions, response, and length of time before pain recurs. Instruct client to report pain as soon as it begins, as timely intervention is more likely to be successful in alleviating pain.
+6. Collaborate in treatment of underlying condition or disease processes causing pain and proactive management of pain (e.g., epidural analgesia, nerve blockade for postoperative pain, surgical plication of a nerve, implantation of nerve stimulator). 
+7. Establish collaborative approach for pain management based on client’s understanding about and acceptance of available treatment options. Pain medications may include pills/ liquids or suckers, skin patch, or suppository forms; injections, IV dosing; or patient-controlled analgesia (PCA) or regional analgesia (e.g., epidural and spinal blocking) based on client’s symptomatology and mechanism of pain as well as tolerance for pain and various analgesics.
+8. Administer analgesics, as indicated, to maximum dosage, as needed, to maintain “acceptable” level of pain. Notify physician if regimen is inadequate to meet pain control goal. Combinations of medications may be used on prescribed intervals.
+9. Evaluate and document client’s response to analgesia and assist in transitioning or altering drug regimen, based on individual needs and protocols. Increasing or decreasing dosage, stepped program (switching from injection to oral route, increased time span as pain lessens) helps in selfmanagement of pain.
+10. Instruct client in use of transcutaneous electrical stimulation (TENS) unit, when ordered.
+11. Provide or promote nonpharmacological pain management:
+ - Quiet environment, calm activities 
+ - Comfort measures (e.g., back rub, change of position, use of heat or cold compresses)
+ - Use of relaxation exercises (e.g., focused breathing, visualization, guided imagery)
+ - Diversional or distraction activities, such as television and radio, socialization with others, commercial or individualized tapes (e.g., “white” noise, music, instructional)
+ - Encourage presence of parent during painful procedures to comfort child.
+ - Identify ways to avoid or minimize pain. Splinting incision during cough, keeping body in good alignment and using proper body mechanics, and resting between activities can reduce occurrence of muscle tension or spasms, or undue stress on incision.
+12. Encourage verbalization of feelings about the pain, such as concern about tolerating pain, anxiety, and pessimistic thoughts to evaluate coping abilities and to identify areas of additional concern.
+13. Use puppets to demonstrate procedure for child to enhance understanding and reduce level of anxiety and fear. 
+
+[Nursing Priority No.4]
+    -  To promote wellness (Teaching/Discharge Considerations):
+1. Acknowledge the pain experience and convey acceptance of client’s response to pain. Reduces defensive responses, promotes trust, and enhances cooperation with regimen.
+2. Encourage adequate rest periods to prevent fatigue that canimpair ability to manage or cope with pain.
+3. Review nonpharmacological ways to lessen pain, including techniques such as Therapeutic Touch (TT), biofeedback, self-hypnosis, and relaxation skills.
+4. Discuss impact of pain on lifestyle/independence and ways to maximize level of functioning. 
+5. Provide for individualized physical therapy or exercise program that can be continued by the client after discharge. Promotes active, rather than passive, role and enhances sense of control
+6. Discuss with SO(s) ways in which they can assist client with pain management. Family members/SOs may provide assistance by transporting client to prevent walking long distances, or by taking on client’s strenuous chores, supporting timely pain control, encouraging eating nutritious meals to enhance wellness, and providing gentle massage to reduce muscle tension.
+7. Identify specifi c signs/symptoms and changes in pain characteristics requiring medical follow-up. Provides opportunity to modify pain management regimen and allows for timely intervention for developing complications.
+
+
+=====

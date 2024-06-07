@@ -1,0 +1,6 @@
+::Herniated Nucleus Pulposus (Ruptured Intervertebral Disc)::
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+impaired Physical Mobility>impairedPhysicalMobility.txt
+deficient Diversional Activity Engagement
+=====
+

@@ -1,0 +1,67 @@
+::Impaired Verbal Communication::
+
+::Definition::
+Decreased, delayed, or absent ability to receive,
+process, transmit, and/or use a system of symbols.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    -  To assess causative/contributing factors:
+1. Identify physiological or neurological conditions impacting speech, such as severe shortness of breath, cleft palate, facial trauma, neuromuscular weakness, stroke, brain tumors or infections, dementia, brain trauma, deafness/impaired hearing.
+2. Determine age and developmental considerations: (1) child too young for language or has developmental delays affecting speech and language skills or comprehension; (2) autism or other mental impairments; (3) older client does not or is not able to speak, verbalizes with diffi culty, or has diffi culty hearing or comprehending language or concepts.
+3. Note presence of physical barriers, including tracheostomy/ intubation, wired jaws, or condition resulting in failure of voice production or “problem voice” (pitch, loudness, or quality calls attention to voice rather than what speaker is saying, as might occur with electronic voice box or “talking valves” when tracheostomy in place).
+4. Determine the presence of psychological or emotional barriers, history or presence of psychiatric conditions (e.g., bipolar disorder, schizoid or affective behavior); high level of anxiety, frustration, or fear; presence of angry, hostile behavior. Note the effects on speech and communication. Assess psychological response to communication impairment and willingness to fi nd an alternate means of communication.
+5. Note whether aphasia is motor (expressive: loss of images for articulated speech) , sensory (receptive: unable to understand words and does not recognize the defect) , conduction (slow comprehension: uses words inappropriately but knows the error) , and/or global (total loss of ability to comprehend and speak) . Evaluate the degree of impairment.
+6. Determine the primary language spoken. Knowing the client’s primary language and fl uency in other languages is important to communication. For example, while some individuals may seem to be fl uent in conversational English, they may still have limited understanding, especially the language of health professionals, and have diffi culty answering questions, describing symptoms, or following directions.
+7. Determine cultural factors affecting communication, such as beliefs concerning touch and eye contact. Certain cultures may prohibit client from speaking directly to healthcare provider; some Native Americans, Appalachians, or young African Americans may interpret direct eye contact as disrespectful, impolite, an invasion of privacy, or aggressive; Latinos, Arabs, and Asians may shout and gesture when excited.
+8. Assess the style of speech (as outlined in Defi ning Characteristics).
+9. Note whether aphasia is motor (expressive: loss of images for articulated speech) , sensory (receptive: unable to understand words and does not recognize the defect) , conduction (slow comprehension: uses words inappropriately but knows the error) , and/or global (total loss of ability to comprehend and speak) . Evaluate the degree of impairment.
+10. Interview the parent to determine the child’s developmental level of speech and language comprehension.
+11. Note parental speech patterns and the manner of communicating with the child, including gestures.
+12. Note results of neurological tests (e.g., electroencephalogram [EEG]; or computed tomography/magnetic resonance imaging scans; language/speech tests [e.g., Boston Diagnostic Aphasia Examination, the Action Naming Test]) to assess and delineate underlying conditions affecting verbal communication.
+
+[Nursing Priority No. 2]
+    -  To assist client to establish a means of communication to express needs, wants, ideas, and questions:
+1. Ascertain that you have the client’s attention before communicating.
+2. Establish rapport with client, initiate eye contact, shake hands, address by preferred name, and meet the family members present; ask simple questions, smile, and engage in brief social conversation if appropriate. This helps establish a trusting relationship with client/family, demonstrating caring about the client as a person.
+3. Determine the ability to read and write. Evaluate musculoskeletal states, including manual dexterity (e.g., ability to hold a pen and write).
+4. Advise other healthcare providers of client’s communication defi cits (e.g., deafness, aphasia, intubation/presence of mechanical ventilation) and needed means of communication (e.g., writing pad, signing, yes/no responses, gestures, or picture board) to minimize the client’s frustration and promote understanding.
+5. Obtain a translator or provide written translation or picture chart when writing is not possible or the client speaks a different language than that spoken by the healthcare provider.
+6. Facilitate hearing and vision examinations to obtain necessary aids.
+7. Ascertain that hearing aid(s) are in place and batteries are charged and/or glasses are worn when needed to facilitate and improve communication. Assist the client to learn to use and adjust to aids.
+8. Reduce environmental noise that can interfere with comprehension. Provide adequate lighting, especially if the client is reading lips or attempting to write.
+9. Establish a relationship with the client, listening carefully and attending to the client’s verbal/nonverbal expressions. This conveys interest and concern.
+10. Maintain eye contact, preferably at the client’s level. Be aware of cultural factors that may preclude eye contact (e.g., found in some American Indians, Indo-Chinese, Arabs, and natives of Appalachia).
+11. Keep communication simple, speaking in short sentences, using appropriate words, and using all modes for accessing information: visual, auditory, and kinesthetic.
+12. Refrain from shouting when directing speech to confused, deaf, or hearing- impaired client. Speak slowly and clearly, pitching voice low to increase the likelihood of being understood.
+13. Maintain a calm, unhurried manner. Provide suffi cient time for the client to respond. Downplay errors and avoid frequent corrections. Individuals with expressive aphasia may talk more easily when they are rested and relaxed and when they are talking to one person at a time.
+14. Determine the meaning of words used by the client and congruency of communication and nonverbal messages.
+15. Validate the meaning of nonverbal communication; do not make assumptions because they may be wrong. Be honest; if you do not understand, seek assistance from others.
+16. Individualize techniques using breathing for relaxation of the vocal cords, rote tasks (such as counting), and singing or melodic intonation to assist aphasic clients in relearning speech.
+17. Anticipate needs and stay with the client until effective communication is reestablished, and/or client feels safe/ comfortable.
+18. Plan for and provide alternative methods of communication, incorporating information about type of disability present:
+-- Provide pad and pencil or slate board when the client is able to write but cannot speak.
+-- Use letter or picture board when the client cannot write and picture concepts are understandable to both parties.
+-- Establish hand or eye signals when the client can understand language but cannot speak or has physical barrier to writing.
+-- Remove isolation mask when the client is deaf and reads lips.
+-- Obtain or provide access to tablet or computer if communication impairment is long- standing or the client is used to this method.
+19. Identify and use previous successful communication solutions used if the situation is chronic or recurrent.
+20. Provide reality orientation by responding with simple, straightforward, honest statements.
+21. Provide environmental stimuli, as needed, to maintain contact with reality, or reduce stimuli to lessen anxiety that may worsen problem.
+22. Use confrontation skills, when appropriate, within an established nurse- client relationship to clarify discrepancies between verbal and nonverbal cues.
+23. Refer for appropriate therapies and support services. Client and family may have multiple needs (e.g., sources for further examinations and rehabilitation services, local community or national support groups and services for disabled, or fi nancial assistance with obtaining necessary aids for improving communication).
+
+[Nursing Priority No.3]
+    -  To promote wellness (Teaching/Discharge Considerations):
+1. Review information about condition, prognosis, and treatment with client/signifi cant other (SO).
+2. Teach client and family the needed techniques for communication, whether it be speech or language techniques, or alternate modes of communicating. Encourage the family to involve the client in family activities using enhanced communication techniques. This reduces the stress of a diffi cult situation and promotes earlier return to more normal life patterns.
+3. Reinforce that loss of speech does not imply loss of intelligence.
+4. Discuss individual methods of dealing with impairment, capitalizing on client’s and caregiver’s strengths.
+5. Discuss ways to provide environmental stimuli as appropriate to maintain contact with reality or reduce environmental stimuli or noise. Unwanted sound affects physical health, increases fatigue, reduces attention to tasks, and makes speech communication more diffi cult.
+6. Recommend that care providers notify the local police, fi re and fi rst responders that deaf or communication impaired persons live at the address. Plan can be established for dealing with emergency assistance.
+7. Use and assist client/SO(s) to learn therapeutic communication skills of acknowledgment, active- listening, and I- messages. This improves general communication skills and may be especially useful in clients with emotional/ psychological conditions affecting communication.
+8. Involve family/SO(s) in plan of care as much as possible. This enhances participation and commitment to communication with a loved one.
+9. Refer to appropriate resources (e.g., speech/language therapist, support groups such as stroke club, individual/family, and/or psychiatric counseling).
+10. Refer to NDs ineffective Coping; disabled family Coping; Anxiety; Fear. 
+=====

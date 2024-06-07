@@ -1,0 +1,5 @@
+::Herpes Zoster (Shingles)::
+acute Pain>acutePain.txt
+deficient Knowledge regarding pathophysiology, therapeutic needs, and potential complicaitons>deficientKnowledgeRegardingPathophysiologyTherapeuticNeedsandPotentialComplications.txt
+=====
+

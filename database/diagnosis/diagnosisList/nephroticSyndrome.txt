@@ -1,0 +1,7 @@
+::Nephrotic Syndrome::
+excess Fluid Volume>excessFluidVolume.txt
+imbalanced Nutrition: less that body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+risk for Infection>riskforInfection.txt
+risk for impaired Skin Integrity>riskforimpairedSkinIntegrity.txt
+======
+

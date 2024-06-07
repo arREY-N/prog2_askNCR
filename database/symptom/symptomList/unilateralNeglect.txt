@@ -1,0 +1,59 @@
+::Unilateral Neglect::
+
+::Definition::
+ Impairment in sensory and motor response, mental representation, and spatial attention to the body, and the corresponding environment, characterized by inattention to one side and overattention to the opposite side. Left-side neglect is more severe and persistent than right-side neglect.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess the extent of altered perception and the related degree of disability:
+1. Identify underlying reason for alterations in sensory, motor, or behavioral perceptions as noted in Related Factors. The client with injury to either side of the brain may experience spatial neglect, but it more commonly occurs when brain injury affects the right cortical hemisphere, causing left hemiparesis.
+2. Ascertain client’s/significant other’s (SO’s) perception of problem/changes, noting differences in perceptions. 
+3. Assess sensory awareness (e.g., response to stimulus of hot and cold, dull and sharp); note problems with awareness of motion and proprioception. 
+4. Observe client’s behavior (as noted in Defi ning Characteristics) to determine the extent of impairment.
+5. Assess ability to distinguish between right and left
+6. Note physical signs of neglect (e.g., inability to maintain normal posture; disregard for position of affected limb[s], bumping into objects or walls on the left when ambulating, skin irritation/damage on the left side, indicating lack of awareness of injury).  
+7. Explore and encourage verbalization of feelings to identify meaning of loss and dysfunction to the client and impact it may have on assuming activities of daily living (ADLs). Note: Expression of loss may be diffi cult for the client for a variety of reasons. For example, some emotional disturbances and personality changes are caused by the physical effects of brain damage.
+8. Assist with/review results of early screening tests. Tests (often performed at the bedside) may include (and are not limited to) observation to determine if client shows evidence of body neglect such as asymmetric shaving/ grooming. Reading test might reveal that client begins reading in the middle of the page, etc.
+9. Review results of testing (e.g., computed tomography or magnetic resonance imaging scanning, complete neuropsychological tests) done to determine cause or type of neglect syndrome (e.g., sensory, motor, representational, personal, spatial, behavioral inattention). Aids in distinguishing neglect from visual fi eld cuts, impaired attention, and planning or visuospatial abilities.
+
+[Nursing Priority No. 2]
+    - To promote optimal comfort and safety for the client in the environment: 
+1. Engage in treatment strategies focused on training of attention to the neglected hemispace:
+ - Approach client from the unaffected side during acute phase.
+ - Explain to client that one side is being neglected; repeat as needed.
+ - Remove excess stimuli from the environment when working with the client to reduce confusion and reactive stress.
+ - Encourage client to turn head and eyes in full rotation and “scan” the environment to compensate for visual field loss or when neglect therapies include scanning.
+ - Position bedside table and objects (e.g., call bell/telephone, tissues) within functional fi eld of vision to facilitate care. Note: Therapies may include orienting the client’s environment leftward in attempt to help client perceive the neglected space.
+ - Position furniture and equipment so travel path is not obstructed. Keep doors wide open or completely closed.
+ - Remove articles in the environment that may create a safety hazard (e.g., footstool, throw rug).
+ - Orient to environment as often as needed and ensure adequate lighting in the environment to improve client’s interpretation of environmental stimuli.
+ - Monitor affected body part(s) for positioning and anatomical alignment, pressure points, skin irritation or injury, and dependent edema. Increased risk of injury and ulcer formation necessitates close observation and timely intervention.
+ - When moving client, describe location of affected areas of body.
+ - Protect affected body part(s) from pressure, injury, and burns, and help client learn to assume this responsibility.
+ - Assist with ambulation or movement, using appropriate mobility and assistive devices to promote safety of client and caregiver.
+ - Provide assistance with ADLs (e.g., feeding, bathing, dressing, grooming, toileting), which helps client tend to affected side or compensate for client’s defi cits.
+ - Refer to ND [disturbed Sensory Perception] for additional interventions, as needed.
+2. Collaborate with rehabilitation team in strategies (e.g., sensory stimulation techniques such as tapping or stroking, patching one half of each eye, auditory stimulation, wedge prism adaptation techniques, virtual reality technology) to assist client to overcome or compensate for defi cits.
+
+[Nursing Priority No.3]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Encourage client to look at and handle affected side to stimulate awareness.
+2. Bring the affected limb across the midline for client to visualize during care.
+3. Provide tactile stimuli to the affected side by touching/manipulating, stroking, and communicating about the affected side by itself rather than stimulating both sides simultaneously. 
+4. Provide objects of various weight, texture, and size for client to handle to provide tactile stimulation.
+5. Assist client to position the affected extremity carefully and teach to routinely visualize placement of the extremity. Remind with visual cues. If client completely ignores one side of the body, use positioning to improve perception (e.g., position client facing/looking at the affected side).
+6. Encourage client to accept affected limb or side as part of self even when it no longer feels like it belongs. 
+7. Use a mirror to help client adjust position by visualizing both sides of the body.
+8. Use descriptive terms to identify body parts rather than “left” and “right”; for example, “Lift this leg” (point to leg) or “Lift your affected leg.” 
+9. Encourage client/SO/family members to discuss situation and impact on life/future. May help verbalize the reality of changes and provides opportunity to explore solutions to problems and special needs.
+10. Acknowledge and accept feelings of despondency, grief, and anger. When feelings are openly expressed, client can deal with them and move forward. (Refer to ND Grieving, as appropriate.) 
+11. Reinforce to client the reality of the dysfunction and need to compensate. 
+12. Avoid participating in the client’s use of denial
+13. Encourage family members and SO(s) to treat client normally and not as an invalid, including client in family activities. 
+14. Place nonessential items (e.g., TV, pictures, hairbrush) on affected side during postacute phase once client begins to cross midline to encourage continuation of behavior.
+15. Refer to and encourage client to use rehabilitative services to enhance independence in functioning.
+16. Identify additional community resources to meet individual needs (e.g., Meals on Wheels, home-care services) to maximize independence, allow client to return to community setting.
+17. Provide informational material and Web sites to reinforce teaching and promote self-paced learning.
+
+=====

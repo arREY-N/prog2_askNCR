@@ -1,0 +1,45 @@
+::Wandering [Specify Sporadic or Continuous]::
+
+::Definition::
+ Meandering, aimless, or repetitive locomotion that exposes the individual to harm; frequently incongruent with boundaries, limits, or obstacles. 
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess degree of impairment/stage of disease process:
+1. Ascertain history of client’s memory loss and cognitive changes.
+2. Assist with or review results of specifi c testing (e.g., Revised Algase Wandering Scale [RAWS], Need-Driven DementiaCompromised Behavior [NDB], or similar tool), as indicated. Adjunct tools that quantify wandering in several domains can more easily determine individual risks and safety needs.
+3. Evaluate client’s past history (e.g., individual was very active physically and socially or reacted to stress with physical activity rather than emotional reactions) to help identify likelihood of wandering.
+4. Evaluate client’s mental status during daytime and nighttime, noting when client’s confusion is most pronounced and when client sleeps. Can reveal circumstances under which client is likely to wander.
+5. Identify client’s reason for wandering, if possible. Client may demonstrate searching behavior (e.g., looking for lost item) or be experiencing sensations (e.g., hunger, thirst, discomfort) without ability to express the actual need.
+6. Note timing and pattern of wandering behavior. Client attempting to leave at 5 p.m. every day may believe he is going home from work; client may be goal directed (e.g., searching for person or object, escaping from something) or nongoal directed (wandering aimlessly).
+7. Monitor client’s use or need for assistive devices, such as glasses, hearing aids, cane. Wandering client is at high risk for falls due to cognitive impairments or forgetting necessary assistive devices or how to properly use them.
+8. Determine bowel and bladder elimination pattern, timing of incontinence, presence of constipation for possible correlation to wandering behavior.
+9. Ascertain if client has delusions due to shadows, lights, and noises to determine necessary changes to environment.
+
+
+[Nursing Priority No. 2]
+    - To assist client/caregiver to deal with situations:
+1. Provide a structured daily routine. Decreases wandering behavior and minimizes caregiver stress.
+2. Encourage participation in family activities and familiar routines, such as folding laundry, listening to music, or shared walking time outdoors. May reduce anxiety, depression, and restlessness. Note: Repetitive activity (e.g., folding laundry, paperwork) may help client with “lapping,” wandering to reduce energy expenditure and fatigue.
+3. Offer drink of water or snack, bring client to bathroom on a regular schedule. Wandering may at times be expressing a need.
+4. Provide safe place for client to wander, away from safety hazards (e.g., hot water, kitchen stove, open stairway) and other, noisy clients. Arrange furniture, remove scatter rugs, electrical cords, and other high-risk items to accommodate safe wandering.
+5. Make sure that doors or gates have alarms or chimes and that alarms are turned on. Provide door and window locks that are not within line of sight or easily opened to prevent unsafe exits.
+6. Provide 24-hr supervision and reality orientation. Client can be awake at any time and fail to recognize day/night routines.
+7. Sit with client and visit or reminisce. Provide TV, radio, music when client is socially gregarious, enjoys conversation, or reminiscence is calming
+8. Avoid overstimulation from activities or new partner/roommate during rest periods when client is in a facility. Client who is used to wandering in usual living setting may react with increased agitation and emotional outbreaks when admitted to an unfamiliar setting and restricted from wandering.
+9. Use pressure-sensitive bed/chair alarms or door mat to alert caregivers of movement.
+10. Avoid using physical or chemical restraints (sedatives) to control wandering behavior. May increase agitation, sensory deprivation, and falls; may contribute to wandering behavior.
+11. Provide consistent staff as much as possible. 
+12. Provide room near monitoring station; check client location on frequent basis. 
+
+[Nursing Priority No.3]
+    -  To promote wellness (Teaching/Discharge Considerations): 
+1. Identify problems that are remediable and assist client/significant other (SO) to seek appropriate assistance and access resources. Encourages problem-solving to improve condition rather than accept the status quo.
+2. Provide client ID bracelet or necklace with updated photograph, client name, and emergency contact to assist with identifi cation efforts, particularly when progressive dementia produces marked changes in client’s appearance.
+3. Notify neighbors about client’s condition and request that they contact client’s family or local police if they see client outside alone. Community awareness can prevent/reduce risk of client being lost or hurt
+4. Help SO(s) develop plan of care when problem is progressive. 
+5. Refer to community resources, such as day-care programs, support groups, respite care
+6. Refer to NDs acute Confusion; chronic Confusion; [disturbed Sensory Perception (specify)]; risk for Injury; risk for Falls. 
+
+=====

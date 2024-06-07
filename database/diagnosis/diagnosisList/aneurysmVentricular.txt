@@ -1,7 +1,6 @@
 ::Aneurysm, Ventricular::
-
 decreased Cardiac Output>decreasedCardiacOutput.txt
 ineffective Tissue Perfusion>ineffectiveTissuePerfusion.txt
 activity Intolerance>activityIntolerance.txt
-
 =====
+

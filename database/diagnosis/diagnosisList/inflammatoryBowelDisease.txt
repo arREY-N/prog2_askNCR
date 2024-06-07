@@ -1,0 +1,4 @@
+::Inflammatory Bowel Disease::
+colitis, Ulcerative; Crohn's Disease>colitisUlceraiveCrohn'sDisease.txt
+=====
+

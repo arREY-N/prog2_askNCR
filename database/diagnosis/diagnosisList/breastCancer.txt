@@ -1,0 +1,8 @@
+::Breast Cancer::
+cancer>cancer.txt
+anxiety>anxiety.txt
+deficient Knowledge regarding diagnosis, prognosis, and treatment options>deficientKnowledgeRegardingDiagnosisPrognosisandTreatmentOptions.txt
+risk for disturbed Body Image>riskfordisturbedBodyImage.txt
+risk for Sexual Dysfunction>riskforSexualDysfunction.txt
+=====
+

@@ -1,0 +1,5 @@
+::Sample Sakit::
+Anxiety: mild, moderate, severe, panic>anxiety.txt
+Disturbed Body Image>disturbedBodyImage.txt
+=====
+

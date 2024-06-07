@@ -1,0 +1,72 @@
+::Ineffective Peripheral Tissue Perfusion And Risk For Ineffective Peripheral Tissue Perfusion ::
+
+::Definition::
+ - Ineffective Tissue Perfusion: Decrease in blood circulation to the periphery, which may compromise health. 
+ - Risk For Ineffective Tissue Perfusion: Susceptible to a decrease in blood circulation to the periphery, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess causative/contributing or risk factors:
+1. Note current situation or presence of conditions (e.g., congestive heart failure, lung disorders, major trauma, septic or hypovolemic shock, coagulopathies, sickle cell anemia) affecting systemic circulation/perfusion.
+2. Determine history of conditions associated with thrombus or emboli (e.g., problems with coronary or cerebral circulation, stroke; high-velocity trauma with fractures, abdominal or orthopedic surgery, long periods of immobility; infl ammatory diseases; chronic lung disease; diabetes with coexisting peripheral vascular disease; estrogen therapy, cancer and cancer therapies, presence of central venous catheters) to identify client at higher risk for venous stasis, vessel wall injury, and hypercoagulability.
+3. Identify presence of high-risk factors or conditions (e.g., smoking, uncontrolled hypertension, obesity, pregnancy, pelvic tumor, paralysis, hypercholesterolemia, varicose veins, arthritis, sepsis) that place client at greater risk for developing peripheral vascular disease (including arterial blockage and chronic venous insuffi ciency) with associated complications.
+4. Note location of restrictive clothing, pressure dressings, circular wraps, cast, or traction device that may restrict circulation to limb.
+5. Ascertain impact of condition on functioning and lifestyle. For example, leg pain may restrict ambulation or person may develop skin ulceration and healing problems that seriously impact quality of life.
+
+[Nursing Priority No. 2]
+    - To evaluate degree of impairment (ineffective peripheral Tissue Perfusion):
+1. Assess skin color, temperature, moisture, and whether changes are widespread or localized. Helps in determining location and type of perfusion problem.
+2. Compare skin temperature and color with other limb when assessing extremity circulation. Helps differentiate type of problem (e.g., deep redness in both hands triggered by vibrating machinery is associated with Raynaud’s, while edema, redness, swelling in calf of one leg are associated with localized thrombophlebitis).
+3. Assess presence, location, and degree of swelling or edema formation. Measure circumference of extremities, noting differences in size. Useful in identifying or quantifying edema in involved extremity.
+4. Measure capillary refi ll to determine adequacy of systemic circulation.
+5. Note client’s nutritional and fl uid status. Protein-energy malnutrition and weight loss make ischemic tissues more prone to breakdown. Dehydration reduces blood volume and compromises peripheral circulation.
+6. Inspect lower extremities for skin texture (e.g., atrophic, shiny appearance, lack of hair; or dry/scaly, reddened skin), and skin breaks or ulcerations that often accompany diminished peripheral circulation.
+7. Palpate arterial pulses (bilateral femoral, popliteal, dorsalis pedis, and posterial tibial) using handheld Doppler if indicated to determine level of circulatory blockage. 
+8. Note whether activity alters pulses (e.g., client with intermittent claudication may have palpable pulses that disappear after ambulation).
+9. Determine pulse equality, as well as intensity (e.g., bounding, normal, diminished, or absent), and compare with unaffected extremity to evaluate distribution and quality of blood flow and success or failure of therapy.
+10. Evaluate extremity pain reports, noting associated symptoms (e.g., cramping or heaviness, discomfort with walking; progressive temperature or color changes; paresthesias).
+11. Determine time (day or night) that symptoms are worse, precipitating or aggravating events (e.g., walking), and relieving factors (e.g., rest, sitting down with legs in dependent position, oral analgesics) to help isolate and differentiate problems such as intermittent chronic claudication versus loss of function and pain due to acute sustained ischemia related to loss of arterial blood flow.
+12. Assess motor and sensory function. Problems with ambulation; hypersensitivity; or loss of sensation, numbness, and tingling are changes that can indicate neurovascular dysfunction or limb ischemia.
+13. Check for calf tenderness or pain on dorsifl exion of foot (Homans’ sign), swelling, and redness. Indicators of deep vein thrombosis (DVT), although DVT is often present without a positive Homans’ sign.
+14. Review laboratory studies such as lipid profi le, coagulation studies, hemoglobin/hematocrit, renal/cardiac function tests, inflammatory markers (e.g., D dimer, C-reactive protein); and diagnostic studies (e.g., Doppler ultrasound, magnetic resonance angiography, venogram, contrast angiography, resting ankle-brachial index [ABI], leg segmental arterial pressure measurements) to determine probability, location, and degree of impairment.
+
+
+[Nursing Priority No.3]
+    - To maximize tissue perfusion or reduce risk of perfusion
+complications:
+1. Evaluate reports of extremity pain promptly, noting any associated symptoms (e.g., cramping or heaviness, discomfort with walking, progressive temperature or color changes, paresthesia) to help isolate and differentiate problems.
+2. Note presence and location of restrictive pressure dressings, circular wraps, cast or traction device that may impede circulation to limb.
+3. Assess skin color and temperature in all extremities for changes that might indicate circulation problem.
+4. Compare skin temperature and color with other limb if developing problem is suspected.
+5. Collaborate in treatment of underlying conditions, such as diabetes, hypertension, cardiopulmonary conditions, blood disorders, traumatic injury, hypovolemia, hypoxemia to maximize systemic circulation and organ perfusion.
+6. Administer medications such as antiplatelet agents, thrombolytics, antibiotics to improve tissue perfusion or organ function.
+7. Administer fluids, electrolytes, nutrients, and oxygen, as indicated, to promote optimal blood fl ow, organ perfusion, and function.
+8. Assist with or prepare for medical procedures such as endovascular stent placement, surgical revascularization procedures, thrombectomy to improve peripheral circulation.
+9. Assist with application of elasticized tubular support bandages, adhesive elastic or Velcro wraps (e.g., Circ-Aid), medication-impregnated layered bandage (e.g., Unna boot), multilayer bandage regimens, sequential pneumatic compression devices, and custom-fi tted compression stockings, as indicated, to provide graduated compression of lower extremity in presence of venous stasis ulcer.
+10. Refer to wound care specialist if arterial or venous ulcerations are present. In-depth wound care may include débridement and various specialized dressings that provide optimal moisture for healing, prevention of infection, and further injury.
+11. Provide interventions to promote peripheral circulation and limit complications associated with poor perfusion:
+ - Encourage early ambulation when possible and recommend regular exercise. Enhances venous return. Studies indicate exercise training may be an effective early treatment for intermittent claudication.
+ - Recommend or provide foot and ankle exercises when client unable to ambulate freely to reduce venous pooling and increase venous return.
+ - Provide pressure-relieving devices for immobilized client (e.g., air mattress, foam or sheepskin padding, bed or foot cradle).
+ - Apply intermittent compression devices or graduated compression stockings (GCSs) to lower extremities to limit venous stasis, improve venous return, and reduce risk of DVT or tissue ulceration in client who is limited in activity, or otherwise at risk.
+ - Assist or instruct client to change position at timed intervals, rather than using presence of pain as signal to change positions.
+ - Elevate legs when sitting; avoid sharp angulation of the hips or knees.
+ - Avoid massaging the leg in presence of thrombosis.
+ - Avoid, or carefully monitor, use of heat or cold, such as hot water bottle, heating pad, or ice pack. 
+12. Refer to NDs risk for peripheral Neurovascular Dysfunction; risk for impaired Skin Integrity; impaired Tissue Integrity; [disturbed Sensory Perception], for additional interventions as appropriate.
+
+[Nursing Priority No.4]
+    - To promote and maintain optimal perfusion (Teaching/Discharge Considerations): 
+1. Discuss relevant risk factors (e.g., family history, obesity, age, smoking, hypertension, diabetes, clotting disorders) and potential outcomes of atherosclerosis (e.g., systemic and peripheral vascular disease conditions). Information necessary for client to make informed choices about remediating risk factors and committing to lifestyle changes.
+2. Identify necessary changes in lifestyle and assist client to incorporate disease management into activities of daily living. Promotes independence, enhances self-concept regarding ability to deal with change and manage own needs.
+3. Emphasize need for regular exercise program to enhance circulation and promote general well-being.
+4. Refer to dietitian for well-balanced, low-saturated fat, lowcholesterol diet, or other modifi cations as indicated. 
+5. Discuss care of dependent limbs/foot care, as appropriate. When circulation is impaired, changes in sensation place client at risk for development of lesions or ulcerations that are often slow to heal.
+6. Discourage sitting or standing for extended periods of time, wearing constrictive clothing, or crossing legs when seated, which restricts circulation and leads to venous stasis and edema.
+7. Provide education about relationship between smoking and peripheral vascular circulation, as indicated. Smoking contributes to development and progression of peripheral vascular disease and is associated with higher rate of amputation in presence of Buerger disease.
+8. Educate client/SO in reportable symptoms, including any changes in pain level, diffi culty walking, nonhealing wounds to provide opportunity for timely evaluation and intervention.
+9. Emphasize need for regular medical and laboratory follow-up to evaluate disease status and response to therapies.
+10. Review medication regimen and possible harmful side effects with client/SO. Client may be on various drugs (e.g., antiplatelet agents, blood viscosity-reducing agents, vasodilators, anticoagulants, or cholesterol-lowering agents) for treatment of the particular vascular disorder. Many of these medications have harmful side effects and require client teaching and ongoing medical monitoring.
+
+=====

@@ -1,0 +1,9 @@
+::Bipolar Disorder::
+risk for Other-Directed Violence>riskforOther-DirectedViolence.txt
+imbalanced Nutrition: less than body requirements>imbalancedNutrition:lessthanBodyRequirements.txt
+risk for Poisoning>riskforPoisoning.txt
+insomnia>insomnia.txt
+disturbed Sensory Perception / stress Overload>disturbedSensoryPerception/stressOverload.txt
+interrupted Family Processes>interruptedFamilyProcesses.txt
+=====
+

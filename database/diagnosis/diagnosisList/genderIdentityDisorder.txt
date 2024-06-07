@@ -1,0 +1,8 @@
+::Gender Identity Disorder::
+anxiety>anxiety.txt
+ineffective Role Performance_disturbed Personal Identity>ineffectiveRolePerformance_disturbedPersonalIdentity.txt
+ineffective Sexuality Pattern>ineffectiveSexualityPattern.txt
+compromised family Coping_disabledfamilyCoping>compromisedamilyCoping_disabledFamilyCoping.txt
+readiness for enhanced family Coping>readinessforenhancedfamilyCoping.txt
+=====
+

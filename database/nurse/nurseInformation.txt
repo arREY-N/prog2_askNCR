@@ -1,1 +1,2 @@
-reyn,Reynal Penus,21,Male,Student,1:00AM-11:00AM,Psych
+1001,Reynal Penus,21,Male,Nurse,8:00AM-5:00PM,Psych
+1002,Zam Ortega,29,Female,Nurse,8:00AM-5:00PM,Psych

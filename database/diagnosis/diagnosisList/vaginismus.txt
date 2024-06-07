@@ -1,0 +1,6 @@
+::Vaginismus::
+
+acute Pain>acutePain.txt
+sexual Dysfunction>sexualDysfunction.txt
+
+=====

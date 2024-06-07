@@ -1,0 +1,8 @@
+::Neonatal, Premature Newborn::
+impaired Gas Exchange>impairedGasExchange.txt
+ineffective Breathing Pattern_ineffective infant Feeding Pattern>ineffectiveBreathingPattern_ineffectiveinfantFeedingPattern.txt
+risk for ineffective Thermoregulation>riskforineffectiveThermoregulation.txt
+risk for deficit Fluid Volume>riskfordeficitFluidVolume.txt
+risk for disorganized infant Behavior>riskfordisorganizedinfantBehavior.txt
+=====
+

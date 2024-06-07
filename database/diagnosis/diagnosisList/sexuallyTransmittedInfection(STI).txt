@@ -1,0 +1,7 @@
+::Sexually Transmitted Infection (STI)::
+
+risk for Infection>riskforInfection.txt
+impaired Skin_Tissue Integrity>impairedSkin_TissueIntegrity.txt
+deficient Knowledge regarding condition, prognosis_complications, therapy needs, and Transmission>deficientKnowledgeregardingconditionprognosis_complicationstherapyneedsandTransmission.txt
+
+=====

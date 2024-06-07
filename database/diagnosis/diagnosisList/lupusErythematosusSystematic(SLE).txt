@@ -1,0 +1,7 @@
+::Lupus Erythematosus, Systematic (SLE)::
+fatigue>fatigue.txt
+acute Pain>acutePain.txt
+impaired Skin_Tissue Integrity>impairedSkinTissueIntegrity.txt
+disturbed Body Image>disturbedBodyImage.txt
+=====
+

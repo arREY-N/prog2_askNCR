@@ -1,0 +1,8 @@
+::Hemodialysis::
+dialysis, General>dialysisGeneral.txt
+risk for Injury>riskforInjury.txt
+risk for deficient Fluid Volume_risk for Bleeding>riskfordeficientFluidVolume_riskforBleeding.txt
+risk for excess Fluid Volume>riskforexcessFluidVolume.txt
+ineffective Protection>ineffectiveProtection.txt
+====
+

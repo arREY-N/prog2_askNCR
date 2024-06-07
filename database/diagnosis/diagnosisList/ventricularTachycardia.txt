@@ -1,0 +1,5 @@
+::Ventricular Tachycardia::
+
+risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
+
+=====

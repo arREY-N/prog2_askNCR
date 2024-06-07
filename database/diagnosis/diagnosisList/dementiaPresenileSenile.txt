@@ -1,0 +1,11 @@
+::Dementia Presenile, Senile::
+alzheimer Disease>alzheimerDisease.txt
+impaired Memory>impairedMemory.txt
+fear>fear.txt
+self-Care deficit>self-Caredeficit.txt
+risk for physical Trauma>riskforPhysicalTrauma.txt
+risk for sedentary Lifestyle>riskforsedentaryLifestyle.txt
+risk for caregiver Role Strain>riskforcaregiverRoleStrain.txt
+grieving>grieving.txt
+=====
+

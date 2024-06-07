@@ -1,0 +1,67 @@
+::Caregiver Role Strain And Risk For Caregiver Rol  Strain::
+
+::Definition::
+ - Caregiver Role Strain: Difficulty in performing family/significant other caregiver role.
+ - Risk For Caregiver Role Strain: Susceptible to difficulty in performing the family/significant other caregiver role, which may compromise health.
+
+::Action/Interventions::
+
+[Nursing Priority No. 1]
+    - To assess factors affecting current situation or degree of impaired function:
+1. Inquire about and observe physical condition of care receiver and surroundings, as appropriate. Important to determine factors that may indicate problems that can interfere withability for caregiving.
+2. Assess caregiver’s current state of health and functioning (e.g., caregiver has multiple medical issues; is unable to get enough sleep, has poor nutritional intake, personal appearance and demeanor are indicating stress). Provides basis for determining needs that indicate caregiver is having difficulty dealing with role.
+3. Determine use of prescription/over-the-counter drugs or alcohol to deal with situation.
+4. Identify safety issues concerning caregiver and care receiver
+5. Assess current actions of caregiver and how they are viewed by the care receiver (e.g., caregiver may be trying to be helpful, but is not perceived as helpful; may be too protective or may have unrealistic expectations of care receiver). May lead to misunderstanding and confl ict.
+6. Note choice and frequency of social involvement and recreational activities.
+7. Determine use and effectiveness of resources and support systems. People are often not aware of available resources or may need help in using them to the best advantage.
+
+[Nursing Priority No. 2]
+    - To identify the causative, contributing, or risk factors relating to the impairment:
+1. Note presence of high-risk situations (e.g., elderly client with total care dependence on spouse; or caregiver with several small children with one child requiring extensive assistance due to physical condition or developmental delays). Such situations result in added stress (e.g., imposing unwanted role reversal, or placing excessive demands on parenting skills).
+2. Determine current knowledge of the situation, noting misconceptions and lack of information. May interfere with caregiver/care receiver response to illness/condition.
+3. Identify relationship and proximity of caregiver to care receiver (e.g., spouse/lover, parent/child, sibling, friend). Close relationships may make it more diffi cult to manage guilt, loneliness, anger, and resentment.
+4. Determine quality of couple’s relationship/presence of intimacy issues. Disease/condition, caregiving activities, and possible change in role responsibilities may strain relationship adding to sense of loss and unmet needs.
+5. Ascertain proximity of caregiver to care receiver. Caregiver could be living in the home of care receiver (e.g., spouse or parent of disabled child) or be an adult child stopping by to check on elderly parent each day, providing support, food preparation/shopping, and assistance in emergencies. Either situation can be taxing.
+6. Note care receiver’s physical and mental condition, as well as the complexity of required therapeutic regimen. Caregiving activities can be complex, requiring hands-on care, problem-solving skills, clinical judgment, and organizational and communication skills that can tax the caregiver.
+7. Determine caregiver’s level of involvement in/preparedness for the responsibilities of caring for the client and anticipated length of care. 
+8. Ascertain caregiver’s physical and emotional health and developmental level, as well as additional responsibilities of caregiver (e.g., job, raising family). Provides clues to potential stressors and possible supportive interventions.
+9. Use assessment tool, such as Zarit Burden Interview, Herth Hope Index, Caregiver Reaction Assessment, or Caregiver Strain Index (not a comprehensive list), when appropriate, to further determine caregiver’s stressors, learning needs,and coping abilities to aid in planning.
+10. Identify individual cultural factors and impact on caregiver. Helps clarify expectations of caregiver/receiver, family, and community.
+11. Note codependency needs and enabling behaviors of caregiver. These behaviors can interfere with competent caregiving and contribute to caregiver burnout.
+12. Determine availability/use of support systems and resources.
+
+[Nursing Priority No.3]
+    -  To assist caregiver in identifying feelings and in beginning to deal with problems (caregiver Role Strain): 
+1. Establish a therapeutic relationship, conveying empathy and unconditional positive regard. A compassionate approach, blending the nurse’s expertise in healthcare with the caregiver’s fi rsthand knowledge of the care receiver can provide encouragement, especially in a long-term diffi cult situation.
+2. Acknowledge diffi culty of the situation for the caregiver/family. Research shows that the two greatest predictors of caregiver strain are poor health and the feeling that there is no choice but to take on additional responsibilities.
+3. Discuss caregiver’s view of and concerns about situation, including quality of couple’s relationship/presence of intimacy issues. Important to identify issues so planning and solutions can be developed.
+4. Encourage caregiver to acknowledge and express feelings. Discuss normalcy of the reactions without using false reassurance.
+5. Discuss caregiver’s and family members’ life goals, perceptions, and expectations of self to clarify unrealistic thinking and identify potential areas of fl exibility or compromise.
+6. Discuss caregiver’s perception of impact of and ability to handle role changes necessitated by situation. People initially do not realize changes that will be encountered assituation develops, and it helps to identify and plan for changes before they arise.
+
+[Nursing Priority No.4]
+    - To enhance caregiver’s ability to deal with current or future situation:
+1. Identify strengths of caregiver and care receiver. Bringing these to the individual’s awareness promotes positive thinking and helps with problem-solving to deal more effectively with circumstances.
+2. Discuss strategies to coordinate caregiving tasks and other responsibilities (e.g., employment, care of children/dependents, or housekeeping activities).
+3. Facilitate family conference, as appropriate, to share information and develop plan for involvement in care activities.
+4. Identify classes and/or needed specialists (e.g., fi rst aid/CPR classes, enterostomal specialist, physical therapist). 
+5. Determine need for, and sources of, additional resources(e.g., fi nancial, legal, respite care, social, and spiritual). 
+6. Provide information or demonstrate techniques for dealing with acting out, violent, or disoriented behavior. Presence of dementia necessitates learning these techniques or skills to enhance safety of caregiver and receiver.
+7. Identify equipment needs or adaptive aids and resources to enhance the independence and safety of the care receiver
+8. Provide contact person/case manager to partner with care provider(s) in coordinating care, providing physical/ social support, and assisting with problem-solving, as needed/desired.
+
+[Nursing Priority No. 5]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Emphasize importance of self-nurturing (e.g., pursuing  self-development interests, personal needs, hobbies, and social activities) to improve/maintain quality of life for caregiver.
+2. Advocate for/assist caregiver to plan for and implement changes that may be necessary (e.g., home care providers, adult day care, placement in long-term care facility, hospice care). 
+3. Support caregiver in setting practical goals for self (and care receiver) that are realistic for care receiver’s condition/prognosis and caregiver’s own abilities.
+4. Review signs of burnout (e.g., emotional/physical exhaustion; changes in appetite and sleep; and withdrawal from friends, family, life interests).
+5. Discuss/demonstrate stress management techniques (e.g., accepting own feelings/frustrations and limitations, talking with trusted friend, taking a break from situation) and importance of self-nurturing (e.g., eating and sleeping regularly and pursuing self-development interests, personal needs, hobbies, social activities, spiritual enrichment). May provide care provider with options to look after self.
+6. Encourage involvement in caregiver/other specifi c support group(s).
+7. Refer to classes/other therapies, as indicated.
+8. Identify available 12-step/other recovery or support program, when indicated, to provide tools to deal with enabling/codependent behaviors that impair level of function.
+9. Refer to counseling or psychotherapy, as needed.
+10. Provide bibliotherapy of appropriate references and Web sites for self-paced learning and updated information, and contact with other caregivers. Further information can help individuals understand what is happening and manage more effectively.
+
+=====

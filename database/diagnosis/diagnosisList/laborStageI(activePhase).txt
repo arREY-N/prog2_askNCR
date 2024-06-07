@@ -1,0 +1,6 @@
+::Labor Stage 1 (Active Phase)::
+labor Pain_impaired Comfort>laborPain_impairedComfort.txt
+impaired urinary Elimination>impairedUrinaryElimination.txt
+risk for ineffective(individual_couple)>riskforIneffective(individual_couple).txt   
+=====
+

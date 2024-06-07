@@ -1,0 +1,7 @@
+::Parathyroidectomy::
+acute Pain>acutePain.txt
+risk for excess Fluid Volume>riskforexcessFluidVolume.txt
+risk for ineffective Airway Clearance>riskforineffectiveAirwayClearance.txt
+deficient Knowledge regarding postoperative care, complications, and long-term Needs>deficientKnowledgeRegardingPostoperativeCareComplicationsandLong-TermNeeds.txt
+=====
+

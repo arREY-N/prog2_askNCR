@@ -1,0 +1,7 @@
+::Influenza::
+acute Pain_impaired Comfort>acutePain_impairedComfort.txt
+risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
+hyperthermia>hyperthermia.txt
+risk for ineffective Breathing Pattern>riskforineffectiveBreathingPattern.txt
+=====
+

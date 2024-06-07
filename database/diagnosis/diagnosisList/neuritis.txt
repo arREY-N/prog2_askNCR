@@ -1,0 +1,5 @@
+::Neuritis::
+acute Pain_chronic Pain>acutePain_chronicPain.txt
+deficient Knowledge regarding underlying causative factors, treatment, and Prevention>deficientKnowledgeRegardingunderlyingCausativeFactorsTreatmentandPrevention.txt
+=====
+

@@ -1,0 +1,8 @@
+::Lead Poisoning, Chronic::
+lead Poisoning, Acute>leadPoisoningAcute.txt
+contamination>contamination.txt
+imbalanced Nutrition: less than Body Requirements>imbalancedNutritionlessthanBodyRequirements.txt
+chronic Pain>chronicPain.txt
+risk for delayed Development_disproportionate Growth>riskfordelayedDevelopment_disproportionateGrowth.txt
+=====
+
