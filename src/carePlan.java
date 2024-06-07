@@ -102,10 +102,16 @@ public class carePlan {
                             fileContent = SymptomDatabase.getSymptomContents(symptomPath);
                          
                             Search.showSymptomInformation(scan, fileContent, symptomName);
-                            carePlans.add(fileContent);
-                         
-                            System.out.printf("\n[%s] added to care plan! Enter to continue!\n", symptomArray.get(symptomNumber-1));
-                            scan.nextLine();                            
+
+                            if(!carePlans.contains(fileContent)){
+                                carePlans.add(fileContent);
+                                System.out.printf("\n[%s] added to care plan! Enter to continue!\n", symptomArray.get(symptomNumber-1));
+                                scan.nextLine();   
+                            } else {
+                                System.out.printf("\n[%s] already in the care plan! Enter to continue!\n", symptomArray.get(symptomNumber-1));
+                                scan.nextLine();
+                            }
+
                         } catch (NullPointerException e){
                             System.out.printf("\nSorry! [%s] is not yet available in the database!\n", symptomName.toUpperCase());
                             System.out.println("Add to database? (Y to add | Enter to go back)");
@@ -134,7 +140,7 @@ public class carePlan {
             System.out.println("No contents to include!\n");
         }
     }
-    
+
     public static File[] getCarePlans(Patient patient, Nurse nurse){
         Path filePath = Paths.get("database\\nurse\\" + nurse.getUserID() + "\\" + patient.getPatientId());
         File carePlans = new File(filePath.toString());

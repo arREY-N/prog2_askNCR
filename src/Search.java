@@ -23,8 +23,13 @@ public class Search {
             try{
                 System.out.print("Choose Diagnosis (0 to exit): ");
                 if((diagnosisNumber = Integer.parseInt(scan.nextLine())) != 0){
-                    Diagnosis diagnosis = diagnosisList.get(diagnosisNumber);
-                    chooseSymptom(scan, diagnosis);
+
+                    if(diagnosisNumber>0 && diagnosisNumber<diagnosisList.size()){
+                        Diagnosis diagnosis = diagnosisList.get(diagnosisNumber);
+                        chooseSymptom(scan, diagnosis);    
+                    } else{
+                        throw new NumberFormatException();
+                    }
                 } else {
                     System.out.println();
                     diagnosisLoop = false;
@@ -64,6 +69,9 @@ public class Search {
                             String fileTitle = symptom.getKey();
                             Symptom currentSymptom = symptom.getValue();
 
+                            System.out.println(fileTitle);
+                            System.out.println(symptomName);
+                            
                             int matches = Utilities.matchTitles(fileTitle, symptomName);
                                 
                             switch (matches) {

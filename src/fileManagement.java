@@ -134,12 +134,14 @@ public class fileManagement {
                 String patientName = patient.getName();
                 String diagnosisName = patient.getDiagnosisName();
 
-                writer.write("==========");
+                writer.write("==========\n");
+                writer.write("Patient name: ");
                 writer.write(patientName);
                 writer.write("\n");
+                writer.write("Diagnosis: ");
                 writer.write(diagnosisName);
                 writer.write("\n");
-                writer.write("==========");
+                writer.write("==========\n");
                 
                 for(LinkedHashMap<String, ArrayList<String>> symptom: careRecommendations){
                     
