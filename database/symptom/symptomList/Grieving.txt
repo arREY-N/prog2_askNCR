@@ -4,7 +4,6 @@
 A normal complex process that includes emotional, physical, spiritual, social, and intellectual responses and behaviors by which individuals, families, and communities incorporate an actual, anticipated, or perceived loss into their daily lives.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative/contributing factors: 
 1. Determine circumstances of current situation (e.g., sudden death, prolonged fatal illness, or loved one kept alive by extreme medical interventions). Grief can be anticipatory (e.g., mourning the loss of a loved one’s former self before actual death) or actual. Both types of grief can provoke a wide range of intense and often confl icting feelings. Grief also follows losses other than death (e.g., traumatic loss of a limb, loss of home by a tornado, loss of known self due to brain injury).
@@ -12,7 +11,6 @@ A normal complex process that includes emotional, physical, spiritual, social, a
 3. Identify cultural or religious beliefs that may impact the sense of loss. 
 4. Ascertain the response of the family/signifi cant other(s) (SO[s]) to the client’s situation and concerns. 
 5. Determine significance of the loss to community (e.g., school bus accident with loss of life, major tornado damage to infrastructure, or fi nancial failure of major employer). 
-
 [Nursing Priority No. 2]
     - To determine current response: 
 1. Note emotional responses, such as withdrawal, angry behavior, and crying. 
@@ -23,7 +21,6 @@ A normal complex process that includes emotional, physical, spiritual, social, a
 6. Note family communication and interaction patterns. Dysfunctional patterns of communication such as avoidance, preaching, and giving advice can block effective communication and isolate family members.
 7. Determine availability and use of community resources and support groups. Can help the individual to feel less isolated and can promote feelings of inclusion and comfort.
 8. Note community plans in place to deal with a major loss (e.g., team of crisis counselors stationed at a school to address the loss of classmates, vocational counselors or retraining programs, or outreach of services from neighboring communities). 
-
 [Nursing Priority No. 3]
     -  To assist client/community to deal with situation: 
 1. Provide an open environment and a trusting relationship. Promotes a free discussion of feelings and concerns.
@@ -44,7 +41,6 @@ A normal complex process that includes emotional, physical, spiritual, social, a
 16. Mobilize resources when client is the community. When anticipated loss affects community as a whole, such as closing ofmanufacturing plant or impending disaster (e.g., wildfi re, hurricane, terrorist concerns), multiple supports will be required to deal with size and complexity of situation. 
 17. Encourage community members or groups to engage in talking about the event or loss and verbalizing feelings. Seek out underserved populations to include in the process. 
 18. Encourage individuals to participate in activities to deal with loss and rebuild community.
-
 [Nursing Priority No. 4]
     -  To promote wellness (Teaching/Discharge Considerations): 
  Give information that feelings are okay and are to be expressed appropriately. Expression of feelings can facilitate the grieving process, but destructive behavior can be damaging.
@@ -55,3 +51,4 @@ A normal complex process that includes emotional, physical, spiritual, social, a
  Refer to additional resources, such as pastoral care, counseling, psychotherapy, community or organized support groups (including hospice), as indicated, for both client and family/SO(s), to meet ongoing needs and facilitate grief work.
  Support community efforts to strengthen, support, or develop a plan to foster recovery and growth. 
 =========
+

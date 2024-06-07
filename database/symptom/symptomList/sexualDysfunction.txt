@@ -4,7 +4,6 @@
  A state in which an individual experiences a change in sexual function during the sexual response phases of desire, excitation, and/or orgasm, which is viewed as unsatisfying, unrewarding, or inadequate. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Perform a complete history and physical, including a sexual history, which would include usual pattern of functioning and level of desire. Note vocabulary used by the individual to maximize communication/understanding. 
@@ -22,8 +21,6 @@
 13. Assist with diagnostic studies to determine cause of erectile dysfunction. More than half of the cases have a physical cause such as diabetes, vascular problems. 
 14. Explore with client the meaning of client’s behavior. (Masturbation, for instance, may have many meanings or purposes, such as for relief of anxiety, sexual deprivation, pleasure, a nonverbal expression of need to talk, way of alienating.) ( Note: Nurse needs to be aware of and be in control of own feelings and response to client expressions or self-revelation.)
 15. Avoid making value judgments, as they do not help the client to cope with the situation.
-
-
 [Nursing Priority No. 2]
     - To assist client/SO to deal with individual situation:
 1. Establish therapeutic nurse-client relationship to promote treatment and facilitate sharing of sensitive information and feelings.
@@ -37,7 +34,6 @@
 9. Assist client/SO to problem-solve alternative ways of sexual expression. When client is unable to perform in usual manner, there are many ways the couple can learn to satisfy sexual needs.
 10. Provide information about availability of corrective measures such as medication (e.g., papaverine or sildenafi l [Viagra] for erectile dysfunction) or reconstructive surgery (e.g., penile/ breast implants) when indicated.
 11. Refer to appropriate resources, as needed (e.g., healthcare coworker with greater comfort level and/or knowledgeable clinical nurse specialist or professional sex therapist, family counseling). Not all professionals are knowledgeable or comfortable dealing with sexual issues, and referrals to more appropriate resources can provide client/couple with accurate assistance.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Provide sex education, explanation of normal sexual functioning when necessary. 
@@ -48,5 +44,5 @@
 6. Identify community resources for further assistance (e.g., Reach for Recovery, CanSurmount, Ostomy Association, family or sex therapist). 
 7. Refer for further professional assistance concerning relationship diffi culties, low sexual desire, and other sexual concerns (e.g., premature ejaculation, vaginismus, painful intercourse). 
 8. Identify resources for assistive devices or sexual “aids.” 
-
 =====
+

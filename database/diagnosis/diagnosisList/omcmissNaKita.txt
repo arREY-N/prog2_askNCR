@@ -4,3 +4,4 @@ di makakain>diMakakain.txt
 di mapakali>diMapakali.txt
 sumasakit ulo>sumasakitUlo.txt
 =====
+

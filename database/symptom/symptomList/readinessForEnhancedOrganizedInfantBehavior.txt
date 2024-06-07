@@ -5,7 +5,6 @@ A pattern of modulation of the physiological and behavioral systems of functioni
 strengthened.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess infant status and parental skill level:
 1. Determine the infant's chronological and developmental age; note the length of gestation. 
@@ -14,7 +13,6 @@ strengthened.
 4. Evaluate level and appropriateness of environmental stimuli. 
 5. Ascertain the parents' understanding of the infant's needs and abilities. 
 6. Listen to the parents' perceptions of their capabilities to promote the infant's development 
-
 [Nursing Priority No. 2]
     -  To assist parents to enhance infant's integration:
 1. Review infant growth and development, pointing out current status and progressive expectations. 
@@ -23,10 +21,10 @@ strengthened.
 4. Provide positive feedback for parental involvement in the caregiving process. The transfer of care from staff to parents progresses along a continuum as parents' confi -dence level increases and they are able to take on more responsibility.
 5. Discuss use of skin-to-skin contact (kangaroo care [KC]), as appropriate. Research suggests KC may have a positive effect on infant development by enhancing neurophysiological organization, as well as an indirect effect by improving parental mood, perceptions, and interactive behavior.
 6. Incorporate parents' observations and suggestions into the plan of care. This demonstrates value of and regard for parents' input and enhances the sense of ability to deal with situations.
-
 [Nursing Priority No. 3]
     - To promote wellness (Teaching/Learning Considerations):
 1. Identify community resources (e.g., visiting nurse, home-care support, and childcare). 
 2. Refer to support group or individual role model to facilitate adjustment to new roles/responsibilities.
 3. Refer to additional NDs, such as readiness for enhanced family Coping. 
 =========
+

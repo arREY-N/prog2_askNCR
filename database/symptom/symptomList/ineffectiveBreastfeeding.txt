@@ -5,7 +5,6 @@ Difficulty feeding milk from the breasts, which
 may compromise nutritional status of the infant/child 
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     - To identify maternal causative or contributing factors: 
 1. Assess client knowledge about breastfeeding and extent of instruction that has been given. 
@@ -20,7 +19,6 @@ is only necessary if the practice/belief is harmful to the infant.
 9. Identify maternal support systems or presence and response of signifi cant others (SOs), extended family, and friends. The infant's father and maternal grandmother (in addition to caring healthcare providers) are important factors that contribute to successful breastfeeding.
 10. Ascertain the mother's age, number of children at home, and need to return to work. These factors may have a detrimental effect on desire to breastfeed. Immaturity may infl uence mother to avoid breastfeeding, believing that it will be inconvenient, or may cause her to be insensitive to the infant's needs. The stress of the responsibility of other children or the need to return to work can affect the ability to manage effective breastfeeding; mother will need support and information to be successful.
 11. Determine maternal feelings (e.g., fear/anxiety, ambivalence, or depression).
-
 [Nursing Priority No. 2]
     - To assess infant causative/contributing factors: 
 1. Determine suckling problems, as noted in Related Factors/Defi ning Characteristics. 
@@ -29,7 +27,6 @@ is only necessary if the practice/belief is harmful to the infant.
 4. Evaluate observable signs of inadequate infant intake (e.g., baby latches onto mother's nipples with sustained suckling but minimal audible swallowing or gulping noted, infant arching and crying at the breasts with resistance to latching on, decreased urinary output and frequency of stools, or inadequate weight gain). 
 5. Determine whether the baby is content after feeding or exhibits fussiness and crying within the fi rst hour after breastfeeding, suggesting unsatisfactory breastfeeding process.
 6. Note any correlation between maternal ingestion of certain foods and “colicky” response of infant. Some foods may seem to result in reaction by the infant, and identifi cation and elimination may correct the problem
-
 [Nursing Priority No. 3]
     - To assist mother to develop skills of successful breastfeeding: 
 1. Provide emotional support to the mother. Use one-to-one instruction with each feeding during hospital stay and clinic or home visit. Refer adoptive mothers choosing to breastfeed to a lactation consultant to assist with induced lactation techniques.
@@ -48,7 +45,6 @@ is only necessary if the practice/belief is harmful to the infant.
 - Clogged ducts: Use a larger bra or extender to avoid pressure on the site; use moist or dry heat; gently massage from above the plug down to the nipple; nurse the infant, hand express, or pump after massage; nurse more often on the affected side. 
 - Inhibited let-down: Use relaxation techniques before nursing (e.g., maintain quiet atmosphere, massage the breast, apply heat to breasts, have beverage available, assume a position of comfort, place the infant on the mother's chest skin-to-skin). Develop a routine for nursing, and encourage the mother to enjoy her baby. 
 - Mastitis: Promote bedrest (with infant) for several days; administer antibiotics; provide warm, moist heat before and during nursing; and empty breasts completely. Continue to nurse the baby at least 8 to 12 times a day or pump breasts for 24 hr and then resume breastfeeding as appropriate.
-
 [Nursing Priority No. 4]
     - To condition the infant to breastfeed: 
 1. Scent breast pad with breast milk and leave in bed with infant along with mother's photograph when separated from mother for medical purposes (e.g., prematurity). 
@@ -58,7 +54,6 @@ is only necessary if the practice/belief is harmful to the infant.
 5. Have the mother pump breast after feeding to enhance milk production. 
 6. Use supplemental nutrition system cautiously when necessary. 
 7. Identify special interventions for feeding in the presence of cleft lip/palate. These measures promote optimal interaction between mother and infant and provide adequate nourishment for the infant, enhancing successful breastfeeding.
-
 [Nursing Priority No. 5]
     - To promote wellness (Teaching/Discharge Considerations): 
 1 Schedule a follow-up visit with the healthcare provider 48 hr after hospital discharge and 2 weeks after birth for evaluation of milk intake/breastfeeding process and to answer the mother's questions.
@@ -74,3 +69,4 @@ is only necessary if the practice/belief is harmful to the infant.
 11. Refer to support groups (e.g., La Leche League, parenting support groups, stress reduction, or other community resources, as indicated). 
 12. Provide bibliotherapy/appropriate Web sites for further information. 
 =========
+

@@ -1,8 +1,7 @@
 ::Seizure Disorder::
-
 deficient Knowledge regarding condition and medication Control>deficientKnowledgeregardingconditionandmedicationControl.txt
 disturbed Personal Identity>disturbedPersonalIdentity.txt
 impaired Social Interaction>impairedSocialInteraction.txt
 risk for Trauma_risk for Suffocation>riskforTrauma_riskforSuffocation.txt
-
 =====
+

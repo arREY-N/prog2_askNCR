@@ -4,7 +4,6 @@
  Susceptible to a decrease in cardiac (coronary) circulation, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To identify individual risk factors:
 1. Note presence of conditions such as congestive heart failure, major trauma with blood loss, recent cardiac surgery or use of ventricular assist device, chronic anemia, sepsis, which can affect systemic circulation, tissue oxygenation, and organ function.
@@ -14,7 +13,6 @@
 5. Determine if client is experiencing usual degree or prolonged stress or may have underlying psychiatric disorder (e.g., anxiety or panic) that may cause or exacerbate coronary artery disease and affect cardiac function.
 6. Review client’s medications to note current use of vasoactive drugs such as amiodarone, dopamine, dobutamine, esmolol, lidocaine, nitroglycerin, vasopressin (not a complete listing) that can exert undesirable side effects, increasing myocardial workload and oxygen consumption.
 7. Review diagnostic studies (e.g., electrocardiogram, exercise tolerance tests, myocardial perfusion scan; echocardiogram, bubble echocardiogram; angiography, Doppler ultrasound, chest radiography; oxygen saturation, capnometry, or arterial blood gases; electrolytes, lipid profi le; blood urea nitrogen/creatinine, cardiac enzymes) to identify conditions requiring treatment and/or response to therapies.
-
 [Nursing Priority No. 2]
     - To maintain/maximize cardiac perfusion:
 1. Investigate reports of chest pain, noting changes in characteristics of pain to evaluate for potential myocardial ischemia or inadequate systemic oxygenation or perfusion of organs. 
@@ -23,7 +21,6 @@
 4. Assess for restlessness, fatigue, changes in level of consciousness, increased capillary refi ll time, diminished peripheral pulses, and pale, cool skin. Signs and symptoms of inadequate systemic perfusion, which refl ects cardiac function.
 5. Inspect for pallor, mottling, cool or clammy skin, and diminished pulses indicative of systemic vasoconstriction resulting from reduced cardiac output.
 6. Investigate reports of difficulty breathing or respiratory rate outside acceptable parameters, which can be indicative of oxygen exchange problems.
-
 [Nursing Priority No.3]
     - To maintain/maximize cardiac perfusion:
 1. Collaborate in treatment of underlying conditions such as hypovolemia, chronic obstructive pulmonary disease, diabetes, chronic atrial fi brillation to correct or treat disorders that could infl uence cardiac perfusion or organ function.
@@ -31,7 +28,6 @@
 3. Administer fluids and electrolytes as indicated to maintain systemic circulation and optimal cardiac function.
 4. Administer medications (e.g., antihypertensive agents, analgesics, antidysrhythmics, bronchodilators, fi brinolytic agents) to treat underlying conditions, prevent thromboembolic phenomena, and maintain cardiac tissue perfusion and organ function.
 5. Provide periods of undisturbed rest and calming environment to reduce myocardial workload.
-
 [Nursing Priority No.4]
     - To promote heart health (Teaching/Discharge Considerations):
 1. Discuss cumulative effects of risk factors (e.g., family history, obesity, age, smoking, hypertension, diabetes, clotting disorders) and potential outcomes of atherosclerosis (e.g., systemic and cardiac disease conditions).
@@ -46,5 +42,5 @@
 3. Review medications on regular basis to manage those that affect cardiac function or those given to prevent blood pressure or thromboembolic problems.
 4. Refer to educational/community resources, as indicated. Client/SO may benefit from support to engage in healthier heart activities (e.g., weight loss, smoking cessation, exercise).
 5. Instruct in blood pressure monitoring at home, if indicated; advise purchase of home monitoring equipment. Facilitates management of hypertension, a major risk factor for damage to blood vessels, which contributes to coronaryartery disease.
-
 =====
+

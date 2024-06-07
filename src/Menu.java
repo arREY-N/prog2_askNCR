@@ -1,22 +1,15 @@
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
-public class Menu {
+public class Menu extends Thread{
     private static Path nursePath = Paths.get("database\\nurse");
-    public static void main(String[] args) {
-        AccountsDatabase.loadFromFile();    // loads txt files into the program
-        NurseDatabase.loadFromFile();
-        DiagnosesDatabase.loadFromFile();
-        NurseDatabase.loadFromFile();
-        SymptomDatabase.loadFromFile();
-        PatientDatabase.loadFromFile();
+    public static void mainMenu() {
         
         Scanner scan = new Scanner(System.in);
         boolean run = true;
-        
+
         while(run == true){
             System.out.println("What are you here for?");
             System.out.println("A. Login");
@@ -88,6 +81,7 @@ public class Menu {
 
         // first checks if the input is a valid input (alphanumeric only)
         if(Validation.isAlphanumeric(username, password) == true){
+            
             // if true, calls the login() method in the Validation class
             try{
                 Validation.signup(username, password);
@@ -102,7 +96,7 @@ public class Menu {
                 System.out.println();
             }
         } else {
-            System.out.println("Input must be alphanumeric only");
+            System.out.println("Input must be alphanumeric only\n");
         }
     }
 
@@ -159,6 +153,10 @@ public class Menu {
     }
 
     public static void adminHome(Scanner scan){
+        
+        cleanText.cleanSymptoms();
+        cleanText.cleanDiagnosis();
+
         while (true) {
             System.out.println("\nAdmin Home");
             System.out.println("A. Show Accounts");

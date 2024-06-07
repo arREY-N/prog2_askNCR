@@ -1,9 +1,8 @@
 ::Renal Transplantation::
-
 risk for excess Fluid Volume>riskforexcessFluidVolume.txt
 disturbed Body Image>disturbedBodyImage.txt
 fear>fear.txt
 risk for Infection>riskforInfection.txt
 risk for ineffective Coping_risk for compromised family Coping>riskforineffectiveCoping_riskforcompromisedfamilyCoping.txt
-
 =====
+

@@ -1,8 +1,7 @@
 ::Ulcer, Peptic (Acute)::
-
 risk for Shock>riskforShock.txt
 anxiety_Fear>anxiety_Fear.txt
 acute Pain>acutePain.txt
 deficient Knowledge regarding condition, therapy and self-care needs, and potential Complications>deficientKnowledgeregardingconditiontherapyandself-careneedsandpotentialComplications.txt
-
 =====
+

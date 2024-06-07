@@ -2,8 +2,8 @@
 
 ::Definition::
  Inspiration and/or expiration that does not provide adequate ventilation. 
-::Actions/Interventions::
 
+::Actions/Interventions::
 [Nursing Priority No. 1]
     -  To identify etiology/precipitating factors: 
 1. Determine the presence of factors/conditions as noted in Defining Characteristics that would demonstrate breathing impairments
@@ -22,7 +22,6 @@
  - Note presence and character of cough. Cough function may be weak or ineffective in conditions such as extremes in age (e.g., premature infant or elderly); in diseases (e.g., cerebral palsy, muscular dystrophy, spinal cord injury, brain injury). Cough that is persistent and constant can interfere with breathing (such as can occur with asthma, acute bronchitis, cystic fi brosis, croup, whooping cough). (Refer to ND ineffective Airway Clearance.) 
 9. Assist with/review results of necessary testing (e.g., chest x-rays, lung volumes/fl ow studies, and pulmonary function/sleep studies) to diagnose the presence/severity of lung diseases.
 10. Review laboratory data, such as ABGs (determines degree of oxygenation and carbon dioxide [CO 2 ] retention), drug screens, and pulmonary function studies (determines vital capacity/tidal volume).
-
 [Nursing Priority No. 2]
     -  To provide for relief of causative factors: 
 1. Assist in treatment of underlying conditions, administering medications and therapies as ordered. 
@@ -44,7 +43,6 @@
 17. Supervise the use of respirator/diaphragmatic stimulator, rocking bed, apnea monitor, and so forth, when neuromuscular impairment is present.
 18. Ascertain that the client possesses and properly operates continuous positive airway pressure (CPAP) machine when obstructive sleep apnea is causing breathing problems.
 19. Maintain emergency equipment in readily accessible location and include age-/size-appropriate endotrachial/trach tubes (e.g., infant, child, adolescent, or adult) when ventilatory support might be needed
-
 [Nursing Priority No. 3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Review the etiology of respiratory distress, treatment options, and possible coping behaviors. 
@@ -67,3 +65,4 @@
  -Early intervention when respiratory symptoms occur, knowing what symptoms require reporting to medical providers, and seeking emergency care 
 10. Provide referrals as appropriate. May include a wide variety of services and providers, including support groups, a comprehensive rehabilitation program, occupational nurse, oxygen and durable medical equipment companies for supplies, home health services, occupational and physical therapy, transportation, assisted or alternate livingfacilities, local and national Lung Association chapters, and Web sites for educational materials
 =========
+

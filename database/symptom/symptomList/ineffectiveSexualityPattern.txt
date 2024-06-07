@@ -4,7 +4,6 @@
  : Expressions of concern regarding own sexuality.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors:
 1. Obtain complete physical and sexual history, as indicated, including perception of normal function. Sexuality is multifaceted, beginning with one’s body, biological sex, and gender (biological, social, and legal status as girls or boys, women or men).
@@ -18,7 +17,6 @@
 9. Review history of substance use (prescription medications, over-the-counter drugs, alcohol, illicit drugs). May be used by client to handle underlying feelings or anxiety.
 10. Explore issues and fears associated with sex (pregnancy, sexually transmitted, trust and control issues, infl exible beliefs, preference confusion, lack of privacy, altered performance).
 11. Determine client’s interpretation of the altered sexual activity or behavior (e.g., a way of controlling, relief of anxiety, pleasure, lack of partner). These behaviors (when related to body changes, including pregnancy, weight loss or gain, or loss of body part) may refl ect a stage of grieving.
-
 [Nursing Priority No. 2]
     - To assist client/SO to deal with individual situation:
 1. Provide atmosphere in which discussion of sexual problems is encouraged and permitted. Sense of trust or comfort enhances ability to discuss sensitive matters.
@@ -29,7 +27,6 @@
 6. Identify alternative forms of sexual expression that might be acceptable to both partners. When illness or trauma interfere with usual sexual expression, communicating satisfactorily with partner about alternatives is important to the relationship.
 7. Provide anticipatory guidance about losses that are to be expected (e.g., loss of known self when transsexual surgery is planned, loss of body part with amputation). Surgical procedures (planned or unplanned) resulting in a major change in body image need specifi c intervention to provide information and support to integrate change.
 8. Introduce client to individuals who have successfully managed a similar problem. Provides positive role model and support for problem-solving.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Provide factual information about problem(s), as identifi ed by the client.
@@ -38,5 +35,5 @@
 4. Refer to community resources (e.g., Planned Parenthood; gender identity clinic; social services; Parents, Families and Friends of Lesbians and Gays), as indicated. 
 5. Refer for intensive individual or group psychotherapy, which may be combined with couple or family and/or sex therapy, as appropriate.
 6. Refer to NDs Sexual Dysfunction; disturbed Body Image; low Self-Esteem [specify]. 
-
 =====
+

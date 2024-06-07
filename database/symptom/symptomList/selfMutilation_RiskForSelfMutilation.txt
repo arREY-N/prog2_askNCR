@@ -5,7 +5,6 @@
  - Risk For Self-Mutilation: Susceptible to deliberate self-injurious behavior causing tissue damage with the intent of causing nonfatal injury to attain relief of tension. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Determine underlying dynamics of individual situation as listed in Related/Risk Factors. Note presence of infl exible, maladaptive personality traits (e.g., impulsive, unpredictable, inappropriate behaviors, intense anger, lack of control of anger) refl ecting personality or character disorder, mental illness (e.g., bipolar disorder).
@@ -15,7 +14,6 @@
 5. Note use or abuse of addicting substances. Client may be trying to resist impulse to self-injure by turning to drugs.
 6. Review laboratory findings (e.g., blood alcohol, polydrug screen, glucose, and electrolyte levels). Drug use may affect self-injury behavior.
 7. Note degree of impairment in social and occupational functioning. May dictate treatment setting (e.g., specifi c outpatient program, short-stay inpatient). 
-
 [Nursing Priority No. 2]
     - To structure environment to maintain client safety:
 1. Assist client to identify feelings leading up to desire for selfmutilation. Early recognition of recurring feelings provides opportunity to seek and learn other ways of coping.
@@ -27,7 +25,6 @@
 7. Develop schedule of alternative, healthy, success-oriented activities, including involvement in such groups as SelfHarm Support Group, Cutters Awareness & Support Group (or similar program) based on individual needs; self-esteemactivities including positive affi rmations, connecting with friends and like-minded peers, and exercise.
 8. Note feelings of healthcare providers and family, such as frustration, anger, defensiveness, need to rescue. Client may be manipulative, evoking defensiveness and confl ict. These feelings need to be identifi ed, recognized, and dealt with openly with staff/family and client.
 9. Provide care for client’s wounds when self-mutilation occurs in a matter-of-fact manner that conveys empathy and concern. Refrain from offering sympathy or additional attention that could provide reinforcement for maladaptive behavior and may encourage its repetition.
-
 [Nursing Priority No.3]
     -  To promote movement toward positive behaviors:
 1. Discuss with client/family normalcy of adolescent task of separation and ways of achieving.
@@ -37,7 +34,6 @@
 5. Provide avenues of communication for times when client needs to talk to avoid cutting or damaging self.
 6. Use interventions that help the client to reclaim power in own life (e.g., experiential and cognitive). Beginning to think in a positive manner and then translating that into action provides reinforcement for using power to stop injurious behaviors and develop a more productive lifestyle.
 7. Involve client/family in group therapies as appropriate. 
-
 [Nursing Priority No.4]
     -  To promote long-term safety (Teaching/Discharge Considerations): 
 1. Discuss commitment to safety and ways in which client will deal with precursors to undesired behavior. Provides opportunity for client to assume responsibility for self.
@@ -48,5 +44,5 @@
 6. Discuss information about the role neurotransmitters play in predisposing an individual to beginning this behavior. It is believed that problems in the serotonin system may make the person more aggressive and impulsive, especially when combined with an environment where he or she learned that feelings are bad or wrong, leading client to turn aggression on self.
 7. Provide information and discuss the use of medication, as appropriate. Antidepressant medications may be useful, but they need to be weighed against the potential for overdosing.
 8. Refer to NDs Anxiety; impaired Social Interaction; SelfEsteem [specify]. 
-
 =====
+

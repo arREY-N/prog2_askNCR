@@ -4,7 +4,6 @@
  A pattern of behavior and self-expression that does not match the environmental context, norms, and expectations. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Identify type of role dysfunction: for example, developmental (adolescent to adult); situational (husband to father, gender identity); transitions from health to illness.
@@ -16,7 +15,6 @@
 7. Interview SO(s) regarding their perceptions and expectations. The beliefs of individuals directly involved with the client and the situation (e.g., parents bringing a new baby home from the hospital, adult child assuming responsibility for elder parent) are important to understanding the new roles individuals are undertaking.
 8. Identify availability and use of resources. Individual may be unaware of or have diffi culty accessing community support or assistance programs.
 9. Investigate history of incidents of domestic violence in the family. Refer to appropriate psychiatric, support, and legal services, as indicated. The roles of perpetrator and survivor are diffi cult to alter without intensive therapy as well as support for other family members/children. Neither individual in this situation sees self as worthy and both have poor self-esteem. The perpetrator does not get what he or she wants through the use of violence, and the survivor (the battered person) often believes she or he deserves this treatment.
-
 [Nursing Priority No. 2]
     - To assist client to deal with existing situation:
 1. Discuss perceptions and significance of the situation as seen by client.
@@ -29,12 +27,11 @@
 8. Identify role model for client. Educate about role expectations using written and audiovisual materials. 
 9. Use the techniques of role rehearsal to help client develop new skills to cope with changes.
 10. Discuss use of medication, and refer as appropriate. Client may benefi t from antidepressants to combat depression, or psychotropic medications may be required to address other mental health issues.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Make information available for client to learn about role expectations or demands that may occur. Provides opportunity to be proactive in dealing with changes.
 2. Accept client in changed role. Encourage and give positive feedback for changes and goals achieved. Provides reinforcement and facilitates continuation of efforts.
 3. Refer to support groups, employment counselors, parent effectiveness classes, counseling/psychotherapy, as indicated by individual need(s). Provides ongoing support to sustain progress.
 4. Refer to NDs Self-Esteem [specify]; impaired, risk for impaired, or readiness for enhanced Parenting. 
-
 =====
+

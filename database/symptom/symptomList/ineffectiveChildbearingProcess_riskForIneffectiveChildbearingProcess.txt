@@ -2,11 +2,9 @@
 
 ::Definition::
  ineffective Childbearing Process: Inability to prepare for and/or maintain a healthy pregnancy, childbirth process, and care of the newborn for ensuring well- being 
-
 : risk for ineffective Childbearing Process: Susceptible to an inability to prepare for and/or maintain a healthy pregnancy, childbirth process, and care of the newborn for ensuring well- being. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To determine causative or risk factors and individual needs:
  Prenatal Concerns
@@ -27,7 +25,6 @@
 -- Appraise the level of the parent’s understanding of physiological needs and adaptation to extrauterine life associated with maintenance of body temperature, nutrition, respiratory needs, and bowel and bladder functioning. This identifi es areas of concern/need requiring development of a teaching plan and/or demonstration of care activities.
 -- Assess the mother’s strengths and needs, noting age, relationship status, and reactions of family members. This identifi es potential risk factors that may infl uence the client’s/couple’s ability to assume the role of parenthood. For example, an adolescent still formulating goals and identity may have diffi culty accepting the infant as a person. The single parent who lacks support systems may have diffi culty assuming sole responsibility for parenting.
 -- Ascertain the nature of emotional and physical parenting that the client/couple received during their childhood. The parenting role is learned, and individuals use their own parents as role models. Those who experienced a negative upbringing or poor parenting may require additional support to meet the challenges of effective parenting.
-
 [Nursing Priority No. 2]
     - To promote optimal maternal well- being:
  Prenatal
@@ -52,7 +49,6 @@
 -- Discuss normal psychological changes and needs associated with the postpartal period. The client’s emotional state may be somewhat labile at this time and often is infl uenced by physical well- being. Anticipating such changes may reduce the stress associated with this transition period that necessitates learning new roles and taking on new responsibilities.
 -- Discuss sexuality needs and plans for contraception. Provide information about available methods, including advantages/disadvantages. Client/couple may need clarifi cation regarding available contraception methods and the fact that pregnancy could occur even prior to the 4- to 6- week postpartum visit.
 -- Reinforce the importance of postpartum examination by a healthcare provider and interim follow- up as appropriate. A follow- up visit is necessary to evaluate recovery of reproductive organs, healing of episiotomy/ laceration repair, general well- being, and adaptation to life changes. 
-
 [Nursing Priority No.3]
     - To promote appropriate participation in childbearing process:
  Prenatal
@@ -77,7 +73,6 @@
 -- Monitor and document the client’s/couple’s interactions with the infant. The presence of bonding acquaintance behaviors (e.g., making eye contact, using a high- pitched voice and en face [face- to- face] position as culturally appropriate, calling infant by name, and holding infant closely) are indicators of beginning attachment process.
 -- Initiate early breastfeeding or oral feeding according to facility protocol and client preference. Initiating feeding for breastfed infants usually occurs in the delivery room. Otherwise, 5 to 15 mL of sterile water may be offered in the nursery to assess effectiveness of sucking, swallowing, gag refl exes, and patency of esophagus.
 -- Provide for unlimited participation of father and siblings. Ascertain whether siblings attended orientation program. This facilitates family development and ongoing processof acquaintance.
-
 [Nursing Priority No. 4]
     - To promote optimal well- being of newborn (Teaching/ Discharge Considerations):
 1. Provide information about newborn interactional capabilities, states of consciousness, and means of stimulating cognitive development. This helps parents recognize and respond to infant cues during interactional process and fosters optimal interaction, attachment behaviors, and cognitive development in the infant.
@@ -93,3 +88,4 @@
 11. Refer the breastfeeding client to a lactation consultant/support group (e.g., La Leche League, Lact-Aid) to promote a successful breastfeeding outcome.
 12. Discuss available community support groups/parenting class as indicated. This increases the parents’ knowledge of child rearing and child development and provides a supportive atmosphere, while parents incorporate new roles. 
 =====
+

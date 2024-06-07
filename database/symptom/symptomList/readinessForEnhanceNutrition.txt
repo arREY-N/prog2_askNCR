@@ -4,7 +4,6 @@
  A pattern of nutrient intake that is sufficient for meeting metabolic needs and can be strengthened. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To determine current nutritional status and eating patterns:
 1. Review client’s knowledge of current nutritional needs and ways client is meeting these needs. Provides baseline for further teaching and interventions.
@@ -15,7 +14,6 @@
 6. Ascertain occurrence of, or potential for, negative feedback from signifi cant other (SO)(s). May reveal control issues that could impact client’s commitment to change.
 7. Determine patterns of hunger and satiety. Helps identify strengths and weaknesses in eating patterns and potential for change (e.g., person predisposed to weight gain may need a different time for a big meal than evening or need to learn what foods reinforce feelings of satisfaction).
 8. Assess client’s ability to safely store and prepare foods to determine if health information or resources might be needed.
-
 [Nursing Priority No. 2]
     - To assist client/SO(s) to develop plan to meet individual needs:
 1. Determine motivation and expectation for change. Motivation to improve and high expectations can encourage client to make changes that will improve his or her life. Client may actually be satisfi ed with current nutritional state and eating behaviors, or may be changing some aspect of food intake or preparation in response to new dietary information or change in health status.
@@ -26,7 +24,6 @@
 6. Encourage reading of food labels and instruct in meaning of labeling, as indicated, to assist client/SO(s) in making healthful choices.
 7. Consult with, or refer to, dietitian or physician, as indicated. Client/SO(s) may benefit from advice regarding specifi c nutrition and dietary issues or may require regular follow-up to determine that needs are being met when a medically prescribed program is to be followed.
 8. Develop a system for self-monitoring to provide a sense of control and enable the client to follow own progress and assist in making choices.
-
 [Nursing Priority No.3]
     - To promote optimum wellness:
 1. Review individual risk factors and provide additional information and response to concerns. Assists the client with motivation and decision-making.
@@ -34,5 +31,5 @@
 3. Encourage variety and moderation in dietary plan to decrease boredom and encourage client in efforts to make healthy choices about eating and food.
 4. Discuss use of nutritional supplements, over-the-counter, and herbal products. Confusion may exist regarding the need for and use of these products in a balanced dietary regimen.
 5. Assist client to identify and access community resources when indicated. May benefi t from assistance such as Supplemental Nutrition Assistance Program (SNAP), Women Infant and Children (WIC) program, budget counseling, Meals on Wheels, community food banks, and/or other assistance programs.
-
 =====
+

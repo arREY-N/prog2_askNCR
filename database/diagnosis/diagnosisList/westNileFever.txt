@@ -1,8 +1,7 @@
 ::West Nile Fever::
-
 hyperthermia>hyperthermia.txt
 acute Pain>acutePain.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
 risk for impaired Skin Integrity>riskforimpairedSkinIntegrity.txt
-
 =====
+

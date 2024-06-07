@@ -4,7 +4,6 @@
  Change in the amount or patterning of incoming stimuli accompanied by a diminished, exaggerated, distorted, or impaired response to such stimuli.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors and degree of impairment:
 1. Identify client with condition that can affect sensing, interpreting, and communicating stimuli. Specific clinical concerns (e.g., neurological disease or trauma, intensive care unit confi nement, surgery, pain, biochemical imbalances, psychosis, substance abuse, toxemia) have the potential for altering one or more of the senses, with resultant change in the reception, sensitivity, or interpretation of sensory input.
@@ -18,7 +17,6 @@
 9. Note inattention to body parts, segments of environment; lack of recognition of familiar objects or persons. Loss of comprehension of auditory, visual, or other sensations may be indicative of unilateral neglect or inability to recognize and respond to environmental cues.
 10. Ascertain client’s/significant other’s (SO’s) perception of problem/changes in activities of daily living. Client may or may not be aware of changes (e.g., diabetic with neuropathy may not realize he or she has lost discrimination for pain in feet; or parents may notice child’s problem with coordination or diffi culty with words). Listen to and respect client’s expressions of deprivation and take these into consideration in planning care. 
 11. Refer to additional NDs Anxiety; acute/chronic Confusion; Unilateral Neglect; risk for Disuse Syndrome, as appropriate and based on findings.
-
 [Nursing Priority No. 2]
     - To promote normalization of response to stimuli: 
 1. Address client by name and have personnel wear name tags and reintroduce self, as needed, to preserve client’s sense of identity and orientation.
@@ -40,7 +38,6 @@
 17. Promote meaningful socialization. (Refer to ND Social Isolation.) 
 18. Collaborate with other health team members in providing rehabilitative therapies and stimulating modalities (e.g., music therapy, sensory training, remotivation therapy) to achieve maximal gains in function and psychosocial well-being
 19. Identify and encourage use of resources and prosthetic devices (e.g., hearing aids, computerized visual aid, glasses with a level plumbline for balance). Useful for augmenting senses.
-
 [Nursing Priority No.3]
     - To prevent injury/complications:
 1. Record perceptual deficit on chart so that caregivers are aware.
@@ -53,7 +50,6 @@
 8. Limit and carefully monitor use of sedation, especially in the elderly who are more sensitive to side effects and drug interactions affecting sensory perception and interpretation.
 9. Monitor use of heating pads or ice packs; use thermometer to measure temperature of bath water to protect from thermal injury.
 10. Refer to NDs risk for Thermal Injury; risk for Trauma; risk for Falls.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Review ways to prevent or limit exposure to conditions affecting sensory functions (e.g., how exposure to loud noise and toxins can impair hearing; early childhood screening for speech and language disorders; vaccines to prevent measles, mumps, meningitis, once known to be major causes of hearing loss).
@@ -66,5 +62,5 @@
 8. Identify resources and community programs for acquiring and maintaining assistive devices.
 9. Refer to appropriate helping resources, such as Society for the Blind, Self-Help for the Hard of Hearing (SHHH), or local support groups, screening programs, as indicated.
 10. Refer to additional NDs Anxiety; acute/chronic Confusion; Unilateral Neglect, as appropriate.
-
 =====
+

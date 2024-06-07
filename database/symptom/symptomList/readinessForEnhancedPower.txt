@@ -3,8 +3,8 @@
 ::Definition::
  A pattern of participating knowingly in change for well-being, which can be strengthened.
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To determine need/motivation for improvement:
 1. Determine current situation and circumstances that client is experiencing, leading to desire to improve life. 
@@ -15,7 +15,6 @@
 6. Assess degree of mastery client has exhibited in his or her life. Helps client understand how he or she has functioned in the past and what is needed to improve.
 7. Note presence of family/signifi cant other (SO)(s) that can, or do, act as support systems for client. 
 8. Determine whether client knows and/or uses assertiveness skills. Learning and enhancing these skills will help client to improve ability to take personal responsibility for own self and relationships with others.
-
 [Nursing Priority No. 2]
     -  To assist client to clarify needs relative to ability to improve
 feelings of power:
@@ -25,7 +24,6 @@ feelings of power:
 4. Discuss the importance of assuming personal responsibility for life and relationships. This skill requires one to be open to new ideas and experiences and different values and beliefs and to be inquisitive.
 5. Assist client in identifying things client can and cannot control. Avoids wasting time on things that are not in the control of the client.
 6. Treat expressed desires and decisions with respect. Avoid critical parenting expressions.
-
 [Nursing Priority No.3]
     - To promote optimum wellness, enhancing power (Teaching/
 Discharge Considerations):
@@ -37,5 +35,5 @@ Discharge Considerations):
 6. Help client learn to problem-solve differences. Promotes win-win solutions.
 7. Instruct and encourage use of stress-reduction techniques. 
 8. Refer to support groups or classes, as indicated (e.g., assertiveness training, effectiveness for women; “Be Your Best” training program).
-
 =====
+

@@ -1,7 +1,6 @@
 ::Tonsillitis::
-
 acute Pain>acutePain.txt
 hyperthermia>hyperthermia.txt
 deficient Knowledge regarding cause, transmission, treatment needs, and potential Complications>deficientKnowledgeregardingcausetransmissiontreatmentneedsandpotentialComplications.txt
-
 =====
+

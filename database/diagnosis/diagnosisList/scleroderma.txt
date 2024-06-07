@@ -1,9 +1,8 @@
 ::Scleroderma::
-
 impaired physical Mobility>impairedphysicalMobility.txt
 ineffective Tissue Perfusion>ineffectiveTissuePerfusion.txt
 imbalanced Nutrition: less than body Requirements>imbalancedNutrition:lessthanbodyRequirements.txt
 risk-prone Health Behavior>risk-proneHealthBehavior.txt
 disturbed Body Image>disturbedBodyImage.txt
-
 =====
+

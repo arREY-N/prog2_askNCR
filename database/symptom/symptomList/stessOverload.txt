@@ -4,7 +4,6 @@
  Excessive amounts and types of demands that require action. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative/precipitating factors and degree of impairment:
 1. Ascertain what tragic/difficult events have occurred (e.g., family violence, death of loved one, chronic or terminal illness, workplace stress or loss of job, catastrophic natural or man-made event) over remote and recent past to assist in determining number, duration, and intensity of events causing perception of overwhelming stress.
@@ -20,7 +19,6 @@
 11. Determine presence or absence and nature of resources (e.g., whether family/SO(s) are supportive, lack of money, problems with relationship or social functioning). 
 12. Note change in relationships with SO(s). Conflict in the family, loss of a family member, divorce can result in a change in support client is accustomed to and impair ability to manage situation.
 13. Evaluate stress level, using appropriate tool (e.g., Stress & Depression, Self-Assessment Tool) to help identify areas of most distress. While most stress seems to come from disastrous events in individual’s life, positive events can also be stressful.
-
 [Nursing Priority No. 2]
     -  To assist client to deal with current situation:
 1. Active-listen concerns and provide empathetic presence, using talk and silence as needed. 
@@ -33,7 +31,6 @@
 8. Discuss benefi ts of a “Stop Doing” in place of a “To Do” list. May help client identify and take action regarding energy drainers (e.g., internalizing others’ criticism, fragmented boundaries, power struggles, unprotected personal time) in order to make room for what energizes and brings him or her closer to achieving goals.
 9. Address use of ineffective or dangerous coping mechanisms (e.g., substance use or abuse, self-/other-directed violence) and refer for counseling as indicated.
 10. Collaborate in treatment of underlying conditions (e.g., traumatic injury, chronic or terminal illness, hormone imbalance, depression and other psychiatric disorders). 
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Use client’s locus of control to develop individual plan of care (e.g., for client with internal control, encourage client to take control of own care; for those with external control, begin with small tasks and add as tolerated).
@@ -47,5 +44,5 @@
  - Rest, sleep, and exercise to recuperate and rejuvenate self.
  - Participate in self-help actions (e.g., deep breathing and other relaxation exercises, fi nd time to be alone, get involved in recreation or desired activity, plan something fun, develop humor) to actively relax.
  - Eat nutritious meals; avoid junk food, excessive caffeine, alcohol, and nicotine to support general health.
-
 =====
+

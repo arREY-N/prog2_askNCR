@@ -1,7 +1,6 @@
 ::Retinal Detachment::
-
 disturbed visual Sensory Perception>disturbedvisualSensoryPerception.txt
 deficient Knowledge regarding therapy, prognosis, and self-care Needs>deficientKnowledgeregardingtherapyprognosisandself-careNeeds.txt
 risk for impaired Home Maintenance>riskforimpairedHomeMaintenance.txt
-
 =====
+

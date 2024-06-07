@@ -4,7 +4,6 @@
 : Break in the continuity of family functioning, which fails to support the well-being of its members. 
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess individual situation for causative/contributing factors: 
 1. Determine pathophysiology, illness/trauma, or developmental crisis present. 
@@ -19,7 +18,6 @@
 10. Listen for expressions of despair or helplessness (e.g., “I don’t know what to do”) to note degree of distress and inability to handle what is happening.
 11. Note cultural and/or religious factors that may affect perceptions/expectations of family members.
 12. Assess availability and use of support systems outside of the family. Having these resources can help the family begin to pull together and deal with current problems they are facing.
-
 [Nursing Priority No. 2]
     - To assist family to deal with situation/crisis: 
 1. Deal with family members in a warm, caring, and respectful way. 
@@ -31,7 +29,6 @@
 7. Recommend contact by family members on a regular, frequent basis. Promotes feelings of warmth and caring and brings family closer to one another, enabling them to manage current diffi cult situation.
 8. Arrange for and encourage family participation in multidisciplinary team conference or group therapy, as appropriate. 
 9. Involve the family in social support and community activities of their interest and choice. 
-
 [Nursing Priority No. 3]
     - To promote wellness (Teaching/Discharge Considerations): 
 1. Encourage the use of stress-management techniques (e.g., appropriate expression of feelings, relaxation exercises). 
@@ -41,3 +38,4 @@
 5. Involve the family in planning for future and mutual goal setting. This promotes commitment to goals/continuation of plan.
 6. Identify community agencies (e.g., Meals on Wheels, visiting nurse, trauma support group, American Cancer Society, or Veterans Administration) for both immediate and long-term support. 
 =========
+

@@ -5,7 +5,6 @@
  - Risk For Situational Low Self-Esteem: Susceptible to developing a negative perception of self-worth in response to a current situation, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Determine individual situation (e.g., family crisis, termination of a relationship, loss of employment, physical disfi gurement) related to low self-esteem in the present circumstances.
@@ -22,7 +21,6 @@
 12. Identify previous adaptations to illness or disruptive events in life. May be predictive of current outcome.
 13. Assess family/SO dynamics and support of client.
 14. Note availability and use of resources.  
-
 [Nursing Priority No. 2]
     - To assist client to deal with loss/change and recapture or maintain sense of positive self-esteem:
 1. Assist with treatment of underlying condition when possible. For example, cognitive restructuring and improved concentration in mild brain injury often result in restoration of positive self-esteem.
@@ -38,7 +36,6 @@
 11. Provide feedback of client’s self-negating remarks or behavior, using I-messages, to allow the client to experience a different view.
 12. Encourage involvement in decisions about care when possible.
 13. Give reinforcement for progress noted. Positive words of encouragement promote continuation of efforts, supporting development of coping behaviors.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Encourage client to set long-range goals for achieving necessary lifestyle changes. Supports view that this is an ongoing process.
@@ -47,5 +44,5 @@
 4. Involve extended family/SO(s) in treatment plan. Increases likelihood they will provide appropriate support to client.
 5. Provide information to assist client in making desired changes. Appropriate books, DVDs, or other resources allow client to learn at own pace.
 6. Suggest participation in group or community activities (e.g., assertiveness classes, volunteer work, support groups).
-
 =====
+

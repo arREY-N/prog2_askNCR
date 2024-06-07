@@ -4,8 +4,8 @@
  - Chronic Pain : Unpleasant sensory and emotional experience arising from actual or potential tissue damage or described in terms of such damage (International Association for the Study of Pain); sudden or slow onset of any intensity, from mild to severe, constant or recurring without an anticipated or predictable end and a duration of >3 months.
  - Chronic Pain Syndrome : Recurrent or persistent pain that has lasted at least 3 months, and that significantly affects daily functioning or well-being.
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To assess etiology/precipitating factors: 
 1. Identify contributing factors (e.g., musculoskeletal trauma with lasting effects, chronic pancreatitis, cancers, arthritis, osteoporosis; peripheral neuropathies from conditions such as diabetes or AIDS, fi bromyalgia, overuse syndromes such as tendonitis, mechanical low back pain, spinal stenosis, amputation; urological disorders, ulcer disease; endometriosis, cardiovascular disease, poor circulation, recurrent migraines, bipolar disorders, depression, personality disorders). These conditions can cause, precipitate, and exacerbate persistent pain.
@@ -16,7 +16,6 @@
 6. Determine relevant cultural and spirituality factors affecting pain response. Pain is accepted and expressed in different ways (e.g., moaning aloud or enduring in stoic silence). Some may magnify symptoms to convince others of reality of pain, or believe that suffering in silence helps atone for past wrongdoing. Note: A person with chronic pain who identifi es him- or herself as a spiritual being may report the link to divine help as empowering him/her to use strategies for healing.
 7. Note gender and age of client. There may be differences between how women and men perceive and/or respond to pain. Recent studies reveal large numbers of pediatric clients with chronic pain issues affecting academic attendance and function. While the prevalence of chronically painful conditions (e.g., arthritis) and illnesses (e.g., cancers) is common in the elderly, they may be reluctant to report pain.
 8. Evaluate current and past analgesic, opioid, other drug use (including alcohol). Pr ovides clues to options to try or to avoid; identifi es need for changes in medication regimen as well as possible need for detoxifi cation program.
-
 [Nursing Priority No. 2]
     -  To determine client response to chronic pain situation:
 1. Evaluate pain behavior, noting past and current pain experience, using pain rating scale or diary, and including functional effects and psychological factors. Pain behaviors can include the same ones present in acute pain (e.g., crying, grimacing, withdrawal, narrowed focus), but may also include other behaviors (e.g., dramatization of complaints, depression, drug misuse). Pain complaints may be exaggerated because of client’s perception that pain reports are not believed or because client believes caregivers are discounting reports of pain.
@@ -28,7 +27,6 @@
 7. Note availability and use of personal and community resources. Client/SO may need many things (e.g., equipment, fi nancial resources, vocational training, respite services, or placement in rehabilitation facility) in order tomanage painful conditions and/or concerns or diffi culties associated with condition.
 8. Make home visit when indicated, observing such factors as client’s safety, equipment, adequate lighting, or family interactions to note impact of home environment on the client and to determine changes that might be useful in improving client’s life (e.g., grab bars in bathrooms and hallways, wider doors, ramps, assistance with activities of daily living [ADLs], housekeeping, yard work).
 9. Acknowledge and assess pain matter-of-factly, avoiding undue expressions of concern, as well as expressions ofdisbelief about client’s suffering. Conveying an attitude of empathic understanding of client’s disabling distress can have a benefi cial impact on client’s perception of health.
-
 [Nursing Priority No.3]
     - To assist client to deal with pain: 
 1. Encourage participation in multidisciplinary pain management plan. Comprehensive team may include physical medicine specialist; physical, occupational, recreational, and vocational therapists; and emotional or behavioral therapists to address complex issues of unresolved painissues, to set goals for pain relief, and to develop an individualized treatment and evaluation plan.
@@ -46,7 +44,6 @@
 13. Encourage use of subliminal tapes to bypass logical part of the brain by reinforcing: “I am becoming a more relaxed person.” “It is all right for me to relax.”
 14. Use tranquilizers, narcotics, and analgesics sparingly. These drugs are physically and psychologically addicting and promote sleep disturbances, especially interference with deep rapid eye movement (REM) sleep. Client may need to be detoxifi ed if many medications are currently used.
 15. Be alert to changes in pain characteristics that may indicate a new physical problem or developing complication.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Provide anticipatory guidance to client with condition in which pain is common and educate about when, where, and how to seek intervention or treatments.
@@ -62,5 +59,5 @@
 11. Identify community support groups and resources to meet individual needs (e.g., yard care, home maintenance, transportation). Proper use of resources may reduce negative pattern of “overdoing” heavy activities and then spending several days in bed recuperating.
 12. Refer for counseling (e.g., individual, family, marital therapy, parent effectiveness classes) as needed. Presence of chronic pain affects all relationships and family dynamics.
 13. Refer to NDs compromised family Coping, ineffective Coping.
-
 =====
+

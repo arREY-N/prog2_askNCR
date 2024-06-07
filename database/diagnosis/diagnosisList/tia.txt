@@ -1,7 +1,6 @@
 ::Transient Ischemic Attack (TIA)::
-
 ineffective cerebral Tissue Perfusion>ineffectivecerebralTissuePerfusion.txt
 anxiety_Fear>anxiety_Fear.txt
 risk for ineffective Denial>riskforineffectiveDenial.txt
-
 =====
+

@@ -1,7 +1,6 @@
 ::Varicose Veins::
-
 chronic Pain>chronicPain.txt
 disturbed Body Image>disturbedBodyImage.txt
 impaired Skin_Tissue Integrity>impairedSkin_TissueIntegrity.txt
-
 =====
+

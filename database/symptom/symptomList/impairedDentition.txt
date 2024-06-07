@@ -4,7 +4,6 @@
 Disruption in tooth development/eruption patterns or structural integrity of individual teeth
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors: 
 1. Inspect the oral cavity. Note the presence or absence of teeth and/or dentures and ascertain the significance of fi nding in terms of nutritional needs and aesthetics. 
@@ -14,7 +13,6 @@ Disruption in tooth development/eruption patterns or structural integrity of ind
 5. Document the presence of factors affecting dentition (e.g., chronic use of tobacco, coffee, or tea; bulimia/chronic vomiting; abscesses; tumors; braces; bruxism [chronic grinding of teeth]) to determine possible interventions and/or treatment needs.
 6. Note the current situation that could impact dental health (e.g., presence of endotrachial [ET] intubation, facial fractures, or chemotherapy) and that require special mouth care procedures.
 7. Document (photograph) facial injuries before treatment to provide a “pictorial baseline” for future comparison and evaluation.
-
 [Nursing Priority No. 2]
 To treat/manage dental care needs: 
 1. Ascertain the client’s usual method of oral care to provide continuity of care or to build on the client’s existing knowledge base and current practices in developing a plan of care.
@@ -37,7 +35,6 @@ To treat/manage dental care needs:
 11. Administer antibiotic therapy prior to dental procedures in susceptible individuals (e.g., prosthetic heart valve clients) to reduce risk of infective endocarditis or migration of bacteria to other body organs and/or ascertain that bleeding disorders or coagulation defi cits are not present to prevent excess bleeding.
 12. Direct client to notify dental care provider when bleeding disorder is present or anticoagulant therapy (including aspirin) is being used. May impact choice of procedure or technique in order to prevent excess bleeding.
 13. Refer to appropriate care providers (e.g., dental hygienists, dentists, periodontists, and oral surgeons).
-
 [Nursing Priority No. 3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Instruct the client/caregiver in home-care interventions to treat the condition and/or prevent further complications.
@@ -50,5 +47,5 @@ To treat/manage dental care needs:
 8. Encourage cessation of tobacco, especially smokeless, and enrollment in smoking-cessation classes to reduce the incidence of gum disorders, oral cancer, and other health problems.
 9. Discuss advisability of dental checkup and care prior to initiating chemotherapy or radiation treatments to minimize oral and dental tissue damage.
 10. Refer to resources to maintain dental hygiene (e.g., dental care providers, oral health care supplies, and/or fi nancial assistance programs). 
-
 =========
+

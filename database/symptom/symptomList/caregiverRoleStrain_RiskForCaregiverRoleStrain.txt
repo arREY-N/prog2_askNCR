@@ -5,7 +5,6 @@
  - Risk For Caregiver Role Strain: Susceptible to difficulty in performing the family/significant other caregiver role, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess factors affecting current situation or degree of impaired function:
 1. Inquire about and observe physical condition of care receiver and surroundings, as appropriate. Important to determine factors that may indicate problems that can interfere withability for caregiving.
@@ -15,7 +14,6 @@
 5. Assess current actions of caregiver and how they are viewed by the care receiver (e.g., caregiver may be trying to be helpful, but is not perceived as helpful; may be too protective or may have unrealistic expectations of care receiver). May lead to misunderstanding and confl ict.
 6. Note choice and frequency of social involvement and recreational activities.
 7. Determine use and effectiveness of resources and support systems. People are often not aware of available resources or may need help in using them to the best advantage.
-
 [Nursing Priority No. 2]
     - To identify the causative, contributing, or risk factors relating to the impairment:
 1. Note presence of high-risk situations (e.g., elderly client with total care dependence on spouse; or caregiver with several small children with one child requiring extensive assistance due to physical condition or developmental delays). Such situations result in added stress (e.g., imposing unwanted role reversal, or placing excessive demands on parenting skills).
@@ -30,7 +28,6 @@
 10. Identify individual cultural factors and impact on caregiver. Helps clarify expectations of caregiver/receiver, family, and community.
 11. Note codependency needs and enabling behaviors of caregiver. These behaviors can interfere with competent caregiving and contribute to caregiver burnout.
 12. Determine availability/use of support systems and resources.
-
 [Nursing Priority No.3]
     -  To assist caregiver in identifying feelings and in beginning to deal with problems (caregiver Role Strain): 
 1. Establish a therapeutic relationship, conveying empathy and unconditional positive regard. A compassionate approach, blending the nurse’s expertise in healthcare with the caregiver’s fi rsthand knowledge of the care receiver can provide encouragement, especially in a long-term diffi cult situation.
@@ -39,7 +36,6 @@
 4. Encourage caregiver to acknowledge and express feelings. Discuss normalcy of the reactions without using false reassurance.
 5. Discuss caregiver’s and family members’ life goals, perceptions, and expectations of self to clarify unrealistic thinking and identify potential areas of fl exibility or compromise.
 6. Discuss caregiver’s perception of impact of and ability to handle role changes necessitated by situation. People initially do not realize changes that will be encountered assituation develops, and it helps to identify and plan for changes before they arise.
-
 [Nursing Priority No.4]
     - To enhance caregiver’s ability to deal with current or future situation:
 1. Identify strengths of caregiver and care receiver. Bringing these to the individual’s awareness promotes positive thinking and helps with problem-solving to deal more effectively with circumstances.
@@ -50,7 +46,6 @@
 6. Provide information or demonstrate techniques for dealing with acting out, violent, or disoriented behavior. Presence of dementia necessitates learning these techniques or skills to enhance safety of caregiver and receiver.
 7. Identify equipment needs or adaptive aids and resources to enhance the independence and safety of the care receiver
 8. Provide contact person/case manager to partner with care provider(s) in coordinating care, providing physical/ social support, and assisting with problem-solving, as needed/desired.
-
 [Nursing Priority No. 5]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Emphasize importance of self-nurturing (e.g., pursuing  self-development interests, personal needs, hobbies, and social activities) to improve/maintain quality of life for caregiver.
@@ -63,5 +58,5 @@
 8. Identify available 12-step/other recovery or support program, when indicated, to provide tools to deal with enabling/codependent behaviors that impair level of function.
 9. Refer to counseling or psychotherapy, as needed.
 10. Provide bibliotherapy of appropriate references and Web sites for self-paced learning and updated information, and contact with other caregivers. Further information can help individuals understand what is happening and manage more effectively.
-
 =====
+

@@ -5,7 +5,6 @@
  - Risk For Spiritual Distress: Susceptible to an impaired ability to experience and integrate meaning and purpose in life through connectedness within self, others, literature, nature, and/or a power greater than oneself, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Ascertain current situation (e.g., natural disaster, death of a spouse, personal injustice). Identification of circumstances that puts the individual at risk for loss of connectedness with spiritual beliefs is essential to plan for appropriate interventions.
@@ -20,7 +19,6 @@
 10. Ascertain substance use or abuse. Affects ability to deal with problems in a positive manner.
 11. Determine support systems available to client/SO(s) and how they are used. Provides insight to client’s willingness to pursue outside resources.
 12. Be aware of infl uence of care provider’s belief system. (It is still possible to be helpful to client while remaining neutral and refraining from promoting own beliefs.)
-
 [Nursing Priority No. 2]
     -  To assist client/SO(s) to deal with feelings/situation: 
 1. Develop therapeutic nurse client relationship. Ascertain client’s views as to how care provider(s) can be most helpful. Convey acceptance of client’s spiritual beliefs and concerns. Promotes trust and comfort, encouraging client to be open about sensitive matters.
@@ -33,7 +31,6 @@
 8. Make time for nonjudgmental discussion of philosophical issues or questions about spiritual impact of illness or situation and/or treatment regimen. Open communication can assist client in reality checks of perceptions and identifying personal options.
 9. Problem solve solutions and identify areas for compromise that may be useful in resolving possible conflicts.
 10. Set limits on acting-out behavior that is inappropriate or destructive. Promotes safety for client/others and helps prevent loss of self-esteem.
-
 [Nursing Priority No.3]
     - To facilitate setting goals and moving forward:
 1. Involve client in refining healthcare goals and therapeutic regimen, as appropriate. Enhances commitment to plan, optimizing outcomes.
@@ -48,7 +45,6 @@
 10. Abide by parents’ wishes in discussing and implementing child’s spiritual support. Limits confusion for child and prevents confl ict of values or beliefs.
 11. Refer to appropriate resources (e.g., pastoral or parish nurse, religious counselor, crisis counselor, hospice; psychotherapy; Alcoholics or Narcotics Anonymous). Useful in dealing with immediate situation and identifying long-term resources for support to help foster sense of connectedness.
 12. Refer to NDs ineffective Coping; Powerlessness; SelfEsteem [specify]; Social Isolation; risk for Suicide. 
-
 [Nursing Priority No.4]
     -  To promote spiritual well-being (Teaching/Discharge Considerations):
 1. Assist client to develop goals for dealing with life/illness situation. Enhances commitment to goal, optimizing outcomes.
@@ -59,5 +55,5 @@
 6. Encourage individual to become involved in cultural activities of his or her choosing. Art, music, plays, and other cultural activities provide a means of connecting with self and others.
 7. Discuss benefit of family counseling, as appropriate. Issues of this nature (e.g., situational losses, natural disasters, difficult relationships) affect family dynamics.
 8. Assist client to identify spiritual resources that could be helpful (e.g., contact spiritual advisor who has qualifi cations or experience in dealing with specifi c problems, such as death and dying, relationship problems, substance abuse, suicide). Can be helpful in fi nding answers to spiritual questions, assisting in the journey of self-discovery, and helping client learn to accept and forgive self. 
-
 =====
+

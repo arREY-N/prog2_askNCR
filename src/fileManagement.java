@@ -131,6 +131,16 @@ public class fileManagement {
         try {
             createFile(filename, filePath);
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath.resolve(filename).toString()))) {
+                String patientName = patient.getName();
+                String diagnosisName = patient.getDiagnosisName();
+
+                writer.write("==========");
+                writer.write(patientName);
+                writer.write("\n");
+                writer.write(diagnosisName);
+                writer.write("\n");
+                writer.write("==========");
+                
                 for(LinkedHashMap<String, ArrayList<String>> symptom: careRecommendations){
                     
                     for(Map.Entry<String, ArrayList<String>> content : symptom.entrySet()){

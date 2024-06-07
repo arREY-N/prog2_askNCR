@@ -4,20 +4,17 @@
   Limitation of ability to independently and purposefully attain and/or maintain a rest position that is supported by the buttocks and thighs in which the torso is upright.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative/contributing factors: 
 1. Determine diagnosis that contributes to sitting balance problems (e.g., multiple sclerosis [MS], arthritis, Parkinson’s disease, cardiopulmonary disorders, back pain conditions with client use of compensatory positions to reduce pain; traumatic brain injury, spinal cord injury with hemi-/paraplegia; lower-limb injuries or amputations; psychiatric conditions including severe depression, dementias). These conditions can cause postural impairments, muscular weakness, and inadequate range of motion. Sensory defi cits may also be involved (e.g., impaired proprioception and/or visual processing, cognitive impairments). Sitting and standing balance are of major concern when assessing amputee’s ability to maintain the center of gravity over the base of support. Both balance and coordination are required for weight shifting from one limb to another, thus improving the potential for an optimal gait.
 2. Note factors affecting current situation (e.g., surgery, fractures, amputation, tubings [chest tube, indwelling catheter, IVs, pumps] and potential time involved [e.g., few hours in bed after surgery versus serious trauma requiring long-term bedrest or debilitating disease or pain limiting movement]). Identifi es potential impairments and determines type of interventions needed to provide for client’s safety.
 3. Note older client’s general health status. Several agingrelated changes can lead to immobility (e.g., sarcopenia with diminished endurance and core strength, impaired vision, loss of balance, reduced ability to quickly and adequately correct movements affecting center of gravity). Thus, falls are a major risk and source of morbidity and mortality.
 4. Assess nutritional and hydration status and client’s report of energy level. Defi ciencies in nutrients and water, electrolytes, and minerals can negatively affect energy and activity tolerance. Note: Research supports that obese individuals show reduced seated functional reach abilities when compared to normal and overweight subjects.
-
 [Nursing Priority No. 2]
     - To assess functional ability: 
 1. Determine functional status in relation to 0 to 4 scale, noting muscle strength and tone, joint mobility, cardiovascular status, balance, and endurance. Identifi es strengths and defi cits (e.g., inability to sit upright, reach forward, or transfer safely from bed to wheelchair) and may provide information regarding potential for recovery.
 2.  Determine degree of perceptual or cognitive impairment and ability to follow directions. Impairments related to age, chronic or acute disease condition, trauma, surgery, or medications require alternative interventions or changes in plan of care.
 3. Refer to physician, physical therapy specialists, for special testing, as indicated. May include many different functional tests to determine potential for improvement and direction for therapies.
-
 [Nursing Priority No.3]
     - To promote optimal level of function and prevent complications:
 1. Assist with treatment of underlying condition(s) to maximize potential for optimal function.
@@ -31,12 +28,11 @@
 9. Administer pain medications before activity as needed to promote maximal effort and involvement in activity.
 10. Collaborate with nutritionist in providing nutritious foods and needed feeding assistance, maximizing client’s abilities in ingesting and swallowing (upright position) to optimize available energy for activities.
 11. Refer to NDs Activity Intolerance, impaired bed Mobility, impaired Physical Mobility, impaired Transfer Ability, impaired Standing, impaired wheelchair Mobility, and impaired Walking for additional interventions.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Encourage client’s/significant other’s (SO’s) involvement in decision-making as much as possible. Enhances commitment to plan, optimizing outcomes.
 2. Demonstrate use of mobility devices (e.g., walkers, strollers, scooters, braces, prosthetics) and have client/care provider demonstrate knowledge about and safe use of device. Identify appropriate resources for obtaining and maintaining appliances or equipment. Safe use of mobility aids promotes client’s independence and enhances quality of life and safety for client and caregiver
 3. Discuss ways that client can exercise safely. Options may be limited, but attending regular rehabilitation sessions may provide best opportunity for improvement in function, including self-care, social independence, and recreation.
 4. Involve client and SO(s) in care, assisting them to learn ways of managing problems of immobility and imbalanced sitting, especially when impairment is expected to be long term. Refer to support and community services as indicated to provide care, supervision, companionship, respite services, nutritional and ADL assistance, adaptive devices or changes to living environment, fi nancial assistance, and so forth.
-
 =====
+

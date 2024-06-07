@@ -5,7 +5,6 @@
  - Risk For Powerlessness: Susceptible to the lived experience of lack of control over a situation, including a perception that one’s actions do not significantly affect an outcome, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Identify situational circumstances (e.g., unfamiliar environment, immobility, diagnosis of terminal or chronic illness, lack of support system, lack of knowledge about situation).
@@ -17,7 +16,6 @@
 7. Determine if there has been a change in relationships with significant other(s) (SO[s]). Conflict in the family, loss of a family member, or divorce can contribute to feelings of powerlessness and lack of ability to manage situation.
 8. Note availability and use of resources. Client who has few options for assistance or who is not knowledgeable about how to use resources needs to be given information and assistance to know how and where to seek help.
 9. Investigate caregiver practices to determine if they support client control and responsibility. 
-
 [Nursing Priority No. 2]
     - To assess degree of powerlessness experienced by client:
 1. Listen to statements client makes: “They don’t care”; “It won’t make any difference”; “Are you kidding?” Indicators of sense of powerlessness and hopelessness and need for specifi c interventions to provide sense of control over what is happening.
@@ -25,7 +23,6 @@
 3. Note behavioral responses (verbal and nonverbal) including expressions of fear, interest or apathy, agitation, withdrawal. These responses can show depth of anxiety, feelings of powerlessness, and indicate need for intervention to help client begin to look at situation with some sense of hope.
 4. Note lack of communication, fl at affect, and lack of eye contact. May indicate more severe state of mind, such as psychotic episode and need for immediate evaluation and treatment.
 5. Identify the use of manipulative behavior and reactions of client and caregivers. Manipulation is used for management of powerlessness because of distrust of others, fear of intimacy, search for approval, and validation of sexuality.
-
 [Nursing Priority No.3]
     - To assist client to clarify needs relative to ability to meet them: 
 1. Show concern for client as a person. 
@@ -36,7 +33,6 @@
 6. Express hope for the client. (There is always hope of something.)
 7. Identify strengths and assets, and past coping strategies that were successful. Helps client to recognize own ability to deal with diffi cult situation.
 8. Assist client to identify what he or she can do for self. Identify things the client can and cannot control. Accomplishing something can provide a sense of control and helps client understand that there are things he or she can manage. Accepting that some things cannot be controlled helps client to stop wasting efforts and refocus energy.
-
 [Nursing Priority No.4]
     - To promote independence/reduce risk of sense of powerlessness:
 1. Encourage client to maintain a sense of perspective about the situation. Discussing ways client can look at options and make decisions based on which ones will be best leads to the most effective solutions for situation.
@@ -51,7 +47,6 @@
 10. Direct client’s thoughts beyond present state to future when appropriate. Focusing on possibilities in small steps can help the client see that there can be hope in small things each day.
 11. Schedule frequent brief visits to let client know someone is interested and available.
 12. Involve SO(s) in client care as appropriate. Personal involvement by supportive family members can help client see the possibilities for resolving problems related to feelings of powerlessness.
-
 [Nursing Priority No. 5]
     - To promote wellness (Teaching/Discharge Considerations): 
 1. Encourage client to think productively and positively and to take responsibility for choosing own thoughts and reactions. Can enhance feelings of power and sense of positive self-esteem.
@@ -64,5 +59,5 @@
 8. Model problem-solving process with client/SO(s). Outcome is more likely to be accepted when arrived at by all parties involved, and participating in win-win solutions promotes sense of self-worth.
 9. Suggest client periodically review of own needs and goals. 
 10. Refer to support groups for counseling or therapy, as appropriate. May need/desire additional assistance to resolve current problems, long-standing issues, or troubled relationships.
-
 =====
+

@@ -4,7 +4,6 @@
  Impairment in sensory and motor response, mental representation, and spatial attention to the body, and the corresponding environment, characterized by inattention to one side and overattention to the opposite side. Left-side neglect is more severe and persistent than right-side neglect.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess the extent of altered perception and the related degree of disability:
 1. Identify underlying reason for alterations in sensory, motor, or behavioral perceptions as noted in Related Factors. The client with injury to either side of the brain may experience spatial neglect, but it more commonly occurs when brain injury affects the right cortical hemisphere, causing left hemiparesis.
@@ -16,7 +15,6 @@
 7. Explore and encourage verbalization of feelings to identify meaning of loss and dysfunction to the client and impact it may have on assuming activities of daily living (ADLs). Note: Expression of loss may be diffi cult for the client for a variety of reasons. For example, some emotional disturbances and personality changes are caused by the physical effects of brain damage.
 8. Assist with/review results of early screening tests. Tests (often performed at the bedside) may include (and are not limited to) observation to determine if client shows evidence of body neglect such as asymmetric shaving/ grooming. Reading test might reveal that client begins reading in the middle of the page, etc.
 9. Review results of testing (e.g., computed tomography or magnetic resonance imaging scanning, complete neuropsychological tests) done to determine cause or type of neglect syndrome (e.g., sensory, motor, representational, personal, spatial, behavioral inattention). Aids in distinguishing neglect from visual fi eld cuts, impaired attention, and planning or visuospatial abilities.
-
 [Nursing Priority No. 2]
     - To promote optimal comfort and safety for the client in the environment: 
 1. Engage in treatment strategies focused on training of attention to the neglected hemispace:
@@ -35,7 +33,6 @@
  - Provide assistance with ADLs (e.g., feeding, bathing, dressing, grooming, toileting), which helps client tend to affected side or compensate for client’s defi cits.
  - Refer to ND [disturbed Sensory Perception] for additional interventions, as needed.
 2. Collaborate with rehabilitation team in strategies (e.g., sensory stimulation techniques such as tapping or stroking, patching one half of each eye, auditory stimulation, wedge prism adaptation techniques, virtual reality technology) to assist client to overcome or compensate for defi cits.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Encourage client to look at and handle affected side to stimulate awareness.
@@ -55,5 +52,5 @@
 15. Refer to and encourage client to use rehabilitative services to enhance independence in functioning.
 16. Identify additional community resources to meet individual needs (e.g., Meals on Wheels, home-care services) to maximize independence, allow client to return to community setting.
 17. Provide informational material and Web sites to reinforce teaching and promote self-paced learning.
-
 =====
+

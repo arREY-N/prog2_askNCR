@@ -4,7 +4,6 @@
  Susceptible to a decrease in cerebral tissue circulation, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Determine history of conditions associated with thrombus or emboli such as stroke, complicated pregnancy, sickle cell disease, fractures (especially long bones and pelvis) to identify client at higher risk for decreased cerebral perfusion related to bleeding and/or coagulation problems.
@@ -20,7 +19,6 @@
 11. Review pulse oximetry or arterial blood gases. Hypoxia is associated with reduced cerebral perfusion.
 12. Review laboratory studies to identify disorders that increase risk of clotting or bleeding or conditions contributing to decreased cerebral perfusion.
 13. Review results of diagnostic studies (e.g., ultrasound or other imaging scans such as echocardiography, computed tomography [CT], or magnetic resonance angiography [MRA]; diffusion and perfusion magnetic resonance imaging) to determine location and severity of disorder that can cause or exacerbate cerebral perfusion problem.
-
 [Nursing Priority No. 2]
     - To maximize tissue perfusion:
 1. Collaborate in treatment of underlying conditions as indicated to improve systemic perfusion and organ function.
@@ -32,7 +30,6 @@
 7. Administer other medications, as indicated (e.g., steroids may reduce edema, antihypertensives for high blood pressure, anticoagulants to prevent cerebral embolus).
 8. Prepare client for surgery, as indicated (e.g., carotid endarterectomy, evacuation of hematoma or space-occupying lesion), to improve cerebral perfusion.
 9. Refer to NDs decreased Cardiac Output; decreased intracranial Adaptive Capacity, for additional interventions. 
-
 [Nursing Priority No.3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Review modifiable risk factors, including hypertension, smoking, diet, physical activity, excessive alcohol intake, illicit drug use, as indicated. Information can help client make informed choices about remedial risk factors and commit to lifestyle changes, as appropriate.
@@ -40,5 +37,5 @@
 3. Assist client to incorporate disease management into activities of daily living. Promotes independence; enhances selfconcept regarding ability to deal with change and manage own needs.
 4. Emphasize necessity of routine follow-up and laboratory monitoring, as indicated, for effective disease management and possible changes in therapeutic regimen.
 5. Refer to educational and community resources, as indicated. Client/significant other (SO) may benefi t from instruction and support provided by agencies to engage in healthy activities (e.g., weight loss, smoking cessation, exercise).
-
 =====
+

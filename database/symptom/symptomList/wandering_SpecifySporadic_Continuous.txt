@@ -4,7 +4,6 @@
  Meandering, aimless, or repetitive locomotion that exposes the individual to harm; frequently incongruent with boundaries, limits, or obstacles. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess degree of impairment/stage of disease process:
 1. Ascertain history of client’s memory loss and cognitive changes.
@@ -16,8 +15,6 @@
 7. Monitor client’s use or need for assistive devices, such as glasses, hearing aids, cane. Wandering client is at high risk for falls due to cognitive impairments or forgetting necessary assistive devices or how to properly use them.
 8. Determine bowel and bladder elimination pattern, timing of incontinence, presence of constipation for possible correlation to wandering behavior.
 9. Ascertain if client has delusions due to shadows, lights, and noises to determine necessary changes to environment.
-
-
 [Nursing Priority No. 2]
     - To assist client/caregiver to deal with situations:
 1. Provide a structured daily routine. Decreases wandering behavior and minimizes caregiver stress.
@@ -32,7 +29,6 @@
 10. Avoid using physical or chemical restraints (sedatives) to control wandering behavior. May increase agitation, sensory deprivation, and falls; may contribute to wandering behavior.
 11. Provide consistent staff as much as possible. 
 12. Provide room near monitoring station; check client location on frequent basis. 
-
 [Nursing Priority No.3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Identify problems that are remediable and assist client/significant other (SO) to seek appropriate assistance and access resources. Encourages problem-solving to improve condition rather than accept the status quo.
@@ -41,5 +37,5 @@
 4. Help SO(s) develop plan of care when problem is progressive. 
 5. Refer to community resources, such as day-care programs, support groups, respite care
 6. Refer to NDs acute Confusion; chronic Confusion; [disturbed Sensory Perception (specify)]; risk for Injury; risk for Falls. 
-
 =====
+

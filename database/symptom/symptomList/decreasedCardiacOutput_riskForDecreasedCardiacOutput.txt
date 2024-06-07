@@ -4,12 +4,10 @@
 decreased Cardiac Output : Inadequate blood
 pumped by the heart to meet the metabolic demands of the
 body. 
-
 risk for decreased Cardiac Output : Susceptible to
 inadequate blood pumped by the heart to meet the metabolic demands of the body, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative/contributing or risk factors:
 1. Identify clients exhibiting symptoms or at risk as noted in Related/Risk Factors and Defi ning Characteristics. In addition to an individual who is obviously at risk because of known cardiac problems, there is a potential for cardiac output issues in others (e.g., person with traumatic injuries and hemorrhage; brainstem trauma; spinal cord injury [SCI] at T8 or above; chronic renal failure, alcohol and other drug intoxication, substance withdrawal or overdose; or pregnant woman with hypertensive states).
@@ -17,7 +15,6 @@ inadequate blood pumped by the heart to meet the metabolic demands of the body, 
 3. Assess the potential for/type of developing shock states: hematogenic, septicemic, cardiogenic, vasogenic, and psychogenic.
 4. Review laboratory data, including but not limited to complete blood count (CBC), electrolytes, arterial blood gases (ABGs), cardiac biomarkers (e.g., creatine kinase and its subclasses, troponins, myoglobin, and LDH); lactate; brain natriuretic peptide (BNP); kidney, thyroid, and liver function studies; cultures (e.g., blood, wound, or secretions); and bleeding and coagulation studies to identify client at risk, and promote early intervention, if indicated.
 5. Review diagnostic studies, including but not limited to: chest radiograph, cardiac stress testing, electrocardiogram (ECG), echocardiogram, cardiac output and ventricular ejection studies, and heart scan or catheterization. For example, the ECG may show previous or evolving myocardial infarction (MI), left ventricular hypertrophy, and valvular stenosis. Doppler fl ow echocardiogram showing an ejection fraction (EF) less than 40% is indicative of systolic dysfunction. 
-
 [Nursing Priority No. 2]
     - To assess degree of debilitation (decreased Cardiac Output):
 1. Assess and monitor for client reports of chest pain. Note location, intensity, characteristics, and radiation of pain. May indicate evolving heart attack; can also accompany congestive heart failure. Chest pain may be atypical in women experiencing an MI and is often atypical in the elderly owing to altered pain perception.
@@ -25,7 +22,6 @@ inadequate blood pumped by the heart to meet the metabolic demands of the body, 
 3. Determine vital signs/hemodynamic parameters including cognitive status. Note vital sign response to activity or procedures and time required to return to baseline. This provides a baseline for comparison to follow trends and evaluate response to interventions.
 4. Review signs of impending failure/shock, noting decreased cognition and unstable or subnormal blood pressure or hemodynamic parameters; tachypnea; labored respirations; changes in breath sounds (e.g., crackles or wheezing); distant or altered heart sounds (e.g., murmurs or dysrythmias); neck vein and peripheral edema; and reduced urinary output. Early detection of changes in these parameters promotes timely intervention to limit the degree of cardiac dysfunction.
 5. Note the presence of pulsus paradoxus, especially in the presence of distant heart sounds, suggesting cardiac tamponade.
-
 [Nursing Priority No.3]
     -  To minimize/correct causative factors, maximize cardiac output
 (decreased Cardiac Output). 
@@ -51,7 +47,6 @@ Acute Phase
 19. Provide information about testing procedures and client participation.
 20. Assist with preparations for and monitor response to support procedures or devices as indicated (e.g., cardioversion, pacemaker, angioplasty, and stent placement, coronary artery bypass graft [CABG] or valve replacement, intra- aortic balloon pump [IABP], left ventricular assist device [LVAD] total artifi cial heart [TAH], transplantation). Any number of interventions may be required to correct a condition causing heart failure or to support a failing heart during recovery from myocardial infarction, while awaiting transplantation, or for long- term management of chronic heart failure.
 21. Explain dietary or fl uid restrictions, as indicated. 
-
 [Nursing Priority No. 4]
     -  To maximize cardiac output or minimize risk factors.
  Postacute/Chronic Phase
@@ -63,14 +58,12 @@ Acute Phase
 6. Avoid a prolonged sitting position for all clients, and supine position for sleep or exercise for gravid clients (second and third trimesters) to maximize vascular return.
 7. Encourage relaxation techniques to reduce anxiety and conserve energy.
 8. Provide skin protective measures (e.g., frequent position changes, early ambulation, monitoring of bony prominences, sheepskin or special fl otation mattress) to avoid the development of pressure sores in the setting of impaired circulation and generalized weakness or debilitation. Refer to ND risk for Pressure Ulcer, as indicated. 
-
 [Nursing Priority No. 5]
     - To maintain nutrition and fl uid balance:
 1. Provide for diet restrictions (e.g., low- sodium, bland, soft, low- calorie/low fat diet, with frequent small feedings), as indicated.
 2. Note reports of anorexia or nausea and withhold oral intake, as indicated.
 3. Provide fluids and electrolytes, as indicated, to minimize dehydration and dysrhythmias.
 4. Monitor intake/output and calculate 24- hour fl uid balance.
-
 [Nursing Priority No. 6]
     -  To promote wellness (Teaching/Discharge Considerations):
  For client with established decreased cardiac output:
@@ -94,5 +87,5 @@ Acute Phase
     -- Provide instruction for home monitoring of weight, pulse, and blood pressure, as appropriate.
     -- Discuss signifi cant signs/symptoms that need to be reported to healthcare provider, such as unrelieved or increased chest pain, dyspnea, fever, swelling of ankles, and sudden unexplained cough.
     -- Emphasize the importance of regular medical follow- up care to monitor the client’s condition and provide early intervention when indicated to prevent complications.
-
 =====
+

@@ -4,7 +4,6 @@
  A constellation of culturally framed behaviors involving one or more self-care activities in which there is a failure to maintain a socially accepted standard of health and well-being (Gibbons, Lauder, & Ludwick, 2006).
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative or precipitating factors:
 1. Determine existing health problems, age, developmental level, and cognitive psychological factors, including presence of delusions affecting ability to care for own needs. A wide variety of impairments can cause a person to neglect hygiene needs, particularly aging, homelessness, and dementia.
@@ -17,14 +16,12 @@
 8. Assess economic factors and living arrangements. May live alone or with family members who are not helpful or may be homeless; may have little or no fi nancial resources,resulting in inability to achieve or lack of concern about personal well-being.
 9. Determine availability and use of resources. Depending on disability of client, agencies can work together to develop a plan to meet needs, noting whether individual is availing self of help.
 10.  Interview significant other (SO)/family members to determine level of involvement and support. Client may be exhibiting acting-out/paranoid behaviors, stressing caregivers, who may not realize that cognitive impairment prevents individual from exercising self-control.
-
 [Nursing Priority No. 2]
     - To determine degree of impairment:
 1. Perform head-to-toe assessment inspecting scalp and skin, noting personal hygiene, body odor, rashes, bruising, skin tears, lesions, burns, presence of vermin; inspecting oral cavity for gum disease, infl ammation, lesions, loose or broken teeth, fi t of dentures. Identifi es specifi c needs and may reveal signs of trauma or abuse.
 2. Obtain weight. Perform nutritional assessment as indicated. Neglecting oneself often includes not eating meals regularly or not eating nutritionally balanced foods, especially when alcoholism or drug abuse is present.
 3. Review medication regimen. In addition to neglecting self-care activities, client will likely not pay attention to taking prescriptions as ordered, potentially resulting in exacerbation of medical problem. Some psychotropic medications may cause individual to “feel different” or not in control of self, resulting in reluctance to take drug. 
 4. Determine client’s willingness to change situation.
-
 [Nursing Priority No.3]
     - To assist in correcting/dealing with situation:
 1. Develop multidisciplinary team specific to individual needs, such as case manager, physician, dietitian, physical or occupational therapist, rehabilitation specialist. To develop a plan appropriate to the individual situation, making use of client’s capabilities and maximizing potential.
@@ -36,7 +33,6 @@
 7. Demonstrate or review skills necessary for caring for self, using terms appropriate to client’s level of understanding.
 8. Plan time for listening to client’s/SO’s concerns. Provides opportunity to determine whether plan is being followed and identify the barriers to participation.
 9. Refer to NDs Self-Care Defi cit [specify]; ineffective Health Maintenance; impaired Home Maintenance; [disturbed Sensory Perception], for additional interventions as appropriate.
-
 [Nursing Priority No.4]
     - To promote wellness (Discharge/Evaluation Criteria):
 1. Establish remotivation or resocialization program when indicated. Depending on where the client is residing, isolation may become a problem as individual withdraws from contact with others.
@@ -48,5 +44,5 @@
 7. Investigate alternative placements as indicated. Client may require group home, assisted living, or long-term care, and it is best to place in least restrictive environment capable of meeting client’s needs.
 8.  Discuss need for respite for family members. Care of cognitively impaired member can be wearing, and time away allows for renewing oneself and enhancing ability to cope with continued care responsibilities.
 9. Refer for counseling as indicated. Accurate mental health diagnoses may reveal the need for appropriate services, psychiatric, social services, home care.
-
 =====
+

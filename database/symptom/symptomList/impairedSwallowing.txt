@@ -4,7 +4,6 @@
  Abnormal functioning of the swallowing mechanism associated with deficits in oral, pharyngeal, or esophageal structure or function. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors and degree of impairment:
 1. Evaluate client’s potential for swallowing problems, noting age and medical conditions (e.g., Parkinson disease, multiple sclerosis, myasthenia gravis, or other neuromuscular conditions). Swallowing disorders are especially common in the elderly, possibly due to coexistence of variety of neurological, neuromuscular, or other conditions. Infants at risk include those born prematurely or with tracheoesophageal fi stula or lip and palate malformation. Persons with traumatic brain injuries often exhibit swallowing impairments, regardless of gender or age. 
@@ -22,7 +21,6 @@
 13. Auscultate breath sounds to evaluate the presence of aspiration.
 14. Review laboratory test results for underlying problems (e.g., complete blood count) to screen for infectious or infl ammatory conditions or thyroid or other metabolic and nutritional studies that can affect swallowing.
 15. Prepare for or assist with diagnostic testing of swallowing activity (e.g., refl ex cough test, swallowing electromyography, transnasal or esophageal endoscopy, videofl uorographic swallow studies; fi ber-optic endoscopic examination of swallowing) to identify the pathophysiology of swallowing disorder.
-
 [Nursing Priority No. 2]
     - To prevent aspiration and maintain airway patency:
 1. Identify individual factors that can precipitate aspiration or compromise airway. 
@@ -30,7 +28,6 @@
 3. Instruct client to cough and expectorate when secretion management is of concern.
 4. Have suction equipment available during initial feeding attempts and as indicated. Suction oral cavity if client cannot clear secretions to prevent aspiration.
 5. Teach client self-suction when appropriate (e.g., drooling, frequent choking, structural changes in mouth or pharynx). Promotes airway safety and independence and sense of control with managing secretions.
-
 [Nursing Priority No.3]
     - To enhance swallowing ability to meet fluid and caloric body requirements:
 1. Refer to surgeon, gastroenterologist, or neurologist as indicated for treatment (e.g., reconstructive facial surgery, esophageal dilatation) that may result in improved swallowing.
@@ -60,7 +57,6 @@
 25. Consult with dysphagia specialist or rehabilitation team, as indicated.
 26. Refer to lactation counselor or support group (e.g., La Leche League) for breastfeeding guidance.
 27. Refer to NDs ineffective Breastfeeding; ineffective infant Feeding Pattern, for additional interventions for infants. 
-
 [Nursing Priority No.4]
     -  To promote wellness (Teaching/Discharge Considerations):
 1. Consult with nutritionist to establish optimum dietary plan considering specifi c pathology, nutritional needs, and available resources.
@@ -71,5 +67,5 @@
 6. Instruct client and/or SO(s) in emergency measures in event of choking to prevent aspiration or more serious complications.
 7. Recommend avoiding food intake within 3 hr of bedtime, eliminating alcohol and caffeine intake, reducing weight if needed, using stress-reduction techniques, and elevating head of bed during sleep to limit potential for gastric reflux and aspiration.
 8. Establish routine schedule for monitoring weight.
-
 =====
+

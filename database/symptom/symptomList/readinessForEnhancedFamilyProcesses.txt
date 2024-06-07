@@ -2,8 +2,8 @@
 
 ::Definition::
 : A pattern of family functioning that is sufficient to support the well-being of family members and can be strengthened. 
-::Actions/Interventions::
 
+::Actions/Interventions::
 [Nursing Priority No. 1]
     -  To determine status of family: 
 1. Determine family composition: parent(s), children, male/female, and extended family. Many family forms exist in society today, such as biological, nuclear, single parent, stepfamily, communal, and same-sex couple or family. A better way to determine a family may be to determine the attribute of affection, strong emotional ties, a sense of belonging, and durability of membership.
@@ -15,7 +15,6 @@
 7. Note energy direction. Efforts at problem-solving and resolution of different opinions may be purposeful or may be scattered and ineffective.
 8. Determine cultural and/or religious factors infl uencing family interactions. Expectations related to socioeconomic beliefs may be different in various cultures. For instance, traditional views of marriage and family life may be strongly infl uenced by Roman Catholicism in Italian American and Latino American families. In some cultures, the father is considered the authority fi gure and the mother is the homemaker. These beliefs may change with stressors or circumstances (e.g., fi nancial, loss or gain of a family member, personal growth).
 9. Note the health of married individuals. Recent reports have determined that marriage increases life expectancy by as much as 5 years.
-
 [Nursing Priority No. 2]
     - To assist the family to improve interactions: 
 1. Establish nurse-family relationship. Promotes a warm,caring atmosphere in which family members can share thoughts, ideas, and feelings openly and nonjudgmentally.
@@ -24,7 +23,6 @@
 4. Assist the family to identify and encourage use of previously successful coping behaviors. Promotes recognition of previous successes and confi dence in own abilities to learn and improve family interactions.
 5. Acknowledge differences among family members with open dialogue about how these differences have occurred. Conveys an acceptance of these differences among individuals and helps to look at how they can be used to strengthen the family.
 6. Identify effective parenting skills already being used and additional ways of handling diffi cult behaviors. Allows individual family members to realize that some of what has been done already has been helpful and encourages them to learn new skills to manage family interactions in a more effective manner.
-
 [Nursing Priority No. 3]
     - To promote optimum well-being: 
 1. Discuss and encourage use of and participation in stress-management techniques. Relaxation exercises, visualization, andsimilar skills can be useful for promoting reduction of anxiety and ability to manage stress that occurs in their lives.
@@ -34,3 +32,4 @@
 5. Assist family members in identifying situations that may create problems and lead to stress/anxiety. Thinking ahead can help individuals anticipate helpful actions to handle/prevent confl ict and untoward consequences.
 6. Refer to classes/support groups, as appropriate. Family effectiveness, self-help, psychology, and religious affi liations can provide role models and new information to enhance family interactions
 =========
+

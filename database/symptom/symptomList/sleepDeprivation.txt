@@ -4,7 +4,6 @@
  Prolonged periods of time without sustained natural, periodic suspension of relative consciousness that provides rest.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Note client’s age and developmental stage. The average adult requires 7 to 8 hr sleep; teenagers about 9 hr, infants about 16 hr. Pregnant women and new mothers, while needing more sleep, are usually sleep deprived; adolescents and young adults do not get enough sleep, have irregular sleep patterns, and are at risk for problem sleepiness; menopausal women often report interrupted sleep because of hot fl ashes or hormonal infl uences; elderly persons sleep fewer hours, report less restful sleepand need for more sleep.
@@ -15,7 +14,6 @@
 6. Note environmental factors affecting sleep (e.g., unfamiliar or uncomfortable sleep environment, excessive noise and light, uncomfortable temperature, roommate actions [e.g., snoring, watching TV late at night]). 
 7. Determine presence of parasomnias: nightmares, terrors, or somnambulism (e.g., sitting, sleepwalking, or other complex behavior during sleep).  
 8. Note reports of terror, brief periods of paralysis, sense of body being disconnected from the brain. Occurrence of sleep paralysis (although not widely recognized in the United States, has been well documented elsewhere) may result in feelings of fear and reluctance to go to sleep.
-
 [Nursing Priority No. 2]
     - To assess degree of impairment:
 1. Determine client’s usual sleep pattern and expectations. Usual sleep patterns are individual, but sleep loss has been shown to be the most common complaint reported in primary care settings; therefore, screening for the problem should be routine.
@@ -28,7 +26,6 @@
 8. Instruct client and/or bed partner to keep a sleep-wake log to document symptoms and identify factors that are interfering with sleep.
 9. Do a chronological chart to determine peak performance and rhythms.
 10. Collaborate with healthcare team for evaluation and treatment of more serious sleep problems (e.g., obstructive sleep apnea, narcolepsy, sleep paralysis, bed-wetting, nocturnal leg cramps, restless leg syndrome).
-
 [Nursing Priority No.3]
     - To assist client to establish optimal sleep pattern:
 1. Review medications being taken and their effect on sleep, suggesting modifi cations in regimen.
@@ -45,7 +42,6 @@
 12. Administer analgesics, sedatives or other sleep medications, when indicated, noting client’s response. Time pain medications for peak effect and duration to reduce need for redosing during prime sleep hours.
 13. Instruct client to get out of bed if unable to fall asleep, leave bedroom, engage in relaxing activities, and not return to bed until feeling sleepy. 
 14. Review with client the physician’s recommendations (e.g., medications or continuous positive airway pressure [CPAP] therapy) for treatment of identifi ed sleep disorder.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Review possibility of next-day drowsiness or “rebound” insomnia and temporary memory loss that may be associated with sleep disorders or prescription sleep medications.
@@ -54,5 +50,5 @@
 4. Encourage family counseling to help deal with concerns arising from parasomnias.
 5. Refer to support group or counselor to help deal with psychological stressors (e.g., grief, sorrow, chronic pain). (Refer to NDs Grieving; chronic Sorrow; chronic Pain.) 
 6. Refer to sleep specialist or sleep laboratory when problem is unresponsive to customary interventions.
-
 =====
+

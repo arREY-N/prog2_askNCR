@@ -3,8 +3,8 @@
 ::Definition::
  Parental experience of role confusion and conflict in response to crisis. 
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To assess causative/contributory factors:
 1. Assess individual situation and parent’s perception of/concern about what is happening and expectations of self as caregiver.
@@ -14,7 +14,6 @@
 5. Determine use of substances (e.g., alcohol, other drugs, including prescription medications). May interfere with individual’s ability to cope and problem-solve.
 6. Assess availability and use of resources, including extended family, support groups, and fi nancial. 
 7. Perform testing, such as Parent-Child Relationship Inventory, for further evaluation as indicated.
-
 [Nursing Priority No. 2]
     - To assist parents to deal with current crisis: 
 1. Encourage free verbal expression of feelings (including negative feelings of anger and hostility), setting limits on inappropriate behavior. Verbalization of feelings enables parent(s) to sift through situation and begin to deal with reality of what is happening. Inappropriate behavior is not helpful for dealing with the situation and will lead to feelings of guilt and low self-worth.
@@ -27,7 +26,6 @@
 8. Provide for and encourage use of respite care and parent time off. Parents are important, children are important, and the family is important, and when parents take time forthemselves, it enhances their emotional well-being and promotes ability to deal with ongoing situation.
 9. Provide for, or encourage use of, respite care, parental time off to enhance emotional well-being.
 10. Help single parent distinguish between parent love and partner love. Love is constant, but attention can be given to one or the other, as appropriate.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Provide anticipatory guidance to encourage making plans for future needs.
@@ -36,5 +34,5 @@
 4. Provide and identify learning opportunities specifi c to needs (e.g., parenting classes, healthcare equipment use/ troubleshooting). 
 5. Refer to community resources, as appropriate (e.g., visiting nurse, respite care, social services, psychiatric care or family therapy, well-baby clinics, special needs support services).
 6. Refer to ND impaired Parenting for additional interventions. 
-
 =====
+

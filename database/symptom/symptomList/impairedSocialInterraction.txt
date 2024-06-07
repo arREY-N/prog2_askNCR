@@ -4,7 +4,6 @@
  Insufficient or excessive quantity or ineffective quality of social exchange. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Review social history with client/signifi cant other(s) (SO[s]) going back far enough in time to note when changes in social behavior or patterns of relating occurred or began: e.g., loss or long-term illness of loved one; failed relationships; loss of occupation, fi nancial, or social or political (power) position; change in status in family hierarchy (job loss, aging, illness); poor coping or adjustment to developmental stage of life, as with marriage, birth or adoption of child, or children leaving home.
@@ -14,7 +13,6 @@
 5. Observe client while relating to family/SO(s) to note prevalent interaction patterns.
 6. Note presence of visual or hearing impairments. Individuals with these conditions may find communication barriers are increased, social interaction is affected, and interventions need to be designed to promote involvement with others in positive ways.
 7. Encourage client to verbalize feeling of discomfort about social situations. Identify causative factors, if any, recurring precipitating patterns, and barriers to using support systems. 
-
 [Nursing Priority No. 2]
     - To assess degree of impairment:
 1. Encourage client to verbalize perceptions of problem and causes. Active-listen, noting indications of hopelessness, powerlessness, fear, anxiety, grief, anger, feeling unloved or unlovable, problems with sexual identity, hate (directed or not). These feelings arise from the anxiety that comes with the need to participate with others in social situations and can interfere with work, friendships, and life in general. 
@@ -23,7 +21,6 @@
 4. Evaluate possibility of client being the victim of or using destructive behaviors against self or others. (Refer to NDs risk for other-/self-directed Violence.) Problems with communication lead to frustration and anger, leaving the individual with few coping skills, and may result in destructive behaviors.
 5. Interview family, SO(s), friends, spiritual leaders, coworkers, as appropriate, to obtain observations of client’s behavioral changes and effects on others.
 6. Note effects of changes on socioeconomic level, ethnic and religious practices.
-
 [Nursing Priority No.3]
     - To assist client/SO(s) to recognize/make positive changes in impaired social and interpersonal interactions:
 1. Establish therapeutic relationship using positive regard for the client, active-listening, and providing safe environment for self-disclosure. 
@@ -39,7 +36,6 @@
 11. Work with client to alleviate underlying negative self-concepts because they often impede positive social interactions. Attempts at trying to connect with another can become devastating to self-esteem and emotional well-being.
 12. Involve neurologically impaired client in individual and/or group interactions or special classes, as situation allows. 
 13. Refer for family therapy, as indicated, because social behaviors and interpersonal relationships involve more than the affected individual.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Encourage client to keep a daily journal in which social interactions of each day can be reviewed and the comfort/ discomfort experienced noted with possible causes or precipitating factors. Helps client identify responsibility for own behavior(s) and learn new skills that can be used to enhance social interactions.
@@ -50,5 +46,5 @@
 6. Encourage ongoing family or individual therapy as long as it is promoting growth and positive change. While therapy groups can be useful, individuals can become dependent on the process and not move on to managing on their own.
 7. Provide for occasional follow-up, as appropriate, for reinforcement of positive behaviors after professional relationship has ended.
 8. Refer to psychiatric clinical nurse specialist for additional assistance when indicated. 
-
 =====
+

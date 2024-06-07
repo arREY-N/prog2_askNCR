@@ -5,7 +5,6 @@ A pattern of feeding milk from the breasts to an
 infant or child, which may be strengthened.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     - To determine individual learning needs: 
 1 Assess the mother's desires/plan for feeding infant. This provides information for developing a plan of care.
@@ -25,7 +24,6 @@ as concerns about body image issues
 family. In addition to caring healthcare providers, the 
 infant's father and maternal grandmother are important 
 factors in whether breastfeeding is successful
-
 [Nursing Priority No. 2]
     - To promote effective breastfeeding behaviors: 
 1. Initiate breastfeeding within the first hour after birth.Throughout the first 2 hr after birth, the infant is usually alert and ready to nurse. Early feedings are of great benefi t to the mother and the infant because oxytocin release is stimulated, helping to expel the placenta and prevent excessive maternal blood loss; the infant receives the immunological protection of colostrum, peristalsis is stimulated, lactation is accelerated, and maternal–infant bonding is enhanced.
@@ -37,7 +35,6 @@ factors in whether breastfeeding is successful
 7. Encourage the mother to follow a well-balanced diet containing an extra 500 calories/day, continue her prenatal vitamins, and drink at least 2,000 to 3,000 mL of fl uid/day. There is an increased need for maternal energy, protein, minerals, and vitamins, as well as increased fl uid intake during lactation.
 8. Provide information as needed about early infant feeding cues (e.g., rooting, lip smacking, sucking on fi ngers/hand) versus the late cue of crying. Early recognition of infant hunger promotes a timely/more rewarding feeding experience for the infant and the mother.
 9. Promote peer counseling for teen mothers. This provides a positive role model that the teen can relate to and feel comfortable with discussing concerns/feelings
-
 [Nursing Priority No. 3]
     -  To enhance optimum wellness (Teaching/Discharge Considerations): 
 1. Provide for follow-up contact or home visit 48 hr after discharge, as indicated or desired; repeat visits as necessary to provide support and assist with problem solving.
@@ -55,5 +52,5 @@ factors in whether breastfeeding is successful
 12. Problem-solve return-to-work issues or periodic infant care requiring bottle or supplemental feeding. This enables mothers who need or desire to return to work (for economic or personal reasons) or who simply want to attend activities without the infant to deal with these issues, thus allowing more freedom while maintaining adequate breastfeeding.
 13. Refer to support groups, such as the La Leche League, as indicated. Provide the mother with the phone number of a support person or group prior to leaving the hospital. 
 14. Refer to ND ineffective Breastfeeding for more specifi c information addressing challenges to breastfeeding, asappropriate.
-
 =========
+

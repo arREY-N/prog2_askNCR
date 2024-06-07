@@ -5,7 +5,6 @@ Inadequate supply of maternal breast milk to
 support nutritional state of an infant or child.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To identify maternal causative or contributing factors: 
 1. Assess the mother's knowledge about breastfeeding and the extent of instruction that has been provided. Lack of knowledge, unresolved problems, or stories told by others may cause client to doubt abilities and chances for success
@@ -16,13 +15,11 @@ support nutritional state of an infant or child.
 6. Assess for other causes of primary lactation failure. Maternal prolactin defi ciency/serum prolactin levels, pituitary or thyroid disorders, and anemia may be corrected with medication.
 7. Review lifestyle for common causes of secondary lactation failure. Smoking, caffeine/alcohol use, lack of adequate healthy food, birth control pills containing estrogen, becoming pregnant again; medications (e.g., antihistamines, decongestants, or diuretics), stress, and fatigue are known to inhibit milk production.
 8. Determine the desire/motivation to breastfeed. Increasing the milk supply can be intense, requiring commitment to therapeutic regimen and possible lifestyle changes
-
 [Nursing Priority No. 2]
     - To identify infant causative or contributing factors: 
 1. Observe the infant at breast to evaluate latching-on skill and the presence of suck/swallow diffi culties. Poor latching on and lack of audible swallowing/gulp are associated with inadequate intake. The infant gets substantial amounts of milk when drinking with an open-pause-close type of suck. Note: Open-pause-close is one suck; the pause is not a pause between sucks.
 2. Evaluate the signs of inadequate infant intake. Infant arching and crying at the breast with resistance to latching on, decreased urinary output/frequency of stools, and inadequate weight gain indicate the need for further evaluation and intervention.
 3. Review the feeding schedule—frequency, length of feeding, and taking one or both breasts at each feeding.\
-
 [Nursing Priority No. 3]
     - To increase mother's milk supply: 
 1. Instruct on how to differentiate between perceived and actual insufficient milk supply. Normal breastfeeding frequencies, suckling times, and amounts not only vary between mothers but are also based on infant's needs/moods. Milk production is likely to be a refl ection of the infant's appetite, rather than the mother's ability to produce milk.
@@ -36,7 +33,6 @@ support nutritional state of an infant or child.
 9. Recommend reducing or stopping supplemental feedings if used. Gradual tapering off of supplementation can increase frequency/duration of infant's breastfeeding, stimulating maternal milk production.
 10. Discuss appropriate/safe use of herbal supplements. Herbs such as sage, parsley, oregano, peppermint, jasmine, and yarrow may have a negative effect on milk supply if taken in large quantities. A number of herbs have been used for centuries to stimulate milk production, such as fenugreek ( Trigonella foenum-graecum ), the most commonly recommended herbal galactogogue to facilitate lactation.
 11. Discuss the possible use of prescribed medications (galactogogues) to increase milk production. Domperidone (Motilium) is approved by the American Academy of Pediatrics for use in breastfeeding mothers and has fewer side effects. Metoclopramide (Reglan) has been shown to increase milk supply anywhere from 72% to 110%, depending on how many weeks the mother is postpartum.
-
 [Nursing Priority No. 4]
     - To promote optimal success and satisfaction of breastfeeding 
 process for mother and infant: 
@@ -51,3 +47,4 @@ process for mother and infant:
 9. Refer to support groups (e.g., La Leche League, parenting support groups, stress reduction, or other community 
 resources), as indicated. 
 ========= 
+

@@ -3,8 +3,8 @@
 ::Definition::
  A pattern of ability to recover from perceived adverse or changing situations through a dynamic process of adaptation, which can be strengthened.
   
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To determine needs and desires for improvement:
 1. Evaluate client’s perception and ability to provide a realistic view of the situation. Provides information about how client views the situation and specifi c expectations to aid in formulating plan of care.
@@ -12,8 +12,6 @@
 3. Note client’s verbal expressions indicating belief that he or she owns the responsibility for how to deal with adverse situation. When client has internal locus of control, he or she accepts that life has its adversities and one needs to deal with them.
 4. Discuss religious and cultural beliefs held by the individual. Knowing the role of the elements of culture and religion in shaping and defi ning health behaviors and expectations of client helps determine individual needs and possible options.
 5. Identify support systems available to client.
-
-
 [Nursing Priority No. 2]
     -  To assist client to enhance resilience to adverse situation:
 1. Active-listen and identify client’s concerns about situation. Reflecting client’s statements helps to clarify what he or she is thinking and promotes accurate interpretation of reality.
@@ -22,7 +20,6 @@
 4. Discuss concept of what can be changed versus what cannot be changed. Helps client to focus energies on those things that can be changed.
 5. Determine how client is dealing with activities of daily living. While client may have some transient problems with sleeping or managing daily affairs, most people have the ability to function in a healthy manner over time.
 6. Help client to learn how to empathize with others. Understanding own emotions as well as feelings of others enhances one’s resiliency during stressful times.
-
 [Nursing Priority No.3]
     - To promote optimum growth and resiliency:
 1. Provide factual information and anticipatory guidance relevant to current situation and long-term expectations. Planning ahead allows for problem-solving and review of options in a relaxed atmosphere, reinforcing sense of control and hope for the future.
@@ -32,5 +29,5 @@
 5. Recommend setting realistic goals and doing something regularly, even if it is small. 
 6. Encourage client to maintain a hopeful outlook, nurture a positive view of self, and take care of self. Keeping a longterm perspective and paying attention to own needs help maintain and build resilience.
 7. Refer to classes and/or reading materials as appropriate.
-
 =====
+

@@ -5,7 +5,6 @@
  - Risk For Chronic Low Self-Esteem: Susceptible to long-standing negative self-evaluating/feelings about self or self-capabilities, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Note age and developmental level of client and circumstances surrounding current situation. Younger people may not have learned skills to deal with negative occurrences and/or rejection from others.
@@ -19,7 +18,6 @@
 9. Note willingness to seek assistance and motivation for change. Determines client’s degree of participation in adhering to therapeutic regimen.
 10. Note nonverbal behavior (e.g., nervous movements, lack of eye contact). Incongruencies between verbal/nonverbal communication require clarifi cation.
 11. Determine degree of participation and cooperation with therapeutic regimen. Maintaining scheduled medications (e.g., antidepressants, antipsychotics) and other aspects of the plan of care requires ongoing evaluation and possible changes in regimen.
-
 [Nursing Priority No. 2]
     - To promote client sense of self-esteem in dealing with current situation or prepare for changes:
 1.  Develop therapeutic relationship. Be attentive, validate client’s communication, provide encouragement for efforts, maintain open communication, use skills of active-listening and I-messages. Promotes trusting situation in which client is free to be open and honest with self and therapist.
@@ -37,7 +35,6 @@
 13. Encourage client to progress at own rate. Adaptation to a change in self-concept depends on its signifi cance to individual, disruption to lifestyle, and length of illness/ debilitation.
 14.  Assist client to recognize and cope with events, alterations, and sense of loss of control by incorporating changes accurately into self-concept.
 15.  Involve in activities or exercise program, promote socialization. Enhances sense of well-being/can help energize client.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Discuss inaccuracies in self-perception with client/SO(s). Enables client and SOs to begin to look at misperceptions and accept reality, and look at options for change to improve sense of self-worth.
@@ -52,5 +49,5 @@
 10. Reinforce that this therapy is a brief encounter in overall life of the client/SO(s), with continued work and ongoing support being necessary to sustain behavior changes and personal growth.
 11. Refer to classes (e.g., assertiveness training, positive selfimage, communication skills) to assist with learning new skills to promote self-esteem.
 12. Refer to counseling, therapy, mental health, or special needs support groups, as indicated.
-
 =====
+

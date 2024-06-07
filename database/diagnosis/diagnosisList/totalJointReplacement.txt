@@ -1,9 +1,8 @@
 ::Total Joint Replacement::
-
 risk for Infection>riskforInfection.txt
 impaired physical Mobility>impairedphysicalMobility.txt
 risk for ineffective peripheral Tissue Perfusion>riskforineffectiveperipheralTissuePerfusion.txt
 acute Pain>acutePain.txt
 risk for Constipation>riskforConstipation.txt
-
 =====
+

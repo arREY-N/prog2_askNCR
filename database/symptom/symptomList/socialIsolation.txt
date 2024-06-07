@@ -4,7 +4,6 @@
  Aloneness experienced by the individual and perceived as imposed by others and as a negative or threatening state. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Determine presence of factors as listed in Related Factors and other concerns (e.g., elderly, female, adolescent, ethnic or racial minority, economically/educationally disadvantaged). 
@@ -20,7 +19,6 @@
 11. Determine drug use (legal and illicit). Possibility of a relationship between unhealthy behaviors and social isolation or the infl uence others have on the individual.
 12. Identify behavior response of isolation (e.g., excessive sleeping or daydreaming, substance use), which also may potentiate isolation.
 13. Review history and elicit information about traumatic events that may have occurred. Client who has experienced a traumatic event may withdraw from social contact and suffer from anxiety when faced with having to deal with social situations. (Refer to ND Post-Trauma Syndrome.) 
-
 [Nursing Priority No. 2]
     - To alleviate conditions contributing to client’s sense of isolation:
 1. Establish therapeutic nurse-client relationship. Promotes trust, allowing client to feel free to discuss sensitive matters.
@@ -34,7 +32,6 @@
 9. Provide environmental stimuli (e.g., open curtains, pictures, TV, and radio). 
 10. Promote participation in recreational or special interest activities in setting that client views as safe.
 11. Identify foreign language resources, such as interpreter, newspaper, radio programming, as appropriate.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations): 
 1. Assist client to learn or enhance skills (e.g., problem-solving, communication, social skills, self-esteem, activities of daily living).
@@ -44,5 +41,5 @@
 5. Involve client in programs directed at correction and prevention of identifi ed causes of problem (e.g., senior citizen services, daily telephone contact, house sharing, pets, day-care centers, religious or spiritual resources). Social isolation seems to be growing and may be related to time stressors, watching TV, prolonged social media use, or fatigue, resulting in individuals fi nding they do not have a close friend they can share intimate thoughts with.
 6. Refer to therapists, as appropriate, to facilitate grief work, relationship building, and opportunity to work toward improvement of individual issues affecting social interactions.
 7. Discuss use of medications, as indicated. Prescribed medications, such as selective serotonin reuptake inhibitors (SSRIs), can be very effective in treating social disorders.
-
 =====
+

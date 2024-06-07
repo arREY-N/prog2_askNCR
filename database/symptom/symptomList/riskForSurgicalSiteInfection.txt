@@ -3,12 +3,11 @@
 ::Definition::
  Susceptible to invasion of pathogenic organisms at surgical site, which may compromise health. 
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Determine reason for surgical intervention (e.g., trauma, elective joint replacement, traumatic amputation, colon resection) as well as comorbid conditions (e.g., obesity, current smoking, uncontrolled diabetes/hyperglycemia, advanced age, use of immunosuppressive drugs, poor nutritional status (especially low-protein and albumin levels), renal failure, client being carrier of methicillin-resistant Staphylococcus aureus (MRSA), or other antibiotic resistant bacterium, that could be a factor in development of postoperative site infections and identify needed interventions.
-
 [Nursing Priority No. 2]
     - To reduce risk of infection ( Perioperatively ):
 1. Prepare operative site according to specific procedure per agency protocol (e.g., scrubbing with liquid antibacterial soap, swabbing with betadine or other appropriate prep). Minimizes bacterial count at operative site.
@@ -32,7 +31,6 @@
 (1) selected elective surgical procedures; 
 (2) planned in client at high risk for infection; or 
 (3) when procedures need to be performed in the setting of known or suspected wound contamination. 
-
 [Nursing Priority No.3]
     -  To reduce risk of surgical site infections ( Postoperatively ):
 1. Obtain information from operating room staff regarding type of procedure performed (e.g., clean, contaminated, etc.). 
@@ -53,7 +51,6 @@
 10. Maintain adequate control of serum blood glucose levels (usually less than 180 mg/dL) in all diabetic clients and avoid hyperglycemia perioperatively.
 11. Provide nutrition by appropriate route (e.g., oral, enteral, parenteral).
 12. Encourage early ambulation and resumption of activities to reduce risks associated with immobility and stasis of body fluids.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Review client’s specific surgical intervention and associated care needs to promote client’s informed self-care and reduce incidence of preventable complications.
@@ -62,5 +59,5 @@
 4. Advise client to eat nutritious foods and snacks and have adequate fluid intake.
 5. Instruct client to get adequate rest and to increase activities gradually but steadily as tolerated. 
 6. Ask client about home environment, support, and resources. May reveal areas of concern (e.g., client unable to provide own incision care; has no access to nutritious food; cannot afford antibiotics).
-
 =====
+

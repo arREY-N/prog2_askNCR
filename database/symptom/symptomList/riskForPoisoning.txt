@@ -4,7 +4,6 @@
  Susceptible to accidental exposure to, or ingestion of, drugs or dangerous products in sufficient doses that may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Identify internal and external risk factors in client’s environment, including presence of infants, young children, or frail elderly (who are at risk for accidental poisoning) and teenagers or young adults (who are at risk for medication experimentation); confused or chronically ill person on multiple medications; person with potential for suicidal action; person who partakes in illicit drug use/dealing (e.g., opioids, cocaine, heroin); person who manufactures drugs in home (e.g., meth).
@@ -18,8 +17,6 @@
  - Review client’s home, employment, or work environment for exposure to chemicals, including vapors and fumes.
  - Refer to ND risk for Contamination for environmental issues.
  - Review results of laboratory tests and toxicology screening, as indicated.
-
-
 [Nursing Priority No. 2]
     - To assist in correcting factors that can lead to accidental poisoning:
 1. Discuss medication safety with client/signifi cant other(s) (SO[s]) to prevent accidental poisoning:
@@ -43,7 +40,6 @@
  - Encourage discarding outdated or unused drug safely (disposing in hazardous waste collection areas, not down drain or toilet).
  - Do not take medications prescribed for another person.
  - Coordinate care when multiple healthcare providers are involved to limit number of prescriptions and dosage levels. 
-
 [Nursing Priority No.3]
     -  To promote wellness (Teaching/Discharge Considerations):
 1. Discuss general poison prevention measures. 
@@ -58,5 +54,5 @@
 11. Review common analgesic safety (e.g., acetaminophen is an ingredient in many OTC medications, and unintentional overdose can occur).
 12. Refer substance abuser to detoxifi cation programs, inpatient/ outpatient rehabilitation, counseling, support groups, and psychotherapy, as appropriate.
 13. Encourage emergency measures, awareness, and education (e.g., CPR/First Aid class, community safety programs, ways to access emergency medical personnel) to assist individuals to identify and correct risk factors in environment and be prepared for emergency situation.
-
 =====
+

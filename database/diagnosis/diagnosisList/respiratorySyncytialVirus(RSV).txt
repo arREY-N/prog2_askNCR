@@ -1,7 +1,6 @@
 ::Respiratory Syncytial Virus (RSV)::
-
 impaired Gas Exchange>impairedGasExchange.txt
 ineffective Airway Clearance>ineffectiveAirwayClearance.txt
 risk for deficient Fluid Volume>riskfordeficientFluidVolume.txt
-
 =====
+

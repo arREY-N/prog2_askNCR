@@ -182,10 +182,13 @@ public class PatientManagement {
             } catch (IndexOutOfBoundsException e){
                 System.out.println("\nInvalid input!\n");
             }
+            
         } while (removing);
 
-        for(String removeSympom: removeList){
-            symptomFileList.remove(removeSympom);        
+        if(!removeList.isEmpty()){
+            for(String removeSympom: removeList){
+                symptomFileList.remove(removeSympom);        
+            }
         }
 
         patient.setSymptomFileList(symptomFileList);

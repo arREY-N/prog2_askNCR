@@ -3,8 +3,8 @@
 ::Definition::
  Intake of nutrients insufficient to meet metabolic needs. 
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Identify client at risk for malnutrition (e.g., institutionalized elderly; client with chronic illness; child or adult living in poverty/low-income area; client with jaw or facial injuries; intestinal surgery, postmalabsorptive or restrictive surgical interventions for weight loss; hypermetabolic states [e.g., burns, hyperthyroidism]; malabsorption syndromes, lactose intolerance; cystic fi brosis; pancreatic disease; prolonged time of restricted intake; prior nutritional defi ciencies).
@@ -30,7 +30,6 @@
 13. Determine psychological factors, perform psychological assessment, as indicated, to assess body image and congruency with reality.
 14. Assess for occurrence of amenorrhea, tooth decay, swollen salivary glands, and report of constant sore throat, suggesting eating disorders (e.g., bulimia) and affecting ability to eat.
 15. Review usual activities and exercise program, noting repetitive activities (e.g., constant pacing) or inappropriate exercise (e.g., prolonged jogging). May reveal obsessive nature of weight-control measures.
-
 [Nursing Priority No. 2]
     - To evaluate degree of defi cit:
 1. Assess current weight compared to usual weight and norms for age, gender, and body size. Measure muscle mass or calculate body fat by means of anthropometric measurements and growth scales to identify deviations from the norm and to establish baseline parameters.
@@ -38,7 +37,6 @@
 3. Auscultate presence and character of bowel sounds to determine ability and readiness of intestinal tract to handle digestive processes (e.g., hypermotility accompanies vomiting or diarrhea, while absence of bowel sounds may indicate bowel obstruction).
 4. Assist in nutritional status assessment, using screening tools (e.g., Mini Nutritional Assessment [MNA], the Malnutrition Universal Screening Tool [MUST], or similar tool). 
 5. Review indicated laboratory data (e.g., serum albumin/prealbumin, transferrin, amino acid profi le, iron, BUN, nitrogen balance studies, glucose, liver function, electrolytes, total lymphocyte count, indirect calorimetry).
-
 [Nursing Priority No.3]
     - To establish a nutritional plan that meets individual needs:
 1. Collaborate with interdisciplinary team to set nutritional goals when client has specifi c dietary needs, malnutrition is profound, or long-term feeding problems exist.
@@ -70,5 +68,5 @@
 6. Refer to structured (behavioral) program of nutrition therapy (e.g., documented time and length of eating period, blenderized food or tube feeding, administered parenteral nutritional therapy) per protocol, particularly when problem is anorexia nervosa or bulimia. 
 7. Recommend and support hospitalization for controlled environment in severe malnutrition or life-threatening situations.
 8. Refer to social services or other community resources for possible assistance with client’s limitations in buying and preparing foods.
-
 =====
+

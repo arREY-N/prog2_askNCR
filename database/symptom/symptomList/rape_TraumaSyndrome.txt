@@ -18,13 +18,11 @@
 9. Identify development of phobic reactions to ordinary articles (e.g., knives, buildings) and situations (e.g., walking in groups of people, strangers ringing doorbell). 
 10. Note degree of intrusive repetitive thoughts, sleep disturbances.
 11. Assess degree of dysfunctional coping (e.g., use of alcohol, other drugs, suicidal/homicidal ideation, marked change in sexual behavior) in an attempt to cope with traumatic event. 
-
 [Nursing Priority No. 2]
     - To assist client to deal with situation that exists:
 1. Explore own feelings (nurse/caregiver) regarding rape or incest issue prior to interacting with the client. Because the feelings related to these incidents are so pervasive, the individual involved in caregiving needs to recognize own biases to prevent imposing them on the client.
 
 ::Acute Phase::
-
 1. Stay with the client, do not leave child unattended. During this phase, the client experiences a complete disruption of life as she or he has known it, and presence of caregiver may provide reassurance and sense of safety
 2. Involve rape or sexual assault response team where available. Provide same-sex examiner when appropriate. Presence of the response team trained to collect evidence appropriately and sensitively provides assurance to the survivor that she or he is being taken care of. Client may react to someone who is the sex of the attacker, and use of a same-sex examiner communicates sensitivity to her or his feelings at this diffi cult time
 3. Be sensitive to cultural factors that may affect specifi cs of examination process. For example, in some cultures, women cannot be examined without a male family member present. These issues need to be considered when treating the survivor.
@@ -37,14 +35,12 @@
 10. Identify support persons for this individual. The client’s partner can be important to her or his recovery by being patient and comforting. When partners talk through the incident, the relationship can be strengthened.
 
 ::Postacute Phase::
-
 1. Allow the client to work through own kind of adjustment (may be withdrawn or unwilling to talk); do not force the issue, but be available, if needed. 
 2. Listen for expressions of fear of crowds, men, being alone in home, and so forth. May reveal developing phobias. 
 3. Discuss specific concerns and fears. Identify appropriate actions (e.g., diagnostic testing for pregnancy, sexually transmitted infections) and provide information, as indicated.
 4. Include written instructions that are concise and clear regarding medical treatments, crisis support services, and so forth. Reinforces teaching, provides opportunity to deal with information at own pace. 
 
 ::Long-term Phase::
-
 1.  Continue listening to expressions of concern. May need to continue to talk about the assault. Note persistence of somatic complaints (e.g., nausea, anorexia, insomnia, muscle tension, headache).
 2. Permit free expression of feelings (may continue from the crisis phase). Refrain from rushing client through expressions of feelings and avoid reassuring inappropriately. Client may believe pain and/or anguish is misunderstood, and depression may limit responses.
 3. Acknowledge reality of loss of self that existed before the incident. Assist client to move toward an acceptance of the potential for growth that exists within individual.
@@ -53,7 +49,6 @@
 6. Keep discussion on practical and emotional level rather than intellectualizing the experience, which allows client to avoid dealing with feelings.
 7. Assist in dealing with ongoing concerns about and effects of the incident, such as court appearance, pregnancy, sexually transmitted infection, and relationship with SO(s). 
 8. Provide for sensitive, trained counselors, considering individual needs. Male or female counselors may be best determined on an individual basis as counselor’s gender may be an issue for some clients, affecting ability to disclose.
-
 [Nursing Priority No.3]
     -  To promote wellness (Teaching/Discharge Considerations):
 1. Provide information about what reactions client may expect during each phase. Let client know these are common reactions and phrase in neutral terms of “You may or may not experience, know, be aware of. . . .” Such information helps client anticipate and deal with reactions if they are experienced. Note: Be aware that although male rape perpetrators are usually heterosexual, the male victim may be concerned about his own sexuality and may exhibit a homophobic response.
@@ -63,5 +58,5 @@
 5. Encourage psychiatric consultation if client is violent, inconsolable, or does not seem to be making an adjustment. May need intensive professional help to come to terms with the assault.
 6. Refer to family/marital counseling, as indicated. 
 7. Refer to NDs Powerlessness; ineffective Coping; Grieving; complicated Grieving; Anxiety; Fear. 
-
 =====
+

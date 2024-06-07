@@ -5,7 +5,6 @@
  - Risk For Post-Trauma Syndrome: Susceptible to sustained maladaptive response to a traumatic, overwhelming event, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative or risk factor(s) and individual reaction:
  [Acute]
@@ -33,7 +32,6 @@
 2. Note manifestations of chronic pain or pain symptoms in excess of degree of physical injury. Psychological responses may magnify or exacerbate physical symptoms, indicating need for interventions to help client deal with pain.
 3. Be aware of signs of severe or prolonged depression. Note presence of fl ashbacks, intrusive memories, nightmares; panic attacks; poor impulse control; problems with memory or concentration, thoughts, and perceptions; confl ict, aggression, or rage. Symptoms are not uncommon following a trauma of such magnitude, although client may feel that he or she is “going crazy.”
 4. Assess degree of dysfunctional coping (e.g., use or abuse of alcohol or other drugs; suicidal or homicidal ideation) and consequences. Individuals display different levels of dysfunctional behavior in response to stress, and often the choice of chemical substances or substance abuse is a way of deadening psychic pain.
-
 [Nursing Priority No. 2]
     - To assist client to deal with situation or risk that exists:
  [Acute]
@@ -62,8 +60,6 @@
 9. Avoid prompting discussion of issues that cannot be resolved. Keep discussion on practical and emotional level rather than intellectualizing the experience, which allows client to deal with reality while taking time to work out feelings.
 10. Provide for sensitive, trained counselors/therapists and engage in therapies, such as psychotherapy, Implosive Therapy (fl ooding), hypnosis, relaxation, Rolfi ng, memory work, cognitive restructuring, Eye Movement Desensitization and Reprocessing (EMDR), physical and occupational therapies. 
 11. Administer psychotropic medications, as indicated.
-
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations): 
 1. Educate high-risk persons and families about signs/symptoms of post-trauma response, especially if it is likely to occur in their occupation/life. Awareness allows individual to be proactive and seek support and timely intervention as needed.
@@ -82,5 +78,5 @@
 14. Encourage psychiatric consultation, especially if client is unable to maintain control, is violent, is inconsolable, or does not seem to be making an adjustment. 
 15. Refer for long-term individual/family/marital counseling, if indicated. 
 16. Refer to NDs Powerlessness; ineffective Coping; Grieving; complicated Grieving.
-
 =====
+

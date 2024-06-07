@@ -6,7 +6,6 @@ when choice among competing actions involves risk, loss, or
 challenge to values and beliefs
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors: 
 1. Determine usual ability to manage own affairs. Clarify who has legal right to intervene on behalf of a child, elder, or impaired individual (e.g., parent/spouse, other relative, designee for durable medical power of attorney, or court-appointed guardian/advocate). Family disruption and confl icts can complicate decision process.
@@ -17,7 +16,6 @@ challenge to values and beliefs
 6. Note the presence/intensity of physical signs of anxiety (e.g., increased heart rate and muscle tension). 
 7. Listen for expressions of the client’s inability to fi nd meaning in life/reason for living, feelings of futility, or alienation from God and others around the client. May need to talk about reasons for feelings of alienation to resolve concerns and may engage in questioning about own values. (Refer to ND Spiritual Distress, as indicated.) 
 8. Review information the client has about the healthcare decision. Accurate and clearly understood information about the situation will help the client make the best decision for self.
-
 [Nursing Priority No. 2]
     - To assist client to develop/effectively use problem-solving skills: 
 1. Promote a safe and hopeful environment, as needed, while the client regains inner control. 
@@ -33,7 +31,6 @@ challenge to values and beliefs
 11. Have the client list some alternatives to the present situation or decisions, using a brainstorming process. Include the family in this activity as indicated (e.g., placement of parent in a long-term care facility, use of intervention process with addicted member). (Refer to NDs interrupted Family Processes; dysfunctional Family Processes; compromised family Coping; Moral Distress.) 
 12. Practice the use of the problem-solving process with the current situation/decision. 
 13. Discuss or clarify cultural or spiritual concerns, accepting the client’s values in a nonjudgmental manner.
-
 [Nursing Priority No. 3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Promote opportunities for using confl ict-resolution skills, identifying steps as the client does each one. 
@@ -43,3 +40,4 @@ challenge to values and beliefs
 5. Encourage attendance at stress reduction or assertiveness classes. 
 6. Refer to other resources, as necessary (e.g., clergy, psychiatric clinical nurse specialist/psychiatrist, family/maritaltherapist, or addiction support groups).
 =========
+

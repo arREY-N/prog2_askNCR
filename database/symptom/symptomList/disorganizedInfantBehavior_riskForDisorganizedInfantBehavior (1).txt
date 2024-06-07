@@ -2,9 +2,7 @@
 
 ::Definition::
 
-
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing or risk factors: 
 1.Determine the infant's chronological and developmental age; 
@@ -43,7 +41,6 @@ status and progressive expectations, as appropriate. Augments parents' knowledge
 13. Incorporate the parents' observations and suggestions into 
 the plan of care. This demonstrates valuing of parents' 
 input and encourages continued involvement. 
-
 [Nursing Priority No. 3]
     - To deliver care within the infant
 's stress threshold: 
@@ -89,7 +86,6 @@ overstimulation. Comfort and support the infant after stressful interventions.
 17. Remain at the infant's bedside for several minutes after procedures and caregiving to monitor the infant's response 
 and provide necessary support.
 18. Administer analgesics as individually appropriate.
-
 [Nursing Priority No. 4] 
     - To modify the environment to provide appropriate stimulation:
 1. Introduce stimulation as a single mode and assess individual tolerance. 
@@ -121,7 +117,6 @@ and provide necessary support.
     -- Limit the use of tape and adhesives directly on skin. Use DuoDerm under tape to prevent dermal injury.
     -- Touch the infant with a firm containing touch; avoid light stroking. Provide a sheepskin pad or soft linen. Note: Tactile experience is the primary sensory mode of the infant.
     -- Encourage frequent parental holding of the infant (including skin-to-skin). Supplement activity with extended family, staff, and volunteers.
-
 [Nursing Priority No. 5]
     -  To promote wellness (Teaching/Discharge Considerations):
 1. Evaluate the home environment to identify appropriate modifications.
@@ -130,5 +125,5 @@ and provide necessary support.
 4. Refer to support or therapy groups, as indicated, to provide role models, facilitate adjustment to new roles/responsibilities, and enhance coping.
 5. Provide contact number, as appropriate (e.g., primary nurse), to support adjustment to home setting.
 6. Refer to additional NDs, such as risk for impaired Attachment; compromised/disabled or readiness for enhanced family Coping; risk for disproportionate Growth; risk for delayed Development; risk for caregiver Role Strain. 
-
 =========
+

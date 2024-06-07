@@ -4,12 +4,10 @@
 Constipation: Decrease in normal frequency of
 defecation accompanied by difficult or incomplete passage
 of stool and/or passage of excessively hard, dry stool.
-
 : at risk for Constipation: Susceptible to a decrease
 in frequency of defecation, accompanied by difficulty passing stool, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative/contributing or individual risk factors:
 1. Review medical, surgical, and social history to identify conditions commonly associated with constipation, including (1) problems with colon or rectum (e.g., obstruction, scar tissue or stricture; presence of diversion [e.g., descending/sigmoid colostomy]; diverticulitis, irritable bowel syndrome, tumors, anal fi ssure); (2) metabolic or endocrine disorders (e.g., diabetes mellitus, hypothyroidism, or uremia); (3)  limited physical activity (e.g., bedrest,poor mobility, chronic disability); (4) chronic pain problems (especially when client is on pain medications); (5)  pregnancy and childbirth, recent abdominal or perianal surgery; and (6) neurological disorders (e.g., stroke, traumatic brain injury, Parkinson disease, multiple sclerosis (MS), and spinal cord abnormalities).
@@ -27,7 +25,6 @@ in frequency of defecation, accompanied by difficulty passing stool, which may c
 13. Palpate abdomen for presence of distention or masses.
 14. Check digital rectum for presence of fecal impaction, as indicated, to evaluate rectal tone and detect tenderness, blood, or detect fecal impaction.
 15. Assist with medical work- up (e.g., x- rays, abdominal imaging, proctosigmoidoscopy, anorectal function tests, colonic transit studies, and stool sample tests) for identifi cation of other possible causative factors.
-
 [Nursing Priority No. 2]
     -  To determine usual pattern of elimination:
 1. Discuss usual elimination habits (e.g., normal urge time) and problems (e.g., client unable to eliminate unless in own home, passing hard stool after prolonged effort, or anal pain). Helps to identify and clarify client’s perception of problem.
@@ -36,7 +33,6 @@ in frequency of defecation, accompanied by difficulty passing stool, which may c
 4. Ascertain client’s degree of concern (e.g., long- standing condition that client has “lived with” may not cause undue concern, whereas an acute postsurgical occurrence of constipation can cause great distress). The client’s response may or may not refl ect the severity of the condition.
 5. Note the pharmacological agents the client has used (e.g., fiber pills, laxatives, suppositories, or enemas) to determine the effectiveness of the current regimen and whether laxative use is appropriate and helpful.
 6. Encourage the client to maintain an elimination diary, if appropriate, to facilitate monitoring of long- term problem.
-
 [Nursing Priority No.3]
     -  To facilitate an acceptable pattern of elimination:
 1. Promote lifestyle changes:
@@ -52,7 +48,6 @@ in frequency of defecation, accompanied by difficulty passing stool, which may c
 5. Apply lubricant/anesthetic ointment to anus, if needed.
 6. Establish bowel program to include predictable interval timing for colostomy irrigation or toileting; use of particular position for defecation; abdominal massage; biofeedback for pelvic floor dysfunction; and medications, as appropriate, when long- term or permanent bowel dysfunction is present.
 7. Refer to primary care provider for medical therapies (e.g., added emollient, saline, or hyperosmolar laxatives, enemas, or suppositories) to best treat acute situation.
-
 [Nursing Priority No. 4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Discuss client’s particular physiology and acceptable variations in elimination. May help reduce concerns and anxiety about situation.
@@ -63,3 +58,4 @@ in frequency of defecation, accompanied by difficulty passing stool, which may c
 6. Work to implement bowel management program that is easily replicated in home and community settings.
 7. Identify specific actions to be taken if problem does not resolve to promote timely intervention, thereby enhancing client’s independence.
 =====
+

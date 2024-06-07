@@ -4,7 +4,6 @@
  Susceptible to physical injury of sudden onset and severity, which requires immediate attention.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Determine factors related to individual situation and extent of risk for trauma. Influences scope and intensity of interventions to manage threat to safety. Note: Clients interfacing with the healthcare system are at higher risk for trauma for any number of reasons (e.g., illness state, cognitive function, family structure, information and training) and require protection in numerous ways.
@@ -15,7 +14,6 @@
 6. Assess mood, coping abilities, personality styles (i.e., temperament, aggression, impulsive behavior, level of selfesteem). May result in careless actions or increased risk-taking without consideration of consequences.
 7. Evaluate individual’s emotional and behavioral response to violence in surroundings (e.g., neighborhood, television, peer group). May affect client’s view of and regard for own/ others’ safety.
 8.Evaluate environment (home, neighborhood, work, transportation) for obvious safety hazards, as well as situations that can exacerbate injury or adversely affect client’s well-being. Unsafe factors include a vast array of possibilities (e.g., unsafe heating appliances, smoking and unattended smoking materials, toxic substances and chemicals, open fl ames, knives, improperly stored weapons, overloaded electrical outlets, dangerous neighborhoods, unsupervised children).
-
 [Nursing Priority No. 2]
     - To enhance safety in healthcare environment: 
 1. Screen client for safety concerns (e.g., risk for falls, cognitive, developmental, vision/other sensory impairments upon admission and during stay in healthcare facility). Assess for and report changes in client’s functional status. Perform thorough assessments regarding safety issues when planning for client discharge. Failure to accurately assess and intervene or refer regarding these issues can place the client at needless risk and creates negligence issues for the healthcare practitioner.
@@ -41,7 +39,6 @@
 5. Demonstrate and encourage use of techniques to reduce or manage stress and vent emotions such as anger, hostility to reduce risk of violence to self/others.
 6. Refer to physical or occupational therapist as appropriate to identify high-risk tasks, conduct site visits, select, create, or modify equipment; and provide education about body mechanics and musculoskeletal injuries, as well as provide needed therapies.
 7. Assist with treatments for underlying medical, surgical, or psychiatric conditions to improve cognition and thinking processes, musculoskeletal function, awareness of own safety needs, and general well-being.
-
 [Nursing Priority No.3]
     - To enhance safety for client in community care setting:
 1. Provide information to caregivers regarding client’s specific disease or condition(s) and associated risks. 
@@ -60,7 +57,6 @@
  - Obtain trigger locks or gun safes for fi rearms. 
 3. Initiate appropriate teaching when reckless behavior is occurring or likely to occur (e.g., smoking in bed, driving without safety belts, working with chemicals without safety goggles).
 4. Refer to counseling or psychotherapy, as needed, especially when individual is “accident prone” or violent, or selfdestructive behavior is noted. (Refer to NDs risk for other-/self-directed Violence.)
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Discuss importance of self-monitoring of conditions or emotions that can contribute to occurrence of injury to self/others (e.g., fatigue, anger, irritability). Client/SO may be able to modify risk through monitoring of actions or postponement of certain actions, especially during times when client is likely to be highly stressed.
@@ -75,5 +71,5 @@
 10. Promote educational opportunities geared toward increasing awareness of safety measures (e.g., fi rearms safety) and resources available to the individual.
 11. Seek out and involve businesses in volunteer outreach activities such as building safe playgrounds, community or street cleanup, home repair or improvement for frail elders, and so forth. 
 12. Advocate for and promote solutions for problems of design of buildings, equipment, transportation, and workplace practices that contribute to accidents.
-
 =====
+

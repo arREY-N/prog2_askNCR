@@ -4,7 +4,6 @@
  Susceptible to self-inflicted, life-threatening injury. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors and degree of risk:
 1. Identify degree of risk or potential for suicide and seriousness of threat. Information may be obtained from client or signifi cant other (SO) interviews, or over time in the course of care. Note: Most people who are contemplating suicide send a variety of signals indicating their intent, and recognizing these warning signs allows for immediate intervention.
@@ -20,7 +19,6 @@
 11. Assess coping behaviors presently used. Client’s current negative thinking may preclude looking at positive behaviors used in the past that would help in the current situation.
 12. Determine presence of SO(s)/friends who are available for support. Individuals who have positive support systems upon whom they can rely during a crisis situation are less likely to commit suicide and are more apt to return to a successful life.
 13. Review laboratory fi ndings (e.g., blood alcohol, blood glucose, arterial blood gas, electrolytes, renal function tests) to identify factors that may affect reasoning ability.
-
 [Nursing Priority No. 2]
     - To assist clients to accept responsibility for own behavior and prevent suicide:
 1. Develop therapeutic nurse client relationship, providing consistent caregiver. Collaborating with the client to better understand the problem affi rms the client’s ability to solve the current situation. 
@@ -34,13 +32,11 @@
 9. Provide directions for actions client can take, avoiding negative statements, such as “Do Nots.” Promotes a positive attitude.
 10. Discuss use of psychotropic medication, positive and negative aspects. While the use of medications is often helpful, there are some drawbacks, including the potential for providing client a means of suicide. 
 11. Reevaluate potential for suicide periodically at key times (e.g., mood changes, increasing withdrawal), as well as when client is feeling better and discharge planning becomes active. The highest risk exists when the client has both suicidal ideation and suffi cient energy with which to act.
-
 [Nursing Priority No.3]
     - To assist client to plan course of action to correct/deal with existing situation:
 1. Gear interventions to individual involved (e.g., age, relationship, current situation). Age, relationships, and current situation determine what is needed to help client deal with feelings of despair and hopelessness.
 2. Negotiate contract with client regarding willingness not to do anything lethal for a stated period of time. Specify what caregiver will be responsible for and what client responsibilities are. 
 3. Specify alternative actions necessary if client is unwilling to negotiate contract. Client may be willing to agree to other actions (i.e., calling therapist if feelings are overwhelming), even though he or she is not willing to commit to a contract.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Promote development of internal control by helping client look at new ways to deal with problems. 
@@ -50,5 +46,5 @@
 5. Involve family/SO(s) in planning to improve understanding and support.
 6. Review use of antidepressants, when prescribed. Emphasize importance of continuing medication after symptoms of severe depression subside, to reduce risk of relapse. Antidepressants can be effective in quick relief of suffering in severe cases of depression. The combination of medication and interpersonal psychotherapy has been shown to be more effective than either alone.
 7. Refer to formal resources as indicated. May need referrals to individual, group, or marital psychotherapy, substance abuse treatment program, or social services when situation involves mental illness, family disorganization.
-
 =====
+

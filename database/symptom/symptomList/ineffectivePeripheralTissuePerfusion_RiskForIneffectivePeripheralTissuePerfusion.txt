@@ -5,7 +5,6 @@
  - Risk For Ineffective Tissue Perfusion: Susceptible to a decrease in blood circulation to the periphery, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Note current situation or presence of conditions (e.g., congestive heart failure, lung disorders, major trauma, septic or hypovolemic shock, coagulopathies, sickle cell anemia) affecting systemic circulation/perfusion.
@@ -13,7 +12,6 @@
 3. Identify presence of high-risk factors or conditions (e.g., smoking, uncontrolled hypertension, obesity, pregnancy, pelvic tumor, paralysis, hypercholesterolemia, varicose veins, arthritis, sepsis) that place client at greater risk for developing peripheral vascular disease (including arterial blockage and chronic venous insuffi ciency) with associated complications.
 4. Note location of restrictive clothing, pressure dressings, circular wraps, cast, or traction device that may restrict circulation to limb.
 5. Ascertain impact of condition on functioning and lifestyle. For example, leg pain may restrict ambulation or person may develop skin ulceration and healing problems that seriously impact quality of life.
-
 [Nursing Priority No. 2]
     - To evaluate degree of impairment (ineffective peripheral Tissue Perfusion):
 1. Assess skin color, temperature, moisture, and whether changes are widespread or localized. Helps in determining location and type of perfusion problem.
@@ -30,8 +28,6 @@
 12. Assess motor and sensory function. Problems with ambulation; hypersensitivity; or loss of sensation, numbness, and tingling are changes that can indicate neurovascular dysfunction or limb ischemia.
 13. Check for calf tenderness or pain on dorsifl exion of foot (Homans’ sign), swelling, and redness. Indicators of deep vein thrombosis (DVT), although DVT is often present without a positive Homans’ sign.
 14. Review laboratory studies such as lipid profi le, coagulation studies, hemoglobin/hematocrit, renal/cardiac function tests, inflammatory markers (e.g., D dimer, C-reactive protein); and diagnostic studies (e.g., Doppler ultrasound, magnetic resonance angiography, venogram, contrast angiography, resting ankle-brachial index [ABI], leg segmental arterial pressure measurements) to determine probability, location, and degree of impairment.
-
-
 [Nursing Priority No.3]
     - To maximize tissue perfusion or reduce risk of perfusion
 complications:
@@ -55,7 +51,6 @@ complications:
  - Avoid massaging the leg in presence of thrombosis.
  - Avoid, or carefully monitor, use of heat or cold, such as hot water bottle, heating pad, or ice pack. 
 12. Refer to NDs risk for peripheral Neurovascular Dysfunction; risk for impaired Skin Integrity; impaired Tissue Integrity; [disturbed Sensory Perception], for additional interventions as appropriate.
-
 [Nursing Priority No.4]
     - To promote and maintain optimal perfusion (Teaching/Discharge Considerations): 
 1. Discuss relevant risk factors (e.g., family history, obesity, age, smoking, hypertension, diabetes, clotting disorders) and potential outcomes of atherosclerosis (e.g., systemic and peripheral vascular disease conditions). Information necessary for client to make informed choices about remediating risk factors and committing to lifestyle changes.
@@ -68,5 +63,5 @@ complications:
 8. Educate client/SO in reportable symptoms, including any changes in pain level, diffi culty walking, nonhealing wounds to provide opportunity for timely evaluation and intervention.
 9. Emphasize need for regular medical and laboratory follow-up to evaluate disease status and response to therapies.
 10. Review medication regimen and possible harmful side effects with client/SO. Client may be on various drugs (e.g., antiplatelet agents, blood viscosity-reducing agents, vasodilators, anticoagulants, or cholesterol-lowering agents) for treatment of the particular vascular disorder. Many of these medications have harmful side effects and require client teaching and ongoing medical monitoring.
-
 =====
+

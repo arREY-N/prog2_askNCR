@@ -4,7 +4,6 @@
  A condition in which an individual accumulates abnormal or excessive fat for age and gender that exceeds overweight. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify contributing factors/health status:
 1. Obtain weight history, noting if client has weight gain out of character for self or family, is or was obese child, or used to be much more physically active than is now to identify trends. Note: Obesity is now the most prevalent nutritional disorder among children and adolescents in the United States. Being overweight during older childhood is highly predictive of adult obesity, especially if a parent is also obese.
@@ -23,16 +22,14 @@
 10. Review laboratory test results (e.g., complete blood count with differential, full lipid panel, fasting glucose, A 1 C, and insulin levels; thyroid, leptins; proteins; and eating selfassessment tests or nutritional screening tests such as Mini Nutritional Assessment [MNA]) that may reveal medical or emotional conditions associated with obesity, and identify problems that may be treated with alterations in diet or medications.
 11. Obtain anthropometric measurements to determine presence and severity of obesity.
 12. Calculate BMI to estimate percentage of body fat. Note: The Centers for Disease Control and Prevention (CDC) has standardized BMI calculations, removing age and sex differences for adults with obesity being defi ned as 30 and above. Note: Obesity is also divided into classes. Class 3 obesity is sometimes categorized as “extreme” or “severe” obesity (may replace term “morbid obesity”), and is defi ned as BMI equal to or greater than 40. The CDC has also recommended that children (over age 2) and adolescents be considered obese if their BMI exceeds the 95th percentile on growth curves or exceeds 30 kg/m2 at any age. Note: Normal BMI in children changes as age and growth occurs and is also different between the sexes.
-
 [Nursing Priority No. 2]
     - To establish weight-reduction program:
 1. Refer to ND Overweight, Nursing Priority 2 for interventions common to weight-loss programs.
 2. Collaborate with nutritionist in addressing/implementing client’s specifi c needs (e.g., about foods to incorporate or limit, and how to identify nutrient-dense foods and beverages). A  healthy eating pattern limits intake of sodium, solid fats, added sugars, and refi ned grains and emphasizes nutrient-dense foods and beverages (e.g., vegetables, fruits, whole grains, fat-free or low-fat milk and milk products), seafood, lean meats and poultry, eggs, beans and peas, and nuts and seeds.
 3. Assist client and family in using technology to manage food choices/track intake. Technology offers applications that can assist in monitoring dietary intake and food choices. Some calculate calories, providing immediate feedback, and generating individualized reminders.
 4. Engage client and family in structured weight loss programs, as indicated. Approaches to the treatment of severely obese individuals may include lifestyle modifi cations, physical activity, very controlled diets, intensive psychiatric interventions, including individual, group, and family therapy.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Refer to ND: Overweight for related interventions
-
 =====
+

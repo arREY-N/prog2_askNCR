@@ -4,7 +4,6 @@
  Susceptible to unpredicted death of an infant.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Identify individual risk factors pertaining to situation. Determines modifi able or potentially modifi able factors that can be addressed. Note: According to the Centers for Disease Control and Prevention (CDC, 2015), “1) sudden infant death syndrome (SIDS), 2) accidental suffocation in a sleeping environment, and 3) other deaths from unknown causes fall under the umbrella of sudden unexpected infant deaths (SUIDs).”
@@ -12,7 +11,6 @@
 3. Note whether mother smoked during pregnancy or is currently smoking. Smoking is known to negatively affect the fetus prenatally as well as after birth. Some reports indicate an increased risk of SIDS in babies of smoking mothers.
 4. Assess extent of prenatal care and extent to which mother followed recommended care measures. Prenatal care is important for all pregnancies to afford the optimal opportunity for all infants to have a healthy start to life.
 5. Note use of alcohol or other drugs/medications during and after pregnancy that may have a negative impact on the developing fetus or place the infant at risk for death. Enables management to minimize any damaging effects.
-
 [Nursing Priority No. 2]
     -  To promote use of activities to minimize risk of SIDS: 
 1. Recommend that infant be placed on his or her back to sleep, both at nighttime and naptime. Research confi rms that fewer infants die of SIDS when they sleep on their backs, not on tummy or side.
@@ -22,7 +20,6 @@
 5. Encourage breastfeeding, if possible. Recommend sitting up in chair when nursing at night. Breastfeeding has many advantages (e.g., immunological, nutritional, and psychosocial), promoting a healthy infant. Although this does not preclude the occurrence of SIDS, healthy babies are less prone to many illnesses/problems. Note: The risk of the mother falling asleep while feeding infant in bed with resultant accidental suffocation could be of concern.
 6. Note cultural beliefs about bedsharing. Bedsharing is more common among breastfed infants, young unmarried mothers, low-income families where multiple people share a bed, or those from a minority group.
 7. Discuss safety concerns of bedsharing, recommending roomsharing with parents instead for at least fi rst six months. Injury or death may occur due to accidental entrapment under a sleeping adult or suffocation by becoming wedged in a couch or cushioned chair.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Discuss known facts about SIDS with parents. Corrects misconceptions and helps reduce level of anxiety.
@@ -40,5 +37,5 @@ mothers at least once or twice following discharge. These
 early visit programs have demonstrated an improvement
 in infant safety outcomes.
 5. Refer parents to local SIDS programs/other resources for learning (e.g., National SIDS/Infant Death Resource Center and similar Web sites) and encourage consultation with healthcare provider if baby shows any signs of illness or behaviors that concern them. Can provide information and support for risk reduction and correction of treatable problems.
-
 =====
+

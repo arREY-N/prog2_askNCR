@@ -68,19 +68,83 @@ public class NurseDatabase{
     }
 
     public static void createNurseObject(Scanner scan, String nurseID){
-        System.out.println("Enter Nursing Credentials!");
-        System.out.print("Name: ");
-        String nurseName = scan.nextLine();
-        System.out.print("Age: ");
-        int age = Integer.parseInt(scan.nextLine());
-        System.out.print("Sex: ");
-        String sex = scan.nextLine();
-        System.out.print("Position: ");
-        String position = scan.nextLine();
-        System.out.print("Shift Schedule: ");
-        String shiftSchedule = scan.nextLine();
-        System.out.print("Area Assignment: ");
-        String areaAssignment = scan.nextLine();
+        String nurseName;
+        int age = 0;
+        String sex;
+        String position;
+        String shiftSchedule;
+        String areaAssignment;
+
+        boolean invalid = true;        
+        do{
+            System.out.print("Name: ");
+            nurseName = scan.nextLine();
+
+            if(!nurseName.trim().isEmpty()){
+                invalid = false;
+            } else {
+                System.out.println("\nInvalid Input!\n");
+            }
+        } while (invalid);
+
+        invalid = true;        
+        do{
+            System.out.print("Age: ");
+            try{
+                age = Integer.parseInt(scan.nextLine());
+                invalid = false;
+            } catch (NumberFormatException e){
+                System.out.println("\nInvalid Input!\n");
+            }
+        } while (invalid);
+
+        invalid = true;        
+        do{
+            System.out.print("Sex (M/F): ");
+            sex = scan.nextLine();
+
+            if(!nurseName.trim().isEmpty()){
+                invalid = false;
+            } else {
+                System.out.println("\nInvalid Input!\n");
+            }
+        } while (invalid);
+        
+        invalid = true;        
+        do{
+            System.out.print("Position: ");
+            position = scan.nextLine();
+
+            if(!nurseName.trim().isEmpty()){
+                invalid = false;
+            } else {
+                System.out.println("\nInvalid Input!\n");
+            }
+        } while (invalid);
+
+        invalid = true;        
+        do{
+            System.out.print("Schedule (AM/PM/NIGHT): ");
+            shiftSchedule = scan.nextLine();
+
+            if(!nurseName.trim().isEmpty()){
+                invalid = false;
+            } else {
+                System.out.println("\nInvalid Input!\n");
+            }
+        } while (invalid);
+
+        invalid = true;        
+        do{
+            System.out.print("Area Assignment: ");
+            areaAssignment = scan.nextLine();
+
+            if(!nurseName.trim().isEmpty()){
+                invalid = false;
+            } else {
+                System.out.println("\nInvalid Input!\n");
+            }
+        } while (invalid);
 
         addNurseAccount(nurseID, new Nurse(nurseID, nurseName, age, sex, position, shiftSchedule, areaAssignment));
         

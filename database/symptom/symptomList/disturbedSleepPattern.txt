@@ -4,13 +4,11 @@
  Time-limited awakenings due to external factors. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Identify presence of factors known to interfere with sleep, including current illness, hospitalization; new baby or sick family member in home. Sleep problems can arise from internal and external factors and may require assessment over time to differentiate specifi c cause(s).
 2. Ascertain presence of short-term alteration in sleep patterns, such as can occur with travel (jet lag), sharing bed with new sleep partner, fi ghting with family member, crisis at work, loss of job, death in family. Helps identify circumstances that are known to interrupt sleep acutely, but not necessarily long term.
 3. Note environmental factors, such as unfamiliar or uncomfortable room; excessive noise and light, uncomfortable temperature; frequent medical and monitoring interventions; and roommate actions—snoring, watching television late at night, wanting to talk. These factors can reduce client’s ability to rest and sleep at a time when more rest is needed. Note: Clients in critical care units are known to experience lack of sleep or frequent disruptions, often compounding their illness.
-
 [Nursing Priority No. 2]
     - To evaluate sleep and degree of dysfunction:
 1. Assess client’s usual sleep patterns and compare with current sleep disturbance, relying on client/significant other (SO) report of problem to ascertain intensity and duration of problems.
@@ -18,7 +16,6 @@
 3. Determine client’s sleep expectations. Individual may have faulty beliefs or attitudes about sleep and/or unrealistic sleep expectations (e.g., “I must get 8 hr of sleep every night or I can’t accomplish anything”).
 4. Observe for physical signs of fatigue (e.g., restlessness, hand tremors, thick speech, drooping eyes, inattention, lack of interest in activities). Information collected from a comprehensive assessment may be needed to evaluate the type and etiology of sleep disturbance and identify useful treatment options.
 5. Incorporate screening information into in-depth sleep diary or testing if needed to evaluate the type and etiology of sleep disturbance and to identify useful treatment options.
-
 [Nursing Priority No.3]
     - To assist client to establish optimal sleep/rest pattern:
 1. Manage environment for hospitalized client:
@@ -32,7 +29,6 @@
  - Avoid or limit use of physical restraints in accordance with client’s needs and facility policy. 
 2. Refer to physician or sleep specialist as indicated for specifi c interventions and/or therapies, including medications, biofeedback.
 3. Refer to NDs Insomnia and Sleep Deprivation for related interventions and rationale. 
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Assure client that occasional sleeplessness should not threaten health and that resolving time-limited situation can restore healthful sleep. Knowledge that occasional insomnia is universal and usually not harmful may promote relaxation and relief from worry, which can perpetuate the problem. 
@@ -40,5 +36,5 @@
 3. Encourage appropriate indoor light settings during day and night, especially exposure to bright light or sunlight in the morning, avoidance of daytime napping as appropriate for age and situation, being active during day and more passive in evening. Helps in promotion of normal sleep-wake patterns. 
 4. Investigate use of aids to block out light and sound, such as sleep mask, room-darkening shades, earplugs, “white noise.” 
 5. Discuss use and appropriateness of over-the-counter sleep medications or herbal supplements to provide assistance in falling and staying asleep.
-
 =====
+

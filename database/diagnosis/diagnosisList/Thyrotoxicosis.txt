@@ -1,7 +1,6 @@
 ::Thyrotoxicosis::
-
 risk for decreased Cardiac Output>riskfordecreasedCardiacOutput.txt
 anxiety>anxiety.txt
 deficient Knowledge regarding condition, treatment needs, and potential for complications or crisis Situation>deficientKnowledgeregardingconditiontreatmentneedsandpotentialforcomplicationsorcrisisSituation.txt
-
 =====
+

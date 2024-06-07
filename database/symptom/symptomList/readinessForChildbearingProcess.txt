@@ -4,7 +4,6 @@
 A pattern of preparing for and maintaining a healthy pregnancy, childbirth process, and care of the newborn for ensuring well- being, which can be strengthened. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To determine individual needs:
  Prenatal
@@ -27,7 +26,6 @@ A pattern of preparing for and maintaining a healthy pregnancy, childbirth proce
 -- Evaluate the nature of emotional and physical parenting that client/couple received during their childhood. The parenting role is learned, and individuals use their own parents as role models. Those who experienced a negative upbringing or poor parenting may require additional support to meet the challenges of effective parenting.
 -- Note the father’s/partner’s response to birth and to the parenting role. The client’s ability to adapt positively to parenting may be strongly infl uenced by the father’s/partner’s reaction.
 -- Assess the client’s readiness and motivation for learning. Assist the client/couple in identifying needs. The postpartal period provides an opportunity to foster maternal growth, maturation, and competence.
-
 [Nursing Priority No. 2]
     - To promote maximum participation in the childbearing process:
  Prenatal
@@ -60,7 +58,6 @@ couple. Acceptance is important to developing and maintaining relationships and 
 -- Promote sleep and rest. This reduces the metabolic rate and allows nutrition and oxygen to be used for the healing process rather than for energy needs.
 -- Provide for unlimited participation for father and siblings. Ascertain whether siblings attended an orientation program. This facilitates family development and the ongoing process of acquaintance and attachment.
 -- Monitor and document the client’s/couple’s interactions with the infant. Note the presence of bonding or acquaintance behaviors (e.g., making eye contact, using high- pitched voice and en face [face- to- face] position as culturally appropriate, calling the infant by name, and holding the infant closely). 
-
 [Nursing Priority No.3]
     - To enhance optimal well- being:
  Prenatal
@@ -89,3 +86,4 @@ couple. Acceptance is important to developing and maintaining relationships and 
 -- Identify manifestations of illness and infection and the times at which a healthcare provider should be contacted. Demonstrate the proper technique for taking temperature, administering oral medications, or providing other care activities for infant as required. Early recognition of illness and prompt use of healthcare facilitate treatment and positive outcome.
 -- Refer the client/couple to community postpartal parent groups. This increases the parent’s knowledge of child rearing and child development and provides a supportive atmosphere while parents incorporate new roles.
 =====
+

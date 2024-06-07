@@ -1,9 +1,8 @@
 ::Thyroidectomy::
-
 risk for ineffective Airway Clearance>riskforineffectiveAirwayClearance.txt
 impaired verbal Communication>impairedverbalCommunication.txt
 risk for Injury>riskforInjury.txt
 risk for Trauma>riskforTrauma.txt
 acute Pain>acutePain.txt
-
 =====
+

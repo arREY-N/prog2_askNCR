@@ -4,7 +4,6 @@
  Cyclical, recurring, and potentially progressive pattern of pervasive sadness experienced (by a parent, caregiver, individual with chronic illness or disability) in response to continual loss, throughout the trajectory of an illness or disability. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Determine current and recent events or conditions contributing to client’s state of mind (e.g., death of loved one, chronic physical or mental illness, disability).
@@ -15,7 +14,6 @@
 6. Identify cultural factors or religious confl icts. Family may experience confl ict between the feelings of sorrow and anger because of change in expectation that has occurred (e.g., newborn with a disability when the expectation was for a perfect child, while religious belief is that all children are gifts from God and that the individual/parent is never “given” more than he or she can handle).
 7. Ascertain response of family/SO(s) to client’s situation. Assess needs of family/SO. Due to cyclic nature of sorrow, family may require ongoing support/assistance from others to cope.
 8. Refer to complicated Grieving; caregiver Role Strain; ineffective Coping, as appropriate. 
-
 [Nursing Priority No. 2]
     -  To assist client to move through sorrow:
 1. Encourage verbalization about situation. Active-listen feelings and be available for support/assistance. Helpful in beginning resolution and acceptance. Active-listening conveys a message of acceptance and helps individual come to own resolution.
@@ -27,7 +25,6 @@
 7. Discuss use of medication when depression is interfering with ability to manage life. Client may benefit from the short-term use of an antidepressant medication to help with dealing with situation.
 8. Assist SO to cope with client response. Family/SO may not be dysfunctional but may be intolerant.
 9. Include family/SO in setting realistic goals for meeting individual needs.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Discuss healthy ways of dealing with diffi cult situations. 
@@ -35,5 +32,5 @@
 3. Encourage involvement in usual activities, exercise, and socialization within limits of physical and psychological state. Maintaining usual activities can help restore energy and keep individuals from deepening sorrow and depression.
 4. Introduce concept of mindfulness (living in the moment). Promotes feelings of capability and belief that this moment can be dealt with.
 5. Refer to other resources (e.g., pastoral care, counseling, psychotherapy, respite-care providers, support groups). Provides additional help when needed to resolve situation, continue grief work.
-
 =====
+

@@ -4,7 +4,6 @@
  Susceptible to behaviors in which an individual demonstrates that he or she can be physically, emotionally, and/or sexually harmful to self.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors:
 1. Determine underlying dynamics as listed in Risk Factors. 
@@ -19,7 +18,6 @@
 10. Determine availability of suicidal means. Identifi es urgency of situation and need to intervene by removing lethal means, possibly hospitalizing client, or instituting other measures to ensure safety of client.
 11. Assess client coping behaviors already present. Client may believe there are no alternatives other than violence, especially if individual has come from a family background of violence.
 12. Identify risk factors and assess for indicators of child abuse or neglect: unexplained or frequent injuries, failure to thrive, and so forth. 
-
 [Nursing Priority No. 2]
     -  To assist client to accept responsibility for impulsive behavior and potential for violence: 
 1. Develop therapeutic nurse-client relationship. Provide consistent caregiver when possible. Promotes sense of trust, allowing client to discuss feelings openly.
@@ -34,7 +32,6 @@
 10. Accept client’s anger without reacting on emotional basis. Give permission to express angry feelings in acceptable ways and let client know that staff will be available to assist in maintaining control. Promotes acceptance and sense of safety.
 11. Help client identify more appropriate solutions or behaviors (e.g., motor activities, exercise) to lessen sense of anxiety and associated physical manifestations.
 12. Provide directions for actions client can take, avoiding negatives, such as “Do Nots.” Discussing positive ideas to help client begin to look toward a better future can provide hope that violent behaviors can be changed, promoting feelings of self-worth and belief in control of own self. 
-
 [Nursing Priority No.3]
     - To assist client in controlling behavior:
 1. Contract with client regarding safety of self/others.
@@ -49,7 +46,6 @@
 10. Monitor for possible drug interactions, cumulative effects of drug regimen (e.g., anticonvulsants, antidepressants). May be contributing factor in violent behavior.
 11. Give positive reinforcement for client’s efforts. Encourages continuation of desired behaviors.
 12. Explore death fantasies when expressed (e.g., “I’ll look down and watch them suffer”; “She’ll be sorry”) or the idea that death is not fi nal (e.g., “I can come back”). 
-
 [Nursing Priority No.4]
     -  To assist client/SO(s) to correct/deal with existing situation:
 1. Gear interventions to individual(s) involved, based on age, relationship, and so forth.
@@ -58,7 +54,6 @@
 4. Discuss situation with abused or battered person, providing accurate information about choices and effective actions that can be taken.
 5. Assist individual to understand that angry, vengeful feelings are appropriate in the situation but need to be expressed and not acted on. Helps client accept feelings as natural and begin to learn effective coping skills and promotes sense of control over situation. (Refer to ND Post-Trauma Syndrome, as psychological responses may be similar.)
 6. Identify resources available for assistance (e.g., battered women’s shelter, social services).
-
 [Nursing Priority No.5]
     - To promote safety in event of violent behavior:
 1. Provide a safe, quiet environment and remove items from the client’s environment that could be used to infl ict harm to self or others. 
@@ -71,7 +66,6 @@
 8. Provide client with a sense that caregiver is in control of the situation to provide feeling of safety.
 9. Maintain clear route for staff and client and be prepared to move quickly. Safety for all is of prime importance, and staff may need to leave the room to regroup while continuing to protect the client. Take-down needs to be done quickly to gain control of the individual.
 10. Hold client, using restraints or seclusion, when necessary, until client regains self-control. Brief period of physical or chemical restraint may be required until client regains control or other therapeutic interventions take effect. 
-
 [Nursing Priority No.6]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Promote client involvement in planning care within limits of situation, allowing for meeting own needs for enjoyment. Individuals often believe they are not entitled to pleasure and good things in their lives and need to learn how to meet these needs.
@@ -81,5 +75,5 @@
 5. Identify support systems (e.g., family/friends, clergy). In addition to the client, those around him or her need to learn how to be positive role models and display a broader array of skills for resolving problems.
 6. Refer to formal resources, as indicated (e.g., individual or group psychotherapy, substance abuse treatment program, social services, safe house facility, parenting classes).
 7. Promote violence prevention and emotional literacy programs in the schools and community. These programs are based on the premise that intelligent management of emotions is critical to successful living. Aggressive youth lack skills in arousal management and nonviolent problem-solving, which can be learned in programs and reinforced by the adults in their lives. 
-
 =====
+

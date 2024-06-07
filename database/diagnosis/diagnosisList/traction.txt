@@ -1,8 +1,7 @@
 ::Traction::
-
 acute Pain>acutePain.txt
 impaired physical Mobility>impairedphysicalMobility.txt
 risk for Infection>riskforInfection.txt
 deficient Diversional Activity>deficientDiversionalActivity.txt
-
 =====
+

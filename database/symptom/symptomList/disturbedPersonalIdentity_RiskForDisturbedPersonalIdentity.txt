@@ -5,7 +5,6 @@
  - Risk For Fisturbed Personal Identity: Susceptible to the inability to maintain an integrated and complete perception of self, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Ascertain client’s perception of the extent of the threat to self and how client is handling the situation. Many factors can affect an individual’s self-image: illness (chronic or terminal), injuries, changes in body structure (e.g., amputation, spinal cord damage, burns), and client’s view of what has happened will affect development of plan of care and interventions to be used.
@@ -20,8 +19,6 @@
 10. Be aware of physical signs of panic state (e.g., heart palpitations, trembling, shortness of breath, chest pressure or pain). Severe anxiety state may progress to panic when concerns seem overwhelming to client. (Refer to ND Anxiety.) 
 11. Discuss use of alcohol, other drugs. Individuals often use these substances to avoid painful stressors.
 12. Determine distortions of reality/symptoms of mental illness. Requires more in-depth psychological counseling/medication to help client distinguish between self and non-self.
-
-
 [Nursing Priority No. 2]
     - To assist client to manage/deal with stressors:
 1. Make time to listen/active-listen client, encouraging appropriate expression of feelings, including anger and hostility. Conveys a sense of confi dence in client’s ability to identify extent of threat, how it is affecting sense of identity, and how to deal with feelings in acceptable way.
@@ -40,13 +37,11 @@
 14. Use humor judiciously, when appropriate. While humor can lift spirits and provide a moment of levity, it is important to note the mood or receptiveness of the client before using it.
 15. Discuss options for dealing with issues of gender identity. Identification of client’s concerns about role dysfunction or confl icting feelings about sexual identity will indicate need for therapies, or possible gender-change surgery.
 16. Refer to NDs disturbed Body Image; Self-Esteem [specify]; Spiritual Distress. 
-
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Provide accurate information about threat to and potential consequences for individual. Helps client to make positive decisions for future.
 2. Discuss potential changes in lifestyle that may occur with major diagnosis/accident. Planning for these possibilities can enhance self-confidence and allow client to move forward with life.
 3. Refer to appropriate support groups. Sharing concerns with others in group settings may help client to be realistic regarding concerns about effects of anticipated changes/ life challenges.
 4. Explore community resources as appropriate. Additional assistance such as day programs, individual/family counseling, drug/alcohol cessation programs can strengthen client’s coping abilities and sense of control.
-
 =====
+

@@ -4,7 +4,6 @@
 : Conscious or unconscious attempt to disavow the knowledge or meaning of an event to reduce anxiety and/or fear, leading to the detriment of health.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors: 
 1. Identify situational crisis or problem and client’s perception of the situation. 
@@ -12,7 +11,6 @@
 3. Determine the stage and degree of denial. Treatment needs to begin where the client is and progress from there.
 4. Compare the client’s description of symptoms or conditions to the reality of the clinical picture. 
 5. Note the client’s comments about the impact of illness or problem on lifestyle. 
-
 [Nursing Priority No. 2]
     -  To assist client to deal appropriately with situation: 
 1. Use therapeutic communication skills of active-listening and I-messages to develop a trusting nurse-client relationship.
@@ -24,12 +22,11 @@
 7. Involve the client in group sessions so the client can hear other views of reality and test his or her own perceptions.
 8. Avoid agreeing with inaccurate statements/perceptions to prevent perpetuating false reality.
 9. Provide positive feedback for constructive moves toward independence to promote repetition of behavior
-
 [Nursing Priority No. 3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Provide written information about illness or situation for client and family to refer to as they consider options.
 2. Involve family members/SO(s) in long-range planning for meeting individual needs.
 3. Refer to appropriate community resources (e.g., Diabetes Association, MS Society, or Alcoholics Anonymous) to help the client with long-term adjustment.
 4. Refer to ND ineffective Coping. 
-
 =========
+

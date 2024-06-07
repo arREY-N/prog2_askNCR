@@ -49,13 +49,19 @@ public class Patient {
     }
 
     public void setSymptomFileList(ArrayList<String> symptomFileList){
+        ArrayList<String> newSymptomFileList = new ArrayList<String>();
+
         for(String file: symptomFileList){
+            
             if(!file.trim().isEmpty()){
-                addSymptomFileList(file);
+                newSymptomFileList.add(file);
             } else{
                 continue;
             }
         }
+
+        this.symptomFileList.clear();
+        this.symptomFileList.addAll(newSymptomFileList);
     }
 
     public void addSymptomFileList(String filename){

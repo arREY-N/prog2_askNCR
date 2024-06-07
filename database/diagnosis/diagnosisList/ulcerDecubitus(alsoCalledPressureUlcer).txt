@@ -1,7 +1,6 @@
 ::Ulcer, Decubitus (also called pressure ulcer)::
-
 impaired Skin_Tissue Integrity>impairedSkin_TissueIntegrity.txt
 acute Pain>acutePain.txt
 risk for Infection>riskforInfection.txt
-
 =====
+

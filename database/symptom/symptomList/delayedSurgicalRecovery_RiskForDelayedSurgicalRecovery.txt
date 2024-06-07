@@ -5,7 +5,6 @@
  - risk for delayed Surgical Recovery: Susceptible to an extension of the number of postoperative days required to initiate and perform activities that maintain life, health, and well-being, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors or risk factors:
 1. Identify vulnerable client (e.g., low socioeconomic status, lack of resources, challenges related to poverty, lack of insurance or transportation, severe trauma or prolonged hospitalization with multiple complicating factors) who is at higher risk for adverse outcomes.
@@ -22,7 +21,6 @@
 12. Review results of laboratory tests (e.g., complete blood count [CBC], blood/wound cultures, serum glucose; hormones [e.g., cortisol, glucocorticoid, and other hormones associated with infl ammation and immune system dysfunction]) to assess for presence and type of infections, immunosuppression, metabolic or endocrine dysfunction, or other conditions affecting body’s ability to heal.
 13. Note allergies or history of skin reactions. Evaluate use of plastics (e.g., incontinence pads or moisture barriers), tape/adhesives, or latex materials. Client sensitivity to adhesives and/or latex can cause skin or tissue reactions that delay primary wound healing and cause additional skin/tissue damage. Refer to NDs impaired Skin Integrity, Latex Allergy Reaction. 
 14. Note lifestyle factors (e.g., obesity, cigarette smoking, alcohol abuse, lack of exercise/sedentary lifestyle) that infl uence circulation and wound healing and can impede recovery.
-
 [Nursing Priority No. 2]
     - To determine risks or impact of delayed recovery:
 1. Note length of hospitalization and progress in recovery to date to compare with expectations for procedure and situation.
@@ -30,7 +28,6 @@
 3. Determine energy level and current participation in ADLs. Compare with usual level of function. 
 4. Ascertain whether client usually requires assistance in home setting and who provides it, current availability, and capability
 5. Obtain psychological assessment of client’s emotional status, noting potential problems arising from current situation. 
-
 [Nursing Priority No.3]
     - To promote optimal recovery and reduce risk of complications:
 1. Inspect incisions or wounds routinely, describing changes (e.g., deepening or healing, wound measurements, presence and type of drainage, development of necrosis).
@@ -47,7 +44,6 @@
 12. Recommend pacing activities (alternating activity with adequate rest periods) to reduce fatigue and allow weakened muscles and tissues to recuperate.
 13. Employ nonpharmacological healing measures, as indicated (e.g., breathing exercises, listening to music, relaxation tapes, biofeedback, hot or cold applications) to promote relaxation of muscles and tissue healing as well as improve coping and outlook for positive healing experience.
 14. Refer for follow-up care, as indicated (e.g., telephone monitoring, home visit, wound care clinic, pain management program).
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations): 
 1. Demonstrate self-care skills, provide client/SO(s) with health-related information and psychosocial support to manage symptoms and pain, enhancing well-being.
@@ -61,5 +57,5 @@
 9. Identify community resources, as indicated (e.g., visiting nurse, home healthcare agency, Meals on Wheels, respite care). Facilitates adjustment to home setting.
 10. Recommend support group or self-help program for smoking cessation.
 11. Refer for counseling or support. May need additional help to overcome feelings of discouragement, deal with changes in life, weight management, and/or smoking cessation.
-
 =====
+

@@ -4,8 +4,8 @@
  - Impaired Parenting: Inability of the primary caretaker to create, maintain, or regain an environment that promotes the optimum growth and development of the child.
  - Risk For Impaired Parenting: Susceptible to primary caretaker difficulty in creating, maintaining, or regaining an environment that promotes the optimum growth and development of the child, which may compromise the well-being of the child. 
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     -  To assess causative/contributing or risk factors:
 1. Note family constellation; for example, two-parent, single, extended family, or child living with other relative, such as grandparent. Helps identify problem areas and strengths  to formulate plans to change situation that is currently creating difficulties for the parents.
@@ -17,7 +17,6 @@
 7.  Identify physical challenges or limitations of the parents (e.g., visual or hearing impairment, quadriplegia, severe depression). May affect ability to care for child and suggest individual needs for assistance and support.
 8. Determine presence and effectiveness of support systems, role models, extended family, and community resources available to the parent(s). Lack of or ineffective use of support systems increases risk of continued inability to parent effectively
 9. Note absence from home setting or lack of child supervision by parent. Demands of working long hours, out of town, multiple responsibilities such as working and attending educational classes will affect relationship between parent and child and ability to provide the care and nurturing necessary for children to grow and prosper.
-
 [Nursing Priority No. 2]
     - To foster development of parenting skills:
 1. Create an environment in which relationships can be developed and needs of each individual met. Learning is more effective when individuals feel safe.
@@ -29,7 +28,6 @@
 7. Allow time for parents to express feelings and deal with the “loss.” Recognize stages of grieving process when the child is disabled or other than anticipated. Expectation of a “normal” or desired child (e.g., having a girl instead of boy, child with a prominent birthmark or birth defect such as cleft palate) results in grieving for the loss of that expectation.
 8. Encourage attendance at skill classes (e.g., parent effectiveness). Assists in improving parenting skills by developing communication and problem-solving techniques.
 9. Emphasize parenting functions rather than mothering/fathering skills. By virtue of gender, each person brings something to the parenting role; however, nurturing tasks can be done by both parents.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Involve all available members of the family in learning. 
@@ -42,5 +40,5 @@
 8. Identify community resources (e.g., childcare services, respite house) to assist with individual needs, provide respite and support.
 9. Report and take necessary actions, as legally and professionally indicated, if child’s safety is a concern. Parents/caregivers who engage in corporal punishment as a technique to ensure desired behavior of child are at increased risk for abusive behavior and possibility of childhood depression.
 10. Refer to NDs ineffective Coping; compromised family Coping; risk for Violence [specify]; Self-Esteem [specify]; and interrupted Family Processes, for additional interventions as appropriate. 
-
 =====
+

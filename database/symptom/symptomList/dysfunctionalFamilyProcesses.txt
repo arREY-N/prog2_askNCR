@@ -4,7 +4,6 @@
 : Family functioning that fails to support the well-being of its members
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess contributing factors/underlying problem(s): 
 1. Assess the current level of functioning of family members. Information necessary for planning care determines areas for focus and potential for change.
@@ -15,7 +14,6 @@
 6. Determine extent and understanding of enabling behaviors being evidenced by family members. 
 7. Identify sabotage behaviors of family members. Eventhough family member(s) may verbalize a desire for the individual to be healthy (or substance free), the reality of interactive dynamics is that they may unconsciously not want the individual to recover because this would affect the role(s) of the family member(s) in the relationship. 
 8. Note presence and extent of behaviors of family, client, and self that might be “too helpful,” such as frequent requests for help,excuses for not following through on agreed-on behaviors, feelings of anger or irritation with others. Enabling behaviors can complicate acceptance and resolution of problem.
-
 [Nursing Priority No. 2]
     - To assist family to change destructive behaviors: 
 1. Obtain mutual agreement on behaviors and responsibilities for nurse and client. This maximizes understanding of what is expected of each individual.
@@ -27,7 +25,6 @@
 7. Provide information regarding the effects of addiction on mood/personality of the involved person. This helps family members understand and cope with negative behaviors without being judgmental or reacting angrily.
 8. Distinguish between destructive aspects of enabling behavior and genuine motivation to aid the user. 
 9. Identify use of manipulative behaviors and discuss ways to avoid or prevent these situations. Manipulation has the goal of controlling others; when family members accept self-responsibility and commit to stop using it, new healthy behaviors will ensue.
-
 [Nursing Priority No. 3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Provide factual information to the client/family about the effects of addictive behaviors on the family and what to expect after discharge. 
@@ -39,3 +36,4 @@
 7. Provide bibliotherapy as appropriate. 
 8. In addition, refer to NDs interrupted Family Processes; compromised/disabled family Coping, as appropriate. 
 =========
+

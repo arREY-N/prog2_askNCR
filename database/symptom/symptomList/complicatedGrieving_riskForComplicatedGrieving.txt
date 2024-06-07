@@ -5,7 +5,6 @@ complicated Grieving: A disorder that occurs after the death of a significant ot
 risk for complicated Grieving: Susceptible to a disorder that occurs after the death of a significant other, in which the experience of distress accompanying bereavement fails to follow normative expectations and manifests in functional impairment.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To determine risk or contributing factors: 
 1. Identify loss that that has occurred and meaning to client. Note circumstances of death, such as sudden or traumatic (e.g., fatal accident, large-scale disaster, or homicide); or related to socially sensitive issue (e.g., AIDS, suicide, gun violence in schools, sexual assault with murder); or associated with unfi nished business (e.g., spouse died during time of crisis in marriage; son has not spoken to parent for years). These situations can sometimes cause the individual to become stuck in grief and unable to move forward with life.
@@ -15,7 +14,6 @@ risk for complicated Grieving: Susceptible to a disorder that occurs after the d
 5. Determine significance of the loss to the client (e.g., presence of chronic condition leading to divorce or disruption of family unit and change in lifestyle, fi nancial security). 
 6. Identify cultural or religious beliefs and expectations that may impact or dictate the client’s response to loss. These factors affect current situation and may help bring loss into perspective and promote grief resolution.
 7. Ascertain the response of the family/SO(s) to the client’s situation (e.g., sympathetic or urging client to “just get over it”).
-
 [Nursing Priority No. 2]
     - To determine degree of impairment or risk for dysfunction: 
 1. Observe for cues of sadness (e.g., sighing; faraway look; unkempt appearance; inattention to conversation; somatic complaints, such as exhaustion or headaches). 
@@ -27,7 +25,6 @@ risk for complicated Grieving: Susceptible to a disorder that occurs after the d
 7. Identify cultural factors and ways individual has dealt with previous loss(es) to put current behavior and responses in context.
 8. Refer to mental health providers for specifi c diagnostic studies and intervention in issues associated with debilitating grief. 
 9. Refer to ND Grieving for additional interventions, as appropriate. 
-
 [Nursing Priority No. 3]
     -  To assist client to deal appropriately with loss: 
 1. Respect client’s desire for quiet, privacy, talking, or silence. Individual may not be ready to talk about or share grief and needs to be allowed to make own timeline. 
@@ -46,7 +43,6 @@ risk for complicated Grieving: Susceptible to a disorder that occurs after the d
 14. Include family/SO(s) in setting realistic goals for meeting needs of family members. 
 15. Encourage family members to participate in support group or family-focused therapy as indicated. 
 16. Use sedatives or tranquilizers with caution to avoid retarding resolution of grief process.
-
 [Nursing Priority No. 4]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Discuss with client/SO(s) healthy ways of dealing with dif- fi cult situations. 
@@ -56,3 +52,4 @@ risk for complicated Grieving: Susceptible to a disorder that occurs after the d
 5. Advocate planning for the future, as appropriate, to individual situation (e.g., staying in own home after death of spouse, returning to sporting activities following traumatic amputation, choice to have another child or to adopt, rebuilding home following a disaster, etc.). 
 6. Refer to other resources (e.g., pastoral care, family counseling, psychotherapy, organized support groups). This provides additional help, when needed, to resolve situation/continue grief work
 =========
+

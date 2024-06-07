@@ -1,7 +1,6 @@
 ::Transfusion Reaction, Blood::
-
 risk for imbalanced Body Temperature>riskforimbalancedBodyTemperature.txt
 anxiety>anxiety.txt
 risk for Injury>riskforInjury.txt
-
 =====
+

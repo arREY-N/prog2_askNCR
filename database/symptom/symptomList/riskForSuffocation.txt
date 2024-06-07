@@ -4,7 +4,6 @@
  Susceptible to inadequate air availability for inhalation, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Determine age, developmental level, and mentation (e.g., infant/young child, frail elder, person with developmental delay, altered level of consciousness, or cognitive impairments or dementia) to identify individuals unable to be responsible for or protect self.
@@ -17,7 +16,6 @@
 8. Assess for allergies (e.g., medications, foods, environmental) to which individual could have severe/anaphylactic reaction resulting in respiratory arrest.
 9. Be alert to and carefully monitor those individuals who are severely depressed, mentally ill, or aggressive. These individuals could be at risk for suicide by suffocation (e.g., inhaled carbon monoxide or death by strangling or hanging). Refer to ND risk for Suicide.
 10. Note signs of respiratory distress (e.g., cough, stridor, wheezing, increased work of breathing) that could indicate swelling or obstruction of airways. Refer to NDs ineffective Airway Clearance; risk for Aspiration; ineffective Breathing Pattern; impaired spontaneous Ventilation, as appropriate, for additional interventions.
-
 [Nursing Priority No. 2]
     - To reverse/correct contributing factors:
 1. Discuss with client/SO(s) identified environmental or workrelated safety hazards and problem-solve methods for resolution (e.g., need for smoke and carbon monoxide alarms, vents for household heater, clean chimney, properly strung clothesline, proper venting of machinery exhaust, monitoring of stored chemicals, bracing trench walls when digging).
@@ -37,7 +35,6 @@
  - Make certain that blind and curtain cords, drawstrings on clothing, and so forth, are out of reach of small children to prevent accidental hanging.
  - Prevent young child/impaired individual from putting objects in mouth (e.g., food such as chunks of raw vegetables, nuts and seeds, popcorn, hot dogs; toy parts; buttons; balloons; small balls/marbles; button-type batteries; refrigerator magnets; coins) that can get lodged in airway and cause choking.
  - Lock or remove lid or door of chests, trunks, old refrigerators or freezers to prevent child from being trapped in airless environment.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Review safety factors identified in individual situation and methods for remediation. 
@@ -49,5 +46,5 @@
 7. Assist individuals to learn to read package labels and identify safety hazards. 
 8. Promote pool safety, use of approved fl otation devices, proper fencing enclosure or alarm system for home pools.
 9. Refer to NDs ineffective Airway Clearance; risk for Aspiration; ineffective Breathing Pattern; impaired Parenting. 
-
 =====
+

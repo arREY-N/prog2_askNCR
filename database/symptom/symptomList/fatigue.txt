@@ -4,8 +4,8 @@
  An overwhelming sustained sense of exhaustion 
 and decreased capacity for physical and mental work at the 
 usual level.
-::Actions/Interventions::
 
+::Actions/Interventions::
 [Nursing Priority No. 1]
 To assess causative/contributing factors: 
 1 Identify the presence of physical and/or psychological conditions (e.g., pregnancy; infectious processes; blood loss, anemia; connective tissue disorders [e.g., multiple sclerosis (MS), lupus]; trauma, chronic pain syndromes [e.g., arthritis]; cardiopulmonary disorders; cancer and cancer treatments; hepatitis; AIDS; major depressive disorder; anxiety states; substance use or abuse). Important information can be obtained from knowing 1-- fatigue is a result of an underlying condition or disease process (acute or chronic); 2-- the current status of an exacerbating or remitting condition;, or 3-- whether fatigue has been present over a long time without any identifi able cause.
@@ -18,7 +18,6 @@ To assess causative/contributing factors:
 8 Note recent lifestyle changes, including confl icts (e.g.,expanded responsibilities, demands of others, job-related confl icts); maturational issues (e.g., adolescent with an eating disorder); and developmental issues (e.g., new parenthood, loss of spouse/signifi cant other [SO]). 
 9 Assess psychological and personality factors that may affect reports of fatigue level. Client can potentially have issues that affect desire to be active (or work), resulting in over or underactivity. or concerns of secondary gain from exaggerated fatigue reports.
 10 Evaluate aspect of “learned helplessness” that may be manifested by giving up. This can perpetuate a cycle of fatigue, impaired functioning, and increased anxiety and fatigue.
-
 [Nursing Priority No. 2]
     -  To determine degree of fatigue/impact on life: 
 1 Obtain client/SO descriptions of fatigue (i.e., lacking energy or strength, tiredness, weakness lasting over length of time). Note the presence of additional concerns (e.g., irritability, lack of concentration, diffi culty making decisions, problems with leisure, and relationship diffi culties) to assist in evaluating the impact on the client’s life.
@@ -30,7 +29,6 @@ To assess causative/contributing factors:
 7 Evaluate the need for individual assistance or assistive devices. 
 8 Review the availability and current use of support systems and resources. 
 9 Perform, or review results of, testing, such as the Multidimensional Assessment of Fatigue (MAF), Piper Fatigue Scale (PFS), and Global Fatigue Index (GFI), as appropriate. Can help determine manifestation, intensity, duration, and emotional meaning of fatigue
-
 [Nursing Priority No. 3]
     -  To assist client to cope with fatigue and manage within individual limits of ability: 
 1 Treat underlying conditions where possible (e.g., manage pain, depression, or anemia; treat infections; reduce numbers of interacting medications) to reduce fatigue caused by treatable conditions.
@@ -57,7 +55,6 @@ To assess causative/contributing factors:
 14. Instruct in/implement stress-management skills of visualization, relaxation, and biofeedback, when appropriate. 
 15. Discuss alternative therapies (e.g., massage, acupuncture, osteopathic or chiropractic manipulations), if appropriate. Complementary therapies may be helpful in reducing muscle tension and pain to promote relaxation and rest.
 16. Refer to comprehensive rehabilitation program, physical and occupational therapy for programmed daily exercises and activities to improve stamina, strength, and muscle tone and to enhance sense of well-being
-
 [Nursing Priority No. 4]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Discuss therapy regimen relating to individual causative factors (e.g., physical and/or psychological illnesses) and help the client/SO(s) to understand relationship of fatigue to illness. 
@@ -70,3 +67,4 @@ To assess causative/contributing factors:
 8. Refer to counseling or psychotherapy, as indicated. 
 9. Identify community resources that can be available to assist with everyday life needs (e.g., Meals on Wheels, homemaker or housekeeper services, yard care).
 =========
+

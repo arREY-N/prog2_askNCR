@@ -5,7 +5,6 @@
 may compromise health. 
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     - To assess risk factors:
 1. Assess client risk, noting possible medical diagnoses or disease processes that may lead to bleeding as listed in risk factors. 
@@ -15,7 +14,6 @@ trauma. The pattern and extent of injury and bleeding may or may not be readily 
 4. Note the client's gender. While bleeding disorders are common in both men and women, women are affected more owing to the increased risk of blood loss related to menstrual cycle and pregnancy complications/delivery procedures.
 5. Identify pregnancy-related factors, as indicated. Many factors can occur, including overdistention of the uterus—pregnant with multiples, prolonged or rapid labor, lacerations occurring during vaginal delivery, or retained placenta that can place the mother at risk for postpartum bleeding.
 6. Evaluate the client's medication regimen. The use of medications, such as nonsteroidal anti-infl ammatories (NSAIDs), anticoagulants, corticosteroids, and certain herbals (e.g., Ginkgo biloba ), predispose client to bleeding
-
 [Nursing Priority No. 2]
     - To evaluate for potential bleeding: 
 7. Monitor perineum and fundal height in a postpartum client, and wounds, dressings, or tubes in a client with trauma, surgery, or other invasive procedures to identify active blood loss. Note: Hemorrhage may occur because of the inability to achieve hemostasis in the setting of injury or may result from the development of a coagulopathy.
@@ -26,7 +24,6 @@ trauma. The pattern and extent of injury and bleeding may or may not be readily 
 12. Assess skin color and moisture, urinary output, level of consciousness, or mentation. Changes in these signs may be indicative of blood loss affecting systemic circulation or local organ function, such as kidneys or brain.
 13. Review laboratory data (e.g., complete blood count [CBC], platelet numbers and function, and other coagulation factors such as Factor I, Factor II, prothrombin time [PT], partial thromboplastin time [PTT], and fi brinogen) toevaluate bleeding risk. The common problem in life-threatening anemia is a sudden reduction in the oxygen-carrying capacity of the blood. Depending on the etiology, this may occur with or without reduction in the intravascular volume. It is generally accepted that an acute drop in hemoglobin to a level of 7 to 8 g/dL is symptomatic. 
 14. Prepare the client for or assist with diagnostic studies such as x-rays, computed tomography (CT) or magnetic resonance imaging (MRI) scans, ultrasound, or colonoscopy to determine the presence of injuries or disorders that could cause internal bleeding.
-
 [Nursing Priority No. 3]
     -  To prevent bleeding/correct potential causes of excessive blood loss:
 1. Maintain the patency of vascular access for fl uid administration or blood replacement as indicated.
@@ -40,7 +37,6 @@ trauma. The pattern and extent of injury and bleeding may or may not be readily 
     --Use soft toothbrush or toothettes for oral care to reduce risk of injury to the oral mucosa.
 4. Collaborate in evaluating the need for replacing blood loss or specifi c components and be prepared for emergency interventions. 
 5. Be prepared to administer hemostatic agents, if needed, to promote clotting and diminish bleeding by increasing coagulation factors, or medications such as proton pump inhibitors to reduce risk of gastrointestinal bleeding. 
-
 [Nursing Priority No. 4]
     - To promote wellness (Teaching/Discharge Considerations): 
 1. Provide information to the client/family about hereditary or familial problems that predispose to bleeding complications. 
@@ -51,5 +47,5 @@ trauma. The pattern and extent of injury and bleeding may or may not be readily 
     -- Dietary measures to improve blood clotting, such as foods rich in vitamin K. 
     -- Need to avoid alcohol in diagnosed liver disorders or seek treatment for alcoholism in the presence of alcoholic varices. 
     -- Techniques for postpartum client to check her own fundus and perform fundal massage as indicated, and to contact physician for postdischarge bleeding that is bright red or dark red with large clots (may prevent blood loss complications, especially if client is discharged early from hospital)
-
 =========
+

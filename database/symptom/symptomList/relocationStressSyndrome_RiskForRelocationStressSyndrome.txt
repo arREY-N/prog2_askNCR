@@ -4,8 +4,8 @@
  - Relocation Stress Syndrome: Physiological and/ or psychosocial disturbance following transfer from one environment to another.
  - Risk For Relocation Stress Syndrome: Susceptible to physiological and/or psychosocial disturbance following transfer from one environment to another, which compromise health. 
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Determine situation or cause for relocation (e.g., planned move for new job; deployment or returning from military duty; loss of home or community due to natural or man-made disaster such as fi re, earthquake, fl ood, war or act of terror; older adult unable to care for self, caregiver burnout; change in marital or health status). Infl uences needs and choice of interventions.
@@ -18,7 +18,6 @@
 8. Monitor behavior, noting presence of anxiety, suspiciousness or paranoia, irritability, defensiveness. Compare with SO’s/staff’s description of customary responses. Move may temporarily exacerbate mental deterioration (cognitive inaccessibility) and impair communication (social inaccessibility).
 9.  Determine involvement of family/SO(s). Note availability and use of support systems and resources.
 10. Identify issues of safety that may be involved, such as diffi - culty adjusting to new environment (e.g., navigating streets or choosing correct bus; locating dining hall or bathroom in facility), concerns of elopement or running away.
-
 [Nursing Priority No. 2]
     - To assist client to deal with situation/changes or to prevent/minimize adverse response to change : 
 1. Collaborate in treatment of underlying conditions (e.g., chronic confusional states, brain injury, post-trauma rehabilitation) and physical stress symptoms that are potentially exacerbating relocation stress or that may affect the length of time that relocation is required.
@@ -42,7 +41,6 @@
 19. Deal with aggressive behavior by imposing calm, fi rm limits. Control environment and protect others from client’s disruptive behavior. Promotes safety for client and others.
 20. Remain composed, place in a quiet environment, providing time out, as indicated, to prevent escalation into panic state and violent behavior
 21. Refer to professionals (e.g., social worker, fi nancial resources, mental healthcare provider, minister/spiritual advisor) if serious diffi culties develop (e.g., depression, alcohol or other drug abuse, deteriorating behavior of child) to assist client with special needs and/or persistent problems with adaptation.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Involve client in formulating goals and plan of care when possible. Supports independence and commitment to achieving outcomes.
@@ -53,5 +51,5 @@
 6. Provide client with information and list of local social groups, assistance organizations, or community services (e.g., Welcome Wagon, senior citizens or teen clubs, churches, singles’ groups, sports leagues) to provide contacts for client to develop new relationships and learn more about the new setting.
 7. Discuss safety issues regarding new environment (e.g., how to navigate streets or choose correct bus; locate dining hall or bathroom in facility), concerns of elopement or running away. 
 8. Anticipate variety of emotions and reactions. May vary from insomnia and loss of appetite to becoming involved with alcohol or other drugs or exacerbation of health problems, onset of serious illness, or behavioral problems. Awareness provides opportunity for timely intervention.
-
 =====
+

@@ -4,7 +4,6 @@
 Altered eating attitudes and behaviors resulting in over- or under-eating patterns that compromise nutritional health
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Note age and developmental level of client and place in family order. The adolescent period of development is a period of vulnerability for the development of problems with eating. 
@@ -19,7 +18,6 @@ Altered eating attitudes and behaviors resulting in over- or under-eating patter
 10. Identify gender of the client, male or female. Although females outnumber males by a significant number, males make up an important aspect of this problem, are more reluctant to seek help, and may need special accommodations, such as an all-male treatment team. 
 11. Discuss client’s/family’s eating patterns and attitudes toward food. Provides information that will be helpful to plan for needed changes.
 12. Review laboratory studies refl ecting nutritional status. Helpful in identifying defi ciencies and therapeutic needs.
-
 [Nursing Priority No. 2]
     - To assist client to develop skills to manage adequate nutritional needs: 
 1. Promote therapeutic nurse/client/family relationship. A trusting relationship allows the individuals to freely share and be open and honest with self and therapist. 
@@ -33,7 +31,6 @@ Altered eating attitudes and behaviors resulting in over- or under-eating patter
 9. Refer for family therapy as indicated. May help resolve parent and adolescent issues interfering with relationship and manifested in unhealthy eating behaviors.
 10. Encourage client to become involved in enjoyable physical activities. Participation in these activities can enhance self-esteem, promote self-reliance and confi dence, and lead to improved weight management. 
 11. (Refer to NDs chronic low Self-Esteem for additional interventions.)
-
 [Nursing Priority No. 3]
     - To promote wellness (Teaching/Discharge Considerations): 
 1. Involve client in school and social activities. Continuing studies will improve sense of accomplishment, and involvement in social groups provides opportunities to make friends and enjoy activities that may involve eating in accepted manner.
@@ -41,5 +38,5 @@ Altered eating attitudes and behaviors resulting in over- or under-eating patter
 3. Identify appropriate online reference sites. Can provide information and recipes to help with meal planning over time to achieve long-term goals.
 4. Identify community support programs and resources as needed. Useful in sustaining efforts for change.
 5. Refer parents to parenting classes, such as Effectiveness Training, etc., group therapy. Will help parents learn how to interact with their growing adolescent as both develop positive relationships. 
-
 =========
+

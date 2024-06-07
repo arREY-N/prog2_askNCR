@@ -1,8 +1,7 @@
 ::Urinary Diversion::
-
 risk for impaired Skin Integrity>riskforimpairedSkinIntegrity.txt
 disturbed Body Image>disturbedBodyImage.txt
 acute Pain>acutePain.txt
 impaired urinary Elimination>impairedurinaryElimination.txt
-
 =====
+

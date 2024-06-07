@@ -1,6 +1,5 @@
 ::Ringworm, Tinea::
-
 impaired Skin Integrity>impairedSkinIntegrity.txt
 deficient Knowledge regarding infectious nature, therapy, and self-care Needs>deficientKnowledgeregardinginfectiousnaturetherapyandself-careNeeds.txt
-
 =====
+

@@ -5,7 +5,6 @@
  - Risk For Impaired Skin Integrity: Susceptible to alteration in epidermis and/or dermis, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Identify underlying condition or pathology involved. Skin integrity problems can be the result of (1) disease processes that affect circulation and perfusion of tissues (e.g., arteriosclerosis, venous insuffi ciency, hypertension, obesity, diabetes, malignant neoplasms); (2) medications (e.g., anticoagulants, corticosteroids, immunosuppressives, antineoplastics) that adversely affect or impair healing; (3) burns or radiation (can break down internal tissues as well as skin); and (4) nutrition and hydration (e.g., malnutrition deprives the body of protein and calories required for cell growth and repair, dehydration impairs transport of oxygen and nutrients).
@@ -21,7 +20,6 @@
 11. Calculate ankle-brachial index (ABI) to evaluate actual/ potential for impairment of circulation to lower extremities. Note: Result less than 0.9 indicates need for close monitoring or more aggressive intervention (e.g., tighter blood glucose and weight control in diabetic client).
 12. Review laboratory results pertinent to causative factors (e.g., studies such as hemoglobin/hematocrit, blood glucose, infectious agents [viral, bacterial, fungal], albumin, and protein). ( Note: Albumin less than 3.5 correlates to decreased wound healing and increased frequency of pressure ulcers. ) 
 13. Obtain specimen from draining wounds when appropriate for culture and sensitivities or Gram stain to determine appropriate therapy.
-
 [Nursing Priority No. 2]
     - To assess extent of involvement/injury (impaired Skin Integrity):
 1. Obtain a complete history of current skin condition(s) (especially in children where recurrent rash or lesions are common), including age at onset, date of first episode, duration, original site, characteristics of lesions, and any changes that have occurred. Common skin manifestations of sensitivity or allergies are hives, eczema, and contact dermatitis. Contagious rashes include measles, rubella, roseola, chicken pox, and scarlet fever. Bacterial, viral, and fungal infections can also cause skin problems (e.g., impetigo, cellulitis, cold sores, shingles, athlete’s foot, candidiasis, diaper rashes).
@@ -41,7 +39,6 @@
 (3) margins—fi xed or unfi xed; 
 (4) tunneling or tracts; and 
 (5) evidence of necrosis (e.g., color gray to black) or healing (e.g., pink or red granulation tissue) to establish comparative baseline and evaluate effectiveness of interventions. Refer to ND risk for Pressure Ulcer for assessments and preventive interventions.
-
 [Nursing Priority No.3]
     - To determine impact of condition (impaired Skin Integrity):
 1. Determine if wound is acute (e.g., injury from surgery or trauma) or chronic (e.g., venous or arterial insuffi ciency), which affects healing time and the client’s emotional and physical responses.
@@ -50,7 +47,6 @@
 4. Determine impact on life (e.g., work, leisure, increased caregiver requirements). 
 5. Obtain psychological assessment of client’s emotional status, as indicated, noting potential for sexual problems arising from presence of condition. 
 6. Note presence of compromised vision, hearing, or speech.Touch is a particularly important avenue of communication for this population, and when skin is compromised, communication may be affected.
-
 [Nursing Priority No.4]
     - To assist client with correcting/minimizing condition, and promote healing or to maintain skin integrity at optimal level :
 1. Handle client gently (particularly infant, young child, elderly). Epidermis of infants and very young children is thin and lacks subcutaneous depth that will develop with age. Skin of the older client is also thin, less elastic, and prone to injury, such as bruising and skin tears. 
@@ -75,7 +71,6 @@
 20. Periodically remeasure and photograph wound and observe for complications (e.g., infection, dehiscence) to monitor progress of wound healing.
 21. Monitor periodic laboratory studies relative to general wellbeing and status of specifi c problem.
 22. Consult with wound or stoma specialist, as indicated, to assist with developing plan of care for problematic or potentially serious wounds.
-
 [Nursing Priority No. 5]
  - To promote wellness (Teaching/Discharge Considerations): 
 1. Review importance of health, intact skin, as well as measures to maintain proper skin functioning.
@@ -93,8 +88,5 @@
 13. Lend psychological support and acceptance of client, using touch, facial expressions, and tone of voice. 
 14. Assist client to learn stress-reduction and engage in alternate therapy techniques to control feelings of helplessness and deal with situation.
 15. Refer to dietitian or certifi ed diabetes educator, as appropriate, to enhance healing, reduce risk of recurrence of diabetic ulcers.
-
-
-
-
 =====
+

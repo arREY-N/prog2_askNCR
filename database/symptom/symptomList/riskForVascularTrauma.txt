@@ -4,7 +4,6 @@
  Susceptible to damage to vein and its surrounding tissues related to the presence of a catheter and/or infused solutions, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess risk factors: 
 1. Determine presence of medical condition(s) requiring IV therapy (e.g., dehydration, trauma, surgery; long-term antibiotic treatment of severe infections; cancer therapies, pain management when oral drugs not effective or practical). 
@@ -13,7 +12,6 @@
 4. Determine type(s) of solutions being used or planned. Certain infusates are associated with greater risk of vein irritation and pain (e.g., potassium, contrast media); others are associated with signifi cant risk of tissue injury, especially upon infi ltration into surrounding tissues, including certain antibiotics, chemotherapy, or parenteral nutrition.
 5. Assess peripheral IV site, when one is already in place, to determine potential for complications. Reddened, blanched, tight, translucent, or cool skin; swelling; pain; numbness; streak formation; a palpable venous cord or purulent drainage are indicative of problem with IV requiring immediate intervention.
 6. Assess central venous access device (CVAD), if present, to determine potential for complications. Inability to aspirate, slowed or absent solution fl ow, site pain, engorged veins, or swelling in upper arm, chest wall, neck, or jaw on side of catheter insertion may indicate vein or catheter-related thrombus, requiring immediate intervention.
-
 [Nursing Priority No. 2]
     -  To reduce potential complications:
 1. Determine appropriate site choice:
@@ -36,7 +34,6 @@
  - Utilize transparent dressing over insertion site to protect from external contaminants and to allow easy observation for potential complications.
 3. Adhere to recommended infusions, dilutions, and administration rates for medications or irritating substances, such as potassium, to reduce incidence of tissue irritation and sloughing.
 4. Consult with IV/infusion nurse or other medical provider to problem-solve issues that arise with IVs and/or for interventions for complications.
-
 [Nursing Priority No.3]
     - To promote optimum therapeutic effect: 
 1. Observe IV site on a regular basis and instruct client/caregiver to report any discomfort, bruising, redness, swelling, bleeding, or other fl uid leaking from site. 
@@ -44,5 +41,5 @@
 3. Apply pressure to site when IV discontinued for suffi cient time to prevent bleeding, especially in client with coagulopathies or on anticoagulants. 
 4. Adhere to specific protocols related to infection control to promote safe infusion of solutions or medications and prevent complications. (Refer to ND risk for Infection.) 
 5. Identify community resources and suppliers as indicated to support home therapy regimen.
-
 =====
+

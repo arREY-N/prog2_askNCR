@@ -5,7 +5,6 @@
  - Risk For Overweight: Susceptible to abnormal or excessive fat accumulation for age and gender, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify contributing or risk factors:
 1. Obtain weight history, noting if client has weight gain out of character for self or family, is or was an obese child, or used to be much more physically active than is now to identify trends. Note: Unchecked weight gain can lead to obesity, which is now the most prevalent nutritional disorder among children and adolescents in the United States (45% of all adults and approximately 18% of youths ages 2 to 19 years).
@@ -20,7 +19,6 @@
  - Obtain comparative body drawing having client draw self on wall with chalk, then standing against it and having actual body outline drawn to note difference between the two. This determines whether the client’s view of self-body image is congruent with reality.
  - Ascertain occurrence of negative feedback from signifi cant other (SO). May reveal control issues and may impact motivation for change.
 10. Review laboratory test results (e.g., complete blood count with differential, full lipid panel, fasting glucose, A 1 C, and insulin levels; thyroid and leptins; proteins, Mini-Nutritional Assessment) that may reveal medical conditions associated with obesity, and identify problems that may be treated with alterations in diet or medications.
-
 [Nursing Priority No. 2]
     - To determine weight loss goals (Overweight or risk for Overweight) :  
 1. Obtain anthropometric measurements to determine presence and severity of situation:
@@ -29,7 +27,6 @@
 1. Determine client’s motivation for weight loss (e.g., for own satisfaction or self-esteem, to improve health status, or to gain approval from another person). The client is more likely to succeed and maintain desired weight when change is for self (e.g., acceptance of self “as is,” general well-being) rather than to please others.
 2. Discuss myths client/SO may have about weight and weight loss to address misconceptions and possibly enhance motivation for needed behavior changes.
 3. Set realistic goals (short and long term) for weight loss. Reasonable weight loss (1 to 2 lb/week) has been shown to have more lasting effects than rapid weight loss. Note that a loss of 5% to 10% of total body weight can reduce many of the health risks associated with obesity in adults.
-
 [Nursing Priority No.3]
     -  To establish weight-reduction program (Overweight) : 
 1. Obtain commitment or contract for weight loss. Verbal agreement to goals or written contract formalizes the plan and may enhance efforts and maximize outcomes.
@@ -49,7 +46,6 @@
 8. Recommend weighing only once/week, same time and clothes, and graph on chart. Measure and monitor body fat when possible to track progress while focusing more on the idea of being health conscious and responsible than on what the scale may reveal.
 9. Provide positive reinforcement and encouragement for efforts as well as actual weight loss. This enhances commitment to the program and enhances the person’s sense of self-worth.
 10. Refer to bariatric physician/surgeon when indicated. Evaluation for special measures may be needed (e.g., supervised fasting or bariatric surgery) for obese or morbidly obese persons. Refer to ND: Obesity for related interventions.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations): (Overweight or risk for Overweight)
 1. Assist in and encourage periodic evaluation of nutritional status and alteration of dietary plan. This may be desiredor needed for addressing special needs (e.g., diabetes mellitus, age considerations, very low calorie or fasting) and monitoring health status.
@@ -63,5 +59,5 @@
 9. Encourage buying personal items and clothing as a reward for weight loss or other accomplishments.
 10. Suggest disposing of “fat clothes” to encourage positive attitude of permanent change and remove “safety valve” of having wardrobe available “just in case” weight is regained.
 11. Review prescribed drug regimen (e.g., appetite suppressants, hormone therapy, vitamin and mineral supplements) for benefi ts or adverse side effects and drug interactions.
-
 =====
+

@@ -4,7 +4,6 @@
  Susceptible to extreme temperature damage to skin and mucous membranes, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative/precipitating factors related to risk: 
 1. Identify client at risk (e.g., chronic illness conditions with weakness or prolonged immobility; acute or chronic confusion, mental illness, dementia, head injury; use of multiple medications; use of alcohol or other drugs; cultural, familial, and socioeconomic factors adversely affecting lifestyle and home; exposure to environmental chemicals). 
@@ -13,7 +12,6 @@
 4. Ascertain if client is using alcohol/other drugs or medications that could impair ability to act in best interest of self or others.
 5. Evaluate client’s lifestyle practices, noting reports of riskprone behavior (e.g., smoking in bed, failure to use safety equipment when working with chemicals, allowing child to play with matches, unprotected exposure to sun or cold environment) that can place client or others at high risk for injury.
 6. Ascertain knowledge of safety needs and injury prevention, as well as motivation to prevent injury. Information may reveal areas of misinformation, lack of knowledge, need for teaching.
-
 [Nursing Priority No. 2]
     - To assist client/caregiver to reduce or correct individual risk factors:
 1. Provide client/SO information regarding client’s specifi c situation and consequences of continuing unsafe behaviors to enhance decision-making, clarify expectations and individual needs.
@@ -36,7 +34,6 @@
 9. Perform home assessment, if indicated, to address safety issues. Concerns vary widely and may include evaluation of fire alarms or extinguisher function; safe use of oxygen; checking hot water temperature for elderly confused person, or obtaining medical alert device or home health service, etc.
 10. Review specific employment concerns or worksite issues and needs (e.g., properly fi tting safety equipment, regular use of safety glasses or goggles, safe storage of hazardous substances). 
 11. Discuss need for and sources of supervision (e.g., before- and after-school programs for children, elder day programs, home care assistance) when client or care provider is unable or unwilling to attend to safety concerns.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Criteria): 
 1. Identify individual needs and resources for safety education. 
@@ -62,5 +59,5 @@
 4. Refer to community resources as indicated (e.g., substance recovery, anger management, and parenting classes) to address conditions that could exacerbate risk of injury to self or others.
 5. Refer to or assist with community education programs to increase awareness of safety measures and available resources.
 6. Identify emergency escape plans and routes for home and community to be prepared in the event of natural or manmade disaster (e.g., fi re, toxic chemical release).
-
 =====
+

@@ -4,20 +4,17 @@
  Limitation of independent movement between two nearby surfaces.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors:
 1. Determine presence of conditions that contribute to transfer problems. Neuromuscular and musculoskeletal problems (e.g., multiple sclerosis, fractures with splints or casts, back injuries, knee/hip replacement surgery, amputation, quadriplegia or paraplegia, contractures or spastic muscles); agedness (diminished faculties, multiple medications, painful conditions, decreased balance, muscle mass, tone, or strength), and effects of dementias, brain injury, and so forth, can seriously impact balance and physical and psychological well-being.
 2. Evaluate perceptual and cognitive impairments and ability to follow directions. Plan of care and choice of interventions are dependent on nature of condition—acute, chronic, or progressive.
 3. Review medication regimen and schedule to determine possible side effects or drug interactions impairing balance and/or muscle tone.
-
 [Nursing Priority No. 2]
     - To assess functional ability: 
 1. Evaluate degree of impairment using functional level classifi - cation scale of 0 to 4. Identifies strengths and defi cits (e.g., ability to ambulate with assistive devices or problems with balance, failure to attend to one side, inability to bear weight [client is nonweight-bearing or partial weight-bearing]) and may provide information regarding potential for recovery.
 2. Perform the “Timed Up and Go” (TUG) test, as indicated, to assess client’s basic ability to transfer and ambulate safely, and risks of falling.
 3. Determine presence and degree of perceptual or cognitive impairment and ability to follow directions. 
 4. Note emotional or behavioral responses of client/signifi cant other (SO) to problems of immobility.
-
 [Nursing Priority No.3]
     -  To promote optimal level of movement:
 1. Assist with treatment of underlying condition causing dysfunction.
@@ -30,11 +27,10 @@
 8. Use full-length mirror, as needed, to facilitate client’s view of own postural alignment.
 9. Demonstrate and reinforce safety measures, as indicated, such as transfer board, gait belt, supportive footwear, good
 10. lighting, clearing fl oor of clutter to avoid possibility of fall and subsequent injury.
-
 [Nursing Priority No.4]
     -   To maintain safety (Teaching/Discharge Considerations):
 1. Assist client/caregivers to learn safety measures as individually indicated. Actions (e.g., using correct body mechanics for particular transfer, locking wheelchair before transfer, using properly placed and functioning hoists, ascertaining that fl oor surface is even and clutter free) are important in facilitating transfers and reducing risk of falls or injury to client and caregiver.
 2. Refer to appropriate community resources for evaluation and modification of environment (e.g., shower or tub, uneven floor surfaces, steps, use of ramps, standing tables or lifts). 
 3. Refer also to NDs impaired bed/physical/wheelchair Mobility; Unilateral Neglect; risk for Falls; impaired Sitting; impaired Standing; impaired Walking, for additional interventions. 
-
 =====
+

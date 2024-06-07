@@ -4,7 +4,6 @@
 A pattern of choosing a course of action for meeting short- and long-term health-related goals, which can be strengthened. 
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors: 
 1. Determine the client’s usual ability to manage own affairs. This provides the baseline for understanding the client’s decision-making process and measures growth.
@@ -13,7 +12,6 @@ A pattern of choosing a course of action for meeting short- and long-term health
 4. Note the presence of physical signs of anxiety. Client may be excited about the quest for improvement, and excitement may be interpreted as anxiety. It is important to clarify meaning of physical signs.
 5. Identify cultural values, beliefs, or moral obligations and principles that guide or affect the decision-making process. Preconceived biases may color decisions and need to be recognized in order to enhance efforts toward growth.
 6. Discuss the meaning of life and reasons for living, belief in God or higher power, and how these relate to current desire for improvement. (Refer to ND readiness for enhanced Spiritual Well-Being.)
-
 [Nursing Priority No. 2]
     - To assist client to improve/effectively use problem-solving skills: 
 1. Promote a safe and hopeful environment. This provides an opportunity for the client to discuss concerns/thoughts freely.
@@ -25,7 +23,6 @@ A pattern of choosing a course of action for meeting short- and long-term health
 7. Review the process of problem-solving and how to do a risk-benefit analysis of decisions. The individual who learns this skill will be able to use it in many areas of life to enhance relationships, both personal and business.
 8. Encourage children to make age-appropriate decisions. Learning problem-solving at an early age will enhance sense of self-worth and ability to exercise coping skills.
 9. Discuss and clarify spiritual beliefs, accepting the client’s values in a nonjudgmental manner. Client may be able to decidewhat is really acceptable or unacceptable in the choice situation related to beliefs or values that have been expressed
-
 [Nursing Priority No. 3]
     - To promote optimum wellness: 
 1. Identify opportunities for using confl ict-resolution skills, emphasizing each step as it is used. 
@@ -33,5 +30,5 @@ A pattern of choosing a course of action for meeting short- and long-term health
 3. Encourage involvement of family/significant other(s), as desired or appropriate, in the decision-making process to help all family members improve confl ict-resolution skills.
 4. Suggest participation in stress management or assertiveness classes, as appropriate. 
 5. Refer to other resources, as necessary (e.g., clergy, psychiatric clinical nurse specialist or psychiatrist, or family or marital therapist).
-
 =========
+

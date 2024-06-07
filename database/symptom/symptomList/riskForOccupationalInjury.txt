@@ -3,8 +3,8 @@
 ::Definition::
  Susceptible to sustain a work-related accident or illness, which may compromise health.
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To evaluate degree/source of risk inherent in work setting:
 1. Determine factors related to individual situation and extent of risk for injury/illness. Influences scope and intensity of interventions to manage threats to safety, which are dynamic and constants in every life and situation.
@@ -16,7 +16,6 @@
 7. Clarify client’s awareness of Occupational Safety and Health Administration (OSHA) standards applicable to client. Lack of awareness can limit client’s ability to make best decisions to promote personal safety.
 8. Observe client performing routine work activities. Musculoskeletal injuries are estimated to account for 33% of all workplace injuries. Proper body mechanics is vital for safe lifting, bending, reaching, stooping, pushing/pulling, repetitive motions, etc. Note: Hospital workers experience injuries nearly three times the rate of professional and business services. Even physical therapists incur musculoskeletal injuries, especially low back, in spite of their knowledge of body mechanics.
 9. Evaluate workplace for environmental hazards and stressors (e.g., physical, biological, psychological, chemical, ergonomic) and their interrelationships. May impair/negatively impact client’s judgement and increase potential for injury. Furthermore, at a time of cost cutting and reorganization to sustain business profi ts/viability, organizational culture may defl ect responsibility of occupational injuries onto the worker without adequately considering all factors contributing to the situation.
-
 [Nursing Priority No. 2]
     -  To assist client to reduce/correct individual risk factors:
 1. Review pertinent job-related safety regulations with client. Provides information necessary for client to make informed decisions.
@@ -33,7 +32,6 @@
  - Practice situational awareness or being aware of what is happening around oneself and recognizing unsafe situations
 6. Encourage client to read chemical labels or Material Safety Data Sheets (MSDS notebook) to be aware of primary hazards, safe storage and handling.
 7. Identify location of eye wash station/shower, fi rst-aid kit, and safe use of automated external defi brillator (AED). 
-
 [Nursing Priority No.3]
     - To promote optimum safety and well-being:
 1. Emphasize importance of adherence to lunch/break policy and using vacation or personal time regularly. Too often, workers feel compelled to work through break time or postpone time away because of short staffi ng or to meet deadlines.
@@ -43,7 +41,6 @@
 5. Support modified or light duty work options as indicated. Provides time for recovery while keeping worker engaged and reducing sense of isolation.
 6. Emphasize importance of reporting injuries/completing reports in timely manner. Although it is not unusual for minor injuries to go unreported, violence in the workplace can be accepted as “part of the job” and not reported but can cause signifi cant psychological trauma and stress. Note: In one study, workplace violence incidents requiring days off for worker to recuperate were found to be four times more common in healthcare than in private industry.
 7. Obtain preventive screening/testing and initiate referrals to healthcare providers as appropriate. Some chronic illnesses such as respiratory, some cancers, and birth defects have long latencies between occupational exposure and clinical findings.
-
 [Nursing Priority No.4]
     - To promote safety in workplace:
 1. Identify applicable OSHA standards and workplace compliance with standards. 
@@ -59,6 +56,5 @@
 11.  Initiate screening programs for environmental hazards, such as noise, pollutants, allergens, dust, asbestos, lead/otherheavy metals, vapor intrusion, radon, diesel emissions. 
 12. Collaborate with appropriate agencies, such as public health and Environmental Protection Agency (EPA), to improve environmental hazards.
 13. Develop plan for long-term monitoring of health risks and evaluation of risk reduction strategies. Provides evidence of effectiveness of interventions, possible need for revision. Information also adds to the body of knowledge in the field.
-
-
 =====
+

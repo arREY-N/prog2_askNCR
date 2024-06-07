@@ -6,7 +6,6 @@ in physical, psychospiritual, environmental, cultural, and
 social dimensions. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess etiology/precipitating contributory factors:
 1. Determine the type of discomfort the client is experiencing, such as physical pain, feeling of discontent, lack of ease with self, environment, or sociocultural settings, or inability to rise above one’s problems or pain (lack of transcendence). Have the client rate total comfort, using a scale of 0 to 10, with 10 being as comfortable as possible, or a “general comfort” questionnaire using a Likert- type scale. A comfort scale is similar to a pain rating scale and can help the client identify the focus of discomfort (e.g., physical, emotional, or social).
@@ -25,7 +24,6 @@ social dimensions.
  - Sociocultural
 -- Ascertain the meaning of comfort in the context of interpersonal, family, cultural values, and societal relationships.
 -- Validate client/SO understanding of client’s situation and ongoing methods of managing condition, as appropriate and/ or desired by client. This considers client/family needs in this area and/or shows appreciation for their desires
-
 [Nursing Priority No. 2]
     -  To assist client to alleviate discomfort:
 1. Review knowledge base and note coping skills that have been used previously to change behavior/promote well- being. This brings these to client’s awareness and promotes use in the current situation.
@@ -60,7 +58,6 @@ social dimensions.
 -- Encourage age- appropriate diversional activities (e.g., TV/ radio, computer games, play time, or socialization/outings with others).
 -- Avoid overstimulation/understimulation (cognitive and sensory).
 -- Make appropriate referrals to available support groups, hobby clubs, and service organizations.
-
 [Nursing Priority No.3]
     -  To promote wellness (Teaching/Discharge Considerations):
 1. Provide information about conditions/health risk factors or concerns in desired format (e.g., pictures, TV programs, articles, handouts, or audio/visual materials; classes, group discussions, Internet Web sites, and other databases) as appropriate. The use of multiple modalities enhances acquisition/retention of information and gives the client choices for accessing and applying information.
@@ -80,5 +77,5 @@ social dimensions.
     - Sociocultural
 -- Advocate for a growth- promoting environment in confl ict situations and consider issues from client/family and cultural perspective.
 -- Identify resources or referrals (e.g., knowledge and skills, financial resources or assistance, personal or psychological support group, social activities). 
-
 =====
+

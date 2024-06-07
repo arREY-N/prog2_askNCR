@@ -1,6 +1,5 @@
 ::Shock, Cardiogenic::
-
 decreased Cardiac Output>decreasedCardiacOutput.txt
 risk for impaired Gas Exchange>riskforimpairedGasExchange.txt
-
 =====
+

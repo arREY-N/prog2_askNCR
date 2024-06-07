@@ -1,6 +1,5 @@
 ::Serum Sickness::
-
 acute Pain>acutePain.txt
 deficient Knowledge regarding nature of condition, treatment needs, potential complications, and prevention of Recurrence>deficientKnowledgeregardingnatureofconditiontreatmentneedspotentialcomplicationsandpreventionofRecurrence.txt
-
 =====
+

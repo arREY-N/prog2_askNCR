@@ -5,7 +5,6 @@ Decreased, delayed, or absent ability to receive,
 process, transmit, and/or use a system of symbols.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors:
 1. Identify physiological or neurological conditions impacting speech, such as severe shortness of breath, cleft palate, facial trauma, neuromuscular weakness, stroke, brain tumors or infections, dementia, brain trauma, deafness/impaired hearing.
@@ -20,7 +19,6 @@ process, transmit, and/or use a system of symbols.
 10. Interview the parent to determine the child’s developmental level of speech and language comprehension.
 11. Note parental speech patterns and the manner of communicating with the child, including gestures.
 12. Note results of neurological tests (e.g., electroencephalogram [EEG]; or computed tomography/magnetic resonance imaging scans; language/speech tests [e.g., Boston Diagnostic Aphasia Examination, the Action Naming Test]) to assess and delineate underlying conditions affecting verbal communication.
-
 [Nursing Priority No. 2]
     -  To assist client to establish a means of communication to express needs, wants, ideas, and questions:
 1. Ascertain that you have the client’s attention before communicating.
@@ -51,7 +49,6 @@ process, transmit, and/or use a system of symbols.
 21. Provide environmental stimuli, as needed, to maintain contact with reality, or reduce stimuli to lessen anxiety that may worsen problem.
 22. Use confrontation skills, when appropriate, within an established nurse- client relationship to clarify discrepancies between verbal and nonverbal cues.
 23. Refer for appropriate therapies and support services. Client and family may have multiple needs (e.g., sources for further examinations and rehabilitation services, local community or national support groups and services for disabled, or fi nancial assistance with obtaining necessary aids for improving communication).
-
 [Nursing Priority No.3]
     -  To promote wellness (Teaching/Discharge Considerations):
 1. Review information about condition, prognosis, and treatment with client/signifi cant other (SO).
@@ -65,3 +62,4 @@ process, transmit, and/or use a system of symbols.
 9. Refer to appropriate resources (e.g., speech/language therapist, support groups such as stroke club, individual/family, and/or psychiatric counseling).
 10. Refer to NDs ineffective Coping; disabled family Coping; Anxiety; Fear. 
 =====
+

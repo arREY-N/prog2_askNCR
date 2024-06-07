@@ -4,7 +4,6 @@
  A constellation of withdrawal symptoms observed in newborns as a result of in utero exposure to addicting substances, or as a consequence of postnatal pharmacological pain management.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To determine degree of impairment: 
 1. Note maternal risks for fetal well-being including substance(s) used, dose, duration (especially last week before delivery), route; presence of infections. Maternal IV drug use associated with increased risk of infections (e.g., HIV, hep B, hep C) requiring additional testing/surveillance and treatment. Note: Maternal self-report of substance use may signifi cantly understate fetal exposure.
@@ -14,7 +13,6 @@
 5. Obtain urine and/or meconium samples for toxicology screen. Urine sample refl ects last several days of exposure, while meconium is more sensitive with longer window of detection—from 20 weeks’ gestation.
 6. Monitor for signs/symptoms of Fetal Abstinence Syndrome (FAS), such as excessive high-pitched cry, problems with sleep, feeding diffi culties, tremors, frequent yawning and sneezing, vomiting, and diarrhea. Onset of symptoms refl ecting dysregulation in central, autonomic, and gastrointestinal system function is varied based on substance(s) used, possibly appearing as early as 24 hours or delayed for 10 days, and require supportive interventions.
 7. Screen neonate at birth using standardized tool such as Finnegan Neonatal Abstinence Scoring form. Repeat evaluation every 3 to 4 hours when infant awake. Baseline usedfor comparison of subsequent tests, with usually two or three consecutive scores of eight or above indicating need for pharmacological therapy. Scores assist in monitoring, titrating, and termination of therapy. Note: Scoring may not be useful in preterm infants as delayed central nervous system (CNS) development impacts score.
-
 [Nursing Priority No. 2]
     -  To facilitate safe withdrawal from substance(s):
 1. Coordinate/interact with interdisciplinary team (e.g., neonatologist, pediatrician, nutritionist). This addresses immediate needs of infant during withdrawal process.
@@ -40,7 +38,6 @@
  - Phenobarbital—preferred for treatment of nonopiate and polydrug exposure
  - Clonidine—second-line treatment for symptoms refractory to opioid therapy
 10. Wean from medication as indicated. Once withdrawal scores decline and symptoms can be managed by comfort measures, a modifi ed protocol can be initiated to decrease pharmacological therapy. Note: Protocol can be extended for 3 weeks or more depending on infant’s needs.
-
 [Nursing Priority No.3]
     - To promote optimal wellness (Teaching/Discharge Considerations):
 1. Interact with expanded interdisciplinary team to include substance abuse counselor, social worker, child development specialist, etc. Provides support for mother/family in preparation for discharge and future care needs of infant.
@@ -51,5 +48,5 @@
 6. Perform home visit to determine safety of environment. Optimum home environment required for global development and well-being of infant.
 7. Encourage continued involvement of mother in peer group therapy, individual/family counseling, drug recovery education programs. Provides follow-up support to maintain mother’s sobriety.
 8. Identify community/social assistance resources (e.g., safe housing, food pantry, licensed day care, transportation, medical care). Provides for basic human needs of infant and family, enhances maternal coping abilities, and decreases risk of relapse and possible abusive situation.
-
 =====
+

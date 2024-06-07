@@ -2,11 +2,9 @@
 
 ::Definition::
  acute Confusion: Reversible disturbances of consciousness, attention, cognition, and perception that develop over a short period of time, and which last less than 3 months
-
  risk for acute Confusion: Susceptible to reversible disturbances of consciousness, attention, cognition, and perception that develop over a short period of time, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing or risk factors:
 1. Identify factors present, such as recent surgery or trauma; use of large numbers of medications (polypharmacy); intoxication with/withdrawal from a substance (e.g., prescription and over- the- counter [OTC] drugs; alcohol or illicit drugs); history or current seizure activity; episodes of fever or pain, or presence of acute infection (especially occult urinary tract infection [UTI] in elderly clients); traumatic events; or person with dementia experiencing sudden change in environment, unfamiliar surroundings, or people. Acute confusion is a symptom associated with numerous causes (e.g., hypoxia; metabolic/endocrine/neurological conditions, toxins; electrolyte abnormalities; systemic or central nervous system [CNS] infections; nutritional defi ciencies; or acute psychiatric disorders).
@@ -20,14 +18,12 @@
 9. Assess diet and nutritional status to identify possible deficiencies of essential nutrients and vitamins (e.g., thiamine) that could affect mental status.
 10. Evaluate sleep and rest status, noting insomnia, sleep depri- vation, or oversleeping. Discomfort, worry, and lack of sleep and rest can cause or exacerbate confusion. (Refer to NDs Insomnia; Sleep Deprivation, as appropriate.)
 11. Monitor laboratory values (e.g., complete blood count (CBC), blood cultures; oxygen saturation and, in some cases, arterial blood gases (ABGs) with carbon monoxide; blood urea nitrogen (BUN) and creatinine (Cr) levels; electrolytes; thyroid function studies; liver function studies, ammonia levels; serum glucose; urinalysis for infection and drug analysis; specifi c drug toxicologies and drug levels [including peak and trough, as appropriate]) to identify imbalances that have potential for causing confusion
-
 [Nursing Priority No. 2]
     - To determine degree of impairment (acute Confusion):
 1. Talk with SO(s) to determine historic baseline, observed changes, and onset or recurrence of changes to understand and clarify current situation.
 2. Collaborate with medical and psychiatric providers. Review results of diagnostic studies (e.g., delirium assessment tools, such as the Confusion Assessment Method [CAM], delirium index [DI], Mini-Mental State Examination [MMSE]; brain scans or imaging studies; electroencephalogram [EEG]; or lumbar puncture and cerebrospinal fl uid [CSF] studies) to evaluate the extent of impairment in orientation, attention span, ability to follow directions, send and receive communication, and appropriateness of response.
 3. Note occurrence and timing of agitation, hallucinations, and violent behaviors. (“Sundown syndrome” may occur, with client oriented during daylight hours but confused during nighttime.)
 4. Determine threat to safety of client/others. Delirium can cause the client to become verbally and physically aggressive, resulting in behavior threatening the safety of self and others.
-
 [Nursing Priority No.3]
     -  To maximize level of function, prevent further deterioration, and correct existing risk factors:
 1. Assist with treatment of the underlying problem (e.g., drug intoxication/substance abuse, infectious process, hypoxemia, biochemical imbalances, nutritional deficits, or pain management).
@@ -46,7 +42,6 @@
 14. Administer psychotropics cautiously to control restlessness, agitation, and hallucinations.
 15. Provide undisturbed rest periods.
 16. Refer to NDs impaired Memory; impaired verbal Communication, for additional interventions. 
-
 [Nursing Priority No. 4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Explain reason(s) for confusion, if known. Although acute confusion usually subsides over time as the client recovers from the underlying cause and/or adjusts to a situation, it can initially be frightening to a client/SO. Therefore, information about the cause and appropriate treatment to improve the condition may be helpful in managing a sense of fear and powerlessness.
@@ -57,3 +52,4 @@
 6. Review ways to maximize the sleep environment (e.g., preferred bedtime rituals, comfortable room temperature, bedding and pillows, and elimination or reduction of extraneous noise or stimuli and interruptions) to prevent confusional state caused by sleep deprivation.
 7. Provide appropriate referrals (e.g., cognitive retraining, substance abuse treatment and support groups, medication monitoring program, Meals on Wheels, home health, or adult day care). 
 =====
+

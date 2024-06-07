@@ -1,11 +1,10 @@
-::impaired TISSUE INTEGRITYand risk for impaired
-TISSUE INTEGRITY ::
+::impaired TISSUE INTEGRITYand risk for impaired TISSUE INTEGRITY ::
 
 ::Definition::
  - Impaired Tissue Integrity: Damage to the mucous membrane, cornea, integumentary system, muscular fascia, muscle, tendon, bone cartilage, joint capsule, and/or ligament. 
  - Risk For Impaired Tissue Integrity: Susceptible to damage to the mucous membrane, cornea, integumentary system, muscular fascia, muscle, tendon, bone cartilage, joint capsule, and/or ligament, which may compromise health. 
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To identify causative/contributing or risk factors: 
 1. Identify underlying conditions or pathology. Assess for individual factors that can result in tissue damage or can impede healing; for example: (1) trauma that causes internal tissue damage (e.g., burns, high-velocity and penetrating trauma); fractures (especially long-bone fractures) with hemorrhage; (2) external pressures (e.g., from tight dressings, splints or casting, burn eschar); (3) immobility (e.g., long-term bedrest, traction/cast); (4) presence of conditions affecting peripheral circulation and sensation (e.g., atherosclerosis, diabetes, venous insuffi ciency); (5) lifestyle factors (e.g., smoking, obesity, and sedentary lifestyle); (6) use of medications (e.g., anticoagulants, corticosteroids, immunosuppressives, antineoplastics) that adversely affect healing; (7) malnutrition (deprives the body of protein and calories required for cell growth and repair); and (8) dehydration (impairs transport of oxygen and nutrients).
@@ -22,7 +21,6 @@ TISSUE INTEGRITY ::
 12. Assess environmental location of home and work or school, as well as recent travel. Some areas of a country or city may be more susceptible to certain disease conditions or environmental pollutants.
 13. Evaluate pulses, calculate ankle-brachial index to evaluate potential for impairment of circulation to lower extremities. Result less than 0.9 indicates need for close monitoring or more aggressive intervention (e.g., tighter blood glucose and weight control in diabetic client).
 14. Refer to NDs (dependent on individual situation) risk for peripheral Neurovascular Dysfunction; risk for perioperative Positioning Injury; impaired physical/bed Mobility; impaired Skin Integrity; [disturbed visual Sensory Perception]; ineffective peripheral Tissue Perfusion; risk for Trauma; risk for Infection for related interventions.
-
 [Nursing Priority No. 2]
     -  To assess degree of impairment: (impaired Tissue Integrity)
 1. Obtain a history of condition (e.g., pressure, venous, or diabetic wound; eye or oral lesions), including whether condition is acute or recurrent; original site/characteristics of wound; duration of problem and changes that have occurred over time. 
@@ -39,7 +37,6 @@ TISSUE INTEGRITY ::
 3. Assist with diagnostic procedures (e.g., x-rays, imaging scans, biopsies, débridement). May be necessary to determine extent of impairment.
 4. Obtain specimens of exudate and lesions for Gram stain, culture and sensitivity, and so forth, when appropriate.
 5. Determine psychological effects of condition on client/significant other(s) (SO[s]). Can be devastating for client’s body or self-image and esteem, especially if condition is severe, disfi guring, or chronic, as well as costly and burdensome for SO(s)/caregiver.
-
 [Nursing Priority No.3]
     - To correct/ reduce risk of impairment and to facilitate healing: 
 1. Inspect lesions or wounds daily, or as appropriate, for changes (e.g., signs of infection, complications, or healing). Promotes timely intervention and revision of plan of care.
@@ -60,7 +57,6 @@ TISSUE INTEGRITY ::
 16. Protect client from environmental hazards when vision or hearing or cognitive defi cits impact safety. 
 17. Advise smoking cessation and refer for assistance or support, if indicated. Smoking causes vasoconstriction that interferes with healing.
 18. Monitor laboratory studies (e.g., complete blood count, electrolytes, glucose, cultures) for changes indicative of healing or presence of infection, complications.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Encourage verbalizations of feelings and expectations regarding condition and potential for recovery of structure and
@@ -82,5 +78,5 @@ and reduces potential for complications.
 9. Emphasize importance of follow-up care, as appropriate (e.g., diabetic foot care clinic, wound care specialist or clinic, enterostomal therapist). 
 10. Identify required changes in lifestyle, occupation, or environment necessitated by limitations imposed by condition or to avoid causative factors.
 11. Refer to community or governmental resources, as indicated (e.g., Public Health Department, Occupational Safety and Health Administration [OSHA], American Burn Association).
-
 =====
+

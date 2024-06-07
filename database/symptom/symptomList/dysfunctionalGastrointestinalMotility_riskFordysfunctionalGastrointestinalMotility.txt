@@ -4,14 +4,12 @@
 dysfunctional Gastrointestinal Motility:
 Increased, decreased, ineffective, or lack of peristaltic activity 
 within the gastrointestinal system.
-
 risk for dysfunctional Gastrointestinal Motility:
 Susceptible to increased, decreased, ineffective, or lack of 
 peristaltic activity within the gastrointestinal system, which 
 may compromise health.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing or risk factors: 
 1. Note the presence of conditions (e.g., congestive heart failure, major trauma, chronic conditions, or sepsis) affecting systemic circulation/perfusion that can result in gastrointestinal (GI) hypoperfusion, and short- and/or long-term GI dysfunction.
@@ -22,7 +20,6 @@ may compromise health.
 6. Ascertain whether the client is experiencing anxiety; acute, extreme, or chronic stress; or other psychogenic factors present in a person with emotional or psychiatric disorders (including anorexia/bulimia, etc.) that can affect interest in eating, and ability to ingest and digest food.
 7. Review client’s medication regimen. Medications (e.g., laxatives, antibiotics, opiates, sedatives, and iron preparations) may cause or exacerbate intestinal issues. In addition, the likelihood of bleeding increases from the use of medications such as nonsteroidal anti-infl ammatory agents (NSAIDs), Coumadin, and Plavix.
 8. Review laboratory and other diagnostic studies to evaluate for GI problems, such as bleeding, infl ammation, toxicity, and infection; or to help identify masses, dilation/obstruction, abnormal stool and gas patterns, and so forth. 
-
 [Nursing Priority No. 2]
     - To note degree of dysfunction or risk for organ involvement: 
 1. Assess vital signs, noting presence of low blood pressure, elevated heart rate, and fever. This may suggest hypoperfusion or developing sepsis. Fever in the presence of bright red blood in stool may indicate ischemic colitis.
@@ -35,7 +32,6 @@ may compromise health.
 8. Note presence of nausea, with or without vomiting, and relationship to food intake or other events, if indicated. History can provide important information about cause (e.g., pregnancy, gastroenteritis, cancers, myocardial infarction, hepatitis, systemic infections, contaminated food, drug toxicity, or eating disorders).
 9. Evaluate client’s current nutritional status, noting ability to ingest and digest food. Health depends on the intake, digestion, and absorption of nutrients, which both affect and are affected by GI function.
 10. Measure intra-abdominal pressure as indicated. Tissueedema or free fl uid collecting in the abdominal cavity leads to intra-abdominal hypertension, which, if untreated, can cause abdominal compartment syndrome with end-stage organ failure
-
 [Nursing Priority No. 3]
     - To reduce risks or improve existing dysfunction: 
 1. Collaborate in treatment of underlying conditions to correct or treat disorders associated with client’s current GI dysfunction.
@@ -49,7 +45,6 @@ may compromise health.
 9. Encourage relaxation and distraction techniques if anxiety is suspected to play a role in GI dysfunction.
 10. Manage pain with medications as ordered, and nonpharmacological interventions such as positioning, back rub, or heating pad (unless contraindicated) to enhance muscle relaxation and reduce discomfort.
 11. Prepare the client for procedures and surgery, as indicated. This may require a variety of interventions to treat the problem causing or contributing to severe GI dysfunction. 
-
 [Nursing Priority No.4]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Discuss normal variations in bowel patterns to help alleviate unnecessary concern, initiate planned interventions, or seek timely medical care. This may prevent overuse of laxatives or help the client understand when food, fl uid, or drug modifi cations are needed.
@@ -72,3 +67,4 @@ may compromise health.
 14. Recommend and/or refer to physician for vaccines as indicated. The Centers for Disease Control and Prevention (CDC) makes recommendations for travelers and/or persons in high-risk areas or situations in which person might be exposed to contaminated food or water.
 15. Refer to NDs bowel Incontinence; Constipation; Diarrhea, for additional interventions.
 =========
+

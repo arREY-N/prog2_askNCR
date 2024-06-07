@@ -4,14 +4,12 @@
  Inability to empty bladder completely. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Review medical history for diagnoses, such as congenital defects, neurological disorders (e.g., multiple sclerosis, polio), prostatic hypertrophy or surgery, birth canal injury or scarring, spinal cord injury with lower motor neuron injury or bladder stones that may cause detrusor-sphincter dyssynergia (loss of coordination between bladder contraction and external urinary sphincter relaxation), detrusor muscle atrophy, or chronic overdistention because of outlet obstruction.
 2. Determine presence of weak or absent sensory and/or motor impulses (as with stroke, spinal injury, or diabetes) that predispose client to compromised enervation or interpretation of sensory signals resulting in impaired urination.
 3. Evaluate customary fl uid intake.
 4. Assess client’s medication regimen (e.g., psychotropic, antihistamines, atropine, belladonna) to consult with primary care provider regarding client’s continued use of drugs that are known to potentiate urinary retention.
-
 [Nursing Priority No. 2]
     - To determine degree of interference/disability: 
 1. Ascertain effect of condition on functioning and lifestyle. Chronic urinary retention can limit client’s desired lifestyle (e.g., daily activities, social functioning) and can lead to chronic incontinence and life-threatening complications (e.g., intractable UTIs, kidney failure).
@@ -21,7 +19,6 @@
 5. Palpate height of bladder. 
 6. Determine presence of bladder spasms. 
 7. Prepare for and assist with urodynamic testing (e.g., urofl owmetry to assess voiding speed and urine volume, cystometrogram to measure bladder pressure and volume, bladder scan to measure retention and/or postvoid residual), or abdominal leak point pressure test.
-
 [Nursing Priority No.3]
     -  To assist in treating/preventing retention: 
 1. Collaborate in treatment of underlying conditions (e.g., BPH, reducing or eliminating medications responsible for retention, repairing perineal scarring or outlet obstruction) that may correct or reduce severity of retention and associated overflow or total incontinence.
@@ -32,7 +29,6 @@
 6. Establish regular voiding or self-catheterization program to prevent refl ux and increased renal pressures.
 7. Consult with urologist and prepare for more aggressive intervention (e.g., reconstructive surgery, lithotripsy, prostatectomy), as indicated, to remove source of obstruction, reconstruct sphincter, or provide for urinary diversion.
 8. Refer for consideration of advanced or research-based therapies (e.g., implanted sacral, tibial, or pelvic electrical stimulating device) for long-term management of retention.
-
 [Nursing Priority No.4]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Establish regular schedule for bladder emptying whether voiding or using catheter. 
@@ -40,5 +36,5 @@
 3. Instruct client/SO(s) in clean intermittent self-catheterization techniques so that more than one individual is able to assist the client in care of elimination needs
 4. Instruct client/SO in care when client has indwelling (urethral or suprapubic catheter) or urinary diversion device (e.g., clean technique, emptying and cleaning of leg bag or drainage bag; irrigation and replacement) to promote self-care, enhance independence, and prevent complications.
 5. Review signs/symptoms of complications requiring medical evaluation/intervention. 
-
 =====
+

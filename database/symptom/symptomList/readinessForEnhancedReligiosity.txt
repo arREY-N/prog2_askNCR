@@ -3,8 +3,8 @@
 ::Definition::
  A pattern of reliance on religious beliefs and/or participation in rituals of a particular faith tradition, which can be strengthened.
  
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To determine spiritual state/motivation for growth:
 1. Determine client’s current thinking about desire to learn more about religious beliefs and actions.
@@ -12,7 +12,6 @@
 3. Discuss client’s spiritual commitment, beliefs, and values. Enables examination of these issues and helps client learn more about self and what he or she desires/believes.
 4. Explore how spirituality and religious practices have affected client’s life. Some believe that the value of religiosity is the deepened sense of quality of life associated with practicing one’s beliefs or tenets.
 5. Ascertain motivation and expectations for change.
-
 [Nursing Priority No. 2]
     - To assist client to integrate values and beliefs to strengthen sense of wholeness and achieve optimum balance in daily living:
 1. Establish nurse-client relationship in which dialogue can occur. Client can feel safe to say anything and know it will be accepted.
@@ -20,7 +19,6 @@
 3. Discuss cultural beliefs of family of origin and how they have influenced client’s religious practices. As client expands options for learning new or other religious beliefs and practices, these infl uences will provide information for comparing and contrasting new information.
 4. Explore connection of desire to strengthen belief patterns and customs to daily life. Becoming aware of how these issues affect the individual’s daily life can enhance ability to incorporate them into everything he or she does.
 5. Identify ways in which individual can develop a sense of harmony with self and others. Client may have some beliefs that may or may not be shared with others, and discussing these can clarify understanding by each individual.
-
 [Nursing Priority No.3]
     -  To enhance optimum spiritual wellness:
 1. Encourage client to seek out and experience different religious beliefs, services, and ceremonies. Trying out different religions will give client more information to contrast and compare what will fi t his or her belief system.
@@ -28,5 +26,5 @@
 3. Help client learn about stress-reducing activities (e.g., meditation, relaxation exercises, mindfulness). Promotes general well-being and sense of control over self and ability to choose religious activities desired. Mindfulness is a method of being in the moment.
 4. Encourage participation in religious activities, worship or religious services, reading religious materials or reviewing multimedia sources, study groups, volunteering in choir, or undertaking other needed duties. Enhances client’s knowledge and promotes connectedness with self, others, and/ or higher power.
 5. Refer to community resources (e.g., pastor, parish nurse, religion classes, other support groups).
-
 =====
+

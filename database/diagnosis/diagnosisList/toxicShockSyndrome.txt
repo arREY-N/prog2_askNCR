@@ -1,8 +1,7 @@
 ::Toxic Shock Syndrome::
-
 hyperthermia>hyperthermia.txt
 deficient Fluid Volume>deficientFluidVolume.txt
 acute Pain>acutePain.txt
 impaired Skin_Tissue Integrity>impairedSkin_TissueIntegrity.txt
-
 =====
+

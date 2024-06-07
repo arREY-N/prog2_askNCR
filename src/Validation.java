@@ -1,7 +1,10 @@
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class Validation {
     
     public static boolean isAlphanumeric(String username, String password) { 
-        if (username.matches("[a-zA-Z0-9]+") && password.matches("[a-zA-Z0-9]+")) return true;
+        if (username.matches("[0-9]{4}") && password.matches("[a-zA-Z0-9]+")) return true;
         else return false;
     }
     
@@ -26,10 +29,10 @@ public class Validation {
 
     public static void signup(String username, String password) throws AccountExistingException{
         if (!AccountsDatabase.getAccounts().containsKey(username)) {
-            AccountsDatabase.addAccount(username, password);
+                AccountsDatabase.addAccount(username, password);
         } else {
             System.out.println("\nUser already exists!");
-            throw new AccountExistingException();
+            throw new AccountExistingException(); 
         } 
-    }
+    }   
 }

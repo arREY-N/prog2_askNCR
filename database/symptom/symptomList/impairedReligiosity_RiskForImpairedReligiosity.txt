@@ -5,7 +5,6 @@
  - Risk For Impaired Religiosity: Susceptible to an impaired ability to exercise reliance on beliefs and/or participate in rituals of a particular faith tradition, which may compromise health.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing or risk factors:
 1. Ascertain current situation (e.g., illness, hospitalization, prognosis of death, depression, lack of support systems, financial concerns). Identifies problems client is dealing with in the moment that may be affecting desire to be involved with religious activities.
@@ -18,7 +17,6 @@
 8. Identify cultural values and expectations regarding religious beliefs or practices. Individuals grow up in a family that instills a value system within them. As the person grows up, ideas, values, and expectations may change or be strengthened by new information, different questioning, and alternative viewpoints, which may affect current situation.
 9. Ascertain substance use or abuse. Individuals may turn to use of various substances during times of distress, and this can affect the ability to deal with problems in a positive manner.
 10. Note socioeconomic status of individual/family. The poor may have high levels of personal religiosity yet may participate less in organized religion because they feel stigmatized by their situation (e.g., single mothers, those receiving public assistance, or those engaging in a lifestyle that confl icts with church norms).
-
 [Nursing Priority No. 2]
     - To assist client/SO(s) to deal with feelings/situation:
 1. Use therapeutic communication skills of refl ection and active-listening. Communicates acceptance and enables client to fi nd own solutions to concerns.
@@ -34,7 +32,6 @@
 11. Discuss desire to continue or reconnect with previous belief patterns, customs, and current barriers. As client begins to think about current feelings of alienation from previous religious connections, these discussions can help to clarify and allow client to think about how these beliefs can be regained.
 12. Identify ways to strengthen spiritual or religious expression. There are multiple options for enhancing participation in faith community (e.g., joining prayer or study group, volunteering time to community projects, singing in the choir, reading spiritual writings).
 13. Involve client in refi ning healthcare goals and therapeutic regimen, as appropriate. Identifi es role illness is playing in current concerns about ability to participate or appropriateness of participating in desired religious activities.
-
 [Nursing Priority No.3]
     -  To promote spiritual wellness (Teaching/Discharge Considerations):
 1. Have client identify support systems available.
@@ -43,5 +40,5 @@
 4. Provide privacy for meditation, prayer, or performance of rituals, as appropriate.
 5. Explore alternatives or modifi cations of ritual based on setting and individual needs and limitations. Individual may not be able to go to a church or temple, so providing another setting—chapel in the facility or quiet room with appropriate religious artifacts or material—can provide the setting desired.
 6. Assist client to identify spiritual resources that could be helpful (e.g., contacting spiritual advisor who has qualifi cations and experience in dealing with specifi c problems individual is concerned about). Provides answers to spiritual questions, assists in the journey of self-discovery, and can help client learn to accept and forgive self.
-
 =====
+

@@ -4,7 +4,6 @@
  A pattern of providing an environment for children to nurture growth and development, which can be strengthened. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To determine need/motivation for improvement: 
 1. Ascertain motivation and expectation for change. Motivation to improve and high expectations can encourage client tomake changes that will improve skills. However, unrealistic expectations may hamper efforts.
@@ -15,7 +14,6 @@
 6. Observe attachment behaviors between parent(s) and child(ren), recognizing cultural backgrounds that may infl uence expected behaviors. Behaviors such as eye-to-eye contact, use of en face position, talking to infant in high-pitched voice, are indicative of attachment behaviors in American culture, but may not be appropriate in another culture. Failure to bond is thought to affect subsequent parent-child interactions. 
 7. Determine presence and effectiveness of support systems, role models, extended family, and community resources available to the parent(s). Parents desiring to enhance abilities and improve family life can benefi t by role models that help them develop their own style of parenting.
 8. Note cultural or religious infl uences on parenting, expectations of self and child, sense of success or failure. Expectations may vary with different cultures (e.g., Arab Americans hold children to be sacred, but child-rearing is based on negative rather than positive reinforcements and parents are more strict with girls than with boys). These beliefs may interfere with desire to improve parenting skills when there is confl ict between the two.
-
 [Nursing Priority No. 2]
     - To foster improvement of parenting skills:
 1. Create an environment in which relationships can be strengthened. A safe environment in which individuals can freely express their thoughts and feelings optimizes learning and positive interactions among family members, thus enhancing relationships.
@@ -23,7 +21,6 @@
 3. Encourage expression of feelings, such as frustration or anger, while setting limits on unacceptable behaviors. Identifi cation of feelings promotes understanding of self and enhances connections with others in the family. Unacceptable behaviors result in diminished self-esteem and can lead to problems in the family relationships.
 4. Emphasize parenting functions rather than mothering/fathering skills. By virtue of gender, each person brings something to the parenting role; however, nurturing tasks can be done by both parents, enhancing family relationships.
 5. Encourage attendance at skill classes, such as Parent or Family Effectiveness Training. Assists in developing communication skills of Active-listening, I-messages, and problem-solving techniques to improve family relationships and promote a win-win environment.
-
 [Nursing Priority No.3]
     - To promote optimal wellness:
 1. Involve all members of the family in learning. The family system benefi ts from all members participating in learning new skills to enhance family relationships.
@@ -31,5 +28,5 @@
 3. Provide information, as indicated, including time management, stress-reduction techniques. Learning about positive parenting skills, understanding growth and developmental expectations, and discovering ways to reduce stress and anxiety promote the individual’s ability to deal with problems that may arise in the course of familyrelationships.
 4. Discuss current “family rules,” identifying areas of needed change. Rules may be imposed by adults, rather than through a democratic process involving all family members, leading to confl ict and angry confrontations. Setting positive family rules with all family members participating can promote an effective, functional family.
 5. Discuss need for long-term planning and ways in which family can maintain desired positive relationships. Each stage of life brings its own challenges and understanding, and preparing for each stage enables family members to move through them in positive ways, promoting family unity and resolving inevitable confl icts with win-win solutions.
-
 =====
+

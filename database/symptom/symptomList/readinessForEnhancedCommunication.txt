@@ -4,7 +4,6 @@
 A pattern of exchanging information and ideaswith others, which can be strengthened.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess how client is managing communication/challenges:
 1. Ascertain circumstances that result in a client's desire to improve communication. Many factors are involved in communication, and identifying specifi c needs/expectations helps in developing realistic goals and determining likelihood of success.
@@ -19,7 +18,6 @@ A pattern of exchanging information and ideaswith others, which can be strengthe
 10. Determine the presence of emotional lability (e.g., anger outbursts) and the frequency of unstable behaviors. Emotional and psychiatric issues can affect communication and interfere with understanding.
 11. Evaluate congruency of verbal and nonverbal messages. Communication is enhanced when verbal and nonverbal messages are congruent.
 12. Evaluate need or desire for pictures or written communications and instructions as part of the treatment plan. Alternative methods of communication can help the client feel understood and promote feelings of satisfaction with interaction.
-
 [Nursing Priority No. 2]
     - To improve the client's ability to communicate thoughts, needs,
 and ideas:
@@ -36,7 +34,6 @@ and ideas:
 11. Reduce distractions and background noises (e.g., close the door and turn down the radio or TV). A distracting environment can interfere with communication, limiting attention to tasks and making speech and communication more diffi cult. Reducing noise can help both parties hear clearly, thus improving understanding.
 12. Associate words with objects— using gestures, repetition, and redundancy— and point to objects or demonstrate desired actions if communication requires visual aids. The speaker's own body language can be used to enhance the client's understanding.
 13. Use confrontation skills carefully, when appropriate, within an established nurse- client relationship. This can be used to clarify discrepancies between verbal and nonverbal cues, enabling the client to look at areas that may require change.
-
 [Nursing Priority No.3]
     -  To promote optimum communication:
 1. Discuss with family/significant other (SO) and other caregivers effective ways in which the client communicates. Identifying positive aspects of current communication skills enables family members and other caregivers to learn and move forward in desire to enhance ways of interacting.
@@ -44,3 +41,4 @@ and ideas:
 3. Reinforce client/SO(s) learning and using therapeutic communication skills of acknowledgment, active- listening, and I- messages. This improves general communication skills, emphasizes acceptance, and conveys respect, enabling family relationships to improve.
 4. Refer to appropriate resources (e.g., speech therapist, language classes, individual/family and/or psychiatric counseling). This may be needed to help overcome challenges as the family reaches toward a desired goal of enhanced communication.
 =====
+

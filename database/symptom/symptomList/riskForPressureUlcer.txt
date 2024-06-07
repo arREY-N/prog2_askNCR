@@ -4,7 +4,6 @@
  Susceptible to localized injury to the skin and/or underlying tissue usually over a bony prominence as a result of pressure, or pressure in combination with shear [National Pressure Ulcer Advisory Panel (NPUAP, 2007)].
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess risk and contributing factors: 
 1. Identify presence of underlying condition that increases risk of pressure ulcer. Skin integrity problems can be the result of 
@@ -17,7 +16,6 @@
 4. Note skin color discoloration (e.g., nonblanchable erythema, persistent red, blue, or purple hues) in pressure areas suggestive of impaired tissue health. Note: It may be necessary in a darker skinned individual to focus more on other evidence of pressure injury development, such as bogginess, induration, coolness, or increased warmth as well as signs of skin discoloration.
 5. Ascertain current medication regimen. Individual may be on medications that contribute to development of pressure injuries or affect wound healing (e.g., NSAIDs. vasopressors, beta blockers, anticoagulants, inotropics, immunosuppressives, antineoplastics, some analgesics), and that can adversely affect the skin.
 6. Review laboratory results (e.g., hemoglobin/hematocrit [Hb/ Hct], blood glucose, blood and/or wound culture and sensitivities for infectious agents [viral, bacterial, fungal], albumin, prealbumin, transferrin, protein) to evaluate for potential risk factors or ability to heal. Note: Albumin <3.5 correlates to decreased wound healing and increased incidence of pressure ulcers.
-
 [Nursing Priority No. 2]
     - To maintain optimal skin/tissue integrity: 
 1. Monitor for incontinence, changing diapers, padding, and bedding as needed. Maintains skin that is clean, dry, and free of contaminants which can cause/exacerbate skin/ tissue breakdown.
@@ -31,12 +29,11 @@
  - Educate other care providers about client’s devices and prevention of skin breakdown interventions
 6. Provide optimum nutrition (including adequate protein, lipids, calories, trace minerals, and multivitamins [e.g., A, C, D, E]) to promote skin and tissue health, and to maintain general good health. Refer to nutritionist as indicated.
 7. Provide adequate hydration (e.g., oral, tube feeding, IV, ambient room humidity) to reduce and replenish transepidermal water loss.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Encourage regular inspection and monitoring of skin for changes or failure to heal. Early detection and reporting to healthcare providers promote timely evaluation and intervention.
 2. Encourage good nutrition, adequate hydration, early and ongoing mobility, and range-of-motion and strengthening exercises to enhance circulation and promote health of skin and other organs.
 3. Discuss proper and safe use of equipment or appliances (e.g., heating pad, ostomy appliances, padding straps of braces).
 4. Encourage abstinence from smoking, which causes vasoconstriction, impairing circulation.
-
 =====
+

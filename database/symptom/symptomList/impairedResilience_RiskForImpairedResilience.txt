@@ -5,7 +5,6 @@
  - Risk For Impaired Resilience: Susceptible to decreased ability to recover from perceived adverse or changing situations, through a dynamic process of adaptation, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors or potential stressors/
 challenges:
@@ -21,7 +20,6 @@ challenges:
 10. Ascertain stability of relationship, presence of separation or divorce. Family members are vulnerable to break-up of the family unit and may see it as causing long-term harm.
 11. Determine availability and use of resources, family, support groups, fi nancial aid. 
 12. Note cultural factors and religious beliefs that may affect interpretation of, or response to, situation. Helps determine individual needs and possible options.
-
 [Nursing Priority No. 2]
     -  To assist client to improve skills to deal with adverse situations or crises.
 1. Encourage free expressions of feelings, including feelings of anger and hostility, setting limits on unacceptable behavior. Unacceptable behavior leads to feelings of shame and guilt if not controlled.
@@ -34,7 +32,6 @@ challenges:
 8. Focus on strengths of the individual as the problems are being assessed and diagnosed. Impr oving the future for the client is based on developing the capacity to deal successfully with the obstacles he or she meets in life.
 9. Encourage client/parents to model empathy with family members. Empathy is an important interpersonal skill and a cornerstone of emotional intelligence; and children learn empathy when parents are empathic with them. 
 10. Discuss individual issues, such as obesity, substance use, poor impulse control, violent behavior; provide information about the risks and help client/parent understand how they can help family members develop habits that will promote physical and mental well-being.
-
 [Nursing Priority No.3]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Reinforce that client is responsible for self, for choices made, and actions taken. The road to resilience is developed by the individual accepting that change is a part of living and then beginning to live life more fully.
@@ -46,5 +43,5 @@ challenges:
 7. Encourage client/parents to take time for themselves. Provides opportunity for personal growth; respite allows individuals to pursue own interests and return to tasks of life/parenting with renewed vigor
 8. Determine need or desire for religious or spiritual counselor and make arrangements for visit. Providing client an opportunity to discuss concerns about what has happened helps to build resilience to face future stressors.
 9. Refer to community resources as appropriate, such as social services, financial, domestic violence/elder abuse program, family therapy, divorce counseling, special needs support services. 
-
 =====
+

@@ -4,7 +4,6 @@
  A pattern of perceptions or ideas about the self, which can be strengthened.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess current situation and desire for improvement:
 1. Determine current status of individual’s belief about self. Self-concept consists of the physical self (body image), the personal self (identity), and self-esteem. Information about client’s current thinking about self provides a beginning for making changes to improve self.
@@ -13,7 +12,6 @@
 4. Note willingness to seek assistance and motivation for change. Individuals who have a sense of their own selfimage and are willing to look at themselves realistically will be able to progress in the desire to improve.
 5. Determine client’s concept of self in relation to cultural or religious ideals and beliefs. Cultural characteristics are learned in the family of origin and shape how the individual views self.
 6. Observe nonverbal behaviors and note congruence with verbal expressions. Discuss cultural meanings of nonverbal communication. Incongruencies between verbal and nonverbal communication require clarifi cation. Interpretation of nonverbal expressions is culturally determined and needs to be clarifi ed to avoid misinterpretation.
-
 [Nursing Priority No. 2]
     - To facilitate personal growth:
 1. Develop therapeutic relationship. Be attentive, maintain open communication, use skills of active-listening and I-messages. Promotes trusting situation in which client is free to be open and honest with self and others.
@@ -27,7 +25,6 @@
 9. Provide reinforcement for progress noted. Positive words of encouragement support development of effective coping behaviors.
 10. Encourage client to progress at own rate. Adaptation to a change in self-concept depends on its significance to the individual and disruption to lifestyle.
 11. Involve in activities or exercise program of choice, promote socialization. Enhances sense of well-being and can help to energize client.
-
 [Nursing Priority No.3]
     - To promote optimum sense of self-worth and happiness:
 1. Assist client to identify goals that are personally achievable. Provide positive feedback for verbal and behavioral indications of improved self-view. Increases likelihood of success and commitment to change.
@@ -37,5 +34,5 @@
 5. Discuss ways to develop optimism. Optimism is a key ingredient in happiness and can be learned.
 6. Suggest assertiveness training classes. Enhances ability to interact with others and develop more effective relationships, enhancing one’s self-concept.
 7. Emphasize importance of grooming and personal hygiene and assist in developing skills to improve appearance and dress for success as needed. Looking one’s best improves sense of self-esteem, and presenting a positive appearance enhances how others see one.
-
 =====
+

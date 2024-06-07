@@ -6,7 +6,6 @@ in physical, psychospiritual, environmental, and/or social
 dimensions, which may be strengthened.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To determine current level of comfort and motivation for
 change:
@@ -27,7 +26,6 @@ change:
  Sociocultural
 -- Ascertain the meaning of comfort in the context of interpersonal, family, cultural values, spatial, and societal relationships.
 -- Validate client/SO understanding of client’s diagnosis and prognosis and ongoing methods of managing condition, as appropriate and/or desired by client. This considers client/ family needs in this area and/or shows appreciation for their desires.
-
 [Nursing Priority No. 2]
     - To assist client in developing plan to improve comfort:
 1. Review knowledge base and note coping skills that have been used previously to change behavior and promote well- being. This brings these to the client’s awareness and promotes use in the current situation.
@@ -62,7 +60,6 @@ change:
 -- Encourage age- appropriate diversional activities (e.g., TV/ radio, play time/games, or socialization/outings with others).
 -- Avoid cognitive or sensory overstimulation and understimulation.
 -- Make appropriate referrals to available support groups, hobby clubs, or service organizations. 
-
 [Nursing Priority No.3]
     - To promote optimum wellness (Teaching/Discharge Considerations):
 1. Provide information about condition, health risk factors, or concerns in desired format (e.g., pictures, TV programs, articles, handouts, audio/visual materials, classes, group discussions, Web sites, other databases), as appropriate. Use of multiple modalities enhances acquisition and retention of information and gives client choices for accessing and applying information.
@@ -83,3 +80,4 @@ change:
 -- Advocate for growth- promoting environment in confl ict situations and consider issues from client/family and cultural perspective.
 -- Support client/SO access to resources (e.g., knowledge and skills, financial resources/assistance, personal/psychological support, social systems). 
 =====
+

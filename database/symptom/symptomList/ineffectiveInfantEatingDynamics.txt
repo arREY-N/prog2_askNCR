@@ -4,7 +4,6 @@
 Altered parental behaviors resulting in over- or undereating patterns. 
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     - To assess causative/contributing factors: 
 1. Identify current situation and specifi c needs of infant and parents. Information necessary to defi ne needs and develop plan of care. 
@@ -14,7 +13,6 @@ Altered parental behaviors resulting in over- or undereating patterns.
 5. Determine sucking dynamics of the breastfed infant, especially preterm infants. Breastfeeding is the ultimate nutritional goal, and effective sucking is vital to accomplishing adequate intake. 
 6. Note feeding problems, such as colic, vomiting, slow feeding, or refusal to eat. Mild to moderately severe issues may be managed by care provider, while more complicated cases may require referral to specialists.
 7. Identify family cultural/religious beliefs and fi nances. Personal beliefs and fi nancial resources affect how family views feeding choice (i.e., breast or bottle) and food choices when solids are introduced.
-
 [Nursing Priority No. 2]
     -  To promote effective infant eating dynamics: 
 1. Develop positive nurse/family relationship. Enables family to feel comfortable discussing issues with nurse, being open and honest about concerns and anxieties. 
@@ -25,7 +23,6 @@ Altered parental behaviors resulting in over- or undereating patterns.
 6. Discuss the basic food rules. Parents control what, when, and where infant is fed. Infant controls how much is eaten in order to learn internal regulation of eating in accordance with physiologic signals of hunger and fullness.
 7. Give assistance to parents requiring help with management skills. Setting time limits for meals, ignoring non-eating behavior, and using positive reinforcement to motivate infant can promote positive feeding behaviors. 
 -- Refer to ND ineffective infant Feeding Pattern for additional interventions. 
-
 [Nursing Priority No. 3]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Encourage family members to set realistic goals for achieving necessary lifestyle changes. Depending on the family situation, families will be dealing with problems as infant grows, and having written goals provides reminder of what needs to be done.
@@ -34,5 +31,5 @@ Altered parental behaviors resulting in over- or undereating patterns.
 4. Refer to community resources (e.g., public health visitor program, home care, day care/respite care, nutrition program/food bank). Additional support and assistance enhance parents’ opportunity for meeting established goals.
 5. Refer to parenting classes, individual and family therapy and or psychiatric counseling, as indicated. Additional help willenable family to cope with problems in more positive ways.
 6. Suggest participation in group or community activities, e.g., assertiveness classes, volunteer work. Involvement with others in these activities helps individuals to learn new ways of coping with problems in their own family.
-
 =========
+

@@ -4,7 +4,6 @@
  Inability to maintain independent breathing that is adequate to support life. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To determine degree of impairment: 
 1. Identify client with actual or impending respiratory failure (e.g., apnea or slow, shallow breathing; declining mentation or obtunded with need for airway protection). 
@@ -16,7 +15,6 @@
 7. Investigate etiology of current respiratory failure to determine ventilation needs and most appropriate type of ventilatory support.
 8. Review serial chest x-rays and imaging (magnetic resonance imaging/computed tomography scan) results to diagnose underlying disorder and monitor response to treatment. Client may already be receiving treatments to maintain airway patency and enhance gas exchange or may have respiratory failure associated with sudden event (e.g., severe trauma, sudden-onset respiratory illness, surgery with complications). 
 9. Note response to current measures and respiratory therapy (e.g., bronchodilators, supplemental oxygen, nebulizer or intermittent positive-pressure breathing treatments).
-
 [Nursing Priority No. 2]
     - To provide/maintain ventilatory support:
 1. Collaborate with physician, respiratory care practitioners regarding effective mode of ventilation (e.g., noninvasive oxygenation via continuous positive airway pressure (CPAP) and biphasic positive airway pressure [BiPAP]); or intubation and mechanical ventilation (e.g., continuous mandatory, assist control, intermittent mandatory [IMV], pressure support). Specifi c mode is determined by client’s respiratory requirements, presence of underlying disease process, and the extent to which client can participate in ventilatory efforts.
@@ -39,7 +37,6 @@
 18. Administer sedation as required to synchronize respirations and reduce work of breathing and energy expenditure, as indicated.
 19. Administer and monitor response to medications that promote airway patency and gas exchange. 
 20. Refer to NDs ineffective Airway Clearance; ineffective Breathing Pattern; impaired Gas Exchange, for related interventions. 
-
 [Nursing Priority No.3]
     - To prepare for/assist with weaning process if appropriate:
 1. Determine physical and psychological readiness to wean, including specific respiratory parameters, absence of infection or cardiac failure, client alert and/or able to sustain spontaneous respiration, nutritional status suffi cient to maintain work of breathing.
@@ -52,7 +49,6 @@
 8. Involve family/significant other(s) (SO[s]) as appropriate. Provide diversional activity. Helps client focus on something other than breathing.
 9. Instruct client in use of energy-saving techniques during care activities to limit oxygen consumption and fatigue.
 10. Acknowledge and provide ongoing encouragement for client’s efforts. Communicate hope for successful weaning response (even partial). Enhances commitment to continue activity, maximizing outcomes.
-
 [Nursing Priority No.4]
     - To prepare for discharge on ventilator when indicated:
 1. Ascertain plan for discharge placement (e.g., return home, short-term stay in subacute or rehabilitation center, or permanent placement in long-term care facility). Helps to determine care needs and fi scal impact of home care versus extended-care facility.
@@ -68,7 +64,6 @@
 11. Identify signs/symptoms requiring prompt medical evaluation/intervention. Timely treatment may prevent progression of problem.
 12. Provide positive feedback and encouragement for efforts of SO(s)/caregivers. Promotes continuation of desired behaviors.
 13. List names and phone numbers for identifi ed contact persons/resources. Round-the-clock availability reduces sense of isolation and enhances likelihood of obtaining appropriate information or assistance when needed.
-
 [Nursing Priority No.5]
     - To promote wellness (Teaching/Discharge Considerations):
 1. Discuss impact of specific activities on respiratory status and problem-solve solutions to maximize weaning effort.
@@ -79,5 +74,5 @@
 6. Provide opportunities for client/SO(s) to discuss termination of therapy and other end-of-life decisions. 
 7. Refer to individual(s) who are ventilator dependent/have managed home ventilation successfully to encourage hope for the future.
 8. Refer to additional resources (e.g., spiritual advisor, counselor). 
-
 =====
+

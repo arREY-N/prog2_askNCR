@@ -4,7 +4,6 @@
  Unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage (International Association for the Study of Pain); sudden or slow onset of any intensity from mild to severe and with a duration of less than 3 months.
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To assess etiology/precipitating contributory factors:
 1. Determine and document presence of possible pathophysiological and psychological causes of pain (e.g., infl ammation; tissue trauma, fractures; surgery; infections; heart attack or angina; abdominal conditions [e.g., appendicitis, cholecystitis]; burns; grief; fear, anxiety; depression; and personality disorders). Acute pain is that which follows an injury, trauma, or procedure such as surgery, or occurs suddenly with the onset of a painful condition (e.g., herniated disk, migraine headache, pancreatitis).
@@ -17,7 +16,6 @@
 8. Note client’s locus of control (internal or external). Individuals with external locus of control may take little or no responsibility for pain management.
 9. Collaborate with medical providers in pain assessment, including neurological and psychological factors (pain inventory, psychological interview) as appropriate when pain persists.
 10. Assist with and review results of laboratory tests and diagnostic studies depending on results of history and physical examination.
-
 [Nursing Priority No. 2]
     - To evaluate client’s response to pain: 
 1. Obtain client’s/signifi cant other’s (SO) assessment of pain to include location, characteristics, onset, duration, frequency, quality, and intensity. Identify precipitating or aggravating and relieving factors in order to fully understand client’s pain symptoms. Note: Experts agree that attempts should always be made to obtain self-reports of pain. When that is not possible, credible information can be received from another person who knows the client well (e.g., parent, spouse, caregiver).
@@ -31,7 +29,6 @@
 9. Ascertain client’s knowledge of and expectations about pain management. Provides baseline for interventions and teaching, provides opportunity to allay common fears and misconceptions, or to address expected side effects of analgesics.
 10. Review client’s previous experiences with pain and methods found either helpful or unhelpful for pain control in the past. 
 11. Be aware of client’s “Right to Treatment” that includes prevention of/or adequate relief from pain. Failure to meet the standard of assessing for pain can be legally interpreted as nursing negligence.
-
 [Nursing Priority No.3]
     - To assist client to explore methods for alleviation/control of pain:
 1. Collaborate in treatment of underlying condition or disease processes causing pain and proactive management of pain (e.g., epidural analgesia, nerve blockade for postoperative pain).
@@ -53,7 +50,6 @@
  - Identify ways to avoid or minimize pain. Splinting incision during cough, keeping body in good alignment and using proper body mechanics, and resting between activities can reduce occurrence of muscle tension or spasms, or undue stress on incision.
 12. Encourage verbalization of feelings about the pain, such as concern about tolerating pain, anxiety, and pessimistic thoughts to evaluate coping abilities and to identify areas of additional concern.
 13. Use puppets to demonstrate procedure for child to enhance understanding and reduce level of anxiety and fear. 
-
 [Nursing Priority No.4]
     -  To promote wellness (Teaching/Discharge Considerations):
 1. Acknowledge the pain experience and convey acceptance of client’s response to pain. Reduces defensive responses, promotes trust, and enhances cooperation with regimen.
@@ -63,6 +59,5 @@
 5. Provide for individualized physical therapy or exercise program that can be continued by the client after discharge. Promotes active, rather than passive, role and enhances sense of control
 6. Discuss with SO(s) ways in which they can assist client with pain management. Family members/SOs may provide assistance by transporting client to prevent walking long distances, or by taking on client’s strenuous chores, supporting timely pain control, encouraging eating nutritious meals to enhance wellness, and providing gentle massage to reduce muscle tension.
 7. Identify specifi c signs/symptoms and changes in pain characteristics requiring medical follow-up. Provides opportunity to modify pain management regimen and allows for timely intervention for developing complications.
-
-
 =====
+

@@ -4,7 +4,6 @@
  Susceptible to an inadequate blood flow to the body’s tissues that may lead to life-threatening cellular dysfunction, which may compromise health. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To assess causative/contributing factors:
 1. Note possible medical diagnoses or disease processes that can result in one or more types of shock, such as major trauma with heavy internal or external bleeding; heart failure; head or spinal cord injury; allergic reactions; pregnancy-related complications; intra abdominal infections, open wounds, or other conditions associated with sepsis. 
@@ -31,7 +30,6 @@
 12. Obtain specimens of wounds, drains, central lines, blood for culture and sensitivity.
 13. Review laboratory data such as complete blood count with WBCs and differential; platelet numbers and function; other coagulation factors; tests for cardiac, renal, and hepatic function; pulse oximetry/arterial blood gas; serum lactate, blood urine cultures to identify potential sources of shock and degree of organ involvement.
 14. Review diagnostic studies such as x-rays, electrocardiogram, echocardiogram, angiography with ejection fraction, computed tomography or magnetic resonance imaging scans, ultrasound to determine presence of injuries or disorders that could cause or lead to shock conditions.
-
 [Nursing Priority No. 2]
     - To prevent/correct potential causes of shock:
 1. Collaborate in prompt treatment of underlying conditions such as trauma, heart failure, infections, and prepare for/ assist with medical and surgical interventions to maximize systemic circulation and tissue and organ perfusion.
@@ -41,7 +39,6 @@
 5. Provide client care with infection prevention interventions, such as diligent attention to hand hygiene, aseptic wound care or dressing changes, isolation precautions, early intervention in potential infectious condition to reduce incidence or progression of infection.
 6. Provide nutrition by best means—oral, enteral, or parenteral feeding. Refer to nutritionist or dietitian to provide foods rich in nutrients, vitamins, and minerals needed to promote healing and support immune system health.
 7. Refer to NDs ineffective peripheral Tissue Perfusion; risk for decreased cardiac Tissue Perfusion; risk for ineffective cerebral Tissue Perfusion, for additional interventions and rationales. 
-
 [Nursing Priority No.3]
     -  Promote wellness (Teaching/Discharge Considerations):
 1. Instruct client/SO in ways to prevent and/or manage underlying conditions that cause shock, including heart disease, injuries, dehydration, infection. 
@@ -53,5 +50,5 @@
 7. Reinforce importance of immunization against infections such as infl uenza and pneumonia, especially in client with chronic conditions.
 8. Encourage consumption of healthy diet, participation in regular exercise, and adequate rest for healing and immune system support.
 9. Recommend that client at risk for hypersensitivity reactions wear medical alert bracelet, maintain readily accessible emergency medication (e.g., Benadryl and/or EpiPen).
-
 =====
+

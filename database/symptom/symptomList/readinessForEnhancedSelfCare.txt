@@ -4,7 +4,6 @@
  A pattern of performing activities for oneself to meet health-related goals, which can be strengthened. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     - To determine current self-care status and motivation for growth:
 1. Determine individual strengths and skills of the client to incorporate into plan of care, enhancing likelihood of achieving outcomes, such as Lawton and Brody’s scale of Instrumental Activities of Daily Living to determine client’s self-care abilities (e.g., to communicate by phone, drive, cook, shop). In an acute-care (or emergent)
@@ -13,7 +12,6 @@
 3. Note availability and use of resources, supportive person(s), assistive devices to ascertain that client has means for sharing common concerns, needs, and wishes as well as has access to social support and approval (e.g., support group participants, family members, professionals).
 4. Determine age and developmental issues, presence of medical conditions that could impact potential for growth or interrupt client’s ability to meet own needs.
 5. Assess for potential challenges to enhanced participation in self-care (e.g., lack of information, insufficient time for discussion, sudden or progressive change in health status, catastrophic events).  
-
 [Nursing Priority No. 2]
     - To assist client’s/signifi cant other’s (SO’s) plan to meet individual needs:
 1. Discuss client’s understanding of current situation to determine areas that can be clarifi ed or strengthened.
@@ -22,7 +20,6 @@
 4. Promote client’s/SO’s participation in problem identifi cation and decision-making. Optimizes outcomes and supports health promotion.
 5. Active-listen client’s/SO’s concerns to exhibit regard for client’s values and beliefs, to support positive responses, and to address questions or concerns.
 6. Encourage communication among those who are involved in the client’s health promotion. Periodic review allows for clarifi cation of issues, reinforcement of successful interventions, and possibility for early intervention (where needed) to manage chronic conditions. 
-
 [Nursing Priority No.3]
     - To promote optimum functioning (Teaching/Discharge Considerations):
 1. Assist client to set realistic goals for the future. 
@@ -32,5 +29,5 @@
 5. Review safety concerns and modifi cation of medical therapies or activities and environment, as needed, to prevent injury and enhance successful functioning.
 6. Refer to home care provider, social services, physical or occupational therapy, rehabilitation, and counseling resources, as indicated or requested, for education, assistance, adaptive devices, and modifi cations that may be desired.
 7. Identify additional community resources (e.g., senior services, handicap transportation van for appointments, accessible and safe locations for social or sports activities, Meals on Wheels) to obtain additional forms of assistance that may improve client’s independence and self-care.
-
 =====
+

@@ -3,7 +3,7 @@
 ::Definition::
  Susceptible to behaviors in which an individual demonstrates that he or she can be physically, emotionally, and/or sexually harmful to others.
 
-::Note:: 
+::Note::
 NANDA has separated the diagnosis of Violence into its two elements: “other-directed” and “self-directed.” However, the interventions in general address both situations and have been left in one block following the definitions and supporting data of those two diagnoses. 
-
 =====
+

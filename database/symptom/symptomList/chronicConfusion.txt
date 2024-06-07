@@ -2,8 +2,8 @@
 
 ::Definition::
 : Irreversible, progressive, insidious, and long- term alteration of intellect, behavior, and personality, manifested by impairment in cognitive functions (memory, speech, language, decision- making, and executive function), and dependency in execution of daily activities.
-::Action/Interventions::
 
+::Action/Interventions::
 [Nursing Priority No. 1]
     - To assess degree of impairment:
 1. Evaluate responses on diagnostic examinations (e.g., memory impairments, reality orientation, attention span, calculations, and quality of life). A combination of tests (e.g., Confusion Assessment Method [CAM], the Mini-Mental State Examination [MMSE], the Alzheimer’s Disease Assessment Scale [ADAS- cog], the Brief Dementia Severity Rating Scale [BDSRS], or the Neuropsychiatric Inventory [NPI]) is often needed to complete an evaluation of the client’s overall condition relating to a chronic/irreversible condition.
@@ -13,7 +13,6 @@
 5. Ascertain interventions previously used or tried.
 6. Evaluate response to care providers and receptiveness to interventions to determine areas of concern to be addressed.
 7. Determine anxiety level in relation to situation and problem behaviors that may be indicative of potential for violence
-
 [Nursing Priority No. 2]
     -  To limit effects of deterioration/maximize level of function:
 1. Assist in treating conditions (e.g., infections, malnutrition, electrolyte imbalances, and adverse medication reactions) that may contribute to/exacerbate confusion, discomfort, and agitation.
@@ -33,7 +32,6 @@ eliminate extraneous noise/stimuli that may increase the client’s level of agi
 13. Administer medications, as ordered (e.g., antidepressants or antipsychotics). Monitor for therapeutic action, as well as adverse reactions, side effects, and interactions. Medications may be used judiciously to manage symptoms of psychosis, depression, or aggressive behavior.
 14. Implement complementary therapies (e.g., music or dance therapy; animal- assisted therapy; massage, Therapeutic Touch [if touch is tolerated], aromatherapy, bright light treatment) as ordered or desired. Monitor client’s response to each modality and modify as indicated. Use of alternative therapies tailored to the client’s preferences, skills, and abilities can be calming and provide relaxation and can be carried out by a wide range of health and social care providers and volunteers.
 15. Refer to NDs: acute Confusion; impaired Memory; impaired verbal Communication, for additional interventions. 
-
 [Nursing Priority No.3]
     - To assist SO(s) to develop coping strategies:
 1. Determine family dynamics, cultural values, resources, availability, and willingness to participate in meeting client’s needs. Evaluate SO’s attention to own needs, including health status, grieving process, and respite. Primary caregiver and other members of family will suffer from the stress that accompanies caregiving and will require ongoing support.
@@ -41,7 +39,6 @@ eliminate extraneous noise/stimuli that may increase the client’s level of agi
 3. Discuss caregiver burden and signs of burnout, when appropriate. (Refer to NDs: caregiver Role Strain; risk for caregiver Role Strain.)
 4. Provide educational materials, bibliographies, list of available local resources, help lines, Web sites, and so on, as desired, to assist SO(s) in dealing and coping with longterm care issues.
 5. Identify appropriate community resources (e.g., Alzheimer’s Association [AA], stroke or brain injury support groups, senior support groups, specialist day services, home care, and respite care; adult placement and short- term residential care; clergy, social services, occupational and physical therapists; assistive technology and tele- care; attorney services for advance directives, and durable power of attorney) to provide client/SO with support and assist with problem- solving. 
-
 [Nursing Priority No. 4]
     -  To promote optimal functioning and safety (Teaching/Discharge Considerations):
 1. Discuss the nature of the client’s condition (e.g., chronic stable, progressive, or degenerative), treatment concerns, and follow- up needed to promote maintaining client at highest possible level of functioning.
@@ -50,3 +47,4 @@ eliminate extraneous noise/stimuli that may increase the client’s level of agi
 4. Develop plan of care with family to meet client’s and SO’s individual needs.
 5. Provide appropriate referrals (e.g., Meals on Wheels, adult day care, home care agency, or respite care). May need additional assistance to maintain the client in the home setting or make arrangements for placement, if necessary
 =====
+

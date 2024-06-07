@@ -6,7 +6,6 @@ breasts, which may compromise breastfeeding success and/
 or nutritional status of the infant/child.
 
 ::Actions/Interventions::
-
 [Nursing Priority No. 1]
     - To identify causative/contributing factors: 
 1. Assess client knowledge and perceptions about breastfeeding and extent of instruction that has been given. 
@@ -16,7 +15,6 @@ or nutritional status of the infant/child.
 5. Determine maternal responsibilities, routines, and scheduled activities. Caretaking of siblings, employment in or out of the home, and work or school schedules of family members may affect ability to visit hospitalized infant when this is the reason for mother/infant separation.
 6. Identify factors necessitating interruption, or occasionally cessation, of breastfeeding (e.g., maternal illness, drug use)and desire or need to wean infant. In general, infants with chronic diseases benefi t from breastfeeding. Only a few maternal infections (e.g., HIV, active/untreated tuberculosis for initial 2 weeks of multidrug therapy, active herpes simplex of the breasts, and development of chickenpox within 5 days prior to delivery or 2 days after delivery) are hazardous to breastfeeding infants. Also, the use of anti-retroviral medications/chemotherapy agents or maternal substance abuse usually requires weaning of the infant. Exposure to radiation therapy requires interruption of breastfeeding for the length of time radioactivity is known to be present in breast milk and is therefore dependent on the agent used. Note: Mother can “pump and dump” her breast milk to maintain supply and continue to breastfeed after her condition has resolved (e.g., chickenpox). 
 7. Determine support systems available to the mother/family. The infant's father and maternal grandmother, in addition to caring healthcare providers, are important factors that contribute to successful breastfeeding.
-
 [Nursing Priority No. 2]
     - To assist the mother to maintain breastfeeding if desired: 
 1. Provide information as needed regarding the need/decision to interrupt breastfeeding. 
@@ -31,14 +29,12 @@ or nutritional status of the infant/child.
 10. Determine if a routine visiting schedule or advance warning can be provided so that the infant will be hungry/ready to feed.
 11. Recommend using expressed breast milk instead of formula or at least partial breastfeeding for as long as mother and child are satisfi ed. This prevents permanent interruption in breastfeeding, decreasing the risk of premature weaning.
 12. Encourage the mother to obtain adequate rest, maintain fl uid and nutritional intake, continue her prenatal vitamins, and schedule breast pumping every 3 hr while awake, as indicated, to sustain adequate milk production and breastfeeding process.
-
 [Nursing Priority No. 3]
     - To promote successful infant feeding: 
 1. Recommend/provide for infant sucking on a regular basis, especially if gavage feedings are part of the therapeutic regimen. This reinforces that feeding time is pleasurable and enhances digestion.
 2. Explain anticipated changes in feeding needs and frequency. Growth spurts require increased intake or more feedings by infant.
 3. Discuss the proper use and choice of supplemental nutrition and alternate feeding methods (e.g., bottle/syringe) if desired. 
 4. Review safety precautions (e.g., proper fl ow of formula from nipple, frequency of burping, holding bottle instead of propping, formula preparation, and sterilization techniques)
-
 [Nursing Priority No. 4]
     -  To promote wellness (Teaching/Discharge Considerations): 
 1. Encourage mother to obtain adequate rest, maintain fl uid and nutritional intake, continue to take her prenatal vitamins, and schedule breast pumping every 3 hr while awake, as indicated. Sustains adequate milk production and enhances breastfeeding process when mother and infant are separated for any reason.
@@ -46,7 +42,6 @@ or nutritional status of the infant/child.
 3. Refer to support groups (e.g., La Leche League or Lact-Aid), community resources (e.g., a public health nurse; a lactation specialist; Women, Infants, and Children program; and electric pump rental programs). 
 4. Promote the use of bibliotherapy/appropriate Web sites for further information. 
 5. Discuss the timing of the introduction of solid foods and the importance of delaying until the infant is at least 4 mo, preferably 6 mo old, if possible. The American Academy of Pediatrics and the World Health Organization (WHO) recommend delaying solids until at least 6 mo. If supplementation is necessary, the infant can be fi nger fed, spoon fed, cup fed, or syringe fed.
-
 [Nursing Priority No. 5]
     - To assist the mother in the weaning process when desired: 
 1. Provide emotional support to the mother and accept decision regarding cessation of breastfeeding. Feelings of sadness are common, even if weaning is the mother's choice.
@@ -57,3 +52,4 @@ or nutritional status of the infant/child.
 6. Discuss the use of ibuprofen/acetaminophen for discomfort during the weaning process.
 7. Suggest the use of ice packs to breast tissue (not nipples) for 15 to 20 min at least four times a day to help reduce swelling during sudden weaning.
 =========
+

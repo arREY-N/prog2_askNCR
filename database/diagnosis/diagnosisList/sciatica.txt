@@ -1,6 +1,5 @@
 ::Sciatica::
-
 acute Pain_chronic Pain>acutePain_chronicPain.txt
 impaired physical Mobility>impairedphysicalMobility.txt
-
 =====
+

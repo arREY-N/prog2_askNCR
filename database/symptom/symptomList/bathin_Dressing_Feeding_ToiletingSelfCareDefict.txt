@@ -4,7 +4,6 @@
  Inability to independently perform or complete cleansing activities; to put on or remove clothing; to eat; or to perform tasks associated with bowel and bladder elimination. 
 
 ::Action/Interventions::
-
 [Nursing Priority No. 1]
     -  To identify causative/contributing factors:
 1. Determine age and developmental issues affecting ability of individual to participate in own care.
@@ -13,7 +12,6 @@
 4. Note anticipated duration of disruption and intensity of care required. A wide variety of factors can impact self-care, some of which may be (1) invariable or permanent (e.g.,  quadriplegia or advanced dementia); (2) temporary (e.g., fractures requiring immobilization, mild stroke with potential for good recovery); (3) variable (e.g., person having episode of severe depression or episodes of relapsingremitting-type MS). 
 5. Review medication regimen for possible effects on alertness/mentation, energy level, balance, perception.
 6. Assess barriers to participation in regimen that can limit use of resources or choice of options (e.g., lack of information, insuffi cient time for discussion, psychological or intimate family problems that may be diffi cult to share, fear of appearing stupid or ignorant, social or economic limitations, work or home environment problems). 
-
 [Nursing Priority No. 2]
     -  To assess degree of disability:
 1. Identify degree of individual impairment and functional level according to scale (as listed in ND impaired physical Mobility). 
@@ -21,7 +19,6 @@
 3. Determine individual strengths and skills of the client to incorporate into plan of care enhancing likelihood of achieving outcomes.
 4. Note whether deficit is temporary or permanent, should decrease or increase with time.
 5. Make home visit, as indicated, to assess environmental and discharge needs.
-
 [Nursing Priority No.3]
     - To assist in correcting/dealing with deficit:
 1. Collaborate in treatment of underlying conditions to enhance client’s capabilities, maximize rehabilitation potential.
@@ -45,9 +42,9 @@
 19. Identify energy-saving behaviors (e.g., sitting instead of standing when possible). (Refer to NDs Activity Intolerance; Fatigue, for additional interventions.) 
 20. Assist with medication regimen as necessary, encouraging timely use of medications (e.g., taking diuretics in morning when client is more awake and able to manage toileting, use of pain relievers prior to activity to facilitate movement, postponing intake of medications that cause sedation until self-care activities completed). 
 21. Collaborate with rehabilitation professionals to identify and obtain assistive devices, mobility aids, and home modifi cation, as necessary (e.g., adequate lighting, visual aids; bedside commode; raised toilet seat and grab bars for bathroom; modifi ed clothing; modifi ed eating utensils) to enhance client’s capabilities and promote independence. 
-
 [Nursing Priority No.4]
     - To meet specifi c self-care needs: 
+
 ::Bathing Deficit::
 1. Ask client/SO for input on bathing habits or cultural bathing preferences. Creates opportunities for client to (1) keep long-standing routines (e.g., bathing at bedtime to improve sleep) and (2) exercise control over situation. This enhances self-esteem, while respecting personal and cultural preferences.
 2. Obtain hygiene supplies (e.g., soap, toothpaste, toothbrush, mouthwash, lotion, shampoo, razor, towels) for specifi c activity to be performed and place in client’s easy reach to provide visual cues and facilitate completion of activity. 
@@ -58,6 +55,7 @@
 7. Provide privacy and equipment within easy reach during personal care activities.
 8. Assist client in and out of shower or tub as indicated. Bathe or assist client in bathing, providing for any or all hygiene needs as indicated. Type (e.g., bed bath, towel bath, tub bath, shower) and purpose (e.g., cleansing, removing odor, or simply soothing agitation) of bath are determined by individual need.
 9. Provide for or assist with grooming activities (e.g., shaving, hair care, cleaning and clipping nails, makeup) on a routine, consistent basis. Encourage participation, guiding client’s hand through tasks, as indicated. Experiencing the normal process of a task through established routine and guided practice facilitates optimal relearning.
+
 ::Dressing Deficit::
 1. Ascertain that appropriate clothing is available. Clothing may need to be modifi ed for client’s particular medical condition or physical limitations.
 2. Assist client in choosing clothing or lay out clothing as indicated.
@@ -65,6 +63,7 @@
 4. Allow suffi cient time for dressing and undressing.
 5. Use adaptive clothing as indicated (e.g., clothing with front closure, wide sleeves and pant legs, Velcro or zipper closures). These may be helpful for client with limited arm or leg movement or impaired fi ne motor skills or cognitively impaired person who desires to dress self but cannot do so with regular clothing fasteners.
 6. Teach client to dress affected side fi rst, then unaffected side (when client has paralysis or injury to one side of body).
+
 ::Feeding Deficit::
 1. Assess client’s need and ability to prepare food as indicated (including shopping, cooking, cutting food, opening containers, etc.).
 2. Ascertain that client can swallow safely, checking gag and swallow reflexes, as indicated. (Refer to ND impaired Swallowing for related interventions.) 
@@ -76,6 +75,7 @@
 8. Assist client with social graces when eating with others; provide privacy when manners might be offensive to others or client could be embarrassed. 
 9. Collaborate with nutritionist, speech-language pathologist, occupational therapist, or physician for special diets or feeding methods necessary to provide adequate nutrition. 
 10. Feed client, allowing adequate time for chewing and swallowing, when client is not able to obtain nutrition by selffeeding. Avoid providing fl uids until client has swallowed food and mouth is clear. Prevents “washing down” foods, reducing risk of choking.
+
 ::Toileting Deficit::
 1. Provide mobility assistance to bathroom or commode or place on bedpan or offer urinal, as indicated. 
 2. Direct or accompany cognitively impaired client to bathroom, as needed.
@@ -86,7 +86,6 @@
 7. Provide or assist with use of assistive equipment (e.g., raised toilet seat, support rails, spill-proof urinals, fracture pans, bedside commode) to promote independence and safety in sitting down or arising from toilet or for aiding elimination when client is unable to go to bathroom.
 8. Keep toilet paper or wipes and hand-washing items within client’s easy reach.
 9. Implement bowel or bladder training program, as indicated. (Refer to NDs Constipation; bowel Incontinence; impaired urinary Elimination, for appropriate interventions.) 
-
 [Nursing Priority No. 5]
  - To promote wellness (Teaching/Discharge Considerations):
 1. Assist the client to become aware of rights and responsibilities in health and healthcare and to assess own health strengths—physical, emotional, and intellectual. 
@@ -102,5 +101,5 @@
 11. Assist and support family with alternative placements as necessary. Enhances likelihood of fi nding individually appropriate situation to meet client’s needs.
 12. Be available for discussion of feelings about situation (e.g., grieving, anger). Provides opportunity for client/family to get feelings out in the open and begin to problem-solve solutions as indicated.
 13. Refer to NDs risk for Falls; risk for Injury; ineffective Coping; compromised family Coping; risk for Disuse Syndrome; situational low Self-Esteem; impaired physical Mobility; Powerlessness, as appropriate. 
-
 =====
+
