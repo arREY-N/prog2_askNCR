@@ -65,7 +65,7 @@ public class Menu extends Thread{
                     System.out.println();
                 }
             } else {
-                System.out.println("Input must be alphanumeric only");
+                System.out.println("USER ID must be 4 numerical characters only");
             }
         }
         System.out.println();
@@ -73,7 +73,7 @@ public class Menu extends Thread{
     
     public static void signupMenu(Scanner scan){
         System.out.println("\nWelcome!");
-        System.out.print("Username: ");
+        System.out.print("User ID: ");
         String username = scan.nextLine();
         System.out.print("Password: ");
         String password = scan.nextLine();
@@ -81,7 +81,6 @@ public class Menu extends Thread{
 
         // first checks if the input is a valid input (alphanumeric only)
         if(Validation.isAlphanumeric(username, password) == true){
-            
             // if true, calls the login() method in the Validation class
             try{
                 Validation.signup(username, password);
@@ -96,7 +95,7 @@ public class Menu extends Thread{
                 System.out.println();
             }
         } else {
-            System.out.println("Input must be alphanumeric only\n");
+            System.out.println("USER ID must be 4 numerical characters only\n");
         }
     }
 
@@ -167,7 +166,7 @@ public class Menu extends Thread{
             System.out.println("F. Logout");
             System.out.print("Enter your choice: ");
             String choice = scan.nextLine().trim();
-            
+            System.out.println();
             if(!choice.isEmpty()){
                 char response = choice.toUpperCase().charAt(0);
                 switch (response) {

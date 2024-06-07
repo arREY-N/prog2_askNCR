@@ -1,0 +1,316 @@
+==========
+Patient name: SAMANTHA REYES
+Diagnosis: Ulcer, Peptic (Acute)
+==========
+::Risk For Shock::
+
+::Definition::
+ Susceptible to an inadequate blood flow to the body’s tissues that may lead to life-threatening cellular dysfunction, which may compromise health. 
+
+::Action/Interventions::
+[Nursing Priority No. 1]
+    -  To assess causative/contributing factors:
+1. Note possible medical diagnoses or disease processes that can result in one or more types of shock, such as major trauma with heavy internal or external bleeding; heart failure; head or spinal cord injury; allergic reactions; pregnancy-related complications; intra abdominal infections, open wounds, or other conditions associated with sepsis. 
+2. Assess for history or presence of conditions leading to hypovolemic shock , such as trauma, surgery, inadequate clotting, anticoagulant therapy; gastrointestinal or other organ hemorrhage; prolonged vomiting and diarrhea; diabetes insipidus; misuse of diuretics. These conditions deplete the body’s circulating blood volume and ability to maintain organ perfusion and function.
+3. Assess for conditions associated with cardiogenic shock, including myocardial infarction, cardiac arrest, lethal ventricular dysrhythmias, severe valvular dysfunction, cardiomyopathies, malignant hypertension. These conditions directly impair the heart muscle and ability to pump.
+4. Assess for conditions associated with obstructive shock, including pulmonary embolus, aortic stenosis, cardiac tamponade, tension pneumothorax. In these conditions, the heart itself may be healthy but cannot pump because of conditions outside the heart that prevent normal fi lling or adequate outfl ow. 
+5. Assess for conditions associated with distributive shock— neural induced, including pain, anesthesia, spinal cord or head injury; or chemical induced, including peritonitis, sepsis, burns, anaphylaxis, hyperglycemia. These situations result in loss of sympathetic tone, blood vessel dilation, pooling of venous blood, and increased capillary permeability with shifting of fl uids.
+6. Monitor for persistent or heavy fl uid loss, including wounds, drains, vomiting, gastrointestinal tube, chest tube. Check all secretions and excretions for occult blood. Refer to NDs risk for Bleeding; defi cient Fluid Volume, risk for imbalanced Fluid Volume (for additional interventions).
+7. Inspect skin, noting presence of traumatic or surgical wounds, erythema, edema, tenderness, petechiae; rashes or hives for evidence of hemorrhage, localized infections, or hypersensitivity reaction.
+8. Investigate reports of increased or sudden pain in wounds or body parts, which could indicate ischemia or infection.
+9. Be aware of invasive devices, such as urinary and intravascular catheters, endotrachial tube, implanted prosthetic devices that potentiate risk for localized and systemic infections.
+10. Assess vital signs and tissue and organ perfusion for changes associated with shock states:
+ - Heart rate and rhythm—noting progressive changes in heart rate (refl ecting an attempt to increase cardiac output) and development of dysrhythmias, suggesting electrolyte imbalances, hypoxia.
+ - Respirations—noting rapid, shallow breathing, use of accessory muscles (in an attempt to increase vital capacity and compensate for metabolic acidosis associated with poor tissue perfusion and anaerobic metabolism),
+ - which can progress to respiratory failure. Blood pressure—noting hypotension, postural hypotension, and narrowed pulse pressure. May indicate hypovolemia and/or failure of cardiac pumping or compensatory mechanisms.
+ - Pulses and neck veins—noting rapid, weak, thready peripheral pulses; congested or fl at neck veins. Signs associated with changes in circulating volume, cardiac ouput, and progressive changes in vascular tone and/or capillary permeability.
+ - Temperature—higher than 100.4°F (38°C) or lower than 96.8°F (36°C) may indicate infectious process. Temperature changes in presence of elevated heart and respiratory rate, along with mildly elevated white blood cell (WBC) count in absence of documented infection, is suggestive of systemic infl ammatory response.
+ - State of consciousness and mentation—noting anxiety, restlessness, confusion, lethargy, or unresponsiveness. Can occur because of changes in oxygenation, acid-base imbalances, and toxins associated with hypoperfusion.
+ - Skin color and moisture—noting overall fl ushing or pallor; bluish lips and fi ngernails, slow capillary refi ll; or cool, clammy skin.
+ - Urine output—noting substantially decreased ouput. One of the most sensitive indicators of change in circulating volume or poor perfusion.
+ - Urine characteristics—noting color and odor suggestive of infection source.
+ - Bowel sounds—noting diminished or absent bowel sounds; other changes in gastrointestinal function such as vomiting; or change in color, amount, or frequency of stools, refl ecting hypoperfusion of gastrointestinal tract.
+11. Measure invasive hemodynamic parameters when available—central venous pressure (CVP), mean arterial pressure (MAP), cardiac output (CO)— to determine if intravascular fl uid defi cit or cardiac dysfunction exists.
+12. Obtain specimens of wounds, drains, central lines, blood for culture and sensitivity.
+13. Review laboratory data such as complete blood count with WBCs and differential; platelet numbers and function; other coagulation factors; tests for cardiac, renal, and hepatic function; pulse oximetry/arterial blood gas; serum lactate, blood urine cultures to identify potential sources of shock and degree of organ involvement.
+14. Review diagnostic studies such as x-rays, electrocardiogram, echocardiogram, angiography with ejection fraction, computed tomography or magnetic resonance imaging scans, ultrasound to determine presence of injuries or disorders that could cause or lead to shock conditions.
+[Nursing Priority No. 2]
+    - To prevent/correct potential causes of shock:
+1. Collaborate in prompt treatment of underlying conditions such as trauma, heart failure, infections, and prepare for/ assist with medical and surgical interventions to maximize systemic circulation and tissue and organ perfusion.
+2. Administer oxygen by appropriate route (e.g., nasal prongs, mask, ventilator) to maximize oxygenation of tissues.
+3. Administer fluids, electrolytes, colloids, blood or blood products, as indicated, to rapidly restore or sustain circulating volume, electrolyte balance, and prevent shock state.
+4. Administer medications as indicated (e.g., vasoactive drugs, cardiac glycosides, thrombolytics, anticoagulants, antimicrobials, analgesics). 
+5. Provide client care with infection prevention interventions, such as diligent attention to hand hygiene, aseptic wound care or dressing changes, isolation precautions, early intervention in potential infectious condition to reduce incidence or progression of infection.
+6. Provide nutrition by best means—oral, enteral, or parenteral feeding. Refer to nutritionist or dietitian to provide foods rich in nutrients, vitamins, and minerals needed to promote healing and support immune system health.
+7. Refer to NDs ineffective peripheral Tissue Perfusion; risk for decreased cardiac Tissue Perfusion; risk for ineffective cerebral Tissue Perfusion, for additional interventions and rationales. 
+[Nursing Priority No.3]
+    -  Promote wellness (Teaching/Discharge Considerations):
+1. Instruct client/SO in ways to prevent and/or manage underlying conditions that cause shock, including heart disease, injuries, dehydration, infection. 
+2. Identify reportable signs and symptoms, including unrelieved pain, unresolved bleeding, excessive fl uid loss, persistent fever and chills, change in skin color accompanied by chest pain for timely evaluation and intervention.
+3. Emphasize need for recognition of substances that cause hypersensitivity or allergic reactions (e.g., insects, medicines, foods, latex) to reduce risk of anaphylactic shock state. 
+4. Teach client purpose, dosage, schedule, precautions, and potential side effects of medications given to treat underlying conditions. Enhances compliance with drug regimen, reducing individual risk.
+5. Instruct in wound and skin care as indicated to prevent infection and promote healing.
+6. Teach client/caregivers importance of good hand hygiene, clean environment, and avoiding crowds when ill, especially if client is immunocompromised.
+7. Reinforce importance of immunization against infections such as infl uenza and pneumonia, especially in client with chronic conditions.
+8. Encourage consumption of healthy diet, participation in regular exercise, and adequate rest for healing and immune system support.
+9. Recommend that client at risk for hypersensitivity reactions wear medical alert bracelet, maintain readily accessible emergency medication (e.g., Benadryl and/or EpiPen).
+
+================================================================
+::Anxiety: mild, moderate, severe, panic::
+
+::Definition::
+Vague uneasy feeling of discomfort or dread accompanied by an autonomic response (the source is often nonspecific or unknown to the individual); a feeling of apprehension caused by anticipation of danger. It is an alerting sign that warns of impending danger and enables the individual to take measures to deal with that threat.
+
+::Action/Interventions::
+[Nursing Priority No. 1]
+To assess level of anxiety:
+1. Review familial and physiological factors (e.g., genetic depressive factors), psychiatric illness, active medical conditions (e.g., thyroid problems, metabolic imbalances, cardiopulmonary disease, anemia, or dysrhythmias), and recent/ongoing stressors (e.g., family member illness or death, spousal confl ict/abuse, or loss of job). These factors can cause/exacerbate anxiety and anxiety disorders.
+2. Determine current prescribed medications and recent drug history of prescribed or over-the-counter (OTC) medications (e.g., steroids, thyroid preparations, weight loss pills, or caffeine). These medications can heighten feelings and sense of anxiety.
+3. Identify the client’s perception of the threat represented by the situation. Distorted perceptions of the situation may magnify feelings. Understanding client’s point of view promotes a more accurate plan of care.
+4. Note cultural factors that may infl uence anxiety. Individual responses are infl uenced by cultural values and beliefs and culturally learned patterns of their family of origin.
+5. Monitor vital signs (e.g., rapid or irregular pulse, rapid breathing/hyperventilation, changes in blood pressure, diaphoresis, tremors, or restlessness) to identify physical responses associated with both medical and emotional conditions.
+6. Observe behaviors that can point to the client’s level of anxiety:
+[Mild]
+-- Alert, more aware of environment, attention focused on environment and immediate events
+-- Restless; irritable; wakeful; reports of insomnia
+-- Motivated to deal with existing problems in this state
+[Moderate]
+-- Perception narrower, concentration increased, able to ignore distractions in dealing with problem(s)
+-- Voice quivers or changes pitch
+-- Trembling, increased pulse/respirations
+- Severe
+-- Range of perception is reduced, anxiety interferes with effective functioning
+-- Preoccupied with feelings of discomfort, sense of impending doom
+-- Increased pulse/respirations with reports of dizziness, tingling
+sensations, headaches, and so forth
+[Panic]
+-- The ability to concentrate is disrupted; behavior is disintegrated; and the client distorts the situation and does not have realistic perceptions of what is happening. The client may be experiencing terror or confusion or be unable to speak or move (paralyzed with fear).
+- Note reports of insomnia or excessive sleeping, limited/avoidance of interactions with others, and use of alcohol or other drugs that can be abused, which may be behavioral indicators of use of withdrawal to deal with problems.
+- Review results of diagnostic tests (e.g., drug screens, cardiac testing, complete blood count, and chemistry panel), which may point to physiological sources of anxiety.
+- Be aware of defense mechanisms being used (e.g., denial or regression) that interfere with ability to deal with problem.
+- Identify coping skills the individual is currently using, such as anger, daydreaming, forgetfulness, overeating, smoking, or lack of problem solving.
+- Review coping skills used in the past to determine those that might be helpful in current circumstances.
+[Nursing Priority No. 2]
+To assist client with identifying feelings and beginning to deal with problems:
+1. Establish a therapeutic relationship, conveying empathy and unconditional positive regard. Note : The nurse needs to be aware of his or her own feelings of anxiety or uneasiness, exercising care to avoid the contagious effect or transmission of anxiety.
+2. Be available to the client for listening and talking. Establishes rapport, promotes expression of feelings, and helps client/signifi cant other look at realities of the illness or treatment without confronting issues they are not ready to deal with.
+3. Encourage the client to acknowledge and to express feelings,
+such as crying (sadness), laughing (fear or denial), or swearing (fear or anger).
+4. Assist the client in developing self-awareness of verbal and nonverbal behaviors. Becoming aware helps client to control these behaviors and begin to deal with issues that are causing anxiety.
+5. Clarify the meanings of feelings and actions by providing feedback and checking meaning with the client.
+6. Acknowledge anxiety/fear. Do not deny or reassure client that everything will be all right. Validates reality of feelings. False reassurances may be interpreted as lack of understanding or dishonesty, further isolating client.
+7. Provide accurate information about the situation. This helps the client identify what is reality based.
+8. Be truthful, avoid bribing, and provide physical comfort (e.g., hugging or rocking) when dealing with a child to soothe fears and provide assurance.
+9. Provide comfort measures (e.g., calm/quiet environment, soft music, a warm bath, or a back rub).
+10. Modify procedures as much as possible (e.g., substitute oral for intramuscular medications or combine blood draws/use finger-stick method) to limit the degree of stress and avoid overwhelming a child or anxious adult.
+11 Manage environmental factors, such as harsh lighting and high traffic flow, which may be confusing and stressful to older individuals.
+12. Accept the client as is. The client may need to be where he or she is at this point in time, such as in denial after receiving the diagnosis of a terminal illness.
+13. Allow the behavior to belong to the client; do not respond personally. The nurse may respond inappropriately, escalating the situation to a nontherapeutic interaction.
+14. Assist the client to use anxiety for coping with the situation, if helpful. Moderate anxiety heightens awareness and permits the client to focus on dealing with problems.
+5. Panic
+-- Stay with client, maintaining a calm, confi dent manner.
+- Speak in brief statements using simple words.
+- Provide for nonthreatening, consistent environment/atmosphere. Minimize stimuli. Monitor visitors and interactions
+to lessen the effect of transmission of feelings.
+- Set limits on inappropriate behavior and help the client to
+develop acceptable ways of dealing with anxiety.
+NOTE: Staff may need to provide safe controls and environment
+until client regains control.
+- Gradually increase activities/involvement with others as
+anxiety is decreased.
+- Use cognitive therapy to focus on or correct faulty catastrophic interpretations of physical symptoms.
+- Administer medications (anti-anxiety agents/sedatives), as
+ordered. 
+[Nursing Priority No.3]
+    To provide measures to comfort and aid client to handle problematic situations:
+1. Provide comfort measures (e.g., calm or quiet environment, soft music, warm bath, back rub, Therapeutic Touch). Aids in meeting basic human need, decreasing sense of isolation, and assisting client to feel less anxious. 
+2. Modify procedures as necessary (e.g., substitute oral for intramuscular medications, combine blood draws or use finger-stick method). Limits degree of stress and avoids overwhelming child or anxious adult.
+3. Accept client as is. The client may need to be where he or she is at this point in time, such as in denial after receiving the diagnosis of a terminal illness.
+4. Allow the behavior to belong to the client; do not respond personally.
+5. Assist client to use anxiety for coping with the situation if helpful. Moderate anxiety heightens awareness and can help client to focus on dealing with problems.
+6. Encourage awareness of negative self-talk and discuss replacing with positive statements, such as using “can” instead of “can’t,” etc.
+  -- To promote wellness (Teaching/Discharge Considerations):
+    1. Assist the client in identifying precipitating factors and new methods of coping with disabling anxiety.
+    2. Review happenings, thoughts, and feelings preceding the anxiety attack.
+    3. Identify actions and activities the client has previously used to cope successfully when feeling nervous/anxious.
+    4. List helpful resources and people, including available “hotline” or crisis managers to provide ongoing/timely support.
+    5. Encourage the client to develop an exercise/activity program, which may serve to reduce the level of anxiety by relieving tension.
+    6. Assist in developing skills (e.g., awareness of negative thoughts, saying “Stop,” and substituting a positive thought) to eliminate negative self-talk. Mild phobias tend to respond well to behavioral therapy.
+    7. Review strategies, such as role-playing, use of visualizations to practice anticipated events, and prayer/meditation. This is useful for being prepared for/dealing with anxietyprovoking situations.
+    8. Review medication regimen and possible interactions, especially with OTC drugs, other prescription drugs, and alcohol. Discuss appropriate drug substitutions, changes in dosage, or time of dose to minimize side effects.
+    9. Refer to the physician for drug management alteration of the prescription regimen. Drugs that often cause symptoms of anxiety include aminophylline/theophylline, anticholinergics, dopamine, levodopa, salicylates, and steroids.
+    10. Refer to individual and/or group therapy, as appropriate, to deal with chronic anxiety states.
+
+================================================================
+::Acute Pain::
+
+::Definition::
+ Unpleasant sensory and emotional experience associated with actual or potential tissue damage, or described in terms of such damage (International Association for the Study of Pain); sudden or slow onset of any intensity from mild to severe and with a duration of less than 3 months.
+
+::Action/Interventions::
+[Nursing Priority No. 1]
+    - To assess etiology/precipitating contributory factors:
+1. Determine and document presence of possible pathophysiological and psychological causes of pain (e.g., infl ammation; tissue trauma, fractures; surgery; infections; heart attack or angina; abdominal conditions [e.g., appendicitis, cholecystitis]; burns; grief; fear, anxiety; depression; and personality disorders). Acute pain is that which follows an injury, trauma, or procedure such as surgery, or occurs suddenly with the onset of a painful condition (e.g., herniated disk, migraine headache, pancreatitis).
+2. Assess for potential types of pain that may be affecting client (i.e., nociceptive pain or neuropathic pain) to aid in understanding reason for severity of pain associated with client’s condition, and point toward needed interventions for pain management. Note: Nociceptive pain results from actual tissue damage or potentially tissue-damaging stimuli. Subsets of nociceptive pain include (1) somatic (localized, and usually stemming from muscle, joint, bone, or connective tissue); and (2) visceral (caused by problem in internal organs, such as abdomen, pelvis) with localized pain occurring from obstruction, distension, or ischemia. Neuropathic pain is complex and caused by a variety of problems with nerves or the processing of nerve impulses. Neuropathic pain can become chronic (e.g., diabetic neuropathy) or have an acute onset related to direct nerve injury (e.g., severe trauma, surgery, certain types of cancer). 
+3. Note client’s age and developmental level and current condition (e.g., infant/child, critically ill, ventilated, sedated, or cognitively impaired client) affecting ability to report pain parameters or response to pain and pain management interventions.
+4. Assess client’s perceptions of pain, along with behaviors and cultural expectations regarding pain. Client’s perception of and expression of pain are infl uenced by age, developmental stage, underlying problem causing pain, cognitive, and behavioral and sociocultural factors.
+5. Note location of surgical incisions, as this can infl uence the amount of postoperative pain experienced; for example, vertical or diagonal incisions are more painful than transverse or S-shaped.
+6. Assess for referred pain, as appropriate, to help determine possibility of underlying condition or organ dysfunction requiring treatment.
+7. Note client’s attitude toward pain and use of pain medications, including any history of substance abuse. Client may have beliefs restricting use of medications, may have a high tolerance for drugs because of recent or current use, or may not be able to take pain medications at all if participating in a substance abuse recovery program.
+8. Note client’s locus of control (internal or external). Individuals with external locus of control may take little or no responsibility for pain management.
+9. Collaborate with medical providers in pain assessment, including neurological and psychological factors (pain inventory, psychological interview) as appropriate when pain persists.
+10. Assist with and review results of laboratory tests and diagnostic studies depending on results of history and physical examination.
+[Nursing Priority No. 2]
+    - To evaluate client’s response to pain: 
+1. Obtain client’s/signifi cant other’s (SO) assessment of pain to include location, characteristics, onset, duration, frequency, quality, and intensity. Identify precipitating or aggravating and relieving factors in order to fully understand client’s pain symptoms. Note: Experts agree that attempts should always be made to obtain self-reports of pain. When that is not possible, credible information can be received from another person who knows the client well (e.g., parent, spouse, caregiver).
+2. Evaluate pain characteristics and intensity. Use pain rating scale appropriate for age and cognition (e.g., 0 to 10 scale, facial expression or Wong-Baker faces pain scale [pediatric, nonverbal], adolescent pediatric pain tool [APPT], checklist of nonverbal pain indicators [CNPI], etc.).
+3. Perform pain assessment each time pain occurs. Document and investigate changes from previous reports and evaluate results of pain interventions to demonstrate improvement in status or to identify worsening of underlying condition/developing complications.
+4. Accept client’s description of pain. Be aware of the terminology client uses for pain experience (e.g., young child may say “owie” or “hurt”; elderly may say “it aches so bad”). Pain is a subjective experience and cannot be felt by others. Note: Some elderly clients experience a reduction in perception of pain or have diffi culty localizing or describing pain, and pain may be manifested as a change in behavior (e.g., restlessness, loss of appetite, increased confusion or wandering, acting out, change in functional abilities).
+5. Note cultural and developmental infl uences affecting pain response. Verbal and/or behavioral cues may have no direct relationship to the degree of pain perceived (e.g., client may deny pain even when feeling uncomfortable, or reactions can be stoic or exaggerated, refl ecting cultural or familial norms).
+6. Observe nonverbal cues and pain behaviors (e.g., how client walks, holds body, sits; facial expression; cool fi ngertips/toes, which can mean constricted blood vessels) and other objective Defi ning Characteristics, as noted, especially in persons who cannot communicate verbally. Observations may not be congruent with verbal reports or may be only indicator present when client is unable to verbalize. 
+7. Monitor skin color and temperature and vital signs (e.g., heart rate, blood pressure, respirations), which are usually altered in acute pain.
+8. Ascertain client’s knowledge of and expectations about pain management. Provides baseline for interventions and teaching, provides opportunity to allay common fears and misconceptions.
+9. Ascertain client’s knowledge of and expectations about pain management. Provides baseline for interventions and teaching, provides opportunity to allay common fears and misconceptions, or to address expected side effects of analgesics.
+10. Review client’s previous experiences with pain and methods found either helpful or unhelpful for pain control in the past. 
+11. Be aware of client’s “Right to Treatment” that includes prevention of/or adequate relief from pain. Failure to meet the standard of assessing for pain can be legally interpreted as nursing negligence.
+[Nursing Priority No.3]
+    - To assist client to explore methods for alleviation/control of pain:
+1. Collaborate in treatment of underlying condition or disease processes causing pain and proactive management of pain (e.g., epidural analgesia, nerve blockade for postoperative pain).
+2. Determine client’s acceptable level of pain and pain control goals. One client may not be 100% pain free but may feel that a “3” is a manageable level of discomfort, while another may require medication for pain at the same level because the experience is subjective.
+3. Determine factors in client’s lifestyle (e.g., alcohol or other drug use or abuse) that can affect responses to analgesics and/or choice of interventions for pain management.
+4. Note when pain occurs (e.g., only with ambulation, everyevening) to medicate prophylactically, as appropriate.
+5. Work with client to prevent pain. Use flow sheet to document pain, therapeutic interventions, response, and length of time before pain recurs. Instruct client to report pain as soon as it begins, as timely intervention is more likely to be successful in alleviating pain.
+6. Collaborate in treatment of underlying condition or disease processes causing pain and proactive management of pain (e.g., epidural analgesia, nerve blockade for postoperative pain, surgical plication of a nerve, implantation of nerve stimulator). 
+7. Establish collaborative approach for pain management based on client’s understanding about and acceptance of available treatment options. Pain medications may include pills/ liquids or suckers, skin patch, or suppository forms; injections, IV dosing; or patient-controlled analgesia (PCA) or regional analgesia (e.g., epidural and spinal blocking) based on client’s symptomatology and mechanism of pain as well as tolerance for pain and various analgesics.
+8. Administer analgesics, as indicated, to maximum dosage, as needed, to maintain “acceptable” level of pain. Notify physician if regimen is inadequate to meet pain control goal. Combinations of medications may be used on prescribed intervals.
+9. Evaluate and document client’s response to analgesia and assist in transitioning or altering drug regimen, based on individual needs and protocols. Increasing or decreasing dosage, stepped program (switching from injection to oral route, increased time span as pain lessens) helps in selfmanagement of pain.
+10. Instruct client in use of transcutaneous electrical stimulation (TENS) unit, when ordered.
+11. Provide or promote nonpharmacological pain management:
+ - Quiet environment, calm activities 
+ - Comfort measures (e.g., back rub, change of position, use of heat or cold compresses)
+ - Use of relaxation exercises (e.g., focused breathing, visualization, guided imagery)
+ - Diversional or distraction activities, such as television and radio, socialization with others, commercial or individualized tapes (e.g., “white” noise, music, instructional)
+ - Encourage presence of parent during painful procedures to comfort child.
+ - Identify ways to avoid or minimize pain. Splinting incision during cough, keeping body in good alignment and using proper body mechanics, and resting between activities can reduce occurrence of muscle tension or spasms, or undue stress on incision.
+12. Encourage verbalization of feelings about the pain, such as concern about tolerating pain, anxiety, and pessimistic thoughts to evaluate coping abilities and to identify areas of additional concern.
+13. Use puppets to demonstrate procedure for child to enhance understanding and reduce level of anxiety and fear. 
+[Nursing Priority No.4]
+    -  To promote wellness (Teaching/Discharge Considerations):
+1. Acknowledge the pain experience and convey acceptance of client’s response to pain. Reduces defensive responses, promotes trust, and enhances cooperation with regimen.
+2. Encourage adequate rest periods to prevent fatigue that canimpair ability to manage or cope with pain.
+3. Review nonpharmacological ways to lessen pain, including techniques such as Therapeutic Touch (TT), biofeedback, self-hypnosis, and relaxation skills.
+4. Discuss impact of pain on lifestyle/independence and ways to maximize level of functioning. 
+5. Provide for individualized physical therapy or exercise program that can be continued by the client after discharge. Promotes active, rather than passive, role and enhances sense of control
+6. Discuss with SO(s) ways in which they can assist client with pain management. Family members/SOs may provide assistance by transporting client to prevent walking long distances, or by taking on client’s strenuous chores, supporting timely pain control, encouraging eating nutritious meals to enhance wellness, and providing gentle massage to reduce muscle tension.
+7. Identify specifi c signs/symptoms and changes in pain characteristics requiring medical follow-up. Provides opportunity to modify pain management regimen and allows for timely intervention for developing complications.
+
+================================================================
+::risk for Allergy Reaction::
+
+::Definition::
+Susceptible to an exaggerated immune response or reaction to substances, which may compromise health.
+
+::Action/Interventions::
+[Nursing Priority No. 1] 
+    To identify causative/precipitating factors related to risk:
+1. Question the client regarding known allergies upon admission to healthcare facility. Basic safety information will help healthcare providers prepare a safe environment for the client while providing care.
+2. Ascertain the type of allergy and usual symptoms if the client reports a history of allergies (e.g., seasonal rhinitis [“hay fever”], allergic dermatitis, conjunctivitis, environmental asthma, environmental substances [e.g., mold, dust, or pet dander], insect sting reactions, food intolerance, immunodeficiency such as Addison’s disease, or drug or transfusion reaction). Allergies can manifest as local reactions (as may occur in skin rashes) or may be systemic. The client/caregiver may be aware of some, but not all, allergies.
+3. Obtain a written list of drug allergies upon fi rst contact with the client. This helps prevent adverse drug events while the client is in facility care.
+4. Discuss the possibility of a latex allergy when entering facility care, especially when procedures are anticipated (e.g., laboratory, emergency department, operating room, wound care management, one-day surgery, or dental) so that proper precautions can be taken by healthcare providers. (Refer to ND Latex Allergy Reaction and risk for Latex Reaction for related interventions.)
+5. Note the client’s age. Although allergies can occur at any time in a client’s life span, there are some that can start early in life. These include food allergies (e.g., peanuts) and respiratory ailments (e.g., asthma).
+6. Perform challenge or patch test, if appropriate, to identify specific allergens in a client with known type IV hypersensitivity.
+7. Note response to allergen-specific IgE antibody tests, where available. Performed to measure the quantity of IgE antibodies in serum after exposure to specifi c antigens and have generally replaced skin tests and provocation tests. Note: These tests are useful in nonemergent evaluations.
+ 
+[Nursing Priority No. 2]
+    To take measures to avoid exposure and reduce/limit allergic response:
+1. Discuss the client’s current symptoms, noting reports of rash, hives, itching; teary eyes; localized swelling (e.g., of lips) or diarrhea; nausea; or a feeling of faintness. Ascertain if client/care provider associates these symptoms with certain food, substances, or environmental factors (triggers). This may help isolate the cause for a reaction.
+2. Provide an allergen-free environment (e.g., clean, dust-free room or use air fi lters to reduce mold and pollens in the air) to reduce client exposure to allergens.
+3. Collaborate with all healthcare providers to administer medications and perform procedures with client’s allergies in mind.
+4. Encourage the client to wear a medical ID bracelet/necklace to alert providers to condition if the client is unresponsive or unable to relay information for any reason.
+5. Refer to physician/allergy specialists as indicated for interventions related to specific allergy conditions.
+[Nursing Priority No.3]
+     To promote wellness (Teaching/Discharge Criteria):
+1. Instruct/review with client and care provider(s) ways to prevent or limit client exposures. They may need or desire information regarding ways to reduce allergens at home, school, or work; may desire information regarding potential exposures when traveling, or how to manage food allergies when eating in restaurants.
+2. Instruct in signs of reaction and emergency treatment needs. Allergic reactions range from skin irritation to anaphylaxis. Reaction may be gradual but progressive, affecting multiple body systems, or may be sudden, requiring lifesaving treatment.
+3. Emphasize the critical importance of taking immediate action for moderate to severe hypersensitivity reactions to limit lifethreatening symptoms.
+4. Demonstrate equipment and injection procedure and recommend that the client carry auto-injectable epinephrine to provide timely emergency treatment, as needed.
+5. Emphasize the necessity of informing all new care providers of allergies.
+6. Provide educational resources and assistance numbers for emergencies. When allergy is suspected or the potential for allergy exists, protection must begin with identifi cation and removal of possible sources.
+======
+
+================================================================
+::Risk For Physical Trauma::
+
+::Definition::
+ Susceptible to physical injury of sudden onset and severity, which requires immediate attention.
+
+::Action/Interventions::
+[Nursing Priority No. 1]
+    - To assess causative/contributing factors:
+1. Determine factors related to individual situation and extent of risk for trauma. Influences scope and intensity of interventions to manage threat to safety. Note: Clients interfacing with the healthcare system are at higher risk for trauma for any number of reasons (e.g., illness state, cognitive function, family structure, information and training) and require protection in numerous ways.
+2. Note client’s age, gender and developmental stage, decisionmaking ability, and level of cognition and competence. Affects client’s ability to protect self and/or others, and infl uences choice of interventions and teaching.
+3. Ascertain client’s/significant other’s (SO’s) knowledge of safety needs and injury prevention, and motivation to prevent injury in home, community, and work setting. Lack of appreciation of signifi cance of individual hazards increases risk of traumatic injury.
+4. Note socioeconomic status and availability and use of resources. 
+5. Assess infl uence of client’s lifestyle and stress that can impair judgment and greatly increase client’s potential for injury.
+6. Assess mood, coping abilities, personality styles (i.e., temperament, aggression, impulsive behavior, level of selfesteem). May result in careless actions or increased risk-taking without consideration of consequences.
+7. Evaluate individual’s emotional and behavioral response to violence in surroundings (e.g., neighborhood, television, peer group). May affect client’s view of and regard for own/ others’ safety.
+8.Evaluate environment (home, neighborhood, work, transportation) for obvious safety hazards, as well as situations that can exacerbate injury or adversely affect client’s well-being. Unsafe factors include a vast array of possibilities (e.g., unsafe heating appliances, smoking and unattended smoking materials, toxic substances and chemicals, open fl ames, knives, improperly stored weapons, overloaded electrical outlets, dangerous neighborhoods, unsupervised children).
+[Nursing Priority No. 2]
+    - To enhance safety in healthcare environment: 
+1. Screen client for safety concerns (e.g., risk for falls, cognitive, developmental, vision/other sensory impairments upon admission and during stay in healthcare facility). Assess for and report changes in client’s functional status. Perform thorough assessments regarding safety issues when planning for client discharge. Failure to accurately assess and intervene or refer regarding these issues can place the client at needless risk and creates negligence issues for the healthcare practitioner.
+2. Review client’s therapeutic regimen on a continual basis when under direct care (e.g., vital signs, medications, treatment modalities, infusions, nutrition, physical environment) to prevent healthcare-related complications.
+3. Provide for routine safety needs:
+ - Provide adequate supervision and frequent observation.
+ - Place young children, confused client/person with dementia near nurses’ station.
+ - Orient client to environment.
+ - Make arrangement for call system for bedridden client in home or hospital setting. Demonstrate use and place device within client’s reach.
+ - Provide for appropriate communication tools (e.g., writing implements and paper; alphabet/picture board).
+ - Encourage client’s use of corrective vision and hearing aids.
+ - Keep bed in low position or place mattress on fl oor, as appropriate.
+ - Use and pad side rails, as indicated.
+ - Provide seizure precautions.
+ - Lock wheels on bed and movable furniture. Clear travel paths. Provide adequate area lighting.
+ - Assist with activities and transfers, as needed.
+ - Provide well-fi tting, nonskid footwear.
+ - Demonstrate and monitor use of assistive devices, such as transfer devices, cane, walker, crutches, wheelchair, safety bars.
+ - Provide supervision while client is smoking.
+ - Provide for appropriate disposal of potentially injurious items (e.g., needles, scalpel blades).
+ - Follow facility protocol and closely monitor use of restraints, when required (e.g., vest, limb, belt, mitten).
+4. Emphasize with client importance of obtaining assistance when weak or sedated and when problems of balance, coordination, or postural hypotension are present to reduce risk of syncope and falls.
+5. Demonstrate and encourage use of techniques to reduce or manage stress and vent emotions such as anger, hostility to reduce risk of violence to self/others.
+6. Refer to physical or occupational therapist as appropriate to identify high-risk tasks, conduct site visits, select, create, or modify equipment; and provide education about body mechanics and musculoskeletal injuries, as well as provide needed therapies.
+7. Assist with treatments for underlying medical, surgical, or psychiatric conditions to improve cognition and thinking processes, musculoskeletal function, awareness of own safety needs, and general well-being.
+[Nursing Priority No.3]
+    - To enhance safety for client in community care setting:
+1. Provide information to caregivers regarding client’s specific disease or condition(s) and associated risks. 
+2. Identify interventions and safety devices to promote safe physical environment and individual safety:
+ - Recommend wearing visual or hearing aids to maximize sensory input.
+ - Ensure availability of communication devices (e.g., telephone, computer, alarm system, or medical emergency alert device).
+ - Install and maintain electrical and fi re safety devices, extinguishers, and alarms. Participate in fi re drills and planning for fire evacuation routes.
+ - Review smoking safety rules, as indicated, especially as relates to unsafe places to smoke, including while in bed or when oxygen is in use.
+ - Identify environmental needs (e.g., decals on glass doors; adequate lighting of stairways, handrails, ramps, bathtub safety tapes) to reduce risk of falls , lower temperature on hot water heater to prevent accidental burns, etc.
+ - Obtain seat risers for chairs; ergonomic beds or chairs.
+ - Encourage participation in back safety classes, injury-prevention exercises, mobility or transfer device training.
+ - Install childproof cabinets for medications and toxic household substances, use tamper-proof medication containers.
+ - Review proper storage and disposal of volatile liquids; installation of proper ventilation for use when mixing or using toxic substances; use of safety glasses or goggles.
+ - Emphasize importance of appropriate use of car restraints, bicycle, motorcycle, skating, or skiing helmets.
+ - Discuss swimming pool fencing and supervision; attending First Aid and cardiopulmonary resuscitation (CPR) classes.
+ - Obtain trigger locks or gun safes for fi rearms. 
+3. Initiate appropriate teaching when reckless behavior is occurring or likely to occur (e.g., smoking in bed, driving without safety belts, working with chemicals without safety goggles).
+4. Refer to counseling or psychotherapy, as needed, especially when individual is “accident prone” or violent, or selfdestructive behavior is noted. (Refer to NDs risk for other-/self-directed Violence.)
+[Nursing Priority No.4]
+    - To promote wellness (Teaching/Discharge Considerations):
+1. Discuss importance of self-monitoring of conditions or emotions that can contribute to occurrence of injury to self/others (e.g., fatigue, anger, irritability). Client/SO may be able to modify risk through monitoring of actions or postponement of certain actions, especially during times when client is likely to be highly stressed.
+2. Encourage use of warm-up and stretching exercises before engaging in athletic activity to prevent muscle injuries.
+3. Recommend use of seat belts; fitted helmets for cyclists, skate-/snowboarders, skiers; approved infant seat in appropriate position in vehicle; avoidance of hitchhiking; substance abuse programs to promote transportation and recreation safety.
+4. Refer to accident prevention programs (e.g., medication and drug safety, mobility or transfer device training, driving instruction, parenting classes, fi rearms safety, workplace ergonomics).
+5. Develop home fire safety program (e.g., family fi re drills; use of smoke detectors; yearly chimney cleaning; purchase of fi re-retardant clothing, especially children’s nightwear; safe use of in-home oxygen; fi reworks safety). 
+6. Problem-solve with client/parent to provide adequate child supervision after school, during working hours, on school holidays; or day program for frail or confused elder. 
+7. Explore behaviors related to use of fi rearms, alcohol, tobacco, and recreational drugs and other substances. Provides opportunity to review consequences of previously determined risk factors (e.g., potential consequences of illegal activities, effects of smoking on health of family members as well as fi re danger; potential for unintentional gunshot injuries, suicide, or homicide; potential for harm related to alcohol and other substances).
+8. Identify community resources (e.g., fi nancial, food assistance) to assist with necessary corrections or improvements and purchases.
+9. Recommend involvement in community self-help programs, such as Neighborhood Watch, Helping Hand. 
+10. Promote educational opportunities geared toward increasing awareness of safety measures (e.g., fi rearms safety) and resources available to the individual.
+11. Seek out and involve businesses in volunteer outreach activities such as building safe playgrounds, community or street cleanup, home repair or improvement for frail elders, and so forth. 
+12. Advocate for and promote solutions for problems of design of buildings, equipment, transportation, and workplace practices that contribute to accidents.
+
+================================================================

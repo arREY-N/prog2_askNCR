@@ -24,7 +24,7 @@ public class Search {
                 System.out.print("Choose Diagnosis (0 to exit): ");
                 if((diagnosisNumber = Integer.parseInt(scan.nextLine())) != 0){
 
-                    if(diagnosisNumber>0 && diagnosisNumber<diagnosisList.size()){
+                    if(diagnosisNumber>0 && diagnosisNumber<=diagnosisList.size()){
                         Diagnosis diagnosis = diagnosisList.get(diagnosisNumber);
                         chooseSymptom(scan, diagnosis);    
                     } else{
@@ -69,9 +69,6 @@ public class Search {
                             String fileTitle = symptom.getKey();
                             Symptom currentSymptom = symptom.getValue();
 
-                            System.out.println(fileTitle);
-                            System.out.println(symptomName);
-                            
                             int matches = Utilities.matchTitles(fileTitle, symptomName);
                                 
                             switch (matches) {

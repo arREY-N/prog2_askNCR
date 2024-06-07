@@ -118,6 +118,17 @@ public class fileManagement {
         }
     }
 
+    public static void removeFile(Path folderPath){
+        System.out.println(folderPath.toString());
+        File userFile = new File(folderPath.toString());
+        
+        if(userFile.delete()){
+            System.out.println("File deleted!");
+        } else {
+            System.out.println("File cannot be deleted!");
+        }
+    }
+
     public static void createCareFile(ArrayList<LinkedHashMap<String, ArrayList<String>>> careRecommendations, Patient patient, Nurse nurse){
         LocalDateTime creationTime = LocalDateTime.now();
         DateTimeFormatter format = DateTimeFormatter.ofPattern("yyyy_MM_dd-HH_mm");

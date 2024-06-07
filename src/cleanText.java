@@ -9,14 +9,12 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.LinkedHashMap;
 import java.util.Map;
-import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class cleanText {
     public static void cleanSymptoms(){
-        Scanner scan = new Scanner(System.in);
         Path symptomPath = Paths.get("database\\symptom\\symptomList");
         File symptomFolder = new File(symptomPath.toString());
         File[] symptomFiles = symptomFolder.listFiles();
@@ -43,7 +41,6 @@ public class cleanText {
                 }
             } catch (NullPointerException e){
                 System.out.println(symptom.getName());
-                scan.nextLine();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -60,12 +57,9 @@ public class cleanText {
             }
         }
         System.out.print("End of clean up...");
-        scan.nextLine();
-        scan.close();
     }
 
     public static void cleanDiagnosis(){
-        Scanner scan = new Scanner(System.in);
         Path diagnosisPath = Paths.get("database\\symptom\\symptomList");
         File diagnosisFolder = new File(diagnosisPath.toString());
         File[] diagnosisFiles = diagnosisFolder.listFiles();
@@ -92,7 +86,6 @@ public class cleanText {
                 }
             } catch (NullPointerException e){
                 System.out.println(diagnosis.getName());
-                scan.nextLine();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -109,7 +102,5 @@ public class cleanText {
             }
         }
         System.out.print("End of clean up...");
-        scan.nextLine();
-        scan.close();
     }
 }

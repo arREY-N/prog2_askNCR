@@ -1,2 +1,1 @@
-1001,Reynal Penus,21,Male,Nurse,8:00AM-5:00PM,Psych
-1002,Zam Ortega,29,Female,Nurse,8:00AM-5:00PM,Psych
+1001,Reyn Penus,30,M,Nurse,AM,Pediatrics
