@@ -4,3 +4,9 @@
 0026^REYNAL PENUS^21^M^omcmiss na kita ^di makatulog>di makakain>di mapakali>sumasakit ulo>
 [1002]
 0004^CHRISTIAN REYES^30^M^Paraplegia^Activity Intolerance/risk for Activity Intolerance>
+[FV]
+CD^DCSA^1^M^ ^ > 
+[chrissie17]
+NIEL^REINNIEL^22^MALE^ ^ > 
+[zam]
+0008^DONNA^19^F^ ^ > 

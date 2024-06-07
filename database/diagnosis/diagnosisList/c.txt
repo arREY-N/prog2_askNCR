@@ -1,0 +1,9 @@
+0::c::
+>.txt
+>.txt
+>.txt
+d>d.txt
+d>d.txt
+d>d.txt
+6^>6.txt
+=====
