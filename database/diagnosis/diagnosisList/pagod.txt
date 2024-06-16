@@ -1,0 +1,3 @@
+::pagod::
+pagod pa rin>pagodPaRin.txt
+=====
